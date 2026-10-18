@@ -16,3 +16,7 @@ jobs:
         run: python scripts/validate_data.py
       - name: Report interpersonal coverage and concentration
         run: python scripts/coverage_audit.py
+      - name: Validate editorial research and identities
+        run: python scripts/validate_editorial.py
+      - name: Check interactive mobile app syntax
+        run: node --check app.js
