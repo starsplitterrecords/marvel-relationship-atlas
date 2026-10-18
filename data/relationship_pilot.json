@@ -72,6 +72,84 @@
       "name": "Lester (identity disputed)",
       "alias": "Bullseye",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "rogue",
+      "name": "Anna Marie (surname not established)",
+      "alias": "Rogue",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "mystique",
+      "name": "Raven Darkhölme",
+      "alias": "Mystique",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "destiny",
+      "name": "Irene Adler",
+      "alias": "Destiny",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gambit",
+      "name": "Remy LeBeau",
+      "alias": "Gambit",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "nightcrawler",
+      "name": "Kurt Wagner",
+      "alias": "Nightcrawler",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "graydon",
+      "name": "Graydon Creed",
+      "alias": "Graydon Creed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "carol",
+      "name": "Carol Danvers",
+      "alias": "Captain Marvel",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "charles",
+      "name": "Charles Xavier",
+      "alias": "Professor X",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "magneto",
+      "name": "Max Eisenhardt",
+      "alias": "Magneto",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gabrielle",
+      "name": "Gabrielle Haller",
+      "alias": "Gabrielle Haller",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "strucker",
+      "name": "Wolfgang von Strucker",
+      "alias": "Baron Strucker",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "bella",
+      "name": "Bella Donna Boudreaux",
+      "alias": "Bella Donna",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "cody",
+      "name": "Cody Robbins",
+      "alias": "Cody Robbins",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -409,6 +487,41 @@
       "url": "https://www.marvel.com/comics/collection/40600/daredevil_by_mark_waid_vol_4_trade_paperback",
       "kind": "Marvel collected edition synopsis",
       "level": "Marvel publisher description/editorial; no original panel review"
+    },
+    {
+      "id": "MX01",
+      "title": "Rogue — in comics full report",
+      "url": "https://www.marvel.com/characters/rogue/in-comics",
+      "kind": "Marvel official editorial biography / comics reading guide",
+      "level": "Publisher secondary; original issue panels not independently reviewed"
+    },
+    {
+      "id": "MX02",
+      "title": "Mystique — comics history and family",
+      "url": "https://www.marvel.com/characters/mystique",
+      "kind": "Marvel official editorial biography / comics reading guide",
+      "level": "Publisher secondary; original issue panels not independently reviewed"
+    },
+    {
+      "id": "MX03",
+      "title": "Destiny and Mystique — centuries of romance",
+      "url": "https://www.marvel.com/articles/comics/x-men-destiny-mystique-best-moments-romance-list",
+      "kind": "Marvel official editorial biography / comics reading guide",
+      "level": "Publisher secondary; original issue panels not independently reviewed"
+    },
+    {
+      "id": "MX04",
+      "title": "Gambit — comics history",
+      "url": "https://www.marvel.com/characters/gambit",
+      "kind": "Marvel official editorial biography / comics reading guide",
+      "level": "Publisher secondary; original issue panels not independently reviewed"
+    },
+    {
+      "id": "MX05",
+      "title": "X-Men — Xavier, Magneto and mutant factions",
+      "url": "https://www.marvel.com/teams-and-groups/x-men/in-comics",
+      "kind": "Marvel official editorial biography / comics reading guide",
+      "level": "Publisher secondary; original issue panels not independently reviewed"
     }
   ],
   "events": [
@@ -904,6 +1017,240 @@
       "review_status": "Official Marvel summary reviewed; comic panels not independently reviewed",
       "observation_type": "publisher_summary",
       "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV39",
+      "a": "mystique",
+      "b": "rogue",
+      "issue": "X-Men Unlimited (1993) #4; Marvel Mystique/Destiny history",
+      "publication_year": 1993,
+      "observation": "Mystique found runaway Rogue and raised her with her longtime partner Destiny; the household existed before Rogue joined the X-Men.",
+      "source_id": "MX03",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV40",
+      "a": "destiny",
+      "b": "rogue",
+      "issue": "X-Men Unlimited (1993) #4; Marvel Mystique/Destiny history",
+      "publication_year": 1993,
+      "observation": "Destiny helped raise Rogue, who lived with the two women for several years.",
+      "source_id": "MX03",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV41",
+      "a": "mystique",
+      "b": "destiny",
+      "issue": "Marvel: Destiny & Mystique relationship history",
+      "publication_year": null,
+      "observation": "Marvel describes Destiny and Mystique as longtime romantic partners devoted to one another despite periods of separation.",
+      "source_id": "MX03",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV42",
+      "a": "mystique",
+      "b": "rogue",
+      "issue": "Rogue comics history — Brotherhood era",
+      "publication_year": null,
+      "observation": "Mystique involved Rogue in Brotherhood activities and exploited her powers; Rogue eventually turned to Xavier and the X-Men.",
+      "source_id": "MX01",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV43",
+      "a": "rogue",
+      "b": "gambit",
+      "issue": "Uncanny X-Men (1963) #350",
+      "publication_year": 1997,
+      "observation": "Rogue learned Gambit had inadvertently helped the Marauders prepare the Mutant Massacre, then left him in Antarctica.",
+      "source_id": "MX01",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV44",
+      "a": "gambit",
+      "b": "rogue",
+      "issue": "X-Men Gold (2017) #30",
+      "publication_year": 2018,
+      "observation": "Gambit proposed to Rogue after Kate Pryde and Colossus's wedding collapsed; Rogue accepted and they married.",
+      "source_id": "MX01",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV45",
+      "a": "mystique",
+      "b": "gambit",
+      "issue": "Mystique Marvel comics history — disguised as Foxx",
+      "publication_year": null,
+      "observation": "Mystique posed as Foxx and tried to seduce Rogue's partner Gambit; Gambit resisted before she revealed herself.",
+      "source_id": "MX02",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV46",
+      "a": "mystique",
+      "b": "nightcrawler",
+      "issue": "Mystique comics family history",
+      "publication_year": null,
+      "observation": "Marvel identifies Kurt Wagner as Mystique's child and recounts her separation from him after his birth.",
+      "source_id": "MX02",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV47",
+      "a": "mystique",
+      "b": "graydon",
+      "issue": "Mystique comics family history",
+      "publication_year": null,
+      "observation": "Marvel recounts that Mystique abandoned her human son Graydon Creed, who later led an anti-mutant organization.",
+      "source_id": "MX02",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV48",
+      "a": "rogue",
+      "b": "carol",
+      "issue": "Marvel: Rogue and the Brotherhood history",
+      "publication_year": null,
+      "observation": "Mystique and Destiny unsuccessfully attacked Carol Danvers; Rogue later absorbed her powers and memories.",
+      "source_id": "MX03",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV49",
+      "a": "charles",
+      "b": "magneto",
+      "issue": "X-Men — Xavier's Expectations (Marvel team history)",
+      "publication_year": null,
+      "observation": "Charles Xavier and Max Eisenhardt became friends and debated mutant coexistence before openly revealing their powers.",
+      "source_id": "MX05",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV50",
+      "a": "charles",
+      "b": "magneto",
+      "issue": "X-Men — Xavier's Expectations (Marvel team history)",
+      "publication_year": null,
+      "observation": "Xavier and Magneto helped Gabrielle Haller against Baron Strucker before parting over opposed visions for mutantkind.",
+      "source_id": "MX05",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV51",
+      "a": "strucker",
+      "b": "gabrielle",
+      "issue": "X-Men — Xavier's Expectations (Marvel team history)",
+      "publication_year": null,
+      "observation": "Baron Strucker's HYDRA forces abducted Gabrielle Haller, prompting Xavier and Magneto to intervene.",
+      "source_id": "MX05",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV52",
+      "a": "charles",
+      "b": "gabrielle",
+      "issue": "X-Men — Xavier's Expectations (Marvel team history)",
+      "publication_year": null,
+      "observation": "Xavier acted alongside Magneto to help their mutual friend Gabrielle Haller during Strucker's abduction.",
+      "source_id": "MX05",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV53",
+      "a": "magneto",
+      "b": "gabrielle",
+      "issue": "X-Men — Xavier's Expectations (Marvel team history)",
+      "publication_year": null,
+      "observation": "Magneto joined Xavier in rescuing Gabrielle Haller from Strucker and his forces.",
+      "source_id": "MX05",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV54",
+      "a": "gambit",
+      "b": "bella",
+      "issue": "Gambit Marvel comics history — Bella Donna and Guilds",
+      "publication_year": null,
+      "observation": "Rogue discovered Gambit had been married to Bella Donna Boudreaux; Gambit later helped Bella Donna despite the Guilds' conflict.",
+      "source_id": "MX04",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV55",
+      "a": "bella",
+      "b": "rogue",
+      "issue": "Rogue Marvel comics history — Bella Donna and Cody",
+      "publication_year": null,
+      "observation": "After losing her memories following contact with Rogue, Bella Donna later sought revenge by abducting Rogue's childhood acquaintance Cody.",
+      "source_id": "MX01",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV56",
+      "a": "rogue",
+      "b": "destiny",
+      "issue": "Rogue Marvel comics history — friends and frenemies",
+      "publication_year": null,
+      "observation": "Marvel describes Rogue as closer to her foster mother Destiny than to Mystique.",
+      "source_id": "MX01",
+      "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
       "continuity": "Earth-616"
     }
   ],
@@ -1852,6 +2199,537 @@
       "scope": "2022 issue",
       "continuity": "Earth-616",
       "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL059",
+      "pair_id": "mystique-rogue",
+      "from_id": "mystique",
+      "to_id": "rogue",
+      "dimension": "family",
+      "assessment": "adoptive parent",
+      "epistemic": "direct",
+      "summary": "Raised Rogue as her daughter",
+      "qualification": "Established by Marvel's account of the Mystique-Destiny household.",
+      "event_ids": [
+        "EV39"
+      ],
+      "scope": "Rogue's childhood",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL060",
+      "pair_id": "destiny-rogue",
+      "from_id": "destiny",
+      "to_id": "rogue",
+      "dimension": "family",
+      "assessment": "foster mother",
+      "epistemic": "direct",
+      "summary": "Helped raise Rogue",
+      "qualification": "Marvel describes their home and shared caregiving.",
+      "event_ids": [
+        "EV40"
+      ],
+      "scope": "Rogue's childhood",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL061",
+      "pair_id": "destiny-rogue",
+      "from_id": "rogue",
+      "to_id": "destiny",
+      "dimension": "affection",
+      "assessment": "close family attachment",
+      "epistemic": "direct",
+      "summary": "Feels especially close to Destiny",
+      "qualification": "Publisher explicitly says Rogue is much closer to Destiny than Mystique.",
+      "event_ids": [
+        "EV56"
+      ],
+      "scope": "Marvel retrospective",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL062",
+      "pair_id": "destiny-mystique",
+      "from_id": "mystique",
+      "to_id": "destiny",
+      "dimension": "romance",
+      "assessment": "longstanding partners",
+      "epistemic": "direct",
+      "summary": "Shared a longstanding romantic partnership",
+      "qualification": "Marvel describes an enduring devotion but also substantial periods apart.",
+      "event_ids": [
+        "EV41"
+      ],
+      "scope": "Across historic eras",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL063",
+      "pair_id": "destiny-mystique",
+      "from_id": "destiny",
+      "to_id": "mystique",
+      "dimension": "romance",
+      "assessment": "longstanding partners",
+      "epistemic": "direct",
+      "summary": "Shared a longstanding romantic partnership",
+      "qualification": "Do not infer that they were together continuously.",
+      "event_ids": [
+        "EV41"
+      ],
+      "scope": "Across historic eras",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL064",
+      "pair_id": "mystique-rogue",
+      "from_id": "mystique",
+      "to_id": "rogue",
+      "dimension": "influence",
+      "assessment": "parental and organizational pressure",
+      "epistemic": "direct",
+      "summary": "Recruited Rogue into Brotherhood activities",
+      "qualification": "Publisher identifies Mystique as both caregiver and exploiter of Rogue's powers.",
+      "event_ids": [
+        "EV39",
+        "EV42"
+      ],
+      "scope": "Brotherhood era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL065",
+      "pair_id": "mystique-rogue",
+      "from_id": "rogue",
+      "to_id": "mystique",
+      "dimension": "conflict",
+      "assessment": "family and ideological tension",
+      "epistemic": "direct",
+      "summary": "Left Mystique's Brotherhood orbit for the X-Men",
+      "qualification": "Leaving to seek Xavier's help shows divergent paths, not proof of lost affection.",
+      "event_ids": [
+        "EV42"
+      ],
+      "scope": "Early X-Men transition",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL066",
+      "pair_id": "gambit-rogue",
+      "from_id": "rogue",
+      "to_id": "gambit",
+      "dimension": "romance",
+      "assessment": "partners, later spouses",
+      "epistemic": "direct",
+      "summary": "Built a romance through repeated ruptures",
+      "qualification": "The relationship survives a serious revelation and later leads to marriage.",
+      "event_ids": [
+        "EV43",
+        "EV44"
+      ],
+      "scope": "1990s–2018",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL067",
+      "pair_id": "gambit-rogue",
+      "from_id": "gambit",
+      "to_id": "rogue",
+      "dimension": "romance",
+      "assessment": "partners, later spouses",
+      "epistemic": "direct",
+      "summary": "Proposed marriage to Rogue",
+      "qualification": "Marvel explicitly recounts his proposal and their wedding.",
+      "event_ids": [
+        "EV44"
+      ],
+      "scope": "2018 wedding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL068",
+      "pair_id": "gambit-rogue",
+      "from_id": "rogue",
+      "to_id": "gambit",
+      "dimension": "trust",
+      "assessment": "seriously strained in one storyline",
+      "epistemic": "direct",
+      "summary": "Left Gambit after learning his hidden Marauders involvement",
+      "qualification": "This records a historically bounded rupture, not a claim of permanent distrust.",
+      "event_ids": [
+        "EV43"
+      ],
+      "scope": "Uncanny X-Men #350",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL069",
+      "pair_id": "bella-gambit",
+      "from_id": "gambit",
+      "to_id": "bella",
+      "dimension": "romance",
+      "assessment": "former spouses",
+      "epistemic": "direct",
+      "summary": "Had been married to Bella Donna",
+      "qualification": "The existence of a past marriage does not establish current romantic feelings.",
+      "event_ids": [
+        "EV54"
+      ],
+      "scope": "Prior to Rogue romance",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL070",
+      "pair_id": "gambit-mystique",
+      "from_id": "mystique",
+      "to_id": "gambit",
+      "dimension": "coercion",
+      "assessment": "manipulative disguise attempt",
+      "epistemic": "direct",
+      "summary": "Approached Gambit while disguising herself as Foxx",
+      "qualification": "This is a deception intended to influence Rogue's romance, not evidence of reciprocal attraction.",
+      "event_ids": [
+        "EV45"
+      ],
+      "scope": "Xavier Institute Foxx episode",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL071",
+      "pair_id": "gambit-mystique",
+      "from_id": "gambit",
+      "to_id": "mystique",
+      "dimension": "conflict",
+      "assessment": "rejected deception",
+      "epistemic": "direct",
+      "summary": "Resisted Mystique's disguised advances",
+      "qualification": "The source explicitly says Gambit resisted; do not infer his private motives.",
+      "event_ids": [
+        "EV45"
+      ],
+      "scope": "Foxx episode",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL072",
+      "pair_id": "mystique-nightcrawler",
+      "from_id": "mystique",
+      "to_id": "nightcrawler",
+      "dimension": "family",
+      "assessment": "biological parent",
+      "epistemic": "direct",
+      "summary": "Is Kurt Wagner's parent",
+      "qualification": "Recent retcons matter; the parent relationship is established, its biology is nontraditional.",
+      "event_ids": [
+        "EV46"
+      ],
+      "scope": "Birth and later retcons",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL073",
+      "pair_id": "graydon-mystique",
+      "from_id": "mystique",
+      "to_id": "graydon",
+      "dimension": "family",
+      "assessment": "biological parent",
+      "epistemic": "direct",
+      "summary": "Is Graydon Creed's parent",
+      "qualification": "Marvel notes estrangement and Graydon's later anti-mutant activities.",
+      "event_ids": [
+        "EV47"
+      ],
+      "scope": "Early family history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL074",
+      "pair_id": "graydon-mystique",
+      "from_id": "mystique",
+      "to_id": "graydon",
+      "dimension": "conflict",
+      "assessment": "estrangement",
+      "epistemic": "direct",
+      "summary": "Abandoned Graydon when he was young",
+      "qualification": "Don't imply an exhaustive explanation of the motives behind abandonment.",
+      "event_ids": [
+        "EV47"
+      ],
+      "scope": "Early family history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL075",
+      "pair_id": "carol-rogue",
+      "from_id": "rogue",
+      "to_id": "carol",
+      "dimension": "conflict",
+      "assessment": "harmful past encounter",
+      "epistemic": "direct",
+      "summary": "Absorbed Carol Danvers's powers and memories",
+      "qualification": "Marvel recounts the incident and its consequences; timing not pinned to a single issue here.",
+      "event_ids": [
+        "EV48"
+      ],
+      "scope": "Early Rogue stories",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL076",
+      "pair_id": "charles-magneto",
+      "from_id": "charles",
+      "to_id": "magneto",
+      "dimension": "friendship",
+      "assessment": "early close connection",
+      "epistemic": "direct",
+      "summary": "Befriended Magneto before their political divide",
+      "qualification": "Publisher describes their friendship and debates.",
+      "event_ids": [
+        "EV49"
+      ],
+      "scope": "Before founding X-Men",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL077",
+      "pair_id": "charles-magneto",
+      "from_id": "magneto",
+      "to_id": "charles",
+      "dimension": "friendship",
+      "assessment": "early close connection",
+      "epistemic": "direct",
+      "summary": "Befriended Xavier before their political divide",
+      "qualification": "This is a past friendship, not an assertion of their present state.",
+      "event_ids": [
+        "EV49"
+      ],
+      "scope": "Before founding X-Men",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL078",
+      "pair_id": "charles-magneto",
+      "from_id": "charles",
+      "to_id": "magneto",
+      "dimension": "ideology",
+      "assessment": "major disagreement",
+      "epistemic": "direct",
+      "summary": "Advocated peaceful coexistence against Magneto's supremacist vision",
+      "qualification": "Publisher explicitly describes their philosophical split.",
+      "event_ids": [
+        "EV50"
+      ],
+      "scope": "Emergence of Magneto persona",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL079",
+      "pair_id": "charles-magneto",
+      "from_id": "magneto",
+      "to_id": "charles",
+      "dimension": "ideology",
+      "assessment": "major disagreement",
+      "epistemic": "direct",
+      "summary": "Rejected Xavier's coexistence framework",
+      "qualification": "The relationship also included shared action during the Haller rescue.",
+      "event_ids": [
+        "EV49",
+        "EV50"
+      ],
+      "scope": "Early ideological split",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL080",
+      "pair_id": "charles-magneto",
+      "from_id": "charles",
+      "to_id": "magneto",
+      "dimension": "cooperation",
+      "assessment": "short-lived alliance",
+      "epistemic": "direct",
+      "summary": "Joined forces to rescue Gabrielle Haller",
+      "qualification": "Their common mission did not resolve their competing political philosophies.",
+      "event_ids": [
+        "EV50"
+      ],
+      "scope": "Gabrielle Haller rescue",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL081",
+      "pair_id": "charles-magneto",
+      "from_id": "magneto",
+      "to_id": "charles",
+      "dimension": "cooperation",
+      "assessment": "short-lived alliance",
+      "epistemic": "direct",
+      "summary": "Joined Xavier in action against Strucker",
+      "qualification": "Official history states their teamwork was short lived.",
+      "event_ids": [
+        "EV50"
+      ],
+      "scope": "Gabrielle Haller rescue",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL082",
+      "pair_id": "gabrielle-strucker",
+      "from_id": "strucker",
+      "to_id": "gabrielle",
+      "dimension": "coercion",
+      "assessment": "violent abduction",
+      "epistemic": "direct",
+      "summary": "Abducted Gabrielle Haller",
+      "qualification": "Abduction is coercion, not a legitimate claim to authority.",
+      "event_ids": [
+        "EV51"
+      ],
+      "scope": "HYDRA kidnapping",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL083",
+      "pair_id": "charles-gabrielle",
+      "from_id": "charles",
+      "to_id": "gabrielle",
+      "dimension": "protection",
+      "assessment": "intervention",
+      "epistemic": "direct",
+      "summary": "Helped rescue his friend Gabrielle",
+      "qualification": "Publisher frames Gabrielle as their mutual friend.",
+      "event_ids": [
+        "EV52"
+      ],
+      "scope": "Strucker kidnapping",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL084",
+      "pair_id": "gabrielle-magneto",
+      "from_id": "magneto",
+      "to_id": "gabrielle",
+      "dimension": "protection",
+      "assessment": "intervention",
+      "epistemic": "direct",
+      "summary": "Helped rescue their mutual friend Gabrielle",
+      "qualification": "Do not infer a romantic bond from the rescue.",
+      "event_ids": [
+        "EV53"
+      ],
+      "scope": "Strucker kidnapping",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL085",
+      "pair_id": "bella-rogue",
+      "from_id": "bella",
+      "to_id": "rogue",
+      "dimension": "conflict",
+      "assessment": "retaliation",
+      "epistemic": "direct",
+      "summary": "Targeted Rogue through an abduction involving Cody",
+      "qualification": "Publisher states this was an act of revenge, not merely a misunderstanding.",
+      "event_ids": [
+        "EV55"
+      ],
+      "scope": "Bella Donna retaliation",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL086",
+      "pair_id": "mystique-rogue",
+      "from_id": "rogue",
+      "to_id": "mystique",
+      "dimension": "family",
+      "assessment": "foster daughter",
+      "epistemic": "direct",
+      "summary": "Was raised in Mystique and Destiny's household",
+      "qualification": "Confirmed by Marvel; not proof of an uncomplicated emotional tie.",
+      "event_ids": [
+        "EV39"
+      ],
+      "scope": "Rogue's childhood",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL087",
+      "pair_id": "gambit-rogue",
+      "from_id": "rogue",
+      "to_id": "gambit",
+      "dimension": "cooperation",
+      "assessment": "married partnership",
+      "epistemic": "direct",
+      "summary": "Accepted Gambit's proposal and married him",
+      "qualification": "Marriage proves a partnership at that point, not a timeless degree of trust.",
+      "event_ids": [
+        "EV44"
+      ],
+      "scope": "2018 wedding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL088",
+      "pair_id": "destiny-rogue",
+      "from_id": "rogue",
+      "to_id": "destiny",
+      "dimension": "family",
+      "assessment": "foster daughter",
+      "epistemic": "direct",
+      "summary": "Was raised by Destiny",
+      "qualification": "Source says Destiny and Mystique raised Rogue together.",
+      "event_ids": [
+        "EV40"
+      ],
+      "scope": "Rogue's childhood",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL089",
+      "pair_id": "charles-rogue",
+      "from_id": "rogue",
+      "to_id": "charles",
+      "dimension": "dependence",
+      "assessment": "sought professional help",
+      "epistemic": "direct",
+      "summary": "Turned to Xavier for help after absorbing Carol's psyche",
+      "qualification": "Asking for help does not prove lifelong personal dependence.",
+      "event_ids": [
+        "EV42",
+        "EV48"
+      ],
+      "scope": "Early X-Men transition",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel secondary source, no panel review"
     }
   ],
   "research_backlog": [
