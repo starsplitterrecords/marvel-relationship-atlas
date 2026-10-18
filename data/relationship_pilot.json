@@ -324,6 +324,66 @@
       "name": "Kayla Ballantine",
       "alias": "Kayla Ballantine",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "tchalla",
+      "name": "T'Challa",
+      "alias": "Black Panther",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "shuri",
+      "name": "Shuri",
+      "alias": "Black Panther / Aja-Adanna",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ramonda",
+      "name": "Ramonda",
+      "alias": "Queen Ramonda",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "okoye",
+      "name": "Okoye",
+      "alias": "Okoye",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "nakia",
+      "name": "Nakia",
+      "alias": "Malice",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ayo",
+      "name": "Ayo",
+      "alias": "Midnight Angel",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "aneka",
+      "name": "Aneka",
+      "alias": "Midnight Angel",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "namor",
+      "name": "Namor McKenzie",
+      "alias": "Sub-Mariner",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "monica_lynne",
+      "name": "Monica Lynne",
+      "alias": "Monica Lynne",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "tetu",
+      "name": "Tetu",
+      "alias": "Tetu",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -801,6 +861,69 @@
       "url": "https://www.marvel.com/articles/comics/guarding-the-galaxy-president-quill",
       "kind": "Official Marvel comics issue synopsis / editorial biography",
       "level": "Publisher secondary; full issue panels not independently reviewed"
+    },
+    {
+      "id": "WK01",
+      "title": "Dora Milaje: Marvel comics history",
+      "url": "https://www.marvel.com/teams-groups/dora-milaje",
+      "kind": "Marvel official issue synopsis / editorial history",
+      "level": "publisher_secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "WK02",
+      "title": "Black Panther: World of Wakanda (2016) #1",
+      "url": "https://www.marvel.com/comics/issue/61406",
+      "kind": "Marvel official issue synopsis / editorial history",
+      "level": "publisher_secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "WK03",
+      "title": "Shuri: Marvel reading guide",
+      "url": "https://www.marvel.com/comics/discover/939/shuri",
+      "kind": "Marvel official issue synopsis / editorial history",
+      "level": "publisher_secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "WK04",
+      "title": "The History of Shuri",
+      "url": "https://www.marvel.com/articles/comics/black-panther-deadliest-of-the-species",
+      "kind": "Marvel official issue synopsis / editorial history",
+      "level": "publisher_secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "WK05",
+      "title": "Black Panther: Allied Forces",
+      "url": "https://www.marvel.com/articles/comics/black-panther-allied-forces",
+      "kind": "Marvel official issue synopsis / editorial history",
+      "level": "publisher_secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "WK06",
+      "title": "Wakanda Forever collected edition",
+      "url": "https://www.marvel.com/comics/collection/70333/wakanda_forever_trade_paperback",
+      "kind": "Marvel official issue synopsis / editorial history",
+      "level": "publisher_secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "WK07",
+      "title": "Black Panther (2016) #6",
+      "url": "https://www.marvel.com/comics/issue/57387",
+      "kind": "Marvel official issue synopsis / editorial history",
+      "level": "publisher_secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "WK08",
+      "title": "Shuri in comics: Marvel biography",
+      "url": "https://www.marvel.com/characters/shuri/in-comics/",
+      "kind": "Marvel official issue synopsis / editorial history",
+      "level": "publisher_secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "WK09",
+      "title": "Stephanie Williams on Shuri and Wakanda (2022) #1",
+      "url": "https://www.marvel.com/articles/comics/stephanie-williams-wakanda-2022-shuri-black-panther-interview",
+      "kind": "Marvel official issue synopsis / editorial history",
+      "level": "publisher_secondary; original panels not independently reviewed"
     }
   ],
   "events": [
@@ -2178,6 +2301,162 @@
       "observation": "Quill confronted Ronan about the Kree Babel Spire and demanded its shutdown, leading to his defeat and exile.",
       "source_id": "COS01",
       "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WK_EV01",
+      "a": "ayo",
+      "b": "aneka",
+      "issue": "Black Panther: World of Wakanda (2016) #1",
+      "publication_year": 2016,
+      "observation": "The publisher identifies Ayo and Aneka as lovers recruited as Dora Milaje, with romantic attachment in tension with duty to the crown.",
+      "source_id": "WK02",
+      "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WK_EV02",
+      "a": "nakia",
+      "b": "monica_lynne",
+      "issue": "Dora Milaje history; early Black Panther story",
+      "publication_year": null,
+      "observation": "Marvel's Dora Milaje history states Nakia, jealous of T'Challa's romantic interest Monica Lynne, attempted to kill Monica.",
+      "source_id": "WK01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WK_EV03",
+      "a": "tchalla",
+      "b": "nakia",
+      "issue": "Dora Milaje history; early Black Panther story",
+      "publication_year": null,
+      "observation": "T'Challa learned of Nakia's attack on Monica and ordered Nakia to return to her tribe in disgrace.",
+      "source_id": "WK01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WK_EV04",
+      "a": "shuri",
+      "b": "namor",
+      "issue": "New Avengers (2013) #7",
+      "publication_year": 2013,
+      "observation": "Namor sought peace between Atlantis and Wakanda, but Queen Shuri declined the treaty in light of war's devastation.",
+      "source_id": "WK03",
+      "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WK_EV05",
+      "a": "tchalla",
+      "b": "shuri",
+      "issue": "Black Panther (2009) and Doomwar (2010)",
+      "publication_year": 2009,
+      "observation": "T'Challa trained Shuri; when he was incapacitated, Shuri sought and eventually assumed the Panther role and Wakandan leadership.",
+      "source_id": "WK04",
+      "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WK_EV06",
+      "a": "shuri",
+      "b": "ramonda",
+      "issue": "Black Panther (2016) #8 and Wakanda (2022) #1",
+      "publication_year": 2022,
+      "observation": "Marvel's interview describes Ramonda encouraging her daughter Shuri to confront concerns arising from T'Challa's actions; the issue's story is set in 2022.",
+      "source_id": "WK09",
+      "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WK_EV07",
+      "a": "shuri",
+      "b": "ayo",
+      "issue": "Black Panther (2016), Wakandan uprising",
+      "publication_year": 2016,
+      "observation": "Marvel's Dora Milaje history recounts Shuri confronting Ayo and Aneka and requesting their help to defend Wakanda against the People.",
+      "source_id": "WK01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WK_EV08",
+      "a": "shuri",
+      "b": "aneka",
+      "issue": "Black Panther (2016), Wakandan uprising",
+      "publication_year": 2016,
+      "observation": "Marvel's Dora Milaje history recounts Shuri confronting Ayo and Aneka and requesting their help to defend Wakanda against the People.",
+      "source_id": "WK01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WK_EV09",
+      "a": "tetu",
+      "b": "aneka",
+      "issue": "Black Panther (2016) #6",
+      "publication_year": 2016,
+      "observation": "Tetu and the People courted Ayo and Aneka to join their revolutionary project.",
+      "source_id": "WK07",
+      "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WK_EV10",
+      "a": "tetu",
+      "b": "ayo",
+      "issue": "Black Panther (2016) #6",
+      "publication_year": 2016,
+      "observation": "Tetu and the People courted Ayo and Aneka to join their revolutionary project.",
+      "source_id": "WK07",
+      "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WK_EV11",
+      "a": "tchalla",
+      "b": "ramonda",
+      "issue": "Black Panther: Allied Forces (2017 editorial)",
+      "publication_year": 2017,
+      "observation": "Marvel editor Sarah Brunstad identifies Ramonda as an adviser who speaks frankly to T'Challa about his decisions.",
+      "source_id": "WK05",
+      "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WK_EV12",
+      "a": "tchalla",
+      "b": "monica_lynne",
+      "issue": "Dora Milaje history",
+      "publication_year": null,
+      "observation": "Marvel's Dora Milaje history describes Monica Lynne as a romantic interest of T'Challa.",
+      "source_id": "WK01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
       "evidence_tier": "publisher_secondary",
       "observation_type": "publisher_summary",
       "continuity": "Earth-616"
@@ -5038,6 +5317,261 @@
         "EV105"
       ],
       "scope": "Moondragon resurrection arc",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL001",
+      "pair_id": "aneka-ayo",
+      "from_id": "ayo",
+      "to_id": "aneka",
+      "dimension": "romance",
+      "assessment": "established romantic partnership",
+      "epistemic": "direct",
+      "summary": "established romantic partnership",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV01"
+      ],
+      "scope": "Black Panther: World of Wakanda (2016) #1",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL002",
+      "pair_id": "aneka-ayo",
+      "from_id": "aneka",
+      "to_id": "ayo",
+      "dimension": "romance",
+      "assessment": "established romantic partnership",
+      "epistemic": "direct",
+      "summary": "established romantic partnership",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV01"
+      ],
+      "scope": "Black Panther: World of Wakanda (2016) #1",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL003",
+      "pair_id": "monica_lynne-nakia",
+      "from_id": "nakia",
+      "to_id": "monica_lynne",
+      "dimension": "conflict",
+      "assessment": "attempted lethal attack",
+      "epistemic": "direct",
+      "summary": "attempted lethal attack",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV02"
+      ],
+      "scope": "Dora Milaje history; early Black Panther story",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL004",
+      "pair_id": "nakia-tchalla",
+      "from_id": "tchalla",
+      "to_id": "nakia",
+      "dimension": "authority",
+      "assessment": "banished from royal service after attack",
+      "epistemic": "direct",
+      "summary": "banished from royal service after attack",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV03"
+      ],
+      "scope": "Dora Milaje history; early Black Panther story",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL005",
+      "pair_id": "namor-shuri",
+      "from_id": "shuri",
+      "to_id": "namor",
+      "dimension": "conflict",
+      "assessment": "rejected proposed peace treaty",
+      "epistemic": "direct",
+      "summary": "rejected proposed peace treaty",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV04"
+      ],
+      "scope": "New Avengers (2013) #7",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL006",
+      "pair_id": "namor-shuri",
+      "from_id": "namor",
+      "to_id": "shuri",
+      "dimension": "cooperation",
+      "assessment": "sought a diplomatic peace agreement",
+      "epistemic": "direct",
+      "summary": "sought a diplomatic peace agreement",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV04"
+      ],
+      "scope": "New Avengers (2013) #7",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL007",
+      "pair_id": "shuri-tchalla",
+      "from_id": "tchalla",
+      "to_id": "shuri",
+      "dimension": "mentorship",
+      "assessment": "trained his younger sister",
+      "epistemic": "direct",
+      "summary": "trained his younger sister",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV05"
+      ],
+      "scope": "Black Panther (2009) and Doomwar (2010)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL008",
+      "pair_id": "shuri-tchalla",
+      "from_id": "shuri",
+      "to_id": "tchalla",
+      "dimension": "family",
+      "assessment": "half-sibling kinship",
+      "epistemic": "direct",
+      "summary": "half-sibling kinship",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV05"
+      ],
+      "scope": "Black Panther (2009) and Doomwar (2010)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL009",
+      "pair_id": "ramonda-shuri",
+      "from_id": "ramonda",
+      "to_id": "shuri",
+      "dimension": "influence",
+      "assessment": "encouraged daughter to address concerns",
+      "epistemic": "direct",
+      "summary": "encouraged daughter to address concerns",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV06"
+      ],
+      "scope": "Black Panther (2016) #8 and Wakanda (2022) #1",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL010",
+      "pair_id": "ayo-shuri",
+      "from_id": "shuri",
+      "to_id": "ayo",
+      "dimension": "cooperation",
+      "assessment": "requested aid in defense of Wakanda",
+      "epistemic": "direct",
+      "summary": "requested aid in defense of Wakanda",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV07"
+      ],
+      "scope": "Black Panther (2016), Wakandan uprising",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL011",
+      "pair_id": "aneka-shuri",
+      "from_id": "shuri",
+      "to_id": "aneka",
+      "dimension": "cooperation",
+      "assessment": "requested aid in defense of Wakanda",
+      "epistemic": "direct",
+      "summary": "requested aid in defense of Wakanda",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV08"
+      ],
+      "scope": "Black Panther (2016), Wakandan uprising",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL012",
+      "pair_id": "aneka-tetu",
+      "from_id": "tetu",
+      "to_id": "aneka",
+      "dimension": "influence",
+      "assessment": "attempted political recruitment",
+      "epistemic": "direct",
+      "summary": "attempted political recruitment",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV09"
+      ],
+      "scope": "Black Panther (2016) #6",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL013",
+      "pair_id": "ayo-tetu",
+      "from_id": "tetu",
+      "to_id": "ayo",
+      "dimension": "influence",
+      "assessment": "attempted political recruitment",
+      "epistemic": "direct",
+      "summary": "attempted political recruitment",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV10"
+      ],
+      "scope": "Black Panther (2016) #6",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL014",
+      "pair_id": "ramonda-tchalla",
+      "from_id": "ramonda",
+      "to_id": "tchalla",
+      "dimension": "influence",
+      "assessment": "offered candid counsel as adviser",
+      "epistemic": "direct",
+      "summary": "offered candid counsel as adviser",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV11"
+      ],
+      "scope": "Black Panther: Allied Forces (2017 editorial)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "WK_CL015",
+      "pair_id": "monica_lynne-tchalla",
+      "from_id": "tchalla",
+      "to_id": "monica_lynne",
+      "dimension": "romance",
+      "assessment": "romantic interest identified by Marvel",
+      "epistemic": "direct",
+      "summary": "romantic interest identified by Marvel",
+      "qualification": "Publisher summary only; relationship is scoped to cited story, not a timeless assessment of private motives.",
+      "event_ids": [
+        "WK_EV12"
+      ],
+      "scope": "Dora Milaje history",
       "continuity": "Earth-616",
       "review_status": "provisional; Marvel publisher summary, not panel-verified"
     }
