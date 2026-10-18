@@ -1,0 +1,2035 @@
+{
+  "meta": {
+    "project": "Earth-616 Relationship Atlas",
+    "version": "0.6 — comparative evidence pilot",
+    "research_date": "2026-10-18",
+    "scope": "Marvel comics Earth-616. Published issue years are not diegetic dates. Original full issue panels not reviewed.",
+    "evidence_limit": "Verified official Marvel issue/collection descriptions, NOT original comic page images or speech balloons. Publisher-supported ≠ panel-verified."
+  },
+  "people": [
+    {
+      "id": "matt",
+      "name": "Matt Murdock",
+      "alias": "Daredevil",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "frank",
+      "name": "Frank Castle",
+      "alias": "Punisher",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "luke",
+      "name": "Luke Cage",
+      "alias": "Luke Cage",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "foggy",
+      "name": "Franklin Nelson",
+      "alias": "Foggy",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "elektra",
+      "name": "Elektra Natchios",
+      "alias": "Elektra",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "fisk",
+      "name": "Wilson Fisk",
+      "alias": "Kingpin",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "peter",
+      "name": "Peter Parker",
+      "alias": "Spider-Man",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "stick",
+      "name": "Stick",
+      "alias": "Stick",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "sam",
+      "name": "Samuel Chung",
+      "alias": "Blindspot",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "karen",
+      "name": "Karen Page",
+      "alias": "Karen Page",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "bullseye",
+      "name": "Lester (identity disputed)",
+      "alias": "Bullseye",
+      "continuity": "Earth-616"
+    }
+  ],
+  "dimensions": [
+    {
+      "id": "affection",
+      "family": "Emotional",
+      "definition": "Personal care, emotional attachment or romantic feeling; separate from action"
+    },
+    {
+      "id": "friendship",
+      "family": "Emotional",
+      "definition": "Voluntary ongoing personal bond distinct from professional cooperation"
+    },
+    {
+      "id": "romance",
+      "family": "Emotional",
+      "definition": "Romantic involvement; distinct from mutuality and from present relationship status"
+    },
+    {
+      "id": "trust",
+      "family": "Trust / respect",
+      "definition": "Belief another will act reliably or in good faith in a defined context"
+    },
+    {
+      "id": "competence_respect",
+      "family": "Trust / respect",
+      "definition": "Recognition of someone’s skill, competence or courage"
+    },
+    {
+      "id": "moral_respect",
+      "family": "Trust / respect",
+      "definition": "Approval of another’s principles, judgment or ethical character"
+    },
+    {
+      "id": "influence",
+      "family": "Power",
+      "definition": "Capacity to change someone’s decisions, whether or not formally empowered"
+    },
+    {
+      "id": "authority",
+      "family": "Power",
+      "definition": "Recognized formal authority within a defined structure or jurisdiction"
+    },
+    {
+      "id": "coercion",
+      "family": "Power",
+      "definition": "Threats, intimidation, blackmail or force constraining someone’s choices"
+    },
+    {
+      "id": "dependence",
+      "family": "Power",
+      "definition": "Reliance upon another for information, resources, protection or identity"
+    },
+    {
+      "id": "professional",
+      "family": "Social",
+      "definition": "Employment, legal partnership, colleagues or vocation-based tie"
+    },
+    {
+      "id": "mentorship",
+      "family": "Social",
+      "definition": "Teaching, training, guidance or protégé relationship"
+    },
+    {
+      "id": "family",
+      "family": "Social",
+      "definition": "Biological, legal or acknowledged kinship; explicit nature required"
+    },
+    {
+      "id": "ideology",
+      "family": "Ideology",
+      "definition": "Agreement or disagreement about ethics, means, ends, values"
+    },
+    {
+      "id": "cooperation",
+      "family": "Behavior",
+      "definition": "Joint action toward a goal in a specified circumstance"
+    },
+    {
+      "id": "conflict",
+      "family": "Behavior",
+      "definition": "Opposition, combat, sabotage or active obstruction"
+    },
+    {
+      "id": "cohesion",
+      "family": "Behavior",
+      "definition": "Observed ability to coordinate despite differences; not identical to friendship"
+    },
+    {
+      "id": "protection",
+      "family": "Behavior",
+      "definition": "Taking action to shield another from harm"
+    },
+    {
+      "id": "betrayal",
+      "family": "Behavior",
+      "definition": "Violation of an established duty, trust, confidence or commitment"
+    }
+  ],
+  "sources": [
+    {
+      "id": "P1",
+      "title": "Daredevil & Punisher’s Best Team-Ups",
+      "url": "https://www.marvel.com/comics/discover/2482/daredevil-punisher-s-best-team-ups",
+      "kind": "Marvel editorial reading guide",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "P2",
+      "title": "Daredevil #183 — facsimile synopsis",
+      "url": "https://www.marvel.com/comics/issue/112688/daredevil_facsimile_edition_2023_183",
+      "kind": "Marvel issue synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "P3",
+      "title": "Punishment Fits the Crime: Matt and Frank",
+      "url": "https://www.marvel.com/articles/comics/punishment-fits-the-crime-matt-and-frank",
+      "kind": "Marvel editorial history",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "P4",
+      "title": "Daredevil vs. Punisher (2005) #1",
+      "url": "https://www.marvel.com/comics/issue/2202/daredevil-vs-punisher-2005-1",
+      "kind": "Marvel issue synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "P5",
+      "title": "Daredevil by Mark Waid Vol. 2",
+      "url": "https://www.marvel.com/comics/collection/47439/daredevil_by_mark_waid_vol_2_hc_2014_2",
+      "kind": "Marvel collected-edition synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "L1",
+      "title": "Shadowland (2010) #1",
+      "url": "https://www.marvel.com/comics/issue/29703/shadowland-2010-1",
+      "kind": "Marvel issue synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "L2",
+      "title": "Defenders (2017) reading guide",
+      "url": "https://share.marvel.com/comics/discover/796/defenders",
+      "kind": "Marvel editorial reading guide",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "L3",
+      "title": "Shadowland Omnibus",
+      "url": "https://www.marvel.com/comics/collection/66094/",
+      "kind": "Marvel collected-edition synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "F1",
+      "title": "Foggy Nelson: Marvel Reading Guide",
+      "url": "https://www.marvel.com/comics/guides/2479/foggy_nelson",
+      "kind": "Marvel editorial reading guide",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "F2",
+      "title": "Daredevil by Mark Waid Vol. 4",
+      "url": "https://www.marvel.com/comics/collection/40600/daredevil_by_mark_waid_vol_4_trade_paperback",
+      "kind": "Marvel collected-edition synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "E1",
+      "title": "Marvel Valentine’s Day comic guide",
+      "url": "https://www.marvel.com/comics/discover/454/valentines-day",
+      "kind": "Marvel editorial reading guide",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "E2",
+      "title": "Daredevil’s Darkest Moments",
+      "url": "https://www.marvel.com/articles/comics/daredevil-darkest-moments-list",
+      "kind": "Marvel editorial history",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "E3",
+      "title": "Daredevil (2022) #4",
+      "url": "https://www.marvel.com/comics/issue/101080/daredevil_2022_4",
+      "kind": "Marvel issue synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "E4",
+      "title": "Daredevil (2019) #29",
+      "url": "https://www.marvel.com/comics/issue/89599/DAREDEVIL_29",
+      "kind": "Marvel issue synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "K1",
+      "title": "Daredevil: Born Again collected edition",
+      "url": "https://www.marvel.com/comics/issue/28764/",
+      "kind": "Marvel collected-edition synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "K2",
+      "title": "The Kingpin reading guide",
+      "url": "https://www.marvel.com/comics/guides/543/the-kingpin",
+      "kind": "Marvel editorial reading guide",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "S1",
+      "title": "Spider-Man and Daredevil’s Famed Fellowship",
+      "url": "https://www.marvel.com/articles/comics/didja-know-spider-man-and-daredevil-s-famed-fellowship",
+      "kind": "Marvel editorial history",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "T1",
+      "title": "Daredevil (1964) #176",
+      "url": "https://www.marvel.com/comics/issue/8158/daredevil_1964_176",
+      "kind": "Marvel issue synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "B1",
+      "title": "The Comics History of Blindspot",
+      "url": "https://www.marvel.com/articles/comics/sam-chung-blindspot-daredevil-comics-history-explained",
+      "kind": "Marvel editorial history",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "B2",
+      "title": "Daredevil (2015) #10",
+      "url": "https://www.marvel.com/comics/issue/56719/slug",
+      "kind": "Marvel issue synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "C1",
+      "title": "Daredevil (1964) #57",
+      "url": "https://www.marvel.com/comics/issue/8406",
+      "kind": "Marvel issue synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "C2",
+      "title": "Daredevil: Born Again guide",
+      "url": "https://www.marvel.com/comics/guides/1032/daredevil-born-again",
+      "kind": "Marvel editorial reading guide",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "H1",
+      "title": "Shadowland #1",
+      "url": "https://www.marvel.com/comics/issue/29703/shadowland-2010-1",
+      "kind": "Marvel issue synopsis",
+      "level": "Publisher synopsis / editorial; full original issue not independently reviewed"
+    },
+    {
+      "id": "R01",
+      "title": "Punisher’s Hit List: Daredevil / Punisher (2000) #3",
+      "url": "https://www.marvel.com/comics/guides/1266/punishers-hit-list",
+      "kind": "Marvel editorial reading guide",
+      "level": "Marvel publisher description/editorial; no original panel review"
+    },
+    {
+      "id": "R02",
+      "title": "Punisher & Bullseye: Deadliest Hits — Trial of the Punisher #1–2",
+      "url": "https://www.marvel.com/comics/issue/61784/punisher_bullseye_deadliest_hits_trade_paperback",
+      "kind": "Marvel collected edition synopsis",
+      "level": "Marvel publisher description/editorial; no original panel review"
+    },
+    {
+      "id": "R03",
+      "title": "Daredevil (1964) #257",
+      "url": "https://www.marvel.com/comics/issue/8248",
+      "kind": "Marvel issue synopsis",
+      "level": "Marvel publisher description/editorial; no original panel review"
+    },
+    {
+      "id": "R04",
+      "title": "Foggy Nelson — Official Marvel character history",
+      "url": "https://www.marvel.com/characters/foggy-nelson/in-comics",
+      "kind": "Marvel character history",
+      "level": "Marvel publisher description/editorial; no original panel review"
+    },
+    {
+      "id": "R05",
+      "title": "Foggy Nelson — Comic reading guide",
+      "url": "https://www.marvel.com/comics/guides/2479/foggy_nelson",
+      "kind": "Marvel editorial reading guide",
+      "level": "Marvel publisher description/editorial; no original panel review"
+    },
+    {
+      "id": "R06",
+      "title": "Defenders Vol. 2: Kingpins of New York",
+      "url": "https://www.marvel.com/comics/collection/67328/defenders_vol_2_kingpins_of_new_york_trade_paperback",
+      "kind": "Marvel collected edition synopsis",
+      "level": "Marvel publisher description/editorial; no original panel review"
+    },
+    {
+      "id": "R07",
+      "title": "Defenders (2017) #2",
+      "url": "https://www.marvel.com/comics/issue/63230/defenders_2017_2",
+      "kind": "Marvel issue synopsis",
+      "level": "Marvel publisher description/editorial; no original panel review"
+    },
+    {
+      "id": "R08",
+      "title": "Daredevil (2022) #4",
+      "url": "https://www.marvel.com/comics/issue/101080/daredevil_2022_4",
+      "kind": "Marvel issue synopsis",
+      "level": "Marvel publisher description/editorial; no original panel review"
+    },
+    {
+      "id": "R09",
+      "title": "Shadowland (2010) #1",
+      "url": "https://www.marvel.com/comics/issue/29703/shadowland-2010-1",
+      "kind": "Marvel issue synopsis",
+      "level": "Marvel publisher description/editorial; no original panel review"
+    },
+    {
+      "id": "R10",
+      "title": "Shadowland: Power Man (2010) #4",
+      "url": "https://www.marvel.com/comics/issue/33877/",
+      "kind": "Marvel issue synopsis",
+      "level": "Marvel publisher description/editorial; no original panel review"
+    },
+    {
+      "id": "R11",
+      "title": "Daredevil by Mark Waid Vol. 4 — Daredevil (2011) #16–21",
+      "url": "https://www.marvel.com/comics/collection/40600/daredevil_by_mark_waid_vol_4_trade_paperback",
+      "kind": "Marvel collected edition synopsis",
+      "level": "Marvel publisher description/editorial; no original panel review"
+    }
+  ],
+  "events": [
+    {
+      "id": "EV01",
+      "a": "matt",
+      "b": "frank",
+      "issue": "Daredevil (1964) #183",
+      "publication_year": 1982,
+      "observation": "Matt and Frank pursue the same drug dealer while disagreeing over lawful punishment versus lethal justice.",
+      "source_id": "P2",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV02",
+      "a": "matt",
+      "b": "frank",
+      "issue": "Daredevil (1964) #257 / Punisher (1987) #10",
+      "publication_year": 1988,
+      "observation": "A linked investigation sees both heroes pursue the same threat to bystanders.",
+      "source_id": "P1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV03",
+      "a": "matt",
+      "b": "frank",
+      "issue": "Daredevil vs. Punisher (2005) #1",
+      "publication_year": 2005,
+      "observation": "Matt and Frank each pursue order in Hell’s Kitchen through sharply divergent methods.",
+      "source_id": "P4",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV04",
+      "a": "matt",
+      "b": "frank",
+      "issue": "Daredevil (1998) Brubaker-era prison storyline",
+      "publication_year": 2006,
+      "observation": "Frank intentionally enters the same prison and engineers an escape with Matt; specific issue placement not yet verified.",
+      "source_id": "P3",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV05",
+      "a": "matt",
+      "b": "frank",
+      "issue": "Daredevil (2011) #11–21 / Punisher (2011) #10",
+      "publication_year": 2012,
+      "observation": "Daredevil and allies form an uneasy alliance involving Punisher-related characters during the Omega Drive story.",
+      "source_id": "P5",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV06",
+      "a": "matt",
+      "b": "luke",
+      "issue": "Shadowland (2010) #1–5",
+      "publication_year": 2010,
+      "observation": "Luke joins street-level heroes resisting Daredevil’s Hand-led regime and trying to save him.",
+      "source_id": "L3",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV07",
+      "a": "matt",
+      "b": "luke",
+      "issue": "Defenders (2017) #1",
+      "publication_year": 2017,
+      "observation": "Daredevil, Luke Cage, Jessica Jones and Iron Fist unite against a growing criminal threat.",
+      "source_id": "L2",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV08",
+      "a": "matt",
+      "b": "foggy",
+      "issue": "Daredevil (1964) #1",
+      "publication_year": 1964,
+      "observation": "Matt and Foggy are described as friends and law partners from the beginning.",
+      "source_id": "F1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV09",
+      "a": "matt",
+      "b": "foggy",
+      "issue": "Daredevil (1964) #347",
+      "publication_year": 1995,
+      "observation": "Foggy discovers Matt’s secret identity.",
+      "source_id": "F1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV10",
+      "a": "matt",
+      "b": "foggy",
+      "issue": "Daredevil (2011) #16–21",
+      "publication_year": 2012,
+      "observation": "Foggy, concerned for Matt’s well-being and judgment, dissolves their friendship and law partnership.",
+      "source_id": "F2",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV11",
+      "a": "matt",
+      "b": "foggy",
+      "issue": "Daredevil (2015) #20",
+      "publication_year": 2017,
+      "observation": "Matt confesses his secret identity to Foggy after its erasure from public knowledge.",
+      "source_id": "F1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV12",
+      "a": "matt",
+      "b": "foggy",
+      "issue": "Daredevil (2015) #602",
+      "publication_year": 2018,
+      "observation": "Foggy serves as Matt’s chief of staff when Matt becomes Acting Mayor.",
+      "source_id": "F1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV13",
+      "a": "matt",
+      "b": "elektra",
+      "issue": "Daredevil: The Man Without Fear (1993) #2",
+      "publication_year": 1993,
+      "observation": "Matt and Elektra meet as students and begin a romantic relationship in a retelling of their earlier history.",
+      "source_id": "E1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV14",
+      "a": "matt",
+      "b": "elektra",
+      "issue": "Daredevil (1964) #181",
+      "publication_year": 1982,
+      "observation": "Bullseye kills Elektra, deeply impacting Matt; death and later resurrection complicate their relationship timeline.",
+      "source_id": "E2",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV15",
+      "a": "matt",
+      "b": "elektra",
+      "issue": "Daredevil (2019) #29",
+      "publication_year": 2021,
+      "observation": "Elektra takes up the Daredevil identity during Matt’s absence and protects his legacy.",
+      "source_id": "E4",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV16",
+      "a": "matt",
+      "b": "elektra",
+      "issue": "Daredevil (2022) #4",
+      "publication_year": 2022,
+      "observation": "Elektra recruits Matt as partner for the Fist; the issue synopsis describes growing closeness.",
+      "source_id": "E3",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV17",
+      "a": "matt",
+      "b": "fisk",
+      "issue": "Daredevil (1964) #226–233 (Born Again)",
+      "publication_year": 1986,
+      "observation": "After receiving Matt’s secret identity, Fisk systematically destroys his work and personal life.",
+      "source_id": "K1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV18",
+      "a": "matt",
+      "b": "fisk",
+      "issue": "Daredevil (2015) #595–600 (Mayor Fisk)",
+      "publication_year": 2017,
+      "observation": "Fisk wins mayoral power in New York, leaving Matt confronting an antagonist with municipal authority.",
+      "source_id": "K2",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV19",
+      "a": "matt",
+      "b": "peter",
+      "issue": "Amazing Spider-Man (1963) #16",
+      "publication_year": 1964,
+      "observation": "Peter and Matt initially cooperate to defeat the Ringleader despite being manipulated into a fight.",
+      "source_id": "S1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV28",
+      "a": "matt",
+      "b": "peter",
+      "issue": "Amazing Spider-Man (1963) #18",
+      "publication_year": 1964,
+      "observation": "Daredevil credits Spider-Man as a valiant fighter when Peter is falsely perceived as cowardly.",
+      "source_id": "S1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV20",
+      "a": "matt",
+      "b": "peter",
+      "issue": "Daredevil (1964) #16–17",
+      "publication_year": 1966,
+      "observation": "The Masked Marauder tricks the heroes into clashing; they ultimately cooperate against him.",
+      "source_id": "S1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV21",
+      "a": "matt",
+      "b": "stick",
+      "issue": "Daredevil (1964) #176",
+      "publication_year": 1981,
+      "observation": "Matt and Elektra seek out Stick, identified as Matt’s former sensei.",
+      "source_id": "T1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV22",
+      "a": "matt",
+      "b": "sam",
+      "issue": "All-New, All-Different Point One (2015) #1",
+      "publication_year": 2015,
+      "observation": "Matt sees Blindspot’s potential during an encounter and decides to train him.",
+      "source_id": "B1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV23",
+      "a": "matt",
+      "b": "sam",
+      "issue": "Daredevil (2015) #10",
+      "publication_year": 2016,
+      "observation": "Blindspot, described as Matt’s protégé, investigates while Matt is occupied with legal work.",
+      "source_id": "B2",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV24",
+      "a": "matt",
+      "b": "karen",
+      "issue": "Daredevil (1964) #57",
+      "publication_year": 1969,
+      "observation": "Matt reveals that he is Daredevil to Karen.",
+      "source_id": "C1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV25",
+      "a": "matt",
+      "b": "karen",
+      "issue": "Daredevil (1964) #226–233 (Born Again)",
+      "publication_year": 1986,
+      "observation": "Karen sells Matt’s secret identity; Fisk exploits the information to harm him.",
+      "source_id": "C2",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV26",
+      "a": "matt",
+      "b": "bullseye",
+      "issue": "Daredevil (1964) #181",
+      "publication_year": 1982,
+      "observation": "Bullseye kills Elektra, a defining act of violence against someone Matt loves.",
+      "source_id": "E2",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV27",
+      "a": "matt",
+      "b": "bullseye",
+      "issue": "Shadowland (2010) #1",
+      "publication_year": 2010,
+      "observation": "Daredevil faces Bullseye during the opening conflict of Shadowland.",
+      "source_id": "H1",
+      "review_status": "Publisher synopsis/guide reviewed; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV29",
+      "a": "matt",
+      "b": "frank",
+      "issue": "Punisher (2000) #3",
+      "publication_year": 2000,
+      "observation": "Marvel’s guide describes Daredevil chained on a rooftop and holding a gun after a confrontation with Punisher. The precise dialogue and decision structure still require panel review.",
+      "source_id": "R01",
+      "review_status": "Official Marvel summary reviewed; comic panels not independently reviewed",
+      "observation_type": "publisher_summary",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV30",
+      "a": "matt",
+      "b": "frank",
+      "issue": "Punisher: The Trial of the Punisher (2013) #1–2",
+      "publication_year": 2013,
+      "observation": "Frank faces trial after surrendering, and Matt appears as a witness for the prosecution. Marvel’s collected summary does not establish Matt’s exact testimony.",
+      "source_id": "R02",
+      "review_status": "Official Marvel summary reviewed; comic panels not independently reviewed",
+      "observation_type": "publisher_summary",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV31",
+      "a": "matt",
+      "b": "frank",
+      "issue": "Daredevil (1964) #257",
+      "publication_year": 1988,
+      "observation": "Marvel describes Daredevil trying to prevent Punisher from enacting retaliatory lethal justice.",
+      "source_id": "R03",
+      "review_status": "Official Marvel summary reviewed; comic panels not independently reviewed",
+      "observation_type": "publisher_summary",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV32",
+      "a": "matt",
+      "b": "foggy",
+      "issue": "Daredevil (2011) #16–21",
+      "publication_year": 2012,
+      "observation": "Foggy ends their legal partnership and friendship because he believes Matt is dangerously unstable; described in the collection synopsis.",
+      "source_id": "R11",
+      "review_status": "Official Marvel summary reviewed; comic panels not independently reviewed",
+      "observation_type": "publisher_summary",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV33",
+      "a": "matt",
+      "b": "foggy",
+      "issue": "Daredevil (2014) #5",
+      "publication_year": 2014,
+      "observation": "Marvel’s reading guide says Matt and Hank Pym stage Foggy’s death to protect him from enemies during his cancer treatment.",
+      "source_id": "R05",
+      "review_status": "Official Marvel summary reviewed; comic panels not independently reviewed",
+      "observation_type": "publisher_summary",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV34",
+      "a": "matt",
+      "b": "foggy",
+      "issue": "Daredevil (2022) #13",
+      "publication_year": 2023,
+      "observation": "Marvel’s reading guide says Matt travels to the afterlife to save Foggy’s soul after learning of the Hand’s attack.",
+      "source_id": "R05",
+      "review_status": "Official Marvel summary reviewed; comic panels not independently reviewed",
+      "observation_type": "publisher_summary",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV35",
+      "a": "matt",
+      "b": "foggy",
+      "issue": "Daredevil (1964) #48",
+      "publication_year": 1968,
+      "observation": "Foggy wins the district-attorney election and invites Matt to become assistant district attorney; the guide does not establish whether Matt accepted.",
+      "source_id": "R05",
+      "review_status": "Official Marvel summary reviewed; comic panels not independently reviewed",
+      "observation_type": "publisher_summary",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV36",
+      "a": "matt",
+      "b": "luke",
+      "issue": "Defenders (2017) #6–10",
+      "publication_year": 2017,
+      "observation": "Matt and Luke participate with Jessica Jones and Iron Fist in protecting New York during an underworld gang war.",
+      "source_id": "R06",
+      "review_status": "Official Marvel summary reviewed; comic panels not independently reviewed",
+      "observation_type": "publisher_summary",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV37",
+      "a": "matt",
+      "b": "luke",
+      "issue": "Shadowland (2010) #1",
+      "publication_year": 2010,
+      "observation": "Marvel identifies Luke Cage among the heroes acting to stop a citywide conflict centered on Daredevil.",
+      "source_id": "R09",
+      "review_status": "Official Marvel summary reviewed; comic panels not independently reviewed",
+      "observation_type": "publisher_summary",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV38",
+      "a": "matt",
+      "b": "elektra",
+      "issue": "Daredevil (2022) #4",
+      "publication_year": 2022,
+      "observation": "Publisher synopsis calls Matt Elektra’s most trusted ally while she recruits him as a partner against the Hand.",
+      "source_id": "R08",
+      "review_status": "Official Marvel summary reviewed; comic panels not independently reviewed",
+      "observation_type": "publisher_summary",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    }
+  ],
+  "claims": [
+    {
+      "id": "CL001",
+      "pair_id": "matt-frank",
+      "from_id": "matt",
+      "to_id": "frank",
+      "dimension": "ideology",
+      "assessment": "strong disagreement",
+      "epistemic": "direct",
+      "summary": "Opposes lethal vigilantism",
+      "qualification": "Their competing ideas of justice are explicitly contrasted in #183.",
+      "event_ids": [
+        "EV01"
+      ],
+      "scope": "1982 encounter",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL002",
+      "pair_id": "matt-frank",
+      "from_id": "frank",
+      "to_id": "matt",
+      "dimension": "ideology",
+      "assessment": "strong disagreement",
+      "epistemic": "direct",
+      "summary": "Rejects Matt’s nonlethal approach",
+      "qualification": "The issue synopsis contrasts Frank’s intended punishment with Matt’s legal approach.",
+      "event_ids": [
+        "EV01"
+      ],
+      "scope": "1982 encounter",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL003",
+      "pair_id": "matt-frank",
+      "from_id": "matt",
+      "to_id": "frank",
+      "dimension": "conflict",
+      "assessment": "recurring",
+      "epistemic": "direct",
+      "summary": "Intervenes against Frank’s methods",
+      "qualification": "Marvel describes their recurring clashes and ideological opposition.",
+      "event_ids": [
+        "EV01",
+        "EV03"
+      ],
+      "scope": "Across cited encounters",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL004",
+      "pair_id": "matt-frank",
+      "from_id": "matt",
+      "to_id": "frank",
+      "dimension": "cooperation",
+      "assessment": "conditional",
+      "epistemic": "direct",
+      "summary": "Works with Frank under pressure",
+      "qualification": "Marvel documents occasions when the two work toward common goals.",
+      "event_ids": [
+        "EV02",
+        "EV04"
+      ],
+      "scope": "Selected encounters",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL005",
+      "pair_id": "matt-frank",
+      "from_id": "frank",
+      "to_id": "matt",
+      "dimension": "cooperation",
+      "assessment": "conditional",
+      "epistemic": "direct",
+      "summary": "Chooses to work with Matt",
+      "qualification": "Frank’s prison intervention is a concrete example; motive varies by event.",
+      "event_ids": [
+        "EV04"
+      ],
+      "scope": "Brubaker-era prison story",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL006",
+      "pair_id": "matt-frank",
+      "from_id": "frank",
+      "to_id": "matt",
+      "dimension": "competence_respect",
+      "assessment": "plausible; needs direct review",
+      "epistemic": "interpretive",
+      "summary": "May respect Matt’s effectiveness",
+      "qualification": "His prison intervention suggests regard for Daredevil’s ability to protect the streets; respect is inferred, not quoted.",
+      "event_ids": [
+        "EV04"
+      ],
+      "scope": "Brubaker-era prison story",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL007",
+      "pair_id": "matt-luke",
+      "from_id": "matt",
+      "to_id": "luke",
+      "dimension": "cooperation",
+      "assessment": "recurring in selected arcs",
+      "epistemic": "direct",
+      "summary": "Works with Luke against threats",
+      "qualification": "They form part of the 2017 Defenders.",
+      "event_ids": [
+        "EV07"
+      ],
+      "scope": "2017 Defenders",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL008",
+      "pair_id": "matt-luke",
+      "from_id": "luke",
+      "to_id": "matt",
+      "dimension": "cooperation",
+      "assessment": "recurring in selected arcs",
+      "epistemic": "direct",
+      "summary": "Works with Matt as a peer",
+      "qualification": "The 2017 Defenders are peers forming a team.",
+      "event_ids": [
+        "EV07"
+      ],
+      "scope": "2017 Defenders",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL009",
+      "pair_id": "matt-luke",
+      "from_id": "luke",
+      "to_id": "matt",
+      "dimension": "conflict",
+      "assessment": "situational",
+      "epistemic": "direct",
+      "summary": "Opposes Matt’s Hand-led regime",
+      "qualification": "Opposition in Shadowland occurs in the context of Matt’s altered conduct and leadership.",
+      "event_ids": [
+        "EV06"
+      ],
+      "scope": "Shadowland 2010",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL010",
+      "pair_id": "matt-luke",
+      "from_id": "luke",
+      "to_id": "matt",
+      "dimension": "protection",
+      "assessment": "intent indicated",
+      "epistemic": "interpretive",
+      "summary": "Tries to save Matt while opposing him",
+      "qualification": "The collected synopsis describes allies trying to stop Matt and save his soul.",
+      "event_ids": [
+        "EV06"
+      ],
+      "scope": "Shadowland 2010",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL011",
+      "pair_id": "matt-luke",
+      "from_id": "matt",
+      "to_id": "luke",
+      "dimension": "cohesion",
+      "assessment": "demonstrated in an arc",
+      "epistemic": "interpretive",
+      "summary": "Cooperates within the Defenders",
+      "qualification": "The team forms, but this synopsis alone cannot establish enduring cohesion.",
+      "event_ids": [
+        "EV07"
+      ],
+      "scope": "2017 Defenders",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL012",
+      "pair_id": "matt-foggy",
+      "from_id": "matt",
+      "to_id": "foggy",
+      "dimension": "friendship",
+      "assessment": "established",
+      "epistemic": "direct",
+      "summary": "Longstanding best friend",
+      "qualification": "Publisher explicitly identifies Foggy as Matt’s best friend since college.",
+      "event_ids": [
+        "EV08"
+      ],
+      "scope": "Longstanding; fluctuates",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL013",
+      "pair_id": "matt-foggy",
+      "from_id": "foggy",
+      "to_id": "matt",
+      "dimension": "friendship",
+      "assessment": "established",
+      "epistemic": "direct",
+      "summary": "Longstanding best friend",
+      "qualification": "Marvel explicitly uses the term best friend.",
+      "event_ids": [
+        "EV08"
+      ],
+      "scope": "Longstanding; fluctuates",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL014",
+      "pair_id": "matt-foggy",
+      "from_id": "matt",
+      "to_id": "foggy",
+      "dimension": "professional",
+      "assessment": "law partner",
+      "epistemic": "direct",
+      "summary": "Runs a legal partnership",
+      "qualification": "Their original professional relationship is explicit.",
+      "event_ids": [
+        "EV08"
+      ],
+      "scope": "Early career; other periods",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL015",
+      "pair_id": "matt-foggy",
+      "from_id": "foggy",
+      "to_id": "matt",
+      "dimension": "trust",
+      "assessment": "fractured at one point",
+      "epistemic": "direct",
+      "summary": "Breaks ties over concerns about Matt",
+      "qualification": "The Waid-era collection reports an explicit rupture caused by fears about Matt’s state.",
+      "event_ids": [
+        "EV10"
+      ],
+      "scope": "2011 series #16–21",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL016",
+      "pair_id": "matt-foggy",
+      "from_id": "matt",
+      "to_id": "foggy",
+      "dimension": "trust",
+      "assessment": "renewed disclosure",
+      "epistemic": "interpretive",
+      "summary": "Entrusts Foggy with his identity again",
+      "qualification": "Matt’s post-erasure confession is an observed act of disclosure; strength of trust not independently measured.",
+      "event_ids": [
+        "EV11"
+      ],
+      "scope": "2015 series #20",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL017",
+      "pair_id": "matt-foggy",
+      "from_id": "foggy",
+      "to_id": "matt",
+      "dimension": "professional",
+      "assessment": "chief of staff",
+      "epistemic": "direct",
+      "summary": "Works in Matt’s mayoral administration",
+      "qualification": "Formal professional role exists, not necessarily personal subordination outside that office.",
+      "event_ids": [
+        "EV12"
+      ],
+      "scope": "2015 series #602",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL018",
+      "pair_id": "matt-foggy",
+      "from_id": "matt",
+      "to_id": "foggy",
+      "dimension": "authority",
+      "assessment": "formal, time-limited",
+      "epistemic": "direct",
+      "summary": "Holds executive authority over Foggy’s staff role",
+      "qualification": "Matt is Acting Mayor and Foggy is Chief of Staff; only relevant to that administration.",
+      "event_ids": [
+        "EV12"
+      ],
+      "scope": "Acting-Mayor period",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL019",
+      "pair_id": "matt-elektra",
+      "from_id": "matt",
+      "to_id": "elektra",
+      "dimension": "romance",
+      "assessment": "historically explicit",
+      "epistemic": "direct",
+      "summary": "Romantic partners across eras",
+      "qualification": "Marvel describes their college romance and later closeness.",
+      "event_ids": [
+        "EV13",
+        "EV16"
+      ],
+      "scope": "Historical; not persistent status",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL020",
+      "pair_id": "matt-elektra",
+      "from_id": "elektra",
+      "to_id": "matt",
+      "dimension": "romance",
+      "assessment": "historically explicit",
+      "epistemic": "direct",
+      "summary": "Romantic partners across eras",
+      "qualification": "The relationship began in college; later status evolves.",
+      "event_ids": [
+        "EV13",
+        "EV16"
+      ],
+      "scope": "Historical; not persistent status",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL021",
+      "pair_id": "matt-elektra",
+      "from_id": "elektra",
+      "to_id": "matt",
+      "dimension": "protection",
+      "assessment": "defends symbolic legacy",
+      "epistemic": "interpretive",
+      "summary": "Protects Matt’s Daredevil legacy",
+      "qualification": "Assuming the Daredevil identity when Matt is absent is an action, not proof of current feelings.",
+      "event_ids": [
+        "EV15"
+      ],
+      "scope": "2021",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL022",
+      "pair_id": "matt-elektra",
+      "from_id": "elektra",
+      "to_id": "matt",
+      "dimension": "influence",
+      "assessment": "recruitment shown",
+      "epistemic": "direct",
+      "summary": "Recruits Matt as a partner",
+      "qualification": "Elektra’s Fist plan calls for Matt’s participation.",
+      "event_ids": [
+        "EV16"
+      ],
+      "scope": "2022",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL023",
+      "pair_id": "matt-elektra",
+      "from_id": "matt",
+      "to_id": "elektra",
+      "dimension": "cooperation",
+      "assessment": "in Fist project",
+      "epistemic": "direct",
+      "summary": "Joins Elektra’s anti-Hand mission",
+      "qualification": "The 2022 synopsis presents a substantive partnership.",
+      "event_ids": [
+        "EV16"
+      ],
+      "scope": "2022",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL024",
+      "pair_id": "matt-fisk",
+      "from_id": "fisk",
+      "to_id": "matt",
+      "dimension": "coercion",
+      "assessment": "extreme",
+      "epistemic": "direct",
+      "summary": "Exploits a secret to destroy Matt’s life",
+      "qualification": "Fisk weaponizes knowledge of Matt’s identity in Born Again.",
+      "event_ids": [
+        "EV17"
+      ],
+      "scope": "Born Again, 1986",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL025",
+      "pair_id": "matt-fisk",
+      "from_id": "fisk",
+      "to_id": "matt",
+      "dimension": "conflict",
+      "assessment": "sustained",
+      "epistemic": "direct",
+      "summary": "Targets Matt personally and professionally",
+      "qualification": "Born Again focuses on personal and career destruction.",
+      "event_ids": [
+        "EV17"
+      ],
+      "scope": "Born Again, 1986",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL026",
+      "pair_id": "matt-fisk",
+      "from_id": "fisk",
+      "to_id": "matt",
+      "dimension": "authority",
+      "assessment": "office-limited",
+      "epistemic": "direct",
+      "summary": "Holds municipal authority as mayor",
+      "qualification": "This is governmental authority over city institutions, not Daredevil personally.",
+      "event_ids": [
+        "EV18"
+      ],
+      "scope": "Mayor Fisk arc",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL027",
+      "pair_id": "matt-fisk",
+      "from_id": "matt",
+      "to_id": "fisk",
+      "dimension": "conflict",
+      "assessment": "sustained",
+      "epistemic": "direct",
+      "summary": "Opposes Fisk’s criminal and civic power",
+      "qualification": "Publisher’s Mayor Fisk guide places Daredevil against the mayoral antagonist.",
+      "event_ids": [
+        "EV17",
+        "EV18"
+      ],
+      "scope": "Selected arcs",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL029",
+      "pair_id": "matt-peter",
+      "from_id": "matt",
+      "to_id": "peter",
+      "dimension": "cooperation",
+      "assessment": "situational",
+      "epistemic": "direct",
+      "summary": "Teams up against manipulations",
+      "qualification": "They overcome the Ringleader’s manipulation and defeat him together.",
+      "event_ids": [
+        "EV19"
+      ],
+      "scope": "1964",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL030",
+      "pair_id": "matt-peter",
+      "from_id": "peter",
+      "to_id": "matt",
+      "dimension": "cooperation",
+      "assessment": "situational",
+      "epistemic": "direct",
+      "summary": "Teams up after a forced clash",
+      "qualification": "Their early encounters show both confrontation and collaboration.",
+      "event_ids": [
+        "EV19",
+        "EV20"
+      ],
+      "scope": "1964–66",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL031",
+      "pair_id": "matt-peter",
+      "from_id": "matt",
+      "to_id": "peter",
+      "dimension": "competence_respect",
+      "assessment": "explicit praise",
+      "epistemic": "direct",
+      "summary": "Praises Peter’s heroism",
+      "qualification": "Marvel records Daredevil publicly giving Spider-Man credit as a valiant fighter.",
+      "event_ids": [
+        "EV28"
+      ],
+      "scope": "Early shared history; see Marvel article",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL032",
+      "pair_id": "matt-peter",
+      "from_id": "matt",
+      "to_id": "peter",
+      "dimension": "conflict",
+      "assessment": "episodic",
+      "epistemic": "direct",
+      "summary": "Clashes due to villain manipulation",
+      "qualification": "Their early conflict is not sufficient evidence for enduring enmity.",
+      "event_ids": [
+        "EV20"
+      ],
+      "scope": "1966",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL033",
+      "pair_id": "matt-stick",
+      "from_id": "stick",
+      "to_id": "matt",
+      "dimension": "mentorship",
+      "assessment": "former teacher",
+      "epistemic": "direct",
+      "summary": "Was Matt’s sensei",
+      "qualification": "Marvel’s issue synopsis identifies Stick as Matt’s old sensei.",
+      "event_ids": [
+        "EV21"
+      ],
+      "scope": "Prior to 1981 issue",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL034",
+      "pair_id": "matt-stick",
+      "from_id": "matt",
+      "to_id": "stick",
+      "dimension": "mentorship",
+      "assessment": "former student",
+      "epistemic": "direct",
+      "summary": "Trained under Stick",
+      "qualification": "The reverse of the explicitly identified sensei relationship.",
+      "event_ids": [
+        "EV21"
+      ],
+      "scope": "Prior to 1981 issue",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL036",
+      "pair_id": "matt-sam",
+      "from_id": "matt",
+      "to_id": "sam",
+      "dimension": "mentorship",
+      "assessment": "active in cited era",
+      "epistemic": "direct",
+      "summary": "Takes Sam on as a protégé",
+      "qualification": "Marvel details Matt’s decision to train Blindspot.",
+      "event_ids": [
+        "EV22",
+        "EV23"
+      ],
+      "scope": "2015–16",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL037",
+      "pair_id": "matt-sam",
+      "from_id": "sam",
+      "to_id": "matt",
+      "dimension": "mentorship",
+      "assessment": "student/protégé",
+      "epistemic": "direct",
+      "summary": "Receives Matt’s training",
+      "qualification": "Relationship is explicitly referred to as protégé.",
+      "event_ids": [
+        "EV22",
+        "EV23"
+      ],
+      "scope": "2015–16",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL038",
+      "pair_id": "matt-sam",
+      "from_id": "sam",
+      "to_id": "matt",
+      "dimension": "dependence",
+      "assessment": "training dependence",
+      "epistemic": "interpretive",
+      "summary": "Relies on Matt for guidance",
+      "qualification": "Inference from protégé relationship; intensity unmeasured.",
+      "event_ids": [
+        "EV22"
+      ],
+      "scope": "2015–16",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL039",
+      "pair_id": "matt-karen",
+      "from_id": "matt",
+      "to_id": "karen",
+      "dimension": "romance",
+      "assessment": "historically explicit",
+      "epistemic": "direct",
+      "summary": "Has an intimate history with Karen",
+      "qualification": "Marvel identifies Karen as Matt’s former lover in Born Again summaries.",
+      "event_ids": [
+        "EV25"
+      ],
+      "scope": "Historical relationship",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL040",
+      "pair_id": "matt-karen",
+      "from_id": "karen",
+      "to_id": "matt",
+      "dimension": "betrayal",
+      "assessment": "explicit disclosure",
+      "epistemic": "direct",
+      "summary": "Sells Matt’s secret identity",
+      "qualification": "Direct breach of the trust involved in keeping the secret.",
+      "event_ids": [
+        "EV24",
+        "EV25"
+      ],
+      "scope": "Born Again, 1986",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL041",
+      "pair_id": "matt-karen",
+      "from_id": "matt",
+      "to_id": "karen",
+      "dimension": "trust",
+      "assessment": "identity entrusted",
+      "epistemic": "interpretive",
+      "summary": "Shares vulnerable identity information",
+      "qualification": "Matt reveals his identity to Karen; inference: meaningful confidence in her.",
+      "event_ids": [
+        "EV24"
+      ],
+      "scope": "1969",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL043",
+      "pair_id": "matt-bullseye",
+      "from_id": "bullseye",
+      "to_id": "matt",
+      "dimension": "conflict",
+      "assessment": "severe",
+      "epistemic": "direct",
+      "summary": "Violent adversary",
+      "qualification": "Bullseye kills Elektra, causing major personal harm to Matt; recurring conflict continues.",
+      "event_ids": [
+        "EV26",
+        "EV27"
+      ],
+      "scope": "1982–2010 selected arcs",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL044",
+      "pair_id": "matt-bullseye",
+      "from_id": "bullseye",
+      "to_id": "matt",
+      "dimension": "coercion",
+      "assessment": "indirect harm",
+      "epistemic": "interpretive",
+      "summary": "Uses violence that harms Matt emotionally",
+      "qualification": "Violence against Elektra damages Matt; do not assume a precise intent to coerce from this synopsis alone.",
+      "event_ids": [
+        "EV26"
+      ],
+      "scope": "1982",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL045",
+      "pair_id": "matt-bullseye",
+      "from_id": "matt",
+      "to_id": "bullseye",
+      "dimension": "conflict",
+      "assessment": "severe",
+      "epistemic": "direct",
+      "summary": "Confronts Bullseye",
+      "qualification": "Shadowland places them in a central conflict.",
+      "event_ids": [
+        "EV27"
+      ],
+      "scope": "2010",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL046",
+      "pair_id": "matt-frank",
+      "from_id": "frank",
+      "to_id": "matt",
+      "dimension": "coercion",
+      "assessment": "direct physical restraint in cited encounter",
+      "epistemic": "direct",
+      "summary": "Physically constrains Matt’s options",
+      "qualification": "The publisher explicitly places Daredevil chained to a roof with a gun. Whether Frank intends a precise psychological lesson needs panel-level evidence.",
+      "event_ids": [
+        "EV29"
+      ],
+      "scope": "Punisher (2000) #3",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL047",
+      "pair_id": "matt-frank",
+      "from_id": "frank",
+      "to_id": "matt",
+      "dimension": "influence",
+      "assessment": "possible forced moral dilemma",
+      "epistemic": "interpretive",
+      "summary": "Uses force to challenge Matt’s options",
+      "qualification": "Staging this scenario may be an attempt to alter Matt’s decision process. Specific motive and choice architecture cannot be established from the short guide.",
+      "event_ids": [
+        "EV29"
+      ],
+      "scope": "Punisher (2000) #3",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL048",
+      "pair_id": "matt-frank",
+      "from_id": "matt",
+      "to_id": "frank",
+      "dimension": "conflict",
+      "assessment": "opposes lethal retaliation",
+      "epistemic": "direct",
+      "summary": "Intervenes against Frank’s retaliatory methods",
+      "qualification": "Marvel’s #257 synopsis supports active opposition to Frank’s method, not hatred of Frank as a person.",
+      "event_ids": [
+        "EV31"
+      ],
+      "scope": "1988 issue",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL049",
+      "pair_id": "matt-frank",
+      "from_id": "matt",
+      "to_id": "frank",
+      "dimension": "professional",
+      "assessment": "legal witness in criminal proceeding",
+      "epistemic": "direct",
+      "summary": "Participates in Frank’s legal accountability",
+      "qualification": "Matt is reported as prosecution witness in a trial; the record does not establish his exact testimony or a personal vendetta.",
+      "event_ids": [
+        "EV30"
+      ],
+      "scope": "Trial of the Punisher (2013)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL050",
+      "pair_id": "matt-foggy",
+      "from_id": "matt",
+      "to_id": "foggy",
+      "dimension": "protection",
+      "assessment": "protective concealment",
+      "epistemic": "direct",
+      "summary": "Stages deception to shield Foggy from enemies",
+      "qualification": "Marvel describes a false death devised with Hank Pym to protect Foggy. This is not evidence of Matt holding authority over Foggy.",
+      "event_ids": [
+        "EV33"
+      ],
+      "scope": "2014 arc",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL051",
+      "pair_id": "matt-foggy",
+      "from_id": "matt",
+      "to_id": "foggy",
+      "dimension": "protection",
+      "assessment": "extraordinary rescue",
+      "epistemic": "direct",
+      "summary": "Attempts to recover Foggy’s soul",
+      "qualification": "Publisher reading guide explicitly describes rescue motivation and destination, but original panels were not reviewed.",
+      "event_ids": [
+        "EV34"
+      ],
+      "scope": "2023 issue",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL052",
+      "pair_id": "matt-foggy",
+      "from_id": "foggy",
+      "to_id": "matt",
+      "dimension": "authority",
+      "assessment": "jurisdictional job offer, not direct command",
+      "epistemic": "direct",
+      "summary": "Invites Matt to serve in district attorney’s office",
+      "qualification": "This documents a formal office and invitation, not proof of accepted employment or ongoing supervisory authority.",
+      "event_ids": [
+        "EV35"
+      ],
+      "scope": "1968 issue",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL053",
+      "pair_id": "matt-foggy",
+      "from_id": "foggy",
+      "to_id": "matt",
+      "dimension": "trust",
+      "assessment": "conditional rupture driven by safety concern",
+      "epistemic": "interpretive",
+      "summary": "Withdraws confidence in Matt’s judgment",
+      "qualification": "Publisher attributes the break to Foggy’s concern about Matt’s stability. That supports context-specific distrust; it does not erase historical affection.",
+      "event_ids": [
+        "EV32"
+      ],
+      "scope": "2012 issues",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL054",
+      "pair_id": "matt-luke",
+      "from_id": "luke",
+      "to_id": "matt",
+      "dimension": "conflict",
+      "assessment": "organized resistance to conduct",
+      "epistemic": "direct",
+      "summary": "Participates in resistance to Daredevil-centered violence",
+      "qualification": "Publisher explicitly places Luke among heroes opposing a citywide conflict centered on Matt; specific intentions and degree of personal hostility require panel review.",
+      "event_ids": [
+        "EV37"
+      ],
+      "scope": "Shadowland (2010)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL055",
+      "pair_id": "matt-luke",
+      "from_id": "luke",
+      "to_id": "matt",
+      "dimension": "cooperation",
+      "assessment": "collective protection against gang war",
+      "epistemic": "direct",
+      "summary": "Works with Matt to protect New Yorkers",
+      "qualification": "As a Defenders member, Luke participates in collective anti-crime action; this cannot prove personal intimacy or comprehensive trust.",
+      "event_ids": [
+        "EV36"
+      ],
+      "scope": "Defenders (2017) #6–10",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL056",
+      "pair_id": "matt-luke",
+      "from_id": "matt",
+      "to_id": "luke",
+      "dimension": "cooperation",
+      "assessment": "collective protection against gang war",
+      "epistemic": "direct",
+      "summary": "Works with Luke to protect New Yorkers",
+      "qualification": "Same team objective; cannot infer personal friendship or high cohesion solely from shared roster.",
+      "event_ids": [
+        "EV36"
+      ],
+      "scope": "Defenders (2017) #6–10",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL057",
+      "pair_id": "matt-elektra",
+      "from_id": "elektra",
+      "to_id": "matt",
+      "dimension": "trust",
+      "assessment": "trusted operational ally in Fist era",
+      "epistemic": "direct",
+      "summary": "Places exceptional operational trust in Matt",
+      "qualification": "Marvel’s issue description explicitly describes Matt as her most trusted ally; this does not measure trust across all earlier eras.",
+      "event_ids": [
+        "EV38"
+      ],
+      "scope": "2022 issue",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    },
+    {
+      "id": "CL058",
+      "pair_id": "matt-elektra",
+      "from_id": "elektra",
+      "to_id": "matt",
+      "dimension": "influence",
+      "assessment": "requests partnership",
+      "epistemic": "direct",
+      "summary": "Recruits Matt as a partner against the Hand",
+      "qualification": "The request is explicit. Whether she compelled his choice is not established.",
+      "event_ids": [
+        "EV38"
+      ],
+      "scope": "2022 issue",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no panel review"
+    }
+  ],
+  "research_backlog": [
+    {
+      "question": "Matt → Punisher respect vs moral respect",
+      "next_step": "Find panel-level proof of respect for skill vs ethical judgment; avoid treating cooperation as respect",
+      "priority": "High"
+    },
+    {
+      "question": "Daredevil ↔ Luke Cage personal friendship",
+      "next_step": "Separate recurring team work from demonstrated intimacy, private support and personal trust",
+      "priority": "High"
+    },
+    {
+      "question": "Authority vs influence across Shadowland",
+      "next_step": "Identify formal Hand hierarchy; distinguish possession/compulsion from ordinary leadership",
+      "priority": "High"
+    },
+    {
+      "question": "Foggy 2011 rupture exact issue",
+      "next_step": "Verify precise issue / pages of dissolution and later restoration",
+      "priority": "High"
+    },
+    {
+      "question": "Daredevil ↔ Elektra 2022 context",
+      "next_step": "Confirm changes to status and power balance across 2022–23 story",
+      "priority": "Medium"
+    },
+    {
+      "question": "Stick → Matt teaching style",
+      "next_step": "Document coercion, affection or dependence directly rather than relying on MCU versions",
+      "priority": "High"
+    },
+    {
+      "question": "Kingpin → Matt influence",
+      "next_step": "Investigate indirect influence separate from coercion and material leverage",
+      "priority": "Medium"
+    },
+    {
+      "question": "Daredevil ↔ Spider-Man modern trust",
+      "next_step": "Find distinct modern examples not just 1960s cooperation",
+      "priority": "Medium"
+    },
+    {
+      "question": "Karen and Matt: post-Born Again reconciliation",
+      "next_step": "Source exact changes over time rather than freezing 1986 rupture",
+      "priority": "High"
+    },
+    {
+      "question": "Bullseye motivations",
+      "next_step": "Examine whether particular actions explicitly target Matt emotionally rather than infer intent",
+      "priority": "Medium"
+    },
+    {
+      "question": "Source depth",
+      "next_step": "Review actual issue pages and page-level references where legally accessible",
+      "priority": "High"
+    },
+    {
+      "question": "Bidirectional sampling",
+      "next_step": "Avoid auto-mirroring claims; review both directions independently",
+      "priority": "High"
+    },
+    {
+      "question": "Distinguish direct coercion vs psychological coercion in Punisher (2000) #3",
+      "next_step": "Examine authorized comic panels, record explicit choices, threats and intent separately.",
+      "priority": "High"
+    },
+    {
+      "question": "Defenders friendship vs organized professional cooperation",
+      "next_step": "Find scenes of private support or personal emotional disclosure outside team combat.",
+      "priority": "High"
+    },
+    {
+      "question": "Power Man title ambiguity in Shadowland",
+      "next_step": "Separate Luke Cage from Victor Alvarez and resolve each mention to a stable person ID.",
+      "priority": "High"
+    },
+    {
+      "question": "Elektra trust reciprocal?",
+      "next_step": "Find Matt’s explicitly stated trust or demonstrated reliance in the 2022 Fist arc; do not mirror her view.",
+      "priority": "High"
+    },
+    {
+      "question": "Foggy and Matt 2013–14 restitution",
+      "next_step": "Find actual reconciliation issues and how professional trust was restored after rupture.",
+      "priority": "High"
+    }
+  ],
+  "case_studies": [
+    {
+      "id": "punisher",
+      "title": "Coercion is not authority",
+      "partner_id": "frank",
+      "period": "1982–2013 examples",
+      "observed": "1982 and 1988 clashes establish different views of lethal justice. A 2000 incident places Daredevil chained to a rooftop; a 2013 trial places Matt as a prosecution witness.",
+      "interpreted": "The relationship can be both a continuing moral confrontation and a constrained form of cooperation. The rooftop scene permits a hypothesis of coercive moral pressure.",
+      "not_established": "No direct evidence here that Frank has formal authority over Matt, that mutual moral respect exists, or that the encounter proves lasting personal hatred.",
+      "source_ids": [
+        "P2",
+        "R03",
+        "R01",
+        "R02"
+      ],
+      "claim_ids": [
+        "CL001",
+        "CL046",
+        "CL047",
+        "CL049"
+      ]
+    },
+    {
+      "id": "foggy",
+      "title": "Protective concern can coexist with rupture",
+      "partner_id": "foggy",
+      "period": "1968–2023 selected arcs",
+      "observed": "Foggy offers Matt a role in the DA office; later ends their partnership amid concern about Matt’s stability. Matt helps conceal Foggy’s survival and, in another story, attempts to recover his soul.",
+      "interpreted": "An enduring bond can have context-specific breakdowns in professional trust without erasing affection or protection. Institutional power arises only in bounded official roles.",
+      "not_established": "We should not project the 2012 rupture across the entire history, or treat a job offer as proof that Foggy actually supervised Matt.",
+      "source_ids": [
+        "R05",
+        "R11",
+        "R04"
+      ],
+      "claim_ids": [
+        "CL015",
+        "CL050",
+        "CL051",
+        "CL052",
+        "CL053"
+      ]
+    },
+    {
+      "id": "luke",
+      "title": "Team cohesion is not friendship",
+      "partner_id": "luke",
+      "period": "2010 and 2017",
+      "observed": "Luke participates in a group seeking to contain the Shadowland crisis, then works alongside Daredevil and other Defenders during a later gang war.",
+      "interpreted": "Opposition in one historical context and collaboration in another are compatible; one involves resisting Matt’s conduct, the other coordinating against outside threats.",
+      "not_established": "These summaries alone do not establish private emotional closeness, deep personal trust, or that Luke recognized Matt’s authority outside a specific assignment.",
+      "source_ids": [
+        "R09",
+        "R06",
+        "R07"
+      ],
+      "claim_ids": [
+        "CL009",
+        "CL054",
+        "CL055",
+        "CL056"
+      ]
+    },
+    {
+      "id": "elektra",
+      "title": "Trust is directional and historical",
+      "partner_id": "elektra",
+      "period": "2022",
+      "observed": "Elektra’s publisher synopsis calls Matt her most trusted ally during the Fist project and says she wants him as a partner.",
+      "interpreted": "The issue provides unusually strong source language for Elektra → Matt operational trust. It doesn’t automatically describe Matt → Elektra to the same degree.",
+      "not_established": "This is not evidence that Elektra has permanent authority over Matt or that their entire romantic history follows a single stable trust level.",
+      "source_ids": [
+        "R08"
+      ],
+      "claim_ids": [
+        "CL022",
+        "CL057",
+        "CL058"
+      ]
+    }
+  ],
+  "identity_warnings": [
+    {
+      "id": "ID01",
+      "entity": "Power Man",
+      "context": "Shadowland: Power Man (2010) #4",
+      "observation": "Marvel describes a new Power Man separate from Luke Cage in this Shadowland tie-in.",
+      "action": "Do not map all references to “Power Man” onto Luke Cage. Confirm the character identity in each issue before extraction.",
+      "source_id": "R10"
+    }
+  ]
+}
