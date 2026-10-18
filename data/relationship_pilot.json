@@ -150,6 +150,84 @@
       "name": "Cody Robbins",
       "alias": "Cody Robbins",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "reed",
+      "name": "Reed Richards",
+      "alias": "Mister Fantastic",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "sue",
+      "name": "Susan Storm Richards",
+      "alias": "Invisible Woman",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ben",
+      "name": "Benjamin Grimm",
+      "alias": "The Thing",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "johnny",
+      "name": "Johnny Storm",
+      "alias": "Human Torch",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "doom",
+      "name": "Victor von Doom",
+      "alias": "Doctor Doom",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "franklin",
+      "name": "Franklin Richards",
+      "alias": "Franklin Richards",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "valeria",
+      "name": "Valeria Richards",
+      "alias": "Valeria Richards",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "alicia",
+      "name": "Alicia Masters",
+      "alias": "Alicia Masters",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "crystal",
+      "name": "Crystalia Amaquelin",
+      "alias": "Crystal",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "wanda",
+      "name": "Wanda Maximoff",
+      "alias": "Scarlet Witch",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "vision",
+      "name": "Vision",
+      "alias": "Vision",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "pietro",
+      "name": "Pietro Maximoff",
+      "alias": "Quicksilver",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "agatha",
+      "name": "Agatha Harkness",
+      "alias": "Agatha Harkness",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -521,6 +599,55 @@
       "title": "X-Men — Xavier, Magneto and mutant factions",
       "url": "https://www.marvel.com/teams-and-groups/x-men/in-comics",
       "kind": "Marvel official editorial biography / comics reading guide",
+      "level": "Publisher secondary; original issue panels not independently reviewed"
+    },
+    {
+      "id": "FF01",
+      "title": "Fantastic Four — official comics history",
+      "url": "https://www.marvel.com/teams-and-groups/fantastic-four/in-comics",
+      "kind": "Official Marvel comics history / issue guide",
+      "level": "Publisher secondary; original issue panels not independently reviewed"
+    },
+    {
+      "id": "FF02",
+      "title": "Human Torch — Johnny Storm official comics history",
+      "url": "https://www.marvel.com/characters/human-torch-johnny-storm/in-comics/",
+      "kind": "Official Marvel comics history / issue guide",
+      "level": "Publisher secondary; original issue panels not independently reviewed"
+    },
+    {
+      "id": "FF03",
+      "title": "Invisible Woman spotlight: Reed, Sue and their family",
+      "url": "https://www.marvel.com/articles/comics/women-s-history-month-invisible-woman",
+      "kind": "Official Marvel comics history / issue guide",
+      "level": "Publisher secondary; original issue panels not independently reviewed"
+    },
+    {
+      "id": "FF04",
+      "title": "Fantastic Four Fanfare — Thing/Torch prank war",
+      "url": "https://www.marvel.com/comics/collection/122807/fantastic_four_fanfare_trade_paperback",
+      "kind": "Official Marvel comics history / issue guide",
+      "level": "Publisher secondary; original issue panels not independently reviewed"
+    },
+    {
+      "id": "FF05",
+      "title": "Fantastic Four (2018) #5 — Ben and Alicia wedding",
+      "url": "https://www.marvel.com/comics/issue/68011/fantastic_four_2018_5",
+      "kind": "Official Marvel comics history / issue guide",
+      "level": "Publisher secondary; original issue panels not independently reviewed"
+    },
+    {
+      "id": "FF06",
+      "title": "Fantastic Four: Battle of the Behemoths — Johnny and Crystal",
+      "url": "https://www.marvel.com/comics/collection/92890/fantastic_four_epic_collection_battle_of_the_behemoths_2021",
+      "kind": "Official Marvel comics history / issue guide",
+      "level": "Publisher secondary; original issue panels not independently reviewed"
+    },
+    {
+      "id": "AV01",
+      "title": "Scarlet Witch and Vision — Marvel relationship history and issue guide",
+      "url": "https://www.marvel.com/comics/guides/2030/love-story-of-scarlet-witch-and-vision",
+      "kind": "Official Marvel comics history / issue guide",
       "level": "Publisher secondary; original issue panels not independently reviewed"
     }
   ],
@@ -1249,6 +1376,266 @@
       "observation": "Marvel describes Rogue as closer to her foster mother Destiny than to Mystique.",
       "source_id": "MX01",
       "review_status": "Marvel publisher account checked; exact panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV57",
+      "a": "reed",
+      "b": "ben",
+      "issue": "Fantastic Four origin, as recounted by Marvel",
+      "publication_year": null,
+      "observation": "Reed and Ben were friends in college, and Ben promised to fly the spaceship Reed hoped to build; Reed later offered him the pilot's role.",
+      "source_id": "FF01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV58",
+      "a": "reed",
+      "b": "sue",
+      "issue": "Fantastic Four Annual (1963) #3",
+      "publication_year": 1965,
+      "observation": "Reed and Sue married after their longstanding romantic partnership; the ceremony brought together numerous Marvel heroes.",
+      "source_id": "FF03",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV59",
+      "a": "sue",
+      "b": "reed",
+      "issue": "Fantastic Four — Marvel leadership history",
+      "publication_year": null,
+      "observation": "Sue resisted Reed's early unchallenged patriarchal authority, left for a time, and returned with a more equitable voice in the group's personal and professional decisions.",
+      "source_id": "FF01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV60",
+      "a": "sue",
+      "b": "johnny",
+      "issue": "Human Torch — Marvel family history",
+      "publication_year": null,
+      "observation": "After their mother's death and father's imprisonment, Sue virtually raised her younger brother Johnny; Marvel emphasizes their enduring closeness.",
+      "source_id": "FF02",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV61",
+      "a": "johnny",
+      "b": "ben",
+      "issue": "Human Torch — Marvel relationships history",
+      "publication_year": null,
+      "observation": "Marvel calls Ben Johnny's closest friend and describes their frequent squabbles alongside a bond comparable to brothers.",
+      "source_id": "FF02",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV62",
+      "a": "johnny",
+      "b": "ben",
+      "issue": "Fantastic Four Fanfare (2025) #1–4",
+      "publication_year": 2025,
+      "observation": "Marvel's collected description identifies an escalating prank war between Johnny Storm and Ben Grimm.",
+      "source_id": "FF04",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV63",
+      "a": "doom",
+      "b": "reed",
+      "issue": "Fantastic Four — Marvel rivalry history",
+      "publication_year": null,
+      "observation": "Marvel identifies Doctor Doom's rivalry with Reed as the Fantastic Four's greatest and says Doom repeatedly tried to destroy the team.",
+      "source_id": "FF01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV64",
+      "a": "reed",
+      "b": "franklin",
+      "issue": "Fantastic Four — Marvel family history",
+      "publication_year": null,
+      "observation": "Reed Richards and Sue Storm are married and have a son, Franklin Richards.",
+      "source_id": "FF01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV65",
+      "a": "sue",
+      "b": "valeria",
+      "issue": "Fantastic Four — Marvel family history",
+      "publication_year": null,
+      "observation": "Reed and Sue have a daughter, Valeria Richards.",
+      "source_id": "FF01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV66",
+      "a": "johnny",
+      "b": "franklin",
+      "issue": "Human Torch — Marvel family history",
+      "publication_year": null,
+      "observation": "Marvel explicitly describes Johnny as the uncle of Franklin and Valeria Richards.",
+      "source_id": "FF02",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV67",
+      "a": "ben",
+      "b": "alicia",
+      "issue": "Fantastic Four (2018) #5",
+      "publication_year": 2018,
+      "observation": "Ben Grimm and Alicia Masters marry after a long courtship; Johnny Storm organizes Ben's bachelor celebration.",
+      "source_id": "FF05",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV68",
+      "a": "johnny",
+      "b": "crystal",
+      "issue": "Fantastic Four (1961) #105–125 collection",
+      "publication_year": 1970,
+      "observation": "Marvel's FF collected issue guide states that Johnny Storm and Crystal develop their romance during this period.",
+      "source_id": "FF06",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV69",
+      "a": "vision",
+      "b": "wanda",
+      "issue": "Avengers (1963) #76",
+      "publication_year": 1970,
+      "observation": "Marvel identifies the first meeting of Vision and Scarlet Witch during the Arkon crisis; both attempted to protect the other.",
+      "source_id": "AV01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV70",
+      "a": "wanda",
+      "b": "vision",
+      "issue": "Avengers (1963) #91",
+      "publication_year": 1971,
+      "observation": "Marvel describes Wanda's first overt expression of romantic interest during the Kree-Skrull War, which Vision initially rejected.",
+      "source_id": "AV01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV71",
+      "a": "vision",
+      "b": "wanda",
+      "issue": "Avengers (1963) #108",
+      "publication_year": 1973,
+      "observation": "Marvel says Vision offered Wanda emotional support during a difficult period when her brother Pietro had gone missing.",
+      "source_id": "AV01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV72",
+      "a": "vision",
+      "b": "wanda",
+      "issue": "Giant-Size Avengers (1974) #4",
+      "publication_year": 1975,
+      "observation": "Scarlet Witch and Vision married.",
+      "source_id": "AV01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV73",
+      "a": "wanda",
+      "b": "vision",
+      "issue": "Vision and the Scarlet Witch (1985) #12",
+      "publication_year": 1986,
+      "observation": "Marvel describes Wanda using her powers to create twin sons Billy and Tommy with Vision; later stories revise the children's origins and identities.",
+      "source_id": "AV01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV74",
+      "a": "vision",
+      "b": "wanda",
+      "issue": "West Coast Avengers (1985) #44–45",
+      "publication_year": 1989,
+      "observation": "Following Vision's dismantling and reconstruction, he returned without memories of his wife, and Wanda struggled to reconnect.",
+      "source_id": "AV01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV75",
+      "a": "wanda",
+      "b": "pietro",
+      "issue": "Avengers (1963) #108",
+      "publication_year": 1973,
+      "observation": "Marvel describes Quicksilver Pietro Maximoff as Wanda's beloved brother, whose disappearance troubled her.",
+      "source_id": "AV01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV76",
+      "a": "agatha",
+      "b": "wanda",
+      "issue": "Vision and the Scarlet Witch (1985) #12; Marvel editorial guide",
+      "publication_year": 1986,
+      "observation": "Marvel refers to Agatha Harkness as Wanda's friend and says she revealed the disturbing truth about the twin boys' magical origins.",
+      "source_id": "AV01",
+      "review_status": "Marvel publisher summary checked; issue panels not inspected",
       "evidence_tier": "publisher_secondary",
       "observation_type": "publisher_summary",
       "continuity": "Earth-616"
@@ -2730,6 +3117,652 @@
       "scope": "Early X-Men transition",
       "continuity": "Earth-616",
       "review_status": "provisional; Marvel secondary source, no panel review"
+    },
+    {
+      "id": "CL090",
+      "pair_id": "ben-reed",
+      "from_id": "reed",
+      "to_id": "ben",
+      "dimension": "friendship",
+      "assessment": "longstanding",
+      "epistemic": "direct",
+      "summary": "Was Ben's friend before they became the Fantastic Four",
+      "qualification": "Their friendship predates the rocket flight.",
+      "event_ids": [
+        "EV57"
+      ],
+      "scope": "College through FF founding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL091",
+      "pair_id": "ben-reed",
+      "from_id": "ben",
+      "to_id": "reed",
+      "dimension": "friendship",
+      "assessment": "longstanding",
+      "epistemic": "direct",
+      "summary": "Promised Reed he would pilot his future spaceship",
+      "qualification": "Their friendship makes the later scientific partnership personal.",
+      "event_ids": [
+        "EV57"
+      ],
+      "scope": "College through FF founding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL092",
+      "pair_id": "ben-reed",
+      "from_id": "reed",
+      "to_id": "ben",
+      "dimension": "professional",
+      "assessment": "trusted test pilot",
+      "epistemic": "direct",
+      "summary": "Offered Ben the pilot's role on his experimental spacecraft",
+      "qualification": "Professional reliance is distinct from any assumption about Ben's feelings toward his transformation.",
+      "event_ids": [
+        "EV57"
+      ],
+      "scope": "Before FF launch",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL093",
+      "pair_id": "reed-sue",
+      "from_id": "reed",
+      "to_id": "sue",
+      "dimension": "romance",
+      "assessment": "married couple",
+      "epistemic": "direct",
+      "summary": "Married Sue after years together",
+      "qualification": "Marriage attested by official Marvel issue history; later difficulties shouldn't be erased.",
+      "event_ids": [
+        "EV58"
+      ],
+      "scope": "Fantastic Four Annual #3",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL094",
+      "pair_id": "reed-sue",
+      "from_id": "sue",
+      "to_id": "reed",
+      "dimension": "romance",
+      "assessment": "married couple",
+      "epistemic": "direct",
+      "summary": "Married Reed and built a family with him",
+      "qualification": "Marriage is not evidence that Reed's early leadership claims were always accepted.",
+      "event_ids": [
+        "EV58"
+      ],
+      "scope": "Fantastic Four Annual #3",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL095",
+      "pair_id": "reed-sue",
+      "from_id": "reed",
+      "to_id": "sue",
+      "dimension": "authority",
+      "assessment": "early dominant leadership",
+      "epistemic": "direct",
+      "summary": "Held early patriarchal authority over Sue within the FF",
+      "qualification": "Marvel's team history describes this arrangement as historically bounded.",
+      "event_ids": [
+        "EV59"
+      ],
+      "scope": "Early FF era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL096",
+      "pair_id": "reed-sue",
+      "from_id": "sue",
+      "to_id": "reed",
+      "dimension": "conflict",
+      "assessment": "challenged unequal authority",
+      "epistemic": "direct",
+      "summary": "Rejected Reed's unchallenged authority and sought a more equal voice",
+      "qualification": "Publisher says she left for a time and later returned with greater equality.",
+      "event_ids": [
+        "EV59"
+      ],
+      "scope": "Early FF leadership evolution",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL097",
+      "pair_id": "johnny-sue",
+      "from_id": "sue",
+      "to_id": "johnny",
+      "dimension": "family",
+      "assessment": "older sister and caregiver",
+      "epistemic": "direct",
+      "summary": "Virtually raised Johnny after family tragedy",
+      "qualification": "Older-sibling authority and caregiving are different from official team leadership.",
+      "event_ids": [
+        "EV60"
+      ],
+      "scope": "Childhood into adulthood",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL098",
+      "pair_id": "johnny-sue",
+      "from_id": "johnny",
+      "to_id": "sue",
+      "dimension": "family",
+      "assessment": "younger brother",
+      "epistemic": "direct",
+      "summary": "Maintains a deep sibling bond with Sue",
+      "qualification": "Marvel states they would sacrifice their lives for each other; do not invent private dialogue.",
+      "event_ids": [
+        "EV60"
+      ],
+      "scope": "Family history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL099",
+      "pair_id": "ben-johnny",
+      "from_id": "johnny",
+      "to_id": "ben",
+      "dimension": "friendship",
+      "assessment": "closest friend",
+      "epistemic": "direct",
+      "summary": "Regards Ben as his closest friend",
+      "qualification": "Marvel explicitly identifies Ben as Johnny's closest friend despite their squabbles.",
+      "event_ids": [
+        "EV61"
+      ],
+      "scope": "Across FF history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL100",
+      "pair_id": "ben-johnny",
+      "from_id": "ben",
+      "to_id": "johnny",
+      "dimension": "friendship",
+      "assessment": "brotherlike friendship",
+      "epistemic": "direct",
+      "summary": "Shares a close bond with Johnny despite constant teasing",
+      "qualification": "Mutual closeness is directly described; no single score can capture it.",
+      "event_ids": [
+        "EV61"
+      ],
+      "scope": "Across FF history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL101",
+      "pair_id": "ben-johnny",
+      "from_id": "johnny",
+      "to_id": "ben",
+      "dimension": "conflict",
+      "assessment": "playful antagonism",
+      "epistemic": "direct",
+      "summary": "Carries on a prank rivalry with Ben",
+      "qualification": "A prank war is not evidence of hatred or a breakdown in their friendship.",
+      "event_ids": [
+        "EV62"
+      ],
+      "scope": "Fantastic Four Fanfare 2025",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL102",
+      "pair_id": "ben-johnny",
+      "from_id": "ben",
+      "to_id": "johnny",
+      "dimension": "conflict",
+      "assessment": "playful antagonism",
+      "epistemic": "direct",
+      "summary": "Trades pranks with Johnny",
+      "qualification": "Marvel describes an escalating prank war involving both.",
+      "event_ids": [
+        "EV62"
+      ],
+      "scope": "Fantastic Four Fanfare 2025",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL103",
+      "pair_id": "doom-reed",
+      "from_id": "doom",
+      "to_id": "reed",
+      "dimension": "conflict",
+      "assessment": "long-running nemesis",
+      "epistemic": "direct",
+      "summary": "Repeatedly opposes Reed and the Fantastic Four",
+      "qualification": "The rivalry is explicit in Marvel's team history, not inferred from team membership.",
+      "event_ids": [
+        "EV63"
+      ],
+      "scope": "Historical FF rivalry",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL104",
+      "pair_id": "doom-reed",
+      "from_id": "reed",
+      "to_id": "doom",
+      "dimension": "conflict",
+      "assessment": "long-running nemesis",
+      "epistemic": "direct",
+      "summary": "Remains Doom's greatest personal rival",
+      "qualification": "Do not infer Doom's private motivations from rivalry alone.",
+      "event_ids": [
+        "EV63"
+      ],
+      "scope": "Historical FF rivalry",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL105",
+      "pair_id": "franklin-reed",
+      "from_id": "reed",
+      "to_id": "franklin",
+      "dimension": "family",
+      "assessment": "father",
+      "epistemic": "direct",
+      "summary": "Is Franklin Richards' father",
+      "qualification": "Confirmed kinship.",
+      "event_ids": [
+        "EV64"
+      ],
+      "scope": "FF family history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL106",
+      "pair_id": "franklin-sue",
+      "from_id": "sue",
+      "to_id": "franklin",
+      "dimension": "family",
+      "assessment": "mother",
+      "epistemic": "direct",
+      "summary": "Is Franklin Richards' mother",
+      "qualification": "Confirmed kinship.",
+      "event_ids": [
+        "EV64"
+      ],
+      "scope": "FF family history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL107",
+      "pair_id": "reed-valeria",
+      "from_id": "reed",
+      "to_id": "valeria",
+      "dimension": "family",
+      "assessment": "father",
+      "epistemic": "direct",
+      "summary": "Is Valeria Richards' father",
+      "qualification": "Confirmed kinship from FF family history.",
+      "event_ids": [
+        "EV65"
+      ],
+      "scope": "FF family history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL108",
+      "pair_id": "sue-valeria",
+      "from_id": "sue",
+      "to_id": "valeria",
+      "dimension": "family",
+      "assessment": "mother",
+      "epistemic": "direct",
+      "summary": "Is Valeria Richards' mother",
+      "qualification": "Confirmed kinship.",
+      "event_ids": [
+        "EV65"
+      ],
+      "scope": "FF family history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL109",
+      "pair_id": "franklin-johnny",
+      "from_id": "johnny",
+      "to_id": "franklin",
+      "dimension": "family",
+      "assessment": "uncle",
+      "epistemic": "direct",
+      "summary": "Is Franklin's uncle",
+      "qualification": "Marvel explicitly describes the relationship.",
+      "event_ids": [
+        "EV66"
+      ],
+      "scope": "FF family history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL110",
+      "pair_id": "johnny-valeria",
+      "from_id": "johnny",
+      "to_id": "valeria",
+      "dimension": "family",
+      "assessment": "uncle",
+      "epistemic": "direct",
+      "summary": "Is Valeria's uncle",
+      "qualification": "Marvel explicitly describes the relationship.",
+      "event_ids": [
+        "EV66"
+      ],
+      "scope": "FF family history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL111",
+      "pair_id": "alicia-ben",
+      "from_id": "ben",
+      "to_id": "alicia",
+      "dimension": "romance",
+      "assessment": "married couple",
+      "epistemic": "direct",
+      "summary": "Married Alicia Masters after long courtship",
+      "qualification": "Wedding is specifically documented in the issue synopsis.",
+      "event_ids": [
+        "EV67"
+      ],
+      "scope": "Fantastic Four (2018) #5",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL112",
+      "pair_id": "alicia-ben",
+      "from_id": "alicia",
+      "to_id": "ben",
+      "dimension": "romance",
+      "assessment": "married couple",
+      "epistemic": "direct",
+      "summary": "Married Ben Grimm",
+      "qualification": "Wedding establishes reciprocal marriage, not limitless knowledge of inner feelings.",
+      "event_ids": [
+        "EV67"
+      ],
+      "scope": "Fantastic Four (2018) #5",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL113",
+      "pair_id": "ben-johnny",
+      "from_id": "johnny",
+      "to_id": "ben",
+      "dimension": "affection",
+      "assessment": "care shown at wedding",
+      "epistemic": "interpretive",
+      "summary": "Organized Ben's bachelor celebration",
+      "qualification": "One action supports personal care but cannot quantify affection.",
+      "event_ids": [
+        "EV67"
+      ],
+      "scope": "Ben and Alicia's wedding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL114",
+      "pair_id": "crystal-johnny",
+      "from_id": "johnny",
+      "to_id": "crystal",
+      "dimension": "romance",
+      "assessment": "developing romance",
+      "epistemic": "direct",
+      "summary": "Developed a romantic relationship with Crystal",
+      "qualification": "Official collection synopsis establishes romance.",
+      "event_ids": [
+        "EV68"
+      ],
+      "scope": "Fantastic Four #105–125",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL115",
+      "pair_id": "crystal-johnny",
+      "from_id": "crystal",
+      "to_id": "johnny",
+      "dimension": "romance",
+      "assessment": "developing romance",
+      "epistemic": "direct",
+      "summary": "Became romantically involved with Johnny Storm",
+      "qualification": "The scope is historical, not an assertion of current status.",
+      "event_ids": [
+        "EV68"
+      ],
+      "scope": "Fantastic Four #105–125",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL116",
+      "pair_id": "vision-wanda",
+      "from_id": "vision",
+      "to_id": "wanda",
+      "dimension": "protection",
+      "assessment": "protective first encounter",
+      "epistemic": "direct",
+      "summary": "Tried to save Wanda at their first meeting",
+      "qualification": "The Marvel reading guide describes the mutual protective actions.",
+      "event_ids": [
+        "EV69"
+      ],
+      "scope": "Avengers #76",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL117",
+      "pair_id": "vision-wanda",
+      "from_id": "wanda",
+      "to_id": "vision",
+      "dimension": "protection",
+      "assessment": "protective first encounter",
+      "epistemic": "direct",
+      "summary": "Tried to protect Vision upon meeting him",
+      "qualification": "This is a documented act, not proof of immediate trust.",
+      "event_ids": [
+        "EV69"
+      ],
+      "scope": "Avengers #76",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL118",
+      "pair_id": "vision-wanda",
+      "from_id": "wanda",
+      "to_id": "vision",
+      "dimension": "romance",
+      "assessment": "initiated affection",
+      "epistemic": "direct",
+      "summary": "Expressed romantic interest before Vision reciprocated",
+      "qualification": "Marvel describes his initial rejection in the Kree-Skrull War.",
+      "event_ids": [
+        "EV70"
+      ],
+      "scope": "Avengers #91",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL119",
+      "pair_id": "vision-wanda",
+      "from_id": "vision",
+      "to_id": "wanda",
+      "dimension": "protection",
+      "assessment": "emotional support",
+      "epistemic": "direct",
+      "summary": "Supported Wanda during Pietro's disappearance",
+      "qualification": "An offer of emotional support isn't a formal power relationship.",
+      "event_ids": [
+        "EV71"
+      ],
+      "scope": "Avengers #108",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL120",
+      "pair_id": "vision-wanda",
+      "from_id": "vision",
+      "to_id": "wanda",
+      "dimension": "romance",
+      "assessment": "married couple",
+      "epistemic": "direct",
+      "summary": "Married Wanda Maximoff",
+      "qualification": "Later disruptions and memory loss complicate the historical picture.",
+      "event_ids": [
+        "EV72"
+      ],
+      "scope": "Giant-Size Avengers #4",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL121",
+      "pair_id": "vision-wanda",
+      "from_id": "wanda",
+      "to_id": "vision",
+      "dimension": "romance",
+      "assessment": "married couple",
+      "epistemic": "direct",
+      "summary": "Married Vision",
+      "qualification": "This records their wedding rather than a permanent unchanging romance.",
+      "event_ids": [
+        "EV72"
+      ],
+      "scope": "Giant-Size Avengers #4",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL122",
+      "pair_id": "pietro-wanda",
+      "from_id": "wanda",
+      "to_id": "pietro",
+      "dimension": "family",
+      "assessment": "siblings",
+      "epistemic": "direct",
+      "summary": "Is Pietro's sister",
+      "qualification": "Marvel describes Pietro as her beloved brother.",
+      "event_ids": [
+        "EV75"
+      ],
+      "scope": "Wanda and Pietro's family history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL123",
+      "pair_id": "pietro-wanda",
+      "from_id": "pietro",
+      "to_id": "wanda",
+      "dimension": "family",
+      "assessment": "siblings",
+      "epistemic": "direct",
+      "summary": "Is Wanda's brother",
+      "qualification": "Relationship established by Marvel's reading guide.",
+      "event_ids": [
+        "EV75"
+      ],
+      "scope": "Wanda and Pietro's family history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL124",
+      "pair_id": "pietro-wanda",
+      "from_id": "wanda",
+      "to_id": "pietro",
+      "dimension": "affection",
+      "assessment": "explicitly dear family member",
+      "epistemic": "direct",
+      "summary": "Was distraught by her brother's disappearance",
+      "qualification": "Marvel calls Pietro beloved; no private thoughts beyond the cited account are assumed.",
+      "event_ids": [
+        "EV75"
+      ],
+      "scope": "Avengers #108",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL125",
+      "pair_id": "vision-wanda",
+      "from_id": "vision",
+      "to_id": "wanda",
+      "dimension": "dependence",
+      "assessment": "memory-limited after reconstruction",
+      "epistemic": "direct",
+      "summary": "Lost memories of the marriage following reconstruction",
+      "qualification": "This is not a claim that Vision chose to abandon Wanda.",
+      "event_ids": [
+        "EV74"
+      ],
+      "scope": "West Coast Avengers #44–45",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL126",
+      "pair_id": "vision-wanda",
+      "from_id": "wanda",
+      "to_id": "vision",
+      "dimension": "trust",
+      "assessment": "relationship disrupted after rebuild",
+      "epistemic": "interpretive",
+      "summary": "Struggled to reconnect after Vision lost his memories",
+      "qualification": "Do not infer the full private meaning of her difficulty reconnecting.",
+      "event_ids": [
+        "EV74"
+      ],
+      "scope": "West Coast Avengers #44–45",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL127",
+      "pair_id": "agatha-wanda",
+      "from_id": "agatha",
+      "to_id": "wanda",
+      "dimension": "friendship",
+      "assessment": "identified by Marvel as friend",
+      "epistemic": "direct",
+      "summary": "Was Wanda's friend when she revealed the twins' origins",
+      "qualification": "Specific emotional influence of the revelation requires closer issue reading.",
+      "event_ids": [
+        "EV76"
+      ],
+      "scope": "Vision and Scarlet Witch #12",
+      "continuity": "Earth-616",
+      "review_status": "provisional; official Marvel source, no panel review"
     }
   ],
   "research_backlog": [
