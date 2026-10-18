@@ -156,5 +156,134 @@
         "Karen's knowledge of Matt's identity becomes consequential in Born Again; Elektra's later actions involve taking up the Daredevil mantle and recruiting Matt into a shared cause. Both involve intimacy and danger, but in different combinations of trust, agency and vulnerability."
       ]
     }
-  }
+  },
+  "world_stories": [
+    {
+      "id": "rogue-two-mothers",
+      "category": "MUTANT FAMILY",
+      "headline": "Rogue had two mothers. They did not give her the same kind of love.",
+      "lede": "Mystique offered Rogue a home, but also a place in her cause. Destiny offered something Rogue seemed to hold onto more closely.",
+      "paragraphs": [
+        "To understand Rogue's history with Mystique, you have to keep two truths in view. Mystique helped raise her, and Mystique also put her powers to work for the Brotherhood. Those aren't separate footnotes. They explain why being someone's family doesn't necessarily mean giving them freedom to choose their own path.",
+        "Destiny was part of that household too, and Marvel describes Rogue as closer to her than to Mystique. It's a telling distinction in a family built around two formidable women whose loyalty to each other endured through long separations. Rogue's eventual turn toward Xavier and the X-Men wasn't merely a change of teams. It drew a line between the world in which she was raised and the person she wanted to become."
+      ],
+      "takeaway": "Being raised together can create a family without making every bond within it equal.",
+      "event_ids": [
+        "EV39",
+        "EV40",
+        "EV41",
+        "EV42",
+        "EV56"
+      ],
+      "focus_ids": [
+        "rogue",
+        "mystique",
+        "destiny"
+      ]
+    },
+    {
+      "id": "xavier-magneto",
+      "category": "FRIENDSHIP & IDEOLOGY",
+      "headline": "Before they became opposing visions, Xavier and Magneto were friends.",
+      "lede": "Their disagreement matters because it came after shared history, argument, and even a moment when they fought side by side.",
+      "paragraphs": [
+        "Charles Xavier and Max Eisenhardt did not begin as symbols at opposite ends of mutant politics. Marvel recounts their friendship and the spirited debates they shared before each fully revealed his powers to the other.",
+        "When their mutual friend Gabrielle Haller was abducted by Baron Strucker and HYDRA, the two men intervened together. Yet a common enemy couldn't settle their bigger argument. Xavier placed his faith in coexistence with humanity, while Magneto came to champion mutant supremacy. The relationship became a conflict between visions that had once been debated as friends. That's more difficult than a feud between strangers."
+      ],
+      "takeaway": "A shared history can make a disagreement deeper, not easier to resolve.",
+      "event_ids": [
+        "EV49",
+        "EV50",
+        "EV51",
+        "EV52",
+        "EV53"
+      ],
+      "focus_ids": [
+        "charles",
+        "magneto",
+        "gabrielle"
+      ]
+    },
+    {
+      "id": "the-thing-torch",
+      "category": "FRIENDSHIP & FRICTION",
+      "headline": "The Thing and the Human Torch argue like brothers. That's part of the friendship.",
+      "lede": "Johnny Storm and Ben Grimm constantly needle one another. Marvel also calls Ben Johnny's closest friend.",
+      "paragraphs": [
+        "The Fantastic Four's appeal has never depended on everyone getting along. Johnny's teasing and Ben's complaints are fixtures of their shared life; even recent stories turn their pranks into an escalating battle. Yet Marvel's account is unusually clear about what sits underneath: for Johnny, Ben is a closest friend, and their bond is brotherlike.",
+        "That contrast is important. We shouldn't mistake the frequency of their arguments for a lack of affection, any more than we should assume that every teammate shares the same intimacy. For these two, the squabbling is part of a relationship that has weathered the very experience that made them the Fantastic Four."
+      ],
+      "takeaway": "Not every argument is a fracture. Some belong to the way two people love each other.",
+      "event_ids": [
+        "EV61",
+        "EV62",
+        "EV67"
+      ],
+      "focus_ids": [
+        "johnny",
+        "ben"
+      ]
+    },
+    {
+      "id": "sue-reed-voice",
+      "category": "LOVE & AUTHORITY",
+      "headline": "Sue Richards wasn't content to be the quiet center of Reed's universe.",
+      "lede": "The Fantastic Four is a family, but its early leadership wasn't always a partnership of equals.",
+      "paragraphs": [
+        "Reed and Sue's marriage is central to the Fantastic Four. But Marvel's team history also describes a period when Reed was the unquestioned patriarch, and Sue grew tired of the authority he took for granted.",
+        "She left for a time and returned with a stronger say in their private and public decisions. It's a relationship that demonstrates why love and power belong in different conversations. A married couple can share a life while still negotiating whose judgment carries weight — and whether either partner is truly being heard."
+      ],
+      "takeaway": "Marriage does not settle the question of authority.",
+      "event_ids": [
+        "EV58",
+        "EV59"
+      ],
+      "focus_ids": [
+        "sue",
+        "reed"
+      ]
+    },
+    {
+      "id": "wanda-vision",
+      "category": "ROMANCE & MEMORY",
+      "headline": "Wanda loved Vision before he knew how to answer her.",
+      "lede": "Their story spans a hesitant beginning, a marriage, children, and a separation in which memory itself became the obstacle.",
+      "paragraphs": [
+        "Marvel traces the early spark between Scarlet Witch and Vision to a moment when Wanda showed affection and Vision wasn't ready to accept it. Later, when her brother Pietro was missing, Vision offered the emotional support that their earlier encounter had lacked. They married, and their family story soon grew stranger than either might have imagined.",
+        "Then Vision was dismantled and rebuilt without memories of his wife. The heartbreak here isn't a simple betrayal. A history shared by two people can change terribly when only one of them remembers it in the same way. Their relationship asks what love means when the experiences that made it possible no longer belong equally to both partners."
+      ],
+      "takeaway": "A relationship is partly made of the history both people carry.",
+      "event_ids": [
+        "EV69",
+        "EV70",
+        "EV71",
+        "EV72",
+        "EV73",
+        "EV74"
+      ],
+      "focus_ids": [
+        "wanda",
+        "vision"
+      ]
+    },
+    {
+      "id": "rogue-gambit",
+      "category": "LOVE & TRUST",
+      "headline": "Rogue and Gambit had to survive what Gambit hadn't told her.",
+      "lede": "Their romance is not simply a triumph over Rogue's dangerous touch. It was also tested by an old secret.",
+      "paragraphs": [
+        "Rogue and Gambit drew close despite an intimacy that was physically difficult for Rogue to navigate. But trust became a separate problem when Rogue learned of Gambit's unwitting involvement in the events that led to the Mutant Massacre. She left him in Antarctica. The distance between them was no longer just about skin contact.",
+        "Marvel's history then follows a slow reconciliation, culminating in a proposal and marriage. That doesn't erase the earlier rupture. It gives the later commitment its weight: this was a bond that had been tested by what one person withheld from the other."
+      ],
+      "takeaway": "Reconciliation means more when the wound isn't forgotten.",
+      "event_ids": [
+        "EV43",
+        "EV44"
+      ],
+      "focus_ids": [
+        "rogue",
+        "gambit"
+      ]
+    }
+  ]
 }
