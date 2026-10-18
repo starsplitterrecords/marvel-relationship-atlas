@@ -1,0 +1,160 @@
+{
+  "version": "1.0",
+  "framing": "Short editorial portraits for ordinary readers. Earth-616 comics, grounded in Marvel issue summaries. These are interpretive overviews, not the characters' internal monologues.",
+  "spotlight": {
+    "eyebrow": "The relationship that reveals the difference",
+    "title": "What Daredevil sees in the Punisher — and what he cannot accept",
+    "opening": "Matt Murdock and Frank Castle can stand on the same rooftop, stare at the same criminal, and arrive at utterly different answers. Both want to protect people. Only one believes justice permits an execution.",
+    "paragraphs": [
+      "That difference is not a minor disagreement between allies. It is the substance of their relationship. Matt repeatedly tries to stop Frank from crossing the line he believes separates a hero from an executioner. Frank sees the line itself as part of the problem. Their arguments play out through investigations, fights and uneasy moments when a common danger leaves them little choice but to work together.",
+      "There is recognition between them, but recognition isn't consent. Frank can acknowledge Daredevil's ability without adopting his restraint. Matt can understand why Frank is angry without accepting what Frank does with it. When Frank physically corners Matt into a choice, that is coercion, not moral authority. This is a relationship defined less by affection than by an argument neither man is willing to abandon."
+    ],
+    "partner_id": "frank",
+    "theme": "Conviction against conviction"
+  },
+  "portraits": [
+    {
+      "id": "frank",
+      "tag": "Moral opposition",
+      "headline": "Two kinds of justice, and no middle ground",
+      "lede": "Frank Castle and Matt Murdock often pursue the same danger. They cannot agree on what should happen when they catch it.",
+      "paragraphs": [
+        "Daredevil's refusal to kill is not a quirk that the Punisher can talk him out of. It's the principle that shapes every encounter between them. Frank's willingness to execute criminals makes cooperation possible only in narrow, precarious circumstances.",
+        "Their encounters offer something more complicated than simple hatred. They can recognize each other's determination, even act together when lives are at stake, without surrendering an inch of their opposing moral views. At other moments, Frank uses force to leave Matt with choices he never agreed to make."
+      ],
+      "takeaway": "Sharing an enemy is not the same as sharing a code.",
+      "readLabel": "Read the confrontations that shaped them"
+    },
+    {
+      "id": "luke",
+      "tag": "Allies under strain",
+      "headline": "Luke Cage can stand against Matt and still stand for him",
+      "lede": "For Luke, working beside Daredevil has never required agreeing with every decision he makes.",
+      "paragraphs": [
+        "Luke and Matt have fought crime on the same streets and alongside the same heroes. Their partnership in the Defenders is practical: when New York is threatened, each knows the other will show up.",
+        "But Shadowland exposes a different sort of loyalty. Luke joins the people trying to stop Daredevil's Hand-led campaign, and the effort is also about saving Matt from what he has become. That is a far cry from the Punisher's fundamental objection to Matt's methods. Opposing a friend because you're afraid of what he is doing is not the same thing as treating him as an enemy."
+      ],
+      "takeaway": "Sometimes standing up to someone is an act of loyalty.",
+      "readLabel": "Follow Luke and Matt from Shadowland to the Defenders"
+    },
+    {
+      "id": "foggy",
+      "tag": "Friendship and fault lines",
+      "headline": "The friend who has to live with Matt Murdock",
+      "lede": "Foggy Nelson knows the man behind Daredevil. That makes his loyalty both more intimate and more demanding.",
+      "paragraphs": [
+        "Matt's secret life is a danger to everyone around him, but for Foggy it also competes with their ordinary life as friends and law partners. He doesn't have the luxury of treating Daredevil as a distant legend. He has to work with Matt, worry about him and sometimes judge whether he can trust the man across the desk.",
+        "That friendship has broken under strain and survived it. Foggy has walked away when he believed Matt's judgment was failing. At other times the two have held professional roles that placed one in formal authority over the other. None of those arrangements captures the friendship on its own. The bond is enduring precisely because it has had to absorb so much."
+      ],
+      "takeaway": "Knowing someone deeply does not mean trusting every choice they make.",
+      "readLabel": "Explore the friendship, fallouts and reconciliations"
+    },
+    {
+      "id": "elektra",
+      "tag": "Love, danger, trust",
+      "headline": "Love doesn't make Elektra predictable",
+      "lede": "The connection between Matt and Elektra reaches back to their youth and keeps changing shape as their lives collide.",
+      "paragraphs": [
+        "Their story carries attraction, loss and the constant question of whether two people with such different lives can be partners. Elektra isn't simply a romantic interest positioned beside Daredevil. She has her own convictions and purpose, sometimes bringing them into conflict with his.",
+        "When she protects the Daredevil mantle during Matt's absence, then seeks him out for a campaign against the Hand, intimacy becomes something practical as well as personal. Marvel's account describes Matt as a trusted ally from Elektra's point of view. What that means for Matt's trust in return is a different, and more delicate, question."
+      ],
+      "takeaway": "Love, loyalty and trust move together sometimes — not always.",
+      "readLabel": "Trace their shifting partnership"
+    },
+    {
+      "id": "fisk",
+      "tag": "Power and intimidation",
+      "headline": "Kingpin knows how to turn a secret into a weapon",
+      "lede": "Wilson Fisk's conflict with Daredevil is fought through institutions and private lives as much as fists.",
+      "paragraphs": [
+        "In Born Again, Fisk gains Matt's secret identity and uses it to dismantle the life Matt has built. It is intimate cruelty carried out with the resources of a criminal empire: the kind of attack that reveals how differently the two men understand power.",
+        "Later, Fisk's position as New York's mayor adds another layer. The criminal adversary now holds an office with real civic authority. Matt's resistance isn't merely personal retaliation; it is a challenge to a man who can shape the rules around him. Fisk's ability to hurt Matt is vast. His claim to moral authority is another matter entirely."
+      ],
+      "takeaway": "Having power over someone is not the same as having their respect.",
+      "readLabel": "Read Born Again and Mayor Fisk"
+    },
+    {
+      "id": "peter",
+      "tag": "Earned respect",
+      "headline": "Spider-Man and Daredevil begin with suspicion, not enmity",
+      "lede": "Their early clashes show how easily an encounter can be mistaken for a rivalry.",
+      "paragraphs": [
+        "Villains manipulate the two heroes into fighting, and the situation looks — briefly — like a feud. But the misunderstanding gives way to cooperation. What matters is not that they traded blows. It's that each had reasons to recognize the other as someone trying to do the right thing.",
+        "Daredevil's public praise of Spider-Man's courage adds a small but telling note of respect. Their relationship illustrates why a record of every fight would give such a distorted picture of Marvel's world. The fight was an episode. The judgment each formed of the other is the more interesting story."
+      ],
+      "takeaway": "An argument in one story needn't define a relationship.",
+      "readLabel": "Revisit their early encounters"
+    },
+    {
+      "id": "stick",
+      "tag": "Teacher and student",
+      "headline": "Stick taught Matt to survive. That isn't the same as raising him gently.",
+      "lede": "Daredevil's former teacher belongs to the formative part of Matt's life.",
+      "paragraphs": [
+        "The relationship is plainly unequal in one important way: Stick is the teacher and Matt the student. His role as sensei helps explain the skills Matt carries into his life as Daredevil.",
+        "But mentorship alone tells us little about warmth, security or unconditional trust. A training relationship may exert enormous influence without resembling friendship or parental affection. The stories give us a basis for identifying Stick's position in Matt's history; the full emotional texture deserves closer reading before drawing stronger conclusions."
+      ],
+      "takeaway": "Influence and intimacy are different kinds of closeness.",
+      "readLabel": "Find the early history of Matt's teacher"
+    },
+    {
+      "id": "sam",
+      "tag": "Passing it forward",
+      "headline": "Daredevil becomes the teacher",
+      "lede": "With Blindspot, Matt steps into a role once occupied by people who trained him.",
+      "paragraphs": [
+        "Matt recognizes something in Samuel Chung and takes him on as a protégé. It turns a familiar part of Daredevil's own origin outward: a hero who was taught to navigate a dangerous world begins teaching someone else.",
+        "That brings responsibility as well as influence. Sam can look to Matt for guidance without every decision being an order, and Matt can care about his student's future without always knowing what's best for him. The earliest stories establish the teaching relationship; stronger conclusions about its later emotional history will require more coverage."
+      ],
+      "takeaway": "Teaching another hero means accepting a different kind of responsibility.",
+      "readLabel": "See Blindspot's earliest stories"
+    },
+    {
+      "id": "karen",
+      "tag": "Trust and consequence",
+      "headline": "Karen Page knew the secret that could destroy Matt",
+      "lede": "Love and betrayal become inseparable in one of Daredevil's most consequential relationships.",
+      "paragraphs": [
+        "When Matt reveals that he is Daredevil, he offers Karen knowledge that can change both their lives. The intimacy of that disclosure matters: a secret identity isn't just a fact about a costume, but a vulnerability carried into a personal relationship.",
+        "Born Again shows the terrible consequence when Karen sells that knowledge and it reaches Fisk. Yet the act alone cannot flatten years of shared history into a single label. Betrayal is a defining event, not a complete biography of the bond that preceded it."
+      ],
+      "takeaway": "The damage a betrayal does depends on the trust that came before.",
+      "readLabel": "Follow the secret at the center of Born Again"
+    },
+    {
+      "id": "bullseye",
+      "tag": "Cruelty made personal",
+      "headline": "For Bullseye, hurting Matt means hurting the people he loves",
+      "lede": "Daredevil's conflict with Bullseye is not just about stopping a killer.",
+      "paragraphs": [
+        "Bullseye's murder of Elektra turns their feud into a personal catastrophe. What makes this relationship different from Daredevil's clashes with the Punisher is the absence of an honest disagreement about justice. Here the violence itself is the instrument of harm.",
+        "That history hangs over later encounters. A record of fights would place Bullseye beside dozens of Daredevil's other enemies. But the damage done to someone Matt loves gives this antagonism a particular weight that no simple “enemy” label captures."
+      ],
+      "takeaway": "Some rivalries are arguments. Others are wounds.",
+      "readLabel": "Read the stories that made this feud personal"
+    }
+  ],
+  "compare": {
+    "frank|luke": {
+      "headline": "Why the Punisher and Luke Cage aren't the same kind of ally",
+      "paragraphs": [
+        "Frank Castle and Luke Cage can both fight alongside Daredevil — and both can fight against him. The resemblance ends there.",
+        "Frank's recurring objection is to the very limits Matt places on violence. Their cooperation sits atop an unresolved moral divide. Luke's opposition during Shadowland emerges from concern about what Matt is doing and an effort to stop him. One relationship turns on competing definitions of justice; the other can turn on disagreement within a broader commitment to protecting people."
+      ]
+    },
+    "foggy|fisk": {
+      "headline": "Two people who know Matt's vulnerabilities",
+      "paragraphs": [
+        "Foggy Nelson and Wilson Fisk both gain access to parts of Matt Murdock's life the public does not see. One has shared his working life and friendship; the other has weaponized knowledge against him.",
+        "The difference is not simply friend versus enemy. It's what each person does with the influence that closeness or information creates. One relationship tests trust from within; the other tests how much damage power can do from without."
+      ]
+    },
+    "elektra|karen": {
+      "headline": "Love doesn't create the same relationship twice",
+      "paragraphs": [
+        "Karen Page and Elektra Natchios both matter deeply to Matt, but the pressures on those relationships are not interchangeable.",
+        "Karen's knowledge of Matt's identity becomes consequential in Born Again; Elektra's later actions involve taking up the Daredevil mantle and recruiting Matt into a shared cause. Both involve intimacy and danger, but in different combinations of trust, agency and vulnerability."
+      ]
+    }
+  }
+}
