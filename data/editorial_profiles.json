@@ -168,6 +168,42 @@
       ],
       "takeaway": "Unreturned attachment cannot excuse violence.",
       "readLabel": "Read Marvel's Dora Milaje history"
+    },
+    {
+      "id": "natasha",
+      "tag": "Influence and reinvention",
+      "headline": "The spy whose target changed her mind",
+      "lede": "Natasha Romanoff set out to use Clint Barton; his idealism ultimately helped redirect her life.",
+      "paragraphs": [
+        "Early encounters with Iron Man put Natasha and Clint on the same side of a manufactured conflict. Natasha drew him into her campaign against Iron Man, exploiting their personal connection.",
+        "Marvel's comics history also credits Clint's idealism with helping Natasha change allegiances. Influence turns out not to travel only one way. Their later histories belong to different eras and need not be compressed into a permanent romance."
+      ],
+      "takeaway": "An unequal relationship can still change both people.",
+      "readLabel": "Explore Black Widow's comics history"
+    },
+    {
+      "id": "valentina",
+      "tag": "Affection and deception",
+      "headline": "The intimacy Nick Fury could not fully trust",
+      "lede": "Valentina de Fontaine could be close to Fury while concealing a competing allegiance.",
+      "paragraphs": [
+        "Marvel traces the Countess and Fury's intermittent romance from Nick Fury, Agent of S.H.I.E.L.D. #2. But their intimacy made a later revelation more consequential: her secret allegiance to Leviathan.",
+        "Her history with Sharon Carter complicates any simple friend-or-traitor label. When Hydra threatened them in Captain America #145, Valentina and Sharon protected one another despite personal friction. Betrayal in one relationship does not erase courage in another."
+      ],
+      "takeaway": "Deception and solidarity can coexist in a spy's history.",
+      "readLabel": "Read the Countess's Marvel comics history"
+    },
+    {
+      "id": "peggy",
+      "tag": "Love, kinship and service",
+      "headline": "The Carter family carries more than a surname",
+      "lede": "Peggy Carter's wartime history shaped connections that extended into Steve Rogers's later world.",
+      "paragraphs": [
+        "Marvel's Peggy Carter reading guide describes Steve as her wartime love. It also places Peggy in the Secret Empire investigation alongside Gabe Jones, a partnership born of risky undercover work.",
+        "Sharon Carter's connection to Peggy adds kinship and legacy. Sharon later revisits Peggy's memories of Steve, making personal history part of her own understanding of the man she loved."
+      ],
+      "takeaway": "One person's history can shape another's sense of duty.",
+      "readLabel": "Explore Marvel's Agent Peggy Carter reading guide"
     }
   ],
   "compare": {
