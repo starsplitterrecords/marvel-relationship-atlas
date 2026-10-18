@@ -4,10 +4,11 @@
   const starterResearch = JSON.parse(document.getElementById('seed-research').textContent);
   let editorial = starterEditorial;
   let research = starterResearch;
-  const state={view:'stories',person:null,a:'frank',b:'luke'};
+  const state={view:'stories',person:null,world:null,a:'frank',b:'luke'};
   const app = document.getElementById('app');
   const esc = s => String(s == null ? '' : s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const person = id => editorial.portraits.find(p=>p.id===id);
+  const worldStory = id => (editorial.world_stories||[]).find(p=>p.id===id);
   const realName = id => (research.people.find(p=>p.id===id)||{}).name||id;
   const alias = id => (research.people.find(p=>p.id===id)||{}).alias||id;
   const issueList = id => {
@@ -27,13 +28,25 @@
     return '<section class="feature"><div class="feature-copy"><div class="kicker">'+esc(f.eyebrow)+'</div><h2>'+esc(f.title)+'</h2><p>'+esc(f.opening)+'</p><button type="button" class="light-button" data-person="'+esc(f.partner_id)+'">Read their story →</button></div><div class="feature-art" aria-hidden="true"><div class="symbols"><div class="symbol">D</div><div class="dash"></div><div class="symbol">P</div></div><p>'+esc(f.theme)+'</p></div></section>';
   };
   const storyTile=p=>'<button type="button" class="story-tile" data-person="'+esc(p.id)+'"><div class="kicker">'+esc(p.tag)+'</div><h3>'+esc(p.headline)+'</h3><p>'+esc(p.lede)+'</p><span class="read-more">Read about '+esc(alias(p.id))+' →</span></button>';
+  const worldIssueList = ids => {
+    const entries=ids.map(id=>research.events.find(e=>e.id===id)).filter(Boolean);
+    const seen=new Set();
+    return entries.filter(e=>{const key=(e.issue||'')+'|'+(e.source_id||'');if(seen.has(key))return false;seen.add(key);return true;}).map(e=>{
+      const s=research.sources.find(x=>x.id===e.source_id);
+      const link=s&&s.url?'<a href="'+esc(s.url)+'" target="_blank" rel="noopener noreferrer">'+esc(e.issue)+' ↗</a>':'<strong>'+esc(e.issue)+'</strong>';
+      return '<div class="issue">'+(e.publication_year?'<div class="date">'+esc(e.publication_year)+'</div>':'')+link+'<p>'+esc(e.observation||'')+'</p></div>';
+    }).join('');
+  };
+  const worldTile=p=>'<button type="button" class="story-tile" data-world="'+esc(p.id)+'"><div class="kicker">'+esc(p.category)+'</div><h3>'+esc(p.headline)+'</h3><p>'+esc(p.lede)+'</p><span class="read-more">Read this story →</span></button>';
+  const worldEssay=p=>'<article class="essay"><button type="button" class="back" data-back="true">← All stories</button><div class="kicker">'+esc(p.category)+' · EARTH-616</div><h2>'+esc(p.headline)+'</h2><p class="deck">'+esc(p.lede)+'</p><div class="prose">'+p.paragraphs.map(x=>'<p>'+esc(x)+'</p>').join('')+'</div><blockquote class="pullquote">'+esc(p.takeaway)+'</blockquote><details class="reading-box"><summary>The comics behind this story →</summary><p>These accounts come from Marvel's published issue descriptions and histories. We haven't reviewed every original panel.</p><div class="issue-list">'+worldIssueList(p.event_ids||[])+'</div></details><p class="note">Relationships change over time. This portrait reflects specific stories rather than a timeless verdict.</p><button type="button" class="back" data-back="true">← More relationships</button></article>';
   function stories(){
+    if(state.world){const w=worldStory(state.world);if(w)return worldEssay(w);state.world=null;}
     if(state.person){
       const p=person(state.person);
       if(!p){state.person=null;return stories();}
       return '<article class="essay"><button type="button" class="back" data-back="true">← All stories</button><div class="kicker">DAREDEVIL & '+esc(alias(p.id)).toUpperCase()+' · '+esc(p.tag)+'</div><h2>'+esc(p.headline)+'</h2><p class="deck">'+esc(p.lede)+'</p><div class="prose">'+p.paragraphs.map(x=>'<p>'+esc(x)+'</p>').join('')+'</div><blockquote class="pullquote">'+esc(p.takeaway)+'</blockquote><details class="reading-box"><summary>'+esc(p.readLabel)+' →</summary><p>These issue references and Marvel reading guides are the starting points for the story. They are not a substitute for reading every panel.</p><div class="issue-list">'+issueList(p.id)+'</div></details><p class="note">This is a portrait of the relationship across selected Earth-616 stories, not a claim that these feelings or loyalties remain unchanged forever. Where a motive is uncertain, the wording reflects that uncertainty.</p><button type="button" class="back" data-back="true">← Explore another relationship</button></article>';
     }
-    return feature()+'<div class="story-heading"><div class="folio">THE PEOPLE IN MATT MURDOCK’S LIFE</div><h2>Every relationship is its own story.</h2><p>Two people can cooperate and still disagree about everything that matters. A lifelong friend may know you better than anyone — and sometimes trust you less.</p></div><div class="story-grid">'+editorial.portraits.map(storyTile).join('')+'</div>';
+    return '<div class="story-heading"><div class="folio">ACROSS THE MARVEL UNIVERSE</div><h2>The connections that shape their worlds.</h2><p>Friends who become rivals. Family ties that exert pressure. Love that changes as people change.</p></div><div class="story-grid">'+(editorial.world_stories||[]).map(worldTile).join('')+'</div><div class="separator"></div>'+feature()+'<div class="story-heading"><div class="folio">THE PEOPLE IN MATT MURDOCK’S LIFE</div><h2>Every relationship is its own story.</h2><p>Two people can cooperate and still disagree about everything that matters. A lifelong friend may know you better than anyone — and sometimes trust you less.</p></div><div class="story-grid">'+editorial.portraits.map(storyTile).join('')+'</div>';
   }
   function compare(){
     const a=person(state.a)||editorial.portraits[0];
@@ -54,7 +67,7 @@
   function render(){
     app.innerHTML=state.view==='stories'?stories():state.view==='compare'?compare():reading();
     document.querySelectorAll('[data-view]').forEach(btn=>btn.classList.toggle('active',btn.dataset.view===state.view));
-    document.title=(state.view==='stories'&&state.person?alias(state.person)+' & Daredevil | ':'')+'Marvel Relationship Atlas';
+    document.title=(state.world&&worldStory(state.world)?worldStory(state.world).headline+' | ':(state.view==='stories'&&state.person?alias(state.person)+' & Daredevil | ':''))+'Marvel Relationship Atlas';
   }
   function goView(view,selected){
     state.view=view;
@@ -63,18 +76,21 @@
   }
   document.addEventListener('click',e=>{
     const nav=e.target.closest('[data-view]');
-    if(nav){if(nav.dataset.view==='stories') {history.replaceState(null,'',location.pathname+location.search);goView('stories',null);}else{goView(nav.dataset.view);}return;}
+    if(nav){if(nav.dataset.view==='stories') {history.replaceState(null,'',location.pathname+location.search);state.world=null;goView('stories',null);}else{goView(nav.dataset.view);}return;}
     const back=e.target.closest('[data-back]');
-    if(back){history.replaceState(null,'',location.pathname+location.search);goView('stories',null);return;}
+    if(back){history.replaceState(null,'',location.pathname+location.search);state.world=null;goView('stories',null);return;}
+    const w=e.target.closest('[data-world]');
+    if(w){const id=w.dataset.world;if(worldStory(id)){history.replaceState(null,'','#'+encodeURIComponent(id));state.world=id;goView('stories',null);}return;}
     const p=e.target.closest('[data-person]');
-    if(p){const id=p.dataset.person;if(person(id)){history.replaceState(null,'','#'+encodeURIComponent(id));goView('stories',id);}return;}
+    if(p){const id=p.dataset.person;if(person(id)){history.replaceState(null,'','#'+encodeURIComponent(id));state.world=null;goView('stories',id);}return;}
   });
   document.addEventListener('change',e=>{
     if(e.target.id==='compare-a'){state.a=e.target.value;render();}
     if(e.target.id==='compare-b'){state.b=e.target.value;render();}
   });
   const initial=decodeURIComponent(location.hash.slice(1));
-  if(person(initial))state.person=initial;
+  if(worldStory(initial))state.world=initial;
+  else if(person(initial))state.person=initial;
   render();
   const load=async(path)=>{const r=await fetch(path,{cache:'no-store'});if(!r.ok)throw new Error('Could not fetch '+path);return r.json();};
   Promise.allSettled([load('./data/editorial_profiles.json'),load('./data/relationship_pilot.json')]).then(results=>{
