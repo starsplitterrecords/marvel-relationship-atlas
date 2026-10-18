@@ -228,6 +228,102 @@
       "name": "Agatha Harkness",
       "alias": "Agatha Harkness",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "quill",
+      "name": "Peter Jason Quill",
+      "alias": "Star-Lord",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "mantis",
+      "name": "Mantis",
+      "alias": "Mantis",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket Raccoon",
+      "alias": "Rocket Raccoon",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "groot",
+      "name": "Groot",
+      "alias": "Groot",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gamora",
+      "name": "Gamora",
+      "alias": "Gamora",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "drax",
+      "name": "Arthur Douglas",
+      "alias": "Drax the Destroyer",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "adam",
+      "name": "Adam Warlock",
+      "alias": "Adam Warlock",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "phyla",
+      "name": "Phyla-Vell",
+      "alias": "Quasar (formerly); Martyr",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "moondragon",
+      "name": "Heather Douglas",
+      "alias": "Moondragon",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "wendell",
+      "name": "Wendell Vaughn",
+      "alias": "Quasar",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "kitty",
+      "name": "Katherine Pryde",
+      "alias": "Kate Pryde / Shadowcat",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "j_son",
+      "name": "J'son of Spartax",
+      "alias": "J'son",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ronan",
+      "name": "Ronan",
+      "alias": "Ronan the Accuser",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "richard",
+      "name": "Richard Rider",
+      "alias": "Nova",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gilbert",
+      "name": "Gilbert Vaughn",
+      "alias": "Gilbert Vaughn",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "kayla",
+      "name": "Kayla Ballantine",
+      "alias": "Kayla Ballantine",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -649,6 +745,62 @@
       "url": "https://www.marvel.com/comics/guides/2030/love-story-of-scarlet-witch-and-vision",
       "kind": "Official Marvel comics history / issue guide",
       "level": "Publisher secondary; original issue panels not independently reviewed"
+    },
+    {
+      "id": "COS01",
+      "title": "Marvel editorial: Guarding the Galaxy — A Team Divided",
+      "url": "https://www.marvel.com/articles/comics/guarding-the-galaxy-a-team-divided",
+      "kind": "Official Marvel comics issue synopsis / editorial biography",
+      "level": "Publisher secondary; full issue panels not independently reviewed"
+    },
+    {
+      "id": "COS02",
+      "title": "Marvel: Star-Lord (Peter Quill) in-comics full report",
+      "url": "https://www.marvel.com/characters/star-lord-peter-quill/in-comics/",
+      "kind": "Official Marvel comics issue synopsis / editorial biography",
+      "level": "Publisher secondary; full issue panels not independently reviewed"
+    },
+    {
+      "id": "COS03",
+      "title": "Marvel: Quasar (Wendell Vaughn) comics biography",
+      "url": "https://www.marvel.com/characters/quasar-wendell-vaughn",
+      "kind": "Official Marvel comics issue synopsis / editorial biography",
+      "level": "Publisher secondary; full issue panels not independently reviewed"
+    },
+    {
+      "id": "COS04",
+      "title": "Marvel: Groot (2015) #2 synopsis",
+      "url": "https://www.marvel.com/comics/issue/53699/groot_2015_2",
+      "kind": "Official Marvel comics issue synopsis / editorial biography",
+      "level": "Publisher secondary; full issue panels not independently reviewed"
+    },
+    {
+      "id": "COS05",
+      "title": "Marvel: Groot (2015) #5 synopsis",
+      "url": "https://www.marvel.com/comics/issue/54929",
+      "kind": "Official Marvel comics issue synopsis / editorial biography",
+      "level": "Publisher secondary; full issue panels not independently reviewed"
+    },
+    {
+      "id": "COS06",
+      "title": "Marvel: Rocket Raccoon & Groot (2016) #3 synopsis",
+      "url": "https://www.marvel.com/comics/issue/55601/rocket_raccoon__groot_2016_3",
+      "kind": "Official Marvel comics issue synopsis / editorial biography",
+      "level": "Publisher secondary; full issue panels not independently reviewed"
+    },
+    {
+      "id": "COS07",
+      "title": "Marvel: Kate Pryde comics biography",
+      "url": "https://www.marvel.com/characters/kitty-pryde",
+      "kind": "Official Marvel comics issue synopsis / editorial biography",
+      "level": "Publisher secondary; full issue panels not independently reviewed"
+    },
+    {
+      "id": "COS08",
+      "title": "Marvel editorial: Guarding the Galaxy — President Quill",
+      "url": "https://www.marvel.com/articles/comics/guarding-the-galaxy-president-quill",
+      "kind": "Official Marvel comics issue synopsis / editorial biography",
+      "level": "Publisher secondary; full issue panels not independently reviewed"
     }
   ],
   "events": [
@@ -1636,6 +1788,396 @@
       "observation": "Marvel refers to Agatha Harkness as Wanda's friend and says she revealed the disturbing truth about the twin boys' magical origins.",
       "source_id": "AV01",
       "review_status": "Marvel publisher summary checked; issue panels not inspected",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV77",
+      "a": "quill",
+      "b": "mantis",
+      "issue": "Guardians of the Galaxy (2008) #7–12, as recounted in Marvel editorial",
+      "publication_year": 2008,
+      "observation": "After the Guardians formed, the team discovered Peter Quill had asked Mantis to mentally push Rocket, Groot, Phyla-Vell (then Quasar), Adam Warlock, Drax and Gamora into joining; the discovery angered them and the group broke apart.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV78",
+      "a": "mantis",
+      "b": "rocket",
+      "issue": "Guardians of the Galaxy (2008) #7–12; Marvel editorial retrospective",
+      "publication_year": 2008,
+      "observation": "Rocket was among the specific people Mantis mentally pushed to join the Guardians at Quill's request.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV79",
+      "a": "mantis",
+      "b": "gamora",
+      "issue": "Guardians of the Galaxy (2008) #7–12; Marvel editorial retrospective",
+      "publication_year": 2008,
+      "observation": "Gamora was among those Mantis mentally pushed to join the Guardians at Quill's request.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV80",
+      "a": "mantis",
+      "b": "drax",
+      "issue": "Guardians of the Galaxy (2008) #7–12; Marvel editorial retrospective",
+      "publication_year": 2008,
+      "observation": "Drax was among those mentally pushed to join Quill's Guardians by Mantis.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV81",
+      "a": "mantis",
+      "b": "adam",
+      "issue": "Guardians of the Galaxy (2008) #7–12; Marvel editorial retrospective",
+      "publication_year": 2008,
+      "observation": "Adam Warlock was among those Mantis mentally pushed to join the Guardians.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV82",
+      "a": "mantis",
+      "b": "phyla",
+      "issue": "Guardians of the Galaxy (2008) #7–12; Marvel editorial retrospective",
+      "publication_year": 2008,
+      "observation": "The Quasar named among Mantis's mentally influenced recruits was Phyla-Vell, not Wendell Vaughn, in this Guardians era.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV83",
+      "a": "mantis",
+      "b": "groot",
+      "issue": "Guardians of the Galaxy (2008) #7–12; Marvel editorial retrospective",
+      "publication_year": 2008,
+      "observation": "Groot was among the Guardians Mantis mentally pushed to join at Quill's request.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV84",
+      "a": "rocket",
+      "b": "quill",
+      "issue": "Guardians of the Galaxy (2008) #7–12; Marvel editorial retrospective",
+      "publication_year": 2008,
+      "observation": "After learning Quill had been exiled to the Negative Zone, Rocket's squad went there to support him despite the earlier recruitment betrayal.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV85",
+      "a": "ronan",
+      "b": "quill",
+      "issue": "Guardians of the Galaxy (2008) #7–12; Marvel editorial retrospective",
+      "publication_year": 2008,
+      "observation": "Ronan, still angry about Quill's part in the Phalanx takeover of the Kree War-Net, defeated Quill and had him banished to the Negative Zone after Quill demanded that the Babel Spire be shut down.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV86",
+      "a": "groot",
+      "b": "rocket",
+      "issue": "Groot (2015) #2",
+      "publication_year": 2015,
+      "observation": "Marvel's issue description explicitly calls Rocket Groot's best friend and says Groot undertakes a journey to get him back.",
+      "source_id": "COS04",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV87",
+      "a": "groot",
+      "b": "rocket",
+      "issue": "Groot (2015) #5",
+      "publication_year": 2015,
+      "observation": "Groot faces mercenaries while trying to reunite with his best friend and interpreter Rocket Raccoon.",
+      "source_id": "COS05",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV88",
+      "a": "rocket",
+      "b": "groot",
+      "issue": "Rocket Raccoon & Groot (2016) #3",
+      "publication_year": 2016,
+      "observation": "Marvel's issue synopsis explicitly describes Rocket and Groot's bond as a friendship being tested by Rocket's alarming transformation.",
+      "source_id": "COS06",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV89",
+      "a": "phyla",
+      "b": "moondragon",
+      "issue": "Marvel Quasar biography: Phyla-Vell's attempt to resurrect Moondragon",
+      "publication_year": null,
+      "observation": "Phyla-Vell traveled into Oblivion's realm to resurrect her slain lover Moondragon, and later struck a dark bargain that brought Moondragon back.",
+      "source_id": "COS03",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV90",
+      "a": "drax",
+      "b": "moondragon",
+      "issue": "Marvel Guardians retrospective: Moondragon's origin",
+      "publication_year": null,
+      "observation": "Heather Douglas is the daughter of Arthur Douglas; Mentor recovered Arthur's spirit and transformed him into Drax the Destroyer.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV91",
+      "a": "wendell",
+      "b": "phyla",
+      "issue": "Marvel Quasar biography: Annihilation Conquest aftermath",
+      "publication_year": null,
+      "observation": "Wendell's consciousness appeared from within the Quantum Bands, drove out Annihilus's lingering essence and reassured Phyla-Vell that she was a worthy successor.",
+      "source_id": "COS03",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV92",
+      "a": "phyla",
+      "b": "wendell",
+      "issue": "Marvel Quasar biography: recovery of the Quantum Bands",
+      "publication_year": null,
+      "observation": "Phyla-Vell insisted the Quasar mantle and Quantum Bands rightfully belonged to Wendell and returned the Bands to him.",
+      "source_id": "COS03",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV93",
+      "a": "wendell",
+      "b": "richard",
+      "issue": "Marvel Quasar biography: Nova Corps Worldmind crisis",
+      "publication_year": null,
+      "observation": "Wendell lent the Quantum Bands to Richard Rider when the loss of Rider's Nova powers was causing fatal physical deterioration; the Bands stabilized him and Wendell helped Rider address the Worldmind crisis.",
+      "source_id": "COS03",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV94",
+      "a": "wendell",
+      "b": "drax",
+      "issue": "Marvel Quasar biography: Dragon of the Moon confrontation",
+      "publication_year": null,
+      "observation": "Wendell Vaughn and Drax helped one another against Maelstrom and the Dragon of the Moon while Phyla sought Moondragon's return.",
+      "source_id": "COS03",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV95",
+      "a": "moondragon",
+      "b": "wendell",
+      "issue": "Marvel Quasar biography: Vaughn Security Consultants",
+      "publication_year": null,
+      "observation": "Moondragon showed romantic interest in Wendell while working at his security firm; he preferred Kayla Ballantine and Moondragon left the firm on bad terms.",
+      "source_id": "COS03",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV96",
+      "a": "wendell",
+      "b": "kayla",
+      "issue": "Marvel Quasar biography: Vaughn Security Consultants",
+      "publication_year": null,
+      "observation": "Wendell and Kayla Ballantine reciprocated romantic feelings and later became a couple; their relationship ended after Kayla's Star Brand exile to another reality.",
+      "source_id": "COS03",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV97",
+      "a": "gilbert",
+      "b": "wendell",
+      "issue": "Marvel Quasar biography: Wendell's family history",
+      "publication_year": null,
+      "observation": "Gilbert Vaughn was emotionally distant from his son Wendell; Wendell repeatedly sought his approval, and Gilbert later gave guidance for a mission to investigate the Quantum Bands.",
+      "source_id": "COS03",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV98",
+      "a": "wendell",
+      "b": "ben",
+      "issue": "Marvel Quasar biography: Project PEGASUS",
+      "publication_year": null,
+      "observation": "Marvel describes Wendell Vaughn as befriending Ben Grimm while Ben served temporarily as a Project PEGASUS security agent.",
+      "source_id": "COS03",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV99",
+      "a": "quill",
+      "b": "kitty",
+      "issue": "Marvel Kate Pryde comics history: Guardians / Black Vortex period",
+      "publication_year": null,
+      "observation": "Kate Pryde and Peter Quill developed a romance, and Kate accepted his proposal after the Black Vortex crisis; the engagement later ended.",
+      "source_id": "COS07",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV100",
+      "a": "kitty",
+      "b": "quill",
+      "issue": "Marvel Kate Pryde comics history: breakup after engagement",
+      "publication_year": null,
+      "observation": "Marvel describes Kate and Peter's engagement ending because of a betrayal of trust on Quill's part, without specifying the full incident in the cited passage.",
+      "source_id": "COS07",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV101",
+      "a": "j_son",
+      "b": "quill",
+      "issue": "Marvel Star-Lord comics history: Spartax family",
+      "publication_year": null,
+      "observation": "J'son is Peter Quill's father; their relationship included Quill's refusal of the throne and later conflicts over J'son's plans.",
+      "source_id": "COS02",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV102",
+      "a": "kitty",
+      "b": "j_son",
+      "issue": "Marvel Kate Pryde comics history: Black Vortex period",
+      "publication_year": null,
+      "observation": "Kate helped Quill oppose his father J'son's use of the Black Vortex and ultimately helped save Spartax from the Brood-linked enclosure.",
+      "source_id": "COS07",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV103",
+      "a": "gamora",
+      "b": "adam",
+      "issue": "Guardians of the Galaxy (2008) #7–12; Marvel editorial retrospective",
+      "publication_year": 2008,
+      "observation": "After the Guardians split, Gamora accompanied Adam Warlock on his mission involving leadership of the Universal Church of Truth.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV104",
+      "a": "quill",
+      "b": "groot",
+      "issue": "Guardians of the Galaxy (2008) #7–12; Marvel editorial retrospective",
+      "publication_year": 2008,
+      "observation": "Quill's request for Mantis to influence the original Guardians included Groot; this action helped produce the group's subsequent rupture.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV105",
+      "a": "phyla",
+      "b": "drax",
+      "issue": "Marvel Quasar biography: Dragon of the Moon confrontation",
+      "publication_year": null,
+      "observation": "Phyla-Vell joined Drax and Wendell against the Dragon of the Moon and made a bargain to resurrect Moondragon, Drax's daughter.",
+      "source_id": "COS03",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "EV106",
+      "a": "quill",
+      "b": "ronan",
+      "issue": "Guardians of the Galaxy (2008) #7–12; Marvel editorial retrospective",
+      "publication_year": 2008,
+      "observation": "Quill confronted Ronan about the Kree Babel Spire and demanded its shutdown, leading to his defeat and exile.",
+      "source_id": "COS01",
+      "review_status": "Marvel publisher synopsis/history reviewed; original comic panels not independently checked",
       "evidence_tier": "publisher_secondary",
       "observation_type": "publisher_summary",
       "continuity": "Earth-616"
@@ -3763,6 +4305,741 @@
       "scope": "Vision and Scarlet Witch #12",
       "continuity": "Earth-616",
       "review_status": "provisional; official Marvel source, no panel review"
+    },
+    {
+      "id": "CL128",
+      "pair_id": "mantis-quill",
+      "from_id": "quill",
+      "to_id": "mantis",
+      "dimension": "influence",
+      "assessment": "recruitment manipulation arranged",
+      "epistemic": "direct",
+      "summary": "Asked Mantis to use mental influence to recruit Guardians",
+      "qualification": "Quill's request is explicit; this does not establish that he coerced Mantis herself.",
+      "event_ids": [
+        "EV77"
+      ],
+      "scope": "2008 Guardians founding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL129",
+      "pair_id": "mantis-rocket",
+      "from_id": "mantis",
+      "to_id": "rocket",
+      "dimension": "coercion",
+      "assessment": "telepathic recruitment",
+      "epistemic": "direct",
+      "summary": "Mentally pushed Rocket to join the Guardians",
+      "qualification": "The published account describes the manipulation, not Rocket's unspoken thoughts.",
+      "event_ids": [
+        "EV78"
+      ],
+      "scope": "2008 Guardians founding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL130",
+      "pair_id": "groot-mantis",
+      "from_id": "mantis",
+      "to_id": "groot",
+      "dimension": "coercion",
+      "assessment": "telepathic recruitment",
+      "epistemic": "direct",
+      "summary": "Mentally pushed Groot to join the Guardians",
+      "qualification": "Groot's own internal interpretation is not described.",
+      "event_ids": [
+        "EV83"
+      ],
+      "scope": "2008 Guardians founding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL131",
+      "pair_id": "gamora-mantis",
+      "from_id": "mantis",
+      "to_id": "gamora",
+      "dimension": "coercion",
+      "assessment": "telepathic recruitment",
+      "epistemic": "direct",
+      "summary": "Mentally pushed Gamora to join the Guardians",
+      "qualification": "The team later discovered and objected to the interference.",
+      "event_ids": [
+        "EV79"
+      ],
+      "scope": "2008 Guardians founding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL132",
+      "pair_id": "drax-mantis",
+      "from_id": "mantis",
+      "to_id": "drax",
+      "dimension": "coercion",
+      "assessment": "telepathic recruitment",
+      "epistemic": "direct",
+      "summary": "Mentally pushed Drax to join the Guardians",
+      "qualification": "Mental influence is distinct from ordinary persuasion.",
+      "event_ids": [
+        "EV80"
+      ],
+      "scope": "2008 Guardians founding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL133",
+      "pair_id": "adam-mantis",
+      "from_id": "mantis",
+      "to_id": "adam",
+      "dimension": "coercion",
+      "assessment": "telepathic recruitment",
+      "epistemic": "direct",
+      "summary": "Mentally pushed Adam Warlock to join the Guardians",
+      "qualification": "Publisher synopsis, not direct panel review.",
+      "event_ids": [
+        "EV81"
+      ],
+      "scope": "2008 Guardians founding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL134",
+      "pair_id": "mantis-phyla",
+      "from_id": "mantis",
+      "to_id": "phyla",
+      "dimension": "coercion",
+      "assessment": "telepathic recruitment",
+      "epistemic": "direct",
+      "summary": "Mentally pushed Phyla-Vell, then Quasar, to join the Guardians",
+      "qualification": "Do not confuse Phyla-Vell with Wendell Vaughn, who also used the Quasar mantle.",
+      "event_ids": [
+        "EV82"
+      ],
+      "scope": "2008 Guardians founding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL135",
+      "pair_id": "quill-rocket",
+      "from_id": "quill",
+      "to_id": "rocket",
+      "dimension": "betrayal",
+      "assessment": "compromised informed consent",
+      "epistemic": "interpretive",
+      "summary": "Arranged mental influence on Rocket's decision to join the team",
+      "qualification": "The deception is established; the label betrayal characterizes the violation of informed consent.",
+      "event_ids": [
+        "EV77",
+        "EV78"
+      ],
+      "scope": "2008 Guardians founding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL136",
+      "pair_id": "gamora-quill",
+      "from_id": "quill",
+      "to_id": "gamora",
+      "dimension": "betrayal",
+      "assessment": "compromised informed consent",
+      "epistemic": "interpretive",
+      "summary": "Arranged mental influence on Gamora's recruitment",
+      "qualification": "Do not infer her private emotional state beyond the reported group anger.",
+      "event_ids": [
+        "EV77",
+        "EV79"
+      ],
+      "scope": "2008 Guardians founding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL137",
+      "pair_id": "quill-rocket",
+      "from_id": "rocket",
+      "to_id": "quill",
+      "dimension": "protection",
+      "assessment": "returned to help despite rupture",
+      "epistemic": "direct",
+      "summary": "Led a squad that came to Quill's aid in the Negative Zone",
+      "qualification": "Action establishes aid, not full restoration of personal trust.",
+      "event_ids": [
+        "EV84"
+      ],
+      "scope": "Guardians of the Galaxy (2008) #7–12",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL138",
+      "pair_id": "quill-ronan",
+      "from_id": "ronan",
+      "to_id": "quill",
+      "dimension": "conflict",
+      "assessment": "punitive banishment",
+      "epistemic": "direct",
+      "summary": "Defeated and banished Quill after a dispute about the Kree Babel Spire",
+      "qualification": "Ronan's grievance about the Phalanx incident is described in the Marvel retrospective.",
+      "event_ids": [
+        "EV85"
+      ],
+      "scope": "Guardians of the Galaxy (2008) #7–12",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL139",
+      "pair_id": "quill-ronan",
+      "from_id": "quill",
+      "to_id": "ronan",
+      "dimension": "conflict",
+      "assessment": "demanded Kree policy reversal",
+      "epistemic": "direct",
+      "summary": "Confronted Ronan and demanded shutdown of the Babel Spire",
+      "qualification": "The source does not establish that Quill held formal authority over Ronan.",
+      "event_ids": [
+        "EV106"
+      ],
+      "scope": "Guardians of the Galaxy (2008) #7–12",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL140",
+      "pair_id": "groot-rocket",
+      "from_id": "groot",
+      "to_id": "rocket",
+      "dimension": "friendship",
+      "assessment": "explicit best friends",
+      "epistemic": "direct",
+      "summary": "Called Rocket his best friend and undertook a journey to reunite with him",
+      "qualification": "Issue synopses directly use best friend; no quantified intensity implied.",
+      "event_ids": [
+        "EV86",
+        "EV87"
+      ],
+      "scope": "Groot (2015) #2–5",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL141",
+      "pair_id": "groot-rocket",
+      "from_id": "groot",
+      "to_id": "rocket",
+      "dimension": "protection",
+      "assessment": "risked danger to reunite",
+      "epistemic": "direct",
+      "summary": "Faced mercenaries while pursuing reunion with Rocket",
+      "qualification": "Dangerous rescue/reunion efforts are actions, not a permanent promise of protection.",
+      "event_ids": [
+        "EV87"
+      ],
+      "scope": "Groot (2015) #5",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL142",
+      "pair_id": "groot-rocket",
+      "from_id": "rocket",
+      "to_id": "groot",
+      "dimension": "friendship",
+      "assessment": "explicit longstanding friendship",
+      "epistemic": "direct",
+      "summary": "Shared a friendship with Groot that was tested by Rocket's transformation",
+      "qualification": "Marvel's synopsis describes the friendship directly.",
+      "event_ids": [
+        "EV88"
+      ],
+      "scope": "Rocket Raccoon & Groot (2016) #3",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL143",
+      "pair_id": "moondragon-phyla",
+      "from_id": "phyla",
+      "to_id": "moondragon",
+      "dimension": "romance",
+      "assessment": "established lovers",
+      "epistemic": "direct",
+      "summary": "Sought to restore Moondragon to life after her death",
+      "qualification": "The source calls Moondragon Phyla's lover; the resurrection attempt is a separate observed act.",
+      "event_ids": [
+        "EV89"
+      ],
+      "scope": "Annihilation: Conquest aftermath",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL144",
+      "pair_id": "moondragon-phyla",
+      "from_id": "phyla",
+      "to_id": "moondragon",
+      "dimension": "protection",
+      "assessment": "sought resurrection at personal risk",
+      "epistemic": "direct",
+      "summary": "Entered Oblivion's realm and made a dark bargain to bring Moondragon back",
+      "qualification": "The bargain is documented, but precise costs need issue-level review.",
+      "event_ids": [
+        "EV89"
+      ],
+      "scope": "Post-Annihilation: Conquest",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL145",
+      "pair_id": "moondragon-phyla",
+      "from_id": "moondragon",
+      "to_id": "phyla",
+      "dimension": "romance",
+      "assessment": "established lovers",
+      "epistemic": "direct",
+      "summary": "Was Phyla-Vell's romantic partner",
+      "qualification": "Reciprocal relationship status is established by the publisher's description of the pair as lovers.",
+      "event_ids": [
+        "EV89"
+      ],
+      "scope": "Annihilation: Conquest aftermath",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL146",
+      "pair_id": "drax-moondragon",
+      "from_id": "drax",
+      "to_id": "moondragon",
+      "dimension": "family",
+      "assessment": "father",
+      "epistemic": "direct",
+      "summary": "Arthur Douglas, reborn as Drax, is Heather Douglas's father",
+      "qualification": "Their transformed histories should not be mistaken for a typical continuous upbringing.",
+      "event_ids": [
+        "EV90"
+      ],
+      "scope": "Drax/Moondragon origin",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL147",
+      "pair_id": "drax-moondragon",
+      "from_id": "moondragon",
+      "to_id": "drax",
+      "dimension": "family",
+      "assessment": "daughter",
+      "epistemic": "direct",
+      "summary": "Heather Douglas is the daughter of Arthur Douglas, later Drax",
+      "qualification": "Marvel's historical account establishes identity and kinship.",
+      "event_ids": [
+        "EV90"
+      ],
+      "scope": "Drax/Moondragon origin",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL148",
+      "pair_id": "phyla-wendell",
+      "from_id": "wendell",
+      "to_id": "phyla",
+      "dimension": "protection",
+      "assessment": "intervened against possession",
+      "epistemic": "direct",
+      "summary": "Helped free Phyla from Annihilus's lingering influence within the Quantum Bands",
+      "qualification": "Intervention and reassurance are explicit; do not infer a lifelong mentorship.",
+      "event_ids": [
+        "EV91"
+      ],
+      "scope": "Annihilation: Conquest aftermath",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL149",
+      "pair_id": "phyla-wendell",
+      "from_id": "wendell",
+      "to_id": "phyla",
+      "dimension": "competence_respect",
+      "assessment": "endorsed successor",
+      "epistemic": "direct",
+      "summary": "Reassured Phyla that she was worthy of being Quasar",
+      "qualification": "This is explicit verbal endorsement in Marvel's history.",
+      "event_ids": [
+        "EV91"
+      ],
+      "scope": "Quantum Bands succession",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL150",
+      "pair_id": "phyla-wendell",
+      "from_id": "phyla",
+      "to_id": "wendell",
+      "dimension": "moral_respect",
+      "assessment": "recognized rightful predecessor",
+      "epistemic": "direct",
+      "summary": "Returned the Quantum Bands because she considered them rightfully Wendell's",
+      "qualification": "This describes Phyla's stated view of the mantle, not an objective legal determination.",
+      "event_ids": [
+        "EV92"
+      ],
+      "scope": "Quantum Bands succession",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL151",
+      "pair_id": "richard-wendell",
+      "from_id": "wendell",
+      "to_id": "richard",
+      "dimension": "protection",
+      "assessment": "lent power to save life",
+      "epistemic": "direct",
+      "summary": "Gave Richard Rider the Quantum Bands to stop his physical deterioration",
+      "qualification": "Temporary transfer is documented, not a permanent surrender of the title.",
+      "event_ids": [
+        "EV93"
+      ],
+      "scope": "Nova Corps Worldmind crisis",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL152",
+      "pair_id": "richard-wendell",
+      "from_id": "wendell",
+      "to_id": "richard",
+      "dimension": "cooperation",
+      "assessment": "advised during Worldmind crisis",
+      "epistemic": "direct",
+      "summary": "Helped Rider identify and repair the Worldmind's failure",
+      "qualification": "Cooperation is specifically documented; not proof of intimacy.",
+      "event_ids": [
+        "EV93"
+      ],
+      "scope": "Nova Corps Worldmind crisis",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL153",
+      "pair_id": "drax-wendell",
+      "from_id": "wendell",
+      "to_id": "drax",
+      "dimension": "cooperation",
+      "assessment": "shared action against cosmic threat",
+      "epistemic": "direct",
+      "summary": "Worked with Drax against Maelstrom and the Dragon of the Moon",
+      "qualification": "The source describes a particular rescue/confrontation, not an ongoing team status.",
+      "event_ids": [
+        "EV94"
+      ],
+      "scope": "Moondragon resurrection arc",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL154",
+      "pair_id": "drax-wendell",
+      "from_id": "drax",
+      "to_id": "wendell",
+      "dimension": "cooperation",
+      "assessment": "shared action against cosmic threat",
+      "epistemic": "direct",
+      "summary": "Helped Wendell defeat Maelstrom and confront the Dragon of the Moon",
+      "qualification": "Joint action is explicit in the publisher biography.",
+      "event_ids": [
+        "EV94"
+      ],
+      "scope": "Moondragon resurrection arc",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL155",
+      "pair_id": "moondragon-wendell",
+      "from_id": "moondragon",
+      "to_id": "wendell",
+      "dimension": "romance",
+      "assessment": "unreciprocated interest",
+      "epistemic": "direct",
+      "summary": "Expressed romantic interest in Wendell while working for him",
+      "qualification": "Marvel describes Wendell as preferring Kayla; don't describe them as a couple.",
+      "event_ids": [
+        "EV95"
+      ],
+      "scope": "Vaughn Security Consultants era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL156",
+      "pair_id": "kayla-wendell",
+      "from_id": "wendell",
+      "to_id": "kayla",
+      "dimension": "romance",
+      "assessment": "reciprocated romance",
+      "epistemic": "direct",
+      "summary": "Returned Kayla's affection and entered a relationship with her",
+      "qualification": "The relationship later ended after her exile; not a present-status assertion.",
+      "event_ids": [
+        "EV96"
+      ],
+      "scope": "Vaughn Security Consultants / Star Brand era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL157",
+      "pair_id": "kayla-wendell",
+      "from_id": "kayla",
+      "to_id": "wendell",
+      "dimension": "romance",
+      "assessment": "reciprocated romance",
+      "epistemic": "direct",
+      "summary": "Was romantically involved with Wendell Vaughn",
+      "qualification": "Historical, not a current relationship claim.",
+      "event_ids": [
+        "EV96"
+      ],
+      "scope": "Vaughn Security Consultants / Star Brand era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL158",
+      "pair_id": "gilbert-wendell",
+      "from_id": "gilbert",
+      "to_id": "wendell",
+      "dimension": "family",
+      "assessment": "emotionally distant father",
+      "epistemic": "direct",
+      "summary": "Was Wendell's father and often withheld visible affection",
+      "qualification": "Marvel describes Gilbert as aloof; avoid inferring his inner intentions.",
+      "event_ids": [
+        "EV97"
+      ],
+      "scope": "Wendell's youth",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL159",
+      "pair_id": "gilbert-wendell",
+      "from_id": "wendell",
+      "to_id": "gilbert",
+      "dimension": "influence",
+      "assessment": "sought paternal approval",
+      "epistemic": "direct",
+      "summary": "Sought his father's affection and approval despite Gilbert's distance",
+      "qualification": "Marvel explicitly connects the pursuit of approval to Wendell's emotional history.",
+      "event_ids": [
+        "EV97"
+      ],
+      "scope": "Wendell's youth and early career",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL160",
+      "pair_id": "ben-wendell",
+      "from_id": "wendell",
+      "to_id": "ben",
+      "dimension": "friendship",
+      "assessment": "befriended during PEGASUS service",
+      "epistemic": "direct",
+      "summary": "Became friends with Ben Grimm at Project PEGASUS",
+      "qualification": "Official Marvel biography explicitly calls them friends.",
+      "event_ids": [
+        "EV98"
+      ],
+      "scope": "Project PEGASUS era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL161",
+      "pair_id": "kitty-quill",
+      "from_id": "quill",
+      "to_id": "kitty",
+      "dimension": "romance",
+      "assessment": "engaged, later separated",
+      "epistemic": "direct",
+      "summary": "Built a romantic relationship with Kate Pryde and proposed marriage",
+      "qualification": "Their engagement ended later; this is historical.",
+      "event_ids": [
+        "EV99"
+      ],
+      "scope": "Guardians / Black Vortex era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL162",
+      "pair_id": "kitty-quill",
+      "from_id": "kitty",
+      "to_id": "quill",
+      "dimension": "romance",
+      "assessment": "engaged, later separated",
+      "epistemic": "direct",
+      "summary": "Accepted Peter Quill's proposal after the Black Vortex crisis",
+      "qualification": "The engagement ended; no permanent status inferred.",
+      "event_ids": [
+        "EV99"
+      ],
+      "scope": "Guardians / Black Vortex era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL163",
+      "pair_id": "kitty-quill",
+      "from_id": "kitty",
+      "to_id": "quill",
+      "dimension": "trust",
+      "assessment": "broken engagement after breach",
+      "epistemic": "direct",
+      "summary": "Ended the engagement after a betrayal of trust attributed to Peter",
+      "qualification": "The cited summary does not specify all details of the breach.",
+      "event_ids": [
+        "EV100"
+      ],
+      "scope": "Post-Black Vortex engagement",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL164",
+      "pair_id": "j_son-quill",
+      "from_id": "j_son",
+      "to_id": "quill",
+      "dimension": "family",
+      "assessment": "biological father",
+      "epistemic": "direct",
+      "summary": "Is Peter Quill's father, tied to Spartax royal succession",
+      "qualification": "Parenthood does not establish mutual political loyalty.",
+      "event_ids": [
+        "EV101"
+      ],
+      "scope": "Spartax family history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL165",
+      "pair_id": "j_son-quill",
+      "from_id": "quill",
+      "to_id": "j_son",
+      "dimension": "conflict",
+      "assessment": "refused paternal royal succession",
+      "epistemic": "direct",
+      "summary": "Rejected his father's intended royal succession and later opposed J'son's plans",
+      "qualification": "Do not conflate the different eras of refusal and Black Vortex conflict.",
+      "event_ids": [
+        "EV101"
+      ],
+      "scope": "Spartax succession / Black Vortex",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL166",
+      "pair_id": "j_son-kitty",
+      "from_id": "kitty",
+      "to_id": "j_son",
+      "dimension": "conflict",
+      "assessment": "opposed Black Vortex scheme",
+      "epistemic": "direct",
+      "summary": "Helped thwart J'son's attempt to use the Black Vortex",
+      "qualification": "The source supports opposition in the specific crisis, not personal hatred.",
+      "event_ids": [
+        "EV102"
+      ],
+      "scope": "Black Vortex crisis",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL167",
+      "pair_id": "kitty-quill",
+      "from_id": "kitty",
+      "to_id": "quill",
+      "dimension": "cooperation",
+      "assessment": "acted to protect Peter's homeworld",
+      "epistemic": "direct",
+      "summary": "Helped Peter oppose J'son and save Spartax",
+      "qualification": "A specific protective alliance, distinct from their romantic relationship.",
+      "event_ids": [
+        "EV102"
+      ],
+      "scope": "Black Vortex crisis",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL168",
+      "pair_id": "adam-gamora",
+      "from_id": "gamora",
+      "to_id": "adam",
+      "dimension": "cooperation",
+      "assessment": "joined a separate mission",
+      "epistemic": "direct",
+      "summary": "Accompanied Adam Warlock in his Universal Church of Truth mission after the team split",
+      "qualification": "Cooperation does not by itself establish friendship or romantic interest.",
+      "event_ids": [
+        "EV103"
+      ],
+      "scope": "Guardians of the Galaxy (2008) #7–12",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL169",
+      "pair_id": "groot-quill",
+      "from_id": "quill",
+      "to_id": "groot",
+      "dimension": "betrayal",
+      "assessment": "recruitment manipulated by proxy",
+      "epistemic": "interpretive",
+      "summary": "Arranged Mantis's mental influence on Groot's joining the team",
+      "qualification": "Interpretive betrayal label; no direct Groot speech cited.",
+      "event_ids": [
+        "EV77",
+        "EV104"
+      ],
+      "scope": "2008 Guardians founding",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "CL170",
+      "pair_id": "drax-phyla",
+      "from_id": "phyla",
+      "to_id": "drax",
+      "dimension": "cooperation",
+      "assessment": "shared rescue of Moondragon",
+      "epistemic": "direct",
+      "summary": "Joined Drax in action against the Dragon of the Moon",
+      "qualification": "Their mutual stake in Moondragon does not prove equal motives.",
+      "event_ids": [
+        "EV105"
+      ],
+      "scope": "Moondragon resurrection arc",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher summary, not panel-verified"
     }
   ],
   "research_backlog": [
