@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "purpose": "Link the historical broad character catalogue to the deeper interpersonal research catalogue without merging them prematurely.",
+    "created": "2026-10-18",
+    "scope": "Earth-616",
+    "review": "Initial exact identity matches; no mantle-only matching."
+  },
+  "mappings": [
+    {
+      "person_id": "matt",
+      "node_id": "c_matt"
+    },
+    {
+      "person_id": "frank",
+      "node_id": "c_punisher"
+    },
+    {
+      "person_id": "luke",
+      "node_id": "c_luke"
+    },
+    {
+      "person_id": "foggy",
+      "node_id": "c_foggy"
+    },
+    {
+      "person_id": "elektra",
+      "node_id": "c_elektra"
+    },
+    {
+      "person_id": "fisk",
+      "node_id": "c_kingpin"
+    },
+    {
+      "person_id": "peter",
+      "node_id": "c_peter"
+    },
+    {
+      "person_id": "stick",
+      "node_id": "c_stick"
+    },
+    {
+      "person_id": "sam",
+      "node_id": "c_blindspot"
+    },
+    {
+      "person_id": "karen",
+      "node_id": "c_karen"
+    },
+    {
+      "person_id": "bullseye",
+      "node_id": "c_bullseye"
+    }
+  ]
+}
