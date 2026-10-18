@@ -1,11 +1,12 @@
 {
   "name": "Marvel Relationship Atlas",
-  "short_name": "616 Relations",
+  "short_name": "Marvel Bonds",
+  "description": "The stories behind Marvel's friendships, rivalries and complicated bonds.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0a111c",
-  "theme_color": "#0b1320",
+  "background_color": "#f5f0e7",
+  "theme_color": "#f5f0e7",
   "icons": [
     {
       "src": "./icon.svg",
