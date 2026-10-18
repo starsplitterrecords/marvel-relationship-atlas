@@ -49,6 +49,86 @@
     {
       "person_id": "bullseye",
       "node_id": "c_bullseye"
+    },
+    {
+      "person_id": "rogue",
+      "node_id": "c_rogue"
+    },
+    {
+      "person_id": "mystique",
+      "node_id": "c_mystique"
+    },
+    {
+      "person_id": "gambit",
+      "node_id": "c_gambit"
+    },
+    {
+      "person_id": "nightcrawler",
+      "node_id": "c_kurt"
+    },
+    {
+      "person_id": "carol",
+      "node_id": "c_carol"
+    },
+    {
+      "person_id": "charles",
+      "node_id": "c_charles"
+    },
+    {
+      "person_id": "magneto",
+      "node_id": "c_magneto"
+    },
+    {
+      "person_id": "strucker",
+      "node_id": "c_strucker"
+    },
+    {
+      "person_id": "reed",
+      "node_id": "c_reed"
+    },
+    {
+      "person_id": "sue",
+      "node_id": "c_sue"
+    },
+    {
+      "person_id": "ben",
+      "node_id": "c_ben"
+    },
+    {
+      "person_id": "johnny",
+      "node_id": "c_johnny"
+    },
+    {
+      "person_id": "doom",
+      "node_id": "c_doom"
+    },
+    {
+      "person_id": "franklin",
+      "node_id": "c_franklin"
+    },
+    {
+      "person_id": "valeria",
+      "node_id": "c_valeria"
+    },
+    {
+      "person_id": "alicia",
+      "node_id": "c_alicia"
+    },
+    {
+      "person_id": "crystal",
+      "node_id": "c_crystal"
+    },
+    {
+      "person_id": "wanda",
+      "node_id": "c_wanda"
+    },
+    {
+      "person_id": "vision",
+      "node_id": "c_vision"
+    },
+    {
+      "person_id": "pietro",
+      "node_id": "c_pietro"
     }
   ]
 }
