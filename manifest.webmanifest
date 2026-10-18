@@ -1,0 +1,17 @@
+{
+  "name": "Marvel Relationship Atlas",
+  "short_name": "616 Relations",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a111c",
+  "theme_color": "#0b1320",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
