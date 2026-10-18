@@ -63,9 +63,9 @@
   }
   document.addEventListener('click',e=>{
     const nav=e.target.closest('[data-view]');
-    if(nav){goView(nav.dataset.view);return;}
+    if(nav){if(nav.dataset.view==='stories') {history.replaceState(null,'',location.pathname+location.search);goView('stories',null);}else{goView(nav.dataset.view);}return;}
     const back=e.target.closest('[data-back]');
-    if(back){goView('stories',null);return;}
+    if(back){history.replaceState(null,'',location.pathname+location.search);goView('stories',null);return;}
     const p=e.target.closest('[data-person]');
     if(p){const id=p.dataset.person;if(person(id)){history.replaceState(null,'','#'+encodeURIComponent(id));goView('stories',id);}return;}
   });
