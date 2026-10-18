@@ -14,3 +14,5 @@ jobs:
           python-version: '3.12'
       - name: Validate canonical JSON
         run: python scripts/validate_data.py
+      - name: Report interpersonal coverage and concentration
+        run: python scripts/coverage_audit.py
