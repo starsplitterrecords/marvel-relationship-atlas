@@ -384,6 +384,78 @@
       "name": "Tetu",
       "alias": "Tetu",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "natasha",
+      "name": "Natalia Romanova",
+      "alias": "Black Widow",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "clint",
+      "name": "Clint Barton",
+      "alias": "Hawkeye",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "bucky",
+      "name": "James Buchanan Barnes",
+      "alias": "Winter Soldier",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "alexei",
+      "name": "Alexei Shostakov",
+      "alias": "Red Guardian",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "yelena",
+      "name": "Yelena Belova",
+      "alias": "White Widow",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "nick_fury_sr",
+      "name": "Nick Fury Sr.",
+      "alias": "Nick Fury",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "valentina",
+      "name": "Valentina Allegra de Fontaine",
+      "alias": "Contessa",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "sharon",
+      "name": "Sharon Carter",
+      "alias": "Agent 13",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "peggy",
+      "name": "Margaret Carter",
+      "alias": "Peggy Carter",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gabe",
+      "name": "Gabriel Jones",
+      "alias": "Gabe Jones",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "steve",
+      "name": "Steve Rogers",
+      "alias": "Captain America",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "bobbi",
+      "name": "Barbara Morse",
+      "alias": "Mockingbird",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -924,6 +996,62 @@
       "url": "https://www.marvel.com/articles/comics/stephanie-williams-wakanda-2022-shuri-black-panther-interview",
       "kind": "Marvel official issue synopsis / editorial history",
       "level": "publisher_secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "SPY27_S1",
+      "title": "Marvel: Black Widow comics history",
+      "url": "https://www.marvel.com/characters/black-widow-natasha-romanova/in-comics",
+      "kind": "Official Marvel issue or editorial history",
+      "level": "publisher_secondary; original panels not inspected"
+    },
+    {
+      "id": "SPY27_S2",
+      "title": "Marvel: Yelena Belova comics reading guide",
+      "url": "https://www.marvel.com/comics/guides/1517/",
+      "kind": "Official Marvel issue or editorial history",
+      "level": "publisher_secondary; original panels not inspected"
+    },
+    {
+      "id": "SPY27_S3",
+      "title": "Marvel: Yelena Belova traumatic moments",
+      "url": "https://www.marvel.com/comics/guides/2490/yelena_belovas_most_traumatic_moments",
+      "kind": "Official Marvel issue or editorial history",
+      "level": "publisher_secondary; original panels not inspected"
+    },
+    {
+      "id": "SPY27_S4",
+      "title": "Tales of Suspense (2017) #100",
+      "url": "https://www.marvel.com/comics/issue/65310/tales_of_suspense_2017_100",
+      "kind": "Official Marvel issue or editorial history",
+      "level": "publisher_secondary; original panels not inspected"
+    },
+    {
+      "id": "SPY27_S5",
+      "title": "Hawkeye (1983) #4",
+      "url": "https://www.marvel.com/comics/issue/43179",
+      "kind": "Official Marvel issue or editorial history",
+      "level": "publisher_secondary; original panels not inspected"
+    },
+    {
+      "id": "SPY27_S6",
+      "title": "Marvel: Valentina de Fontaine comics history",
+      "url": "https://www.marvel.com/amp/articles/comics/countess-valentina-allegra-de-fontaine-in-the-comics-marvel-unlimited",
+      "kind": "Official Marvel issue or editorial history",
+      "level": "publisher_secondary; original panels not inspected"
+    },
+    {
+      "id": "SPY27_S7",
+      "title": "Marvel: Agent Peggy Carter reading guide",
+      "url": "https://www.marvel.com/comics/discover/442/agent-peggy-carter",
+      "kind": "Official Marvel issue or editorial history",
+      "level": "publisher_secondary; original panels not inspected"
+    },
+    {
+      "id": "SPY27_S8",
+      "title": "Captain America: Prisoner of War collection",
+      "url": "https://www.marvel.com/comics/collection/36574/captain_america_prisoner_of_war_tpb_trade_paperback",
+      "kind": "Official Marvel issue or editorial history",
+      "level": "publisher_secondary; original panels not inspected"
     }
   ],
   "events": [
@@ -2459,6 +2587,227 @@
       "review_status": "Marvel publisher synopsis/history reviewed; original panels not independently checked",
       "evidence_tier": "publisher_secondary",
       "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E1",
+      "a": "natasha",
+      "b": "clint",
+      "issue": "Early Iron Man/Hawkeye encounters (1960s)",
+      "publication_year": null,
+      "observation": "Marvel describes Natasha recruiting Clint to fight Iron Man and his idealism subsequently influencing her defection.",
+      "source_id": "SPY27_S1",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E2",
+      "a": "natasha",
+      "b": "bucky",
+      "issue": "Tales of Suspense (2017) #100; Cold War backstory",
+      "publication_year": 2017,
+      "observation": "Marvel's issue synopsis identifies Bucky as Natasha's former boyfriend.",
+      "source_id": "SPY27_S4",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E3",
+      "a": "natasha",
+      "b": "alexei",
+      "issue": "Avengers (1963) #43–44; Red Guardian history",
+      "publication_year": 1967,
+      "observation": "Marvel recounts Natasha's marriage to Alexei and his reappearance as Red Guardian after his supposed death.",
+      "source_id": "SPY27_S1",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E4",
+      "a": "natasha",
+      "b": "yelena",
+      "issue": "Black Widow (1999) #1",
+      "publication_year": 1999,
+      "observation": "Yelena shadows Natasha as a rival; their antagonistic meeting becomes a willing team-up according to Marvel's guide.",
+      "source_id": "SPY27_S2",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E5",
+      "a": "natasha",
+      "b": "yelena",
+      "issue": "Black Widow (2001) #1",
+      "publication_year": 2001,
+      "observation": "Natasha arranges an identity exchange intended to deprogram Yelena; Marvel describes its destabilizing effect.",
+      "source_id": "SPY27_S3",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E6",
+      "a": "natasha",
+      "b": "nick_fury_sr",
+      "issue": "Post-defection S.H.I.E.L.D. espionage assignments",
+      "publication_year": null,
+      "observation": "Marvel recounts Natasha carrying out espionage work directly for Nick Fury.",
+      "source_id": "SPY27_S1",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E7",
+      "a": "clint",
+      "b": "bucky",
+      "issue": "Tales of Suspense (2017) #100",
+      "publication_year": 2017,
+      "observation": "Clint and Bucky reluctantly investigate killings linked to Natasha's apparent death; Marvel's issue synopsis questions their mutual trust.",
+      "source_id": "SPY27_S4",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E8",
+      "a": "clint",
+      "b": "bobbi",
+      "issue": "Hawkeye (1983) #4",
+      "publication_year": 1983,
+      "observation": "Mockingbird acknowledges her love for Hawkeye as the two escape Crossfire's trap.",
+      "source_id": "SPY27_S5",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E9",
+      "a": "nick_fury_sr",
+      "b": "valentina",
+      "issue": "Nick Fury, Agent of S.H.I.E.L.D. (1968) #2",
+      "publication_year": 1968,
+      "observation": "Marvel describes the beginning of Fury and Valentina's on-and-off romance.",
+      "source_id": "SPY27_S6",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E10",
+      "a": "nick_fury_sr",
+      "b": "valentina",
+      "issue": "Secret Warriors (2009) #14–15",
+      "publication_year": 2009,
+      "observation": "Valentina concealed her loyalty to Leviathan while embedded in Fury's organization; Marvel describes this as betrayal from Fury's perspective.",
+      "source_id": "SPY27_S6",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E11",
+      "a": "valentina",
+      "b": "sharon",
+      "issue": "Captain America (1968) #145",
+      "publication_year": 1972,
+      "observation": "Valentina and Sharon defended each other against Hydra despite tension over Captain America.",
+      "source_id": "SPY27_S6",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E12",
+      "a": "bucky",
+      "b": "steve",
+      "issue": "Captain America #616–619 (Prisoner of War)",
+      "publication_year": 2011,
+      "observation": "Steve and allies sought to free Bucky from a prison conspiracy exploiting his Winter Soldier past.",
+      "source_id": "SPY27_S8",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E13",
+      "a": "peggy",
+      "b": "steve",
+      "issue": "Captain America (1968) #162 (wartime flashback)",
+      "publication_year": 1973,
+      "observation": "Marvel identifies Peggy as Steve's wartime love and describes his enduring memory of her.",
+      "source_id": "SPY27_S7",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E14",
+      "a": "peggy",
+      "b": "sharon",
+      "issue": "Captain America (2004) #49",
+      "publication_year": 2009,
+      "observation": "Sharon is Peggy's niece and revisits Peggy's wartime memories to understand Steve.",
+      "source_id": "SPY27_S7",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E15",
+      "a": "peggy",
+      "b": "gabe",
+      "issue": "Captain America (1968) #175",
+      "publication_year": 1974,
+      "observation": "Peggy and Gabe jointly infiltrated the Secret Empire undercover.",
+      "source_id": "SPY27_S7",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E16",
+      "a": "sharon",
+      "b": "steve",
+      "issue": "Captain America (2004) #49",
+      "publication_year": 2009,
+      "observation": "Marvel describes Sharon grieving Steve and remembering him as the man she loved.",
+      "source_id": "SPY27_S7",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SPY27_E17",
+      "a": "yelena",
+      "b": "bobbi",
+      "issue": "Secret Avengers (2013) #15",
+      "publication_year": 2014,
+      "observation": "Marvel's guide describes an A.I.M.-linked Yelena fighting Mockingbird during an undercover mission.",
+      "source_id": "SPY27_S3",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "Official Marvel summary; original panels not reviewed",
       "continuity": "Earth-616"
     }
   ],
@@ -5574,6 +5923,363 @@
       "scope": "Dora Milaje history",
       "continuity": "Earth-616",
       "review_status": "provisional; Marvel publisher summary, not panel-verified"
+    },
+    {
+      "id": "SPY27_C1",
+      "pair_id": "clint-natasha",
+      "from_id": "natasha",
+      "to_id": "clint",
+      "dimension": "influence",
+      "assessment": "persuaded Clint to oppose Iron Man",
+      "epistemic": "direct",
+      "summary": "persuaded Clint to oppose Iron Man",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E1"
+      ],
+      "scope": "Early Iron Man/Hawkeye encounters (1960s)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C2",
+      "pair_id": "clint-natasha",
+      "from_id": "clint",
+      "to_id": "natasha",
+      "dimension": "influence",
+      "assessment": "influenced Natasha toward defection",
+      "epistemic": "direct",
+      "summary": "influenced Natasha toward defection",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E1"
+      ],
+      "scope": "Early Iron Man/Hawkeye encounters (1960s)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C3",
+      "pair_id": "bucky-natasha",
+      "from_id": "natasha",
+      "to_id": "bucky",
+      "dimension": "romance",
+      "assessment": "former romantic partner",
+      "epistemic": "direct",
+      "summary": "former romantic partner",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E2"
+      ],
+      "scope": "Tales of Suspense (2017) #100; Cold War backstory",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C4",
+      "pair_id": "alexei-natasha",
+      "from_id": "natasha",
+      "to_id": "alexei",
+      "dimension": "romance",
+      "assessment": "former spouse",
+      "epistemic": "direct",
+      "summary": "former spouse",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E3"
+      ],
+      "scope": "Avengers (1963) #43–44; Red Guardian history",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C5",
+      "pair_id": "natasha-yelena",
+      "from_id": "yelena",
+      "to_id": "natasha",
+      "dimension": "conflict",
+      "assessment": "rival claimant to Black Widow mantle",
+      "epistemic": "direct",
+      "summary": "rival claimant to Black Widow mantle",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E4"
+      ],
+      "scope": "Black Widow (1999) #1",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C6",
+      "pair_id": "natasha-yelena",
+      "from_id": "natasha",
+      "to_id": "yelena",
+      "dimension": "influence",
+      "assessment": "attempted deprogramming through identity exchange",
+      "epistemic": "direct",
+      "summary": "attempted deprogramming through identity exchange",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E5"
+      ],
+      "scope": "Black Widow (2001) #1",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C7",
+      "pair_id": "natasha-nick_fury_sr",
+      "from_id": "natasha",
+      "to_id": "nick_fury_sr",
+      "dimension": "professional",
+      "assessment": "accepted espionage assignments from Fury",
+      "epistemic": "direct",
+      "summary": "accepted espionage assignments from Fury",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E6"
+      ],
+      "scope": "Post-defection S.H.I.E.L.D. espionage assignments",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C8",
+      "pair_id": "bucky-clint",
+      "from_id": "clint",
+      "to_id": "bucky",
+      "dimension": "conflict",
+      "assessment": "reluctant and distrustful investigative partnership",
+      "epistemic": "direct",
+      "summary": "reluctant and distrustful investigative partnership",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E7"
+      ],
+      "scope": "Tales of Suspense (2017) #100",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C9",
+      "pair_id": "bucky-clint",
+      "from_id": "bucky",
+      "to_id": "clint",
+      "dimension": "cooperation",
+      "assessment": "investigated Natasha mystery with Clint",
+      "epistemic": "direct",
+      "summary": "investigated Natasha mystery with Clint",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E7"
+      ],
+      "scope": "Tales of Suspense (2017) #100",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C10",
+      "pair_id": "bobbi-clint",
+      "from_id": "bobbi",
+      "to_id": "clint",
+      "dimension": "romance",
+      "assessment": "acknowledged love during crisis",
+      "epistemic": "direct",
+      "summary": "acknowledged love during crisis",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E8"
+      ],
+      "scope": "Hawkeye (1983) #4",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C11",
+      "pair_id": "nick_fury_sr-valentina",
+      "from_id": "valentina",
+      "to_id": "nick_fury_sr",
+      "dimension": "romance",
+      "assessment": "on-and-off intimate partner",
+      "epistemic": "direct",
+      "summary": "on-and-off intimate partner",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E9"
+      ],
+      "scope": "Nick Fury, Agent of S.H.I.E.L.D. (1968) #2",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C12",
+      "pair_id": "nick_fury_sr-valentina",
+      "from_id": "valentina",
+      "to_id": "nick_fury_sr",
+      "dimension": "betrayal",
+      "assessment": "hid Leviathan loyalty while close to Fury",
+      "epistemic": "direct",
+      "summary": "hid Leviathan loyalty while close to Fury",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E10"
+      ],
+      "scope": "Secret Warriors (2009) #14–15",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C13",
+      "pair_id": "sharon-valentina",
+      "from_id": "valentina",
+      "to_id": "sharon",
+      "dimension": "cooperation",
+      "assessment": "defended Sharon against Hydra",
+      "epistemic": "direct",
+      "summary": "defended Sharon against Hydra",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E11"
+      ],
+      "scope": "Captain America (1968) #145",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C14",
+      "pair_id": "sharon-valentina",
+      "from_id": "sharon",
+      "to_id": "valentina",
+      "dimension": "cooperation",
+      "assessment": "defended Valentina despite tension",
+      "epistemic": "direct",
+      "summary": "defended Valentina despite tension",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E11"
+      ],
+      "scope": "Captain America (1968) #145",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C15",
+      "pair_id": "bucky-steve",
+      "from_id": "steve",
+      "to_id": "bucky",
+      "dimension": "protection",
+      "assessment": "worked to free Bucky from prison conspiracy",
+      "epistemic": "direct",
+      "summary": "worked to free Bucky from prison conspiracy",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E12"
+      ],
+      "scope": "Captain America #616–619 (Prisoner of War)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C16",
+      "pair_id": "peggy-steve",
+      "from_id": "steve",
+      "to_id": "peggy",
+      "dimension": "romance",
+      "assessment": "wartime romantic bond",
+      "epistemic": "direct",
+      "summary": "wartime romantic bond",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E13"
+      ],
+      "scope": "Captain America (1968) #162 (wartime flashback)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C17",
+      "pair_id": "peggy-sharon",
+      "from_id": "sharon",
+      "to_id": "peggy",
+      "dimension": "family",
+      "assessment": "niece of Peggy Carter",
+      "epistemic": "direct",
+      "summary": "niece of Peggy Carter",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E14"
+      ],
+      "scope": "Captain America (2004) #49",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C18",
+      "pair_id": "peggy-sharon",
+      "from_id": "peggy",
+      "to_id": "sharon",
+      "dimension": "influence",
+      "assessment": "wartime service inspired Sharon's espionage career",
+      "epistemic": "direct",
+      "summary": "wartime service inspired Sharon's espionage career",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E14"
+      ],
+      "scope": "Captain America (2004) #49",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C19",
+      "pair_id": "gabe-peggy",
+      "from_id": "peggy",
+      "to_id": "gabe",
+      "dimension": "cooperation",
+      "assessment": "joint undercover infiltration of Secret Empire",
+      "epistemic": "direct",
+      "summary": "joint undercover infiltration of Secret Empire",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E15"
+      ],
+      "scope": "Captain America (1968) #175",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C20",
+      "pair_id": "sharon-steve",
+      "from_id": "sharon",
+      "to_id": "steve",
+      "dimension": "romance",
+      "assessment": "loved Steve Rogers and mourned his apparent death",
+      "epistemic": "direct",
+      "summary": "loved Steve Rogers and mourned his apparent death",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E16"
+      ],
+      "scope": "Captain America (2004) #49",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "SPY27_C21",
+      "pair_id": "bobbi-yelena",
+      "from_id": "yelena",
+      "to_id": "bobbi",
+      "dimension": "conflict",
+      "assessment": "fought Mockingbird during A.I.M. mission",
+      "epistemic": "direct",
+      "summary": "fought Mockingbird during A.I.M. mission",
+      "qualification": "Publisher history supports the scoped observation; no original panel inspection or timeless mental state inferred.",
+      "event_ids": [
+        "SPY27_E17"
+      ],
+      "scope": "Secret Avengers (2013) #15",
+      "continuity": "Earth-616",
+      "review_status": "provisional; Marvel publisher_secondary, panels not verified"
     }
   ],
   "research_backlog": [
