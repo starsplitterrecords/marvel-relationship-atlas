@@ -5,6 +5,8 @@ on:
     branches: [main]
     paths:
       - 'index.html'
+      - 'app.js'
+      - 'style.css'
       - 'atlas.html'
       - 'manifest.webmanifest'
       - 'icon.svg'
@@ -34,7 +36,7 @@ jobs:
       - name: Assemble static site
         run: |
           mkdir -p _site/data
-          cp index.html atlas.html manifest.webmanifest icon.svg service-worker.js _site/
+          cp index.html app.js style.css atlas.html manifest.webmanifest icon.svg service-worker.js _site/
           cp data/*.json _site/data/
           touch _site/.nojekyll
       - name: Configure Pages
