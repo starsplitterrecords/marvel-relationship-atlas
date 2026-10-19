@@ -204,6 +204,42 @@
       ],
       "takeaway": "One person's history can shape another's sense of duty.",
       "readLabel": "Explore Marvel's Agent Peggy Carter reading guide"
+    },
+    {
+      "id": "loki",
+      "tag": "Family and manipulation",
+      "headline": "Odin adopted a son who would become Thor's rival",
+      "lede": "The bonds between Odin, Loki and Thor begin in an act of adoption and continue through rivalry, deception and moments of cooperation.",
+      "paragraphs": [
+        "After Laufey died, Odin adopted his infant son Loki. That family decision did not eliminate the competition between Loki and Thor: the brothers repeatedly fought, including in Journey Into Mystery #85.",
+        "Yet the family cannot be reduced to permanent enmity. During Surtur's assault in Thor #353, Thor and Loki fought alongside Odin. A rivalry and a temporary alliance can both be true without either canceling the other."
+      ],
+      "takeaway": "Family creates lasting obligations, not predictable loyalty.",
+      "readLabel": "Explore Odin's Marvel reading guide"
+    },
+    {
+      "id": "sif",
+      "tag": "Authority and sacrifice",
+      "headline": "Sif's strength was never only about battle",
+      "lede": "Odin trusted Sif with Asgard's regency, but her most revealing choice may have been what she gave Jane Foster.",
+      "paragraphs": [
+        "Odin appointed Sif regent during his Odinsleep, placing her in a position of political authority. Her defense of Asgard against Malekith belongs to that period of responsibility.",
+        "In Thor #236, Sif transferred her own life force to save Jane Foster. That action is more specific than generic heroism: it records a costly decision made for another person."
+      ],
+      "takeaway": "Authority and care are different kinds of power.",
+      "readLabel": "Explore Sif's Marvel reading guide"
+    },
+    {
+      "id": "skurge",
+      "tag": "Defiance and redemption",
+      "headline": "Skurge chose whom he would no longer obey",
+      "lede": "The Executioner's final stand is a story about refusing an offer, not simply winning a fight.",
+      "paragraphs": [
+        "Skurge had fought Balder and other Asgardian heroes. His past makes the choice in Thor #362 more striking.",
+        "When Hela offered him a way out, Skurge refused and died opposing her forces. The atlas records the conflict as a scoped act of defiance rather than assigning him a permanent moral transformation from one episode."
+      ],
+      "takeaway": "A single decision can expose a character's values without erasing their past.",
+      "readLabel": "Explore Skurge's Marvel reading guide"
     }
   ],
   "compare": {
