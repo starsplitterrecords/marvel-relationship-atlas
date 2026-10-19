@@ -1,0 +1,294 @@
+{
+  "batch_id": "VAMP12_20261019",
+  "status": "COMMITTED RESEARCH FILE ONLY — not merged into canonical",
+  "continuity": "Earth-616",
+  "community": "Vampire hunters",
+  "evidence_limit": "Reconstructed from preceding in-chat research. Original detailed issue-scoped events and interpretations remain in conversation; this condensed preservation file must not be treated as issue-level validated.",
+  "people": [
+    {
+      "id": "blade",
+      "name": "blade",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "deacon_frost",
+      "name": "deacon frost",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "hannibal_king",
+      "name": "hannibal king",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "dracula_vlad",
+      "name": "dracula vlad",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "lilith_dracula",
+      "name": "lilith dracula",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "morbius",
+      "name": "morbius",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "emil_nikos",
+      "name": "emil nikos",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "martine_bancroft",
+      "name": "martine bancroft",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "spitfire_jacqueline",
+      "name": "spitfire jacqueline",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "jack_russell",
+      "name": "jack russell",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "tara_brooks",
+      "name": "tara brooks",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "marie_laveau",
+      "name": "marie laveau",
+      "identity_status": "proposed"
+    }
+  ],
+  "sources": [
+    {
+      "id": "VAMP12_S1",
+      "url": "https://www.marvel.com/amp/articles/comics/deacon-frost-blade-most-personal-enemy-explained",
+      "evidence_tier": "publisher_secondary; verify applicability per claim"
+    },
+    {
+      "id": "VAMP12_S2",
+      "url": "https://www.marvel.com/comics/discover/1085/blade",
+      "evidence_tier": "publisher_secondary; verify applicability per claim"
+    },
+    {
+      "id": "VAMP12_S3",
+      "url": "https://www.marvel.com/characters/morbius/in-comics",
+      "evidence_tier": "publisher_secondary; verify applicability per claim"
+    }
+  ],
+  "events": [],
+  "claims": [
+    {
+      "id": "VAMP12_C1",
+      "from_id": "deacon_frost",
+      "to_id": "tara_brooks",
+      "dimension": "violence",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C2",
+      "from_id": "blade",
+      "to_id": "deacon_frost",
+      "dimension": "conflict",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C3",
+      "from_id": "deacon_frost",
+      "to_id": "hannibal_king",
+      "dimension": "coercion",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C4",
+      "from_id": "blade",
+      "to_id": "hannibal_king",
+      "dimension": "cooperation",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C5",
+      "from_id": "deacon_frost",
+      "to_id": "dracula_vlad",
+      "dimension": "power_rivalry",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C6",
+      "from_id": "blade",
+      "to_id": "dracula_vlad",
+      "dimension": "conflict",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C7",
+      "from_id": "blade",
+      "to_id": "dracula_vlad",
+      "dimension": "conditional_cooperation",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C8",
+      "from_id": "lilith_dracula",
+      "to_id": "dracula_vlad",
+      "dimension": "family_conflict",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C9",
+      "from_id": "morbius",
+      "to_id": "emil_nikos",
+      "dimension": "violence",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C10",
+      "from_id": "emil_nikos",
+      "to_id": "morbius",
+      "dimension": "mercy",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C11",
+      "from_id": "morbius",
+      "to_id": "martine_bancroft",
+      "dimension": "protection",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C12",
+      "from_id": "morbius",
+      "to_id": "martine_bancroft",
+      "dimension": "lethal_mercy",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C13",
+      "from_id": "blade",
+      "to_id": "spitfire_jacqueline",
+      "dimension": "conflict",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C14",
+      "from_id": "blade",
+      "to_id": "spitfire_jacqueline",
+      "dimension": "romance",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C15",
+      "from_id": "morbius",
+      "to_id": "jack_russell",
+      "dimension": "domination_attempt",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C16",
+      "from_id": "marie_laveau",
+      "to_id": "morbius",
+      "dimension": "instrumentalization",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C17",
+      "from_id": "morbius",
+      "to_id": "strange",
+      "dimension": "cooperation",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C18",
+      "from_id": "morbius",
+      "to_id": "frank",
+      "dimension": "restoration",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C19",
+      "from_id": "frank",
+      "to_id": "morbius",
+      "dimension": "protection",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "VAMP12_C20",
+      "from_id": "blade",
+      "to_id": "morbius",
+      "dimension": "protection",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    }
+  ],
+  "review": {
+    "full_original_batch": "Earlier messages in this conversation",
+    "canonical_merge": false,
+    "warning": "Not a substitute for the full event-rich research payload."
+  }
+}
