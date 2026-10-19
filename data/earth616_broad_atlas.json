@@ -4257,6 +4257,186 @@
       "sector": "royal",
       "summary": "Relationship Atlas research subject",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "c_rel_winston_frost",
+      "name": "Winston Frost",
+      "identity": "Winston Frost",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_christian_frost",
+      "name": "Christian Frost",
+      "identity": "Christian Frost",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_edward_buckman",
+      "name": "White King",
+      "identity": "Edward Buckman",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_sage",
+      "name": "Sage / Tessa",
+      "identity": "Tessa",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_donald_pierce",
+      "name": "White King",
+      "identity": "Donald Pierce",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_shinobi_shaw",
+      "name": "Shinobi Shaw",
+      "identity": "Shinobi Shaw",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_dken",
+      "name": "D’ken",
+      "identity": "D’ken Neramani",
+      "kind": "character",
+      "sector": "cosmic",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_korvus",
+      "name": "Korvus",
+      "identity": "Korvus Rook’shir",
+      "kind": "character",
+      "sector": "cosmic",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_katherine_anne",
+      "name": "Katherine-Anne Summers",
+      "identity": "Katherine-Anne Summers",
+      "kind": "character",
+      "sector": "cosmic",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_tkorr",
+      "name": "Emperor T’korr",
+      "identity": "T’korr",
+      "kind": "character",
+      "sector": "cosmic",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_cerise",
+      "name": "Cerise",
+      "identity": "Cerise",
+      "kind": "character",
+      "sector": "cosmic",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_kaardum",
+      "name": "Major-General Ka’ardum",
+      "identity": "Ka’ardum",
+      "kind": "character",
+      "sector": "cosmic",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_xandra",
+      "name": "Majestrix Xandra",
+      "identity": "Xandra Neramani",
+      "kind": "character",
+      "sector": "cosmic",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_blackout",
+      "name": "Blackout",
+      "identity": "Marcus Daniels",
+      "kind": "character",
+      "sector": "villain",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_graviton",
+      "name": "Graviton",
+      "identity": "Franklin Hall",
+      "kind": "character",
+      "sector": "villain",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_radioactive_man",
+      "name": "Radioactive Man",
+      "identity": "Chen Lu",
+      "kind": "character",
+      "sector": "villain",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_doctor_faustus",
+      "name": "Doctor Faustus",
+      "identity": "Johann Fennhoff",
+      "kind": "character",
+      "sector": "villain",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
+    },
+    {
+      "id": "c_rel_lloyd_bloch",
+      "name": "Moonstone (original) / Nefarius",
+      "identity": "Lloyd Bloch",
+      "kind": "character",
+      "sector": "villain",
+      "summary": "Relationship Atlas research subject; consult directed claims for evidence",
+      "continuity": "Earth-616",
+      "status": "Historical relationship evidence; present status not asserted"
     }
   ],
   "edges": [
@@ -13609,6 +13789,501 @@
       "source_id": "REL_ATT26A_S01",
       "continuity": "Earth-616",
       "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C01",
+      "source": "c_rel_winston_frost",
+      "target": "c_emma",
+      "kind": "conflict",
+      "era": "Emma Frost (2003) origin-era; exact issue pending",
+      "note": "coercion (winston_frost → emma): Winston threatens Emma over her teaching ambitions and has teacher Ian Kendall fired; he attempts to control her future. [HFC7_C01]",
+      "source_id": "REL_MUT7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C02",
+      "source": "c_emma",
+      "target": "c_rel_christian_frost",
+      "kind": "related",
+      "era": "Emma Frost (2003) origin-era; exact issue pending",
+      "note": "affection (emma → christian_frost): Marvel describes Emma and her brother Christian as close before Winston manipulates Christian in retaliation against Emma. [HFC7_C02]",
+      "source_id": "REL_MUT7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C03",
+      "source": "c_shaw",
+      "target": "c_lourdes",
+      "kind": "romance",
+      "era": "Pre-Inner Circle coup; Classic X-Men retrospective era, exact issue pending",
+      "note": "romance (sebastian_shaw → lourdes_chantel): Marvel calls Lourdes Shaw’s lover and states a Sentinel kills her before Shaw and Emma seize control of the club. [HFC7_C03]",
+      "source_id": "REL_MUT7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C04",
+      "source": "c_rel_edward_buckman",
+      "target": "c_shaw",
+      "kind": "conflict",
+      "era": "Project Armageddon / Hellfire Council coup; retrospective, exact issue pending",
+      "note": "betrayal (edward_buckman → sebastian_shaw): Buckman tells Shaw that Steven Lang’s Sentinels are for capturing mutants while the project actually aims to exterminate genetic deviants. [HFC7_C04]",
+      "source_id": "REL_MUT7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C05",
+      "source": "c_emma",
+      "target": "c_shaw",
+      "kind": "ally",
+      "era": "Hellfire Club coup / Krakoa Hellfire Trading Company; 1980s retrospective and Marauders (2019) #1",
+      "note": "cooperation (emma → sebastian_shaw): Emma and Shaw stage a coup against the Council of the Chosen and take White Queen and Black King titles. [HFC7_C05]",
+      "source_id": "REL_MUT7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C06",
+      "source": "c_emma",
+      "target": "c_selene",
+      "kind": "conflict",
+      "era": "Firestar recruitment / Hellfire Inner Circle era, exact issue pending",
+      "note": "conflict (emma → selene): After Selene claims the Black Queen position, Emma and Shaw conspire to use Angelica Jones to assassinate her. [HFC7_C06]",
+      "source_id": "REL_MUT7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C07",
+      "source": "c_emma",
+      "target": "c_firestar",
+      "kind": "conflict",
+      "era": "Firestar (1986) limited-series era; exact issue pending",
+      "note": "coercion (emma → firestar): Emma recruits Angelica Jones to Massachusetts Academy and manipulates her toward a plot against Selene; Angelica discovers the manipulation and quits. [HFC7_C07]",
+      "source_id": "REL_MUT7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C08",
+      "source": "c_emma",
+      "target": "c_banshee",
+      "kind": "associated",
+      "era": "Generation X (1994) #1 onward",
+      "note": "professional (emma → banshee): After Emma recovers from a coma, she and Sean Cassidy run the Massachusetts Academy and train Generation X. [HFC7_C08]",
+      "source_id": "REL_MUT7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C09",
+      "source": "c_charles",
+      "target": "c_rel_sage",
+      "kind": "associated",
+      "era": "Sage’s early X-Men/Hellfire undercover origin; retrospective, exact issue pending",
+      "note": "mentorship (charles → sage): Sage rescues Xavier in Afghanistan; he later recruits and personally trains her as a spy and double agent. [HFC7_C09]",
+      "source_id": "REL_HFC7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C10",
+      "source": "c_rel_donald_pierce",
+      "target": "c_rel_sage",
+      "kind": "conflict",
+      "era": "New Mutants (1983) early Hellfire Club confrontation; exact issue pending",
+      "note": "coercion (donald_pierce → sage): Pierce kidnaps Tessa/Sage during an attempted coup; Xavier’s New Mutants defeat Pierce and rescue her. [HFC7_C10]",
+      "source_id": "REL_HFC7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C11",
+      "source": "c_rel_shinobi_shaw",
+      "target": "c_shaw",
+      "kind": "conflict",
+      "era": "Upstarts / Hellfire Inner Circle struggle, early 1990s; exact issue pending",
+      "note": "conflict (shinobi_shaw → sebastian_shaw): Shinobi, Shaw’s son, joins Upstarts attacks that decimate the Inner Circle and then attempts to rule a replacement Circle; Sebastian later retakes control. [HFC7_C11]",
+      "source_id": "REL_HFC7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C12",
+      "source": "c_rel_sage",
+      "target": "c_jonah",
+      "kind": "ally",
+      "era": "Shinobi’s attempted murder of J. Jonah Jameson; exact issue pending",
+      "note": "protection (sage → jonah): Sage summons the X-Men to prevent Shinobi’s attempted murder of newspaper publisher J. Jonah Jameson. [HFC7_C12]",
+      "source_id": "REL_HFC7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C13",
+      "source": "c_shaw",
+      "target": "c_rel_sage",
+      "kind": "associated",
+      "era": "Hellfire Club Tessa adviser / X-Force-Cable episode; exact issue pending",
+      "note": "authority (sebastian_shaw → sage): Shaw has his adviser Tessa telepathically brainwash X-Force to kill Cable, while she is secretly working for Xavier. [HFC7_C13]",
+      "source_id": "REL_HFC7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C14",
+      "source": "c_emma",
+      "target": "c_mastermind",
+      "kind": "associated",
+      "era": "Uncanny X-Men (1963) #129–134, Dark Phoenix build-up",
+      "note": "professional (emma → mastermind): Emma devises technology enabling Jason Wyngarde to project illusions into the mind of the Phoenix Force, which is impersonating Jean Grey. [HFC7_C14]",
+      "source_id": "REL_MUT7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_HFC7_C15",
+      "source": "c_ororo",
+      "target": "c_rel_sage",
+      "kind": "ally",
+      "era": "Sage/Bogan captivity and X-Treme X-Men era; exact issue pending",
+      "note": "protection (storm → sage): Storm rescues Tessa from Elias Bogan’s captivity; she subsequently gives Tessa the Sage codename and recruits her for a team. [HFC7_C15]",
+      "source_id": "REL_HFC7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C01",
+      "source": "c_rel_dken",
+      "target": "c_lilandra",
+      "kind": "conflict",
+      "era": "Uncanny X-Men (1963) #105–108 era; Shi’ar royal crisis",
+      "note": "coercion (dken → lilandra): D’ken orders Lilandra arrested after she opposes his attempt to harness the M’kraan Crystal. [SIA8_20261019_C01]",
+      "source_id": "SHI",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C02",
+      "source": "c_deathbird",
+      "target": "c_lilandra",
+      "kind": "conflict",
+      "era": "1980s Shi’ar coup and later throne struggles; precise issue pending",
+      "note": "betrayal (deathbird → lilandra): Deathbird arranges Lilandra’s abduction and usurps the throne; the sisters later temporarily cooperate. [SIA8_20261019_C02]",
+      "source_id": "SHI",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C03",
+      "source": "c_lilandra",
+      "target": "c_charles",
+      "kind": "romance",
+      "era": "Uncanny X-Men (1963) #105–108 onward; later marriage and annulment",
+      "note": "romance (lilandra → charles): Lilandra forms a psychic connection with Xavier, becomes his partner and Imperial Consort, and later marries him; the marriage is eventually annulled. [SIA8_20261019_C03]",
+      "source_id": "REL_SIA8_20261019_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C04",
+      "source": "c_rel_dken",
+      "target": "c_rel_katherine_anne",
+      "kind": "conflict",
+      "era": "Corsair/Vulcan origin, retrospective; original issue not verified",
+      "note": "coercion (dken → katherine_anne): D’ken seeks to make captive Katherine-Anne his consort, then kills her when Christopher resists. [SIA8_20261019_C04]",
+      "source_id": "SHI",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C05",
+      "source": "c_rel_dken",
+      "target": "c_rel_corsair",
+      "kind": "conflict",
+      "era": "Corsair/Vulcan origin, retrospective; original issue not verified",
+      "note": "conflict (dken → corsair): When captive Christopher Summers resists D’ken’s attempt to take Katherine-Anne, D’ken kills Christopher’s wife and separates their unborn son from her. [SIA8_20261019_C05]",
+      "source_id": "SHI",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C06",
+      "source": "c_rel_tkorr",
+      "target": "c_gladiator",
+      "kind": "associated",
+      "era": "Ancient Strontian recruitment to the Imperial Guard; original issue not verified",
+      "note": "authority (tkorr → gladiator): Emperor T’korr orders young Strontian candidates to kill their own elders; Kallark obeys and becomes Gladiator. [SIA8_20261019_C06]",
+      "source_id": "SHI",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C07",
+      "source": "c_gladiator",
+      "target": "c_lilandra",
+      "kind": "related",
+      "era": "Lilandra’s Imperial Guard grand-admiral era; later War of Kings (2009)",
+      "note": "affection (gladiator → lilandra): Marvel states Kallark develops apparently unrequited feelings for Lilandra; he later helps avert her execution under Vulcan. [SIA8_20261019_C07]",
+      "source_id": "REL_SIA8_20261019_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C08",
+      "source": "c_lilandra",
+      "target": "c_rel_cerise",
+      "kind": "ally",
+      "era": "Excalibur-era Cerise trial, 1990s; exact issue pending",
+      "note": "protection (lilandra → cerise): After learning why Cerise attacked a genocidal Shi’ar convoy, Lilandra commutes her sentence by appointing her personal aide. [SIA8_20261019_C08]",
+      "source_id": "SHI",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C09",
+      "source": "c_deathbird",
+      "target": "c_vulcan",
+      "kind": "romance",
+      "era": "Uncanny X-Men (1963) #475–486, Rise and Fall of the Shi’ar Empire (2006–2007)",
+      "note": "romance (deathbird → vulcan): Deathbird and Vulcan fall in love while imprisoned, then marry as part of the Shi’ar succession conflict. [SIA8_20261019_C09]",
+      "source_id": "SHI",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C10",
+      "source": "c_vulcan",
+      "target": "c_rel_dken",
+      "kind": "conflict",
+      "era": "Uncanny X-Men (1963) #475–486, Rise and Fall of the Shi’ar Empire (2006–2007)",
+      "note": "conflict (vulcan → dken): After helping restore D’ken, Vulcan murders him and claims the imperial throne. [SIA8_20261019_C10]",
+      "source_id": "SHI",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C11",
+      "source": "c_rachel",
+      "target": "c_rel_korvus",
+      "kind": "romance",
+      "era": "Uncanny X-Men (1963) #475–486 and Starjammers era (2006–2009)",
+      "note": "romance (rachel → korvus): Korvus initially attacks Rachel under threat of a bomb in his brain; a Phoenix-linked psychic encounter ends the fight, and they later become romantic partners before Rachel ends it. [SIA8_20261019_C11]",
+      "source_id": "REL_MUT7_S07",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C12",
+      "source": "c_lilandra",
+      "target": "c_rel_xandra",
+      "kind": "family",
+      "era": "Mr. and Mrs. X (2018) early arc; Imperial War: Exiles (2025) #1",
+      "note": "family (lilandra → xandra): Xandra is described as the engineered daughter of Lilandra and Xavier; a 2025 issue synopsis identifies Lilandra as her resurrected mother. [SIA8_20261019_C12]",
+      "source_id": "REL_SIA8_20261019_S05",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C13",
+      "source": "c_charles",
+      "target": "c_rel_xandra",
+      "kind": "family",
+      "era": "Mr. and Mrs. X (2018) early arc; Imperial War: Exiles (2025) #1",
+      "note": "family (charles → xandra): Xandra is Xavier’s engineered daughter; Marvel describes Xavier leading renegades to protect her during a coup. [SIA8_20261019_C13]",
+      "source_id": "REL_SIA8_20261019_S05",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C14",
+      "source": "c_rel_kaardum",
+      "target": "c_lilandra",
+      "kind": "ally",
+      "era": "D’ken loyalist aftermath through Rise and Fall of the Shi’ar Empire (2006–2007)",
+      "note": "cooperation (kaardum → lilandra): Ka’ardum earlier attempts to depose Lilandra and is exiled; Lilandra later recalls him and he brings Shi’ar military forces to her side. [SIA8_20261019_C14]",
+      "source_id": "SHI",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SIA8_20261019_C15",
+      "source": "c_rel_cerise",
+      "target": "c_rel_xandra",
+      "kind": "ally",
+      "era": "Mr. and Mrs. X (2018) Shi’ar/Xandra storyline",
+      "note": "protection (cerise → xandra): Following the conflict over the young Xandra, Cerise takes responsibility for her care as Rogue and Gambit return to Earth. [SIA8_20261019_C15]",
+      "source_id": "REL_MX04",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C01",
+      "source": "c_rel_doctor_faustus",
+      "target": "c_moonstone",
+      "kind": "associated",
+      "era": "Karla Sofen pre-Moonstone criminal apprenticeship; exact issue pending",
+      "note": "mentorship (doctor_faustus → moonstone): Karla seeks Doctor Faustus as a criminal mentor and aids his operations. [TB9_20261019_C01]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C02",
+      "source": "c_moonstone",
+      "target": "c_rel_lloyd_bloch",
+      "kind": "conflict",
+      "era": "Moonstone origin, pre-Thunderbolts; exact issue pending",
+      "note": "coercion (moonstone → lloyd_bloch): As Lloyd Bloch’s psychiatrist, Karla induces him to reject his Moongem and takes it, leaving him mentally destabilized. [TB9_20261019_C02]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C03",
+      "source": "c_moonstone",
+      "target": "c_rel_blackout",
+      "kind": "conflict",
+      "era": "Avengers (1963) #273–277, Masters of Evil / Under Siege era",
+      "note": "coercion (moonstone → blackout): Karla uses devices and psychological conditioning to make Marcus Daniels respond to her commands. [TB9_20261019_C03]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C04",
+      "source": "c_zemo",
+      "target": "c_rel_blackout",
+      "kind": "conflict",
+      "era": "Avengers (1963) #273–277, Masters of Evil / Under Siege era",
+      "note": "coercion (helmut_zemo → blackout): Zemo has Fixer build a device enabling him to override Moonstone’s control of Blackout. [TB9_20261019_C04]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C05",
+      "source": "c_zemo",
+      "target": "c_techno",
+      "kind": "associated",
+      "era": "Avengers (1963) #273–277, Masters of Evil / Under Siege era",
+      "note": "authority (helmut_zemo → fixer): Zemo commissions Fixer to build the device that overrides Moonstone’s control of Blackout. [TB9_20261019_C05]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C06",
+      "source": "c_zemo",
+      "target": "c_moonstone",
+      "kind": "conflict",
+      "era": "Original Thunderbolts formation, circa Thunderbolts (1997) #1",
+      "note": "coercion (helmut_zemo → moonstone): Zemo releases Karla from the Vault and gives her a choice between joining his scheme and returning to prison. [TB9_20261019_C06]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C07",
+      "source": "c_moonstone",
+      "target": "c_jolt",
+      "kind": "related",
+      "era": "Thunderbolts (1997) early formation and unmasking, circa #1–12",
+      "note": "influence (moonstone → jolt): Karla takes a mother-like role with Jolt while hoping Jolt’s idealism will weaken Zemo’s control. [TB9_20261019_C07]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C08",
+      "source": "c_moonstone",
+      "target": "c_clint",
+      "kind": "romance",
+      "era": "Thunderbolts (1997) Hawkeye leadership and pardon era",
+      "note": "romance (moonstone → clint): Karla and Clint enter a romance and exchange declarations of love when Clint goes to prison to obtain pardons for the team. [TB9_20261019_C08]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C09",
+      "source": "c_songbird",
+      "target": "c_moonstone",
+      "kind": "ally",
+      "era": "Thunderbolts (1997) #100–109, Wellspring of Power aftermath",
+      "note": "protection (songbird → moonstone): After Songbird breaks Zemo’s Moongems, she releases Karla’s consciousness from a Moongem memory archive, awakening her from a coma. [TB9_20261019_C09]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C10",
+      "source": "c_songbird",
+      "target": "c_zemo",
+      "kind": "conflict",
+      "era": "Thunderbolts (1997) #100–109, Wellspring of Power",
+      "note": "conflict (songbird → helmut_zemo): Songbird shatters Zemo’s Moongems and ends his control of the Wellspring. [TB9_20261019_C10]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C11",
+      "source": "c_rel_radioactive_man",
+      "target": "c_songbird",
+      "kind": "related",
+      "era": "Thunderbolts (2006) #110 onward, Norman Osborn/CSA era",
+      "note": "affection (radioactive_man → songbird): Chen Lu relies on Songbird, develops romantic feelings for her, and remains with the team partly out of loyalty to her. [TB9_20261019_C11]",
+      "source_id": "REL_TB9_20261019_S03",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C12",
+      "source": "c_rel_graviton",
+      "target": "c_moonstone",
+      "kind": "conflict",
+      "era": "Thunderbolts (1997) Sky Island / Graviton captivity arc",
+      "note": "coercion (graviton → moonstone): Graviton offers to spare Karla from execution if she becomes his lover; she rejects the demand. [TB9_20261019_C12]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C13",
+      "source": "c_songbird",
+      "target": "c_norman",
+      "kind": "conflict",
+      "era": "Thunderbolts (2006) #110 onward, Osborn/CSA command era",
+      "note": "coercion (songbird → norman): Songbird blackmails Norman Osborn into restoring her to field leadership and demoting Moonstone. [TB9_20261019_C13]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C14",
+      "source": "c_atlas",
+      "target": "c_moonstone",
+      "kind": "conflict",
+      "era": "War of the Realms (2019), Giant-Man tie-in; issue pending",
+      "note": "conflict (atlas → moonstone): After Karla makes a bargain with Laufey for servants, Atlas defeats her with allied size-changing heroes. [TB9_20261019_C14]",
+      "source_id": "REL_TB9_20261019_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_TB9_20261019_C15",
+      "source": "c_mach1",
+      "target": "c_zemo",
+      "kind": "conflict",
+      "era": "Thunderbolts (2016) #12, Secret Empire lead-in",
+      "note": "conflict (mach1 → helmut_zemo): MACH-X resists Zemo’s effort to reclaim the Thunderbolts, unlike Atlas, Fixer and Moonstone, who return to Zemo. [TB9_20261019_C15]",
+      "source_id": "TH",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
     }
   ],
   "sources": [
@@ -15146,6 +15821,62 @@
       "url": "https://www.marvel.com/comics/issue/61598/inhumans_vs_x-men_2016_5",
       "publisher": "Marvel",
       "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_HFC7_S02",
+      "title": "Sage — official character biography",
+      "url": "https://www.marvel.com/characters/Sage",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; original panels not verified",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_HFC7_S03",
+      "title": "X-Men (1963) #134 facsimile — publisher synopsis",
+      "url": "https://www.marvel.com/comics/issue/121905/x-men_134_facsimile_edition_2025_134",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; original panels not verified",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_HFC7_S04",
+      "title": "X-Men: Black — Emma Frost (2018) #1 — publisher synopsis",
+      "url": "https://www.marvel.com/comics/issue/72707/x-men_black_-_emma_frost_2018_1",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; original panels not verified",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SIA8_20261019_S02",
+      "title": "Lilandra Neramani — official character history",
+      "url": "https://www.marvel.com/characters/lilandra-neramani?mobile-app=true&theme=dark",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; original panels not verified",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SIA8_20261019_S05",
+      "title": "Imperial War: Exiles (2025) #1 — Marvel issue synopsis",
+      "url": "https://www.marvel.com/comics/issue/131035/imperial_war_exiles_2025_1_variant/variant",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; original panels not verified",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_TB9_20261019_S01",
+      "title": "Moonstone (Karla Sofen) — Official Marvel biography",
+      "url": "https://www.marvel.com/characters/moonstone-karla-sofen",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; original panels not verified",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_TB9_20261019_S03",
+      "title": "Radioactive Man (Chen Lu) — Official Marvel biography",
+      "url": "https://www.marvel.com/characters/radioactive-man-chen-lu",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; original panels not verified",
       "verified_on": "2026-10-19"
     }
   ]
