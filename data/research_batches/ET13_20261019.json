@@ -253,6 +253,38 @@
       "issue": "Early Eternals / Forgotten One era",
       "observation": "Zuras assigns Gilgamesh reciprocal guardianship duties with Sprite.",
       "source_id": "ET13_20261019_S01"
+    },
+    {
+      "id": "ET13_20261019_E18",
+      "a": "ikaris",
+      "b": "sprite",
+      "issue": "Eternals (2021) #1–3 era",
+      "observation": "Ikaris releases the rebooted Sprite from imprisonment on Zuras's order; they later investigate Zuras's murder together.",
+      "source_id": "ET13_20261019_S02"
+    },
+    {
+      "id": "ET13_20261019_E19",
+      "a": "thena",
+      "b": "kro_eternal",
+      "issue": "Eternals (1976) #10",
+      "observation": "Publisher synopsis says Thena abandons Kro and takes two captives; motives require panel review.",
+      "source_id": "ET13_20261019_S06"
+    },
+    {
+      "id": "ET13_20261019_E20",
+      "a": "sersi",
+      "b": "dane_whitman",
+      "issue": "Avengers (1963) #361",
+      "observation": "Sersi and Dane undergo the Gann Josin psychic bond; Dane experiences its imposition as exploitative.",
+      "source_id": "ET13_20261019_S03"
+    },
+    {
+      "id": "ET13_20261019_E21",
+      "a": "zuras",
+      "b": "sprite",
+      "issue": "Eternals (2006) aftermath",
+      "observation": "After Sprite manipulates the Uni-Mind and Dreaming Celestial to rewrite Eternal lives, Zuras imposes mortal death as punishment.",
+      "source_id": "ET13_20261019_S01"
     }
   ],
   "claims": [
@@ -448,7 +480,7 @@
     "original_panels_reviewed": false,
     "exact_issue_precision": "Several era placements provisional",
     "canonical_merge": false,
-    "source_note": "Condensed from ET13 research batch; full 21-event original remains in chat artifact.",
+    "source_note": "Restored four distinct story observations from original ET13 in-chat research; still secondary publisher evidence and some issue placements provisional.",
     "existing_person_id_reused": "wendell"
   }
 }
