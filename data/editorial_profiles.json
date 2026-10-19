@@ -240,6 +240,54 @@
       ],
       "takeaway": "A single decision can expose a character's values without erasing their past.",
       "readLabel": "Explore Skurge's Marvel reading guide"
+    },
+    {
+      "id": "cyclops",
+      "tag": "Love and responsibility",
+      "headline": "Scott Summers could save his son and still fail his family",
+      "lede": "The Summers family turns private decisions into consequences spanning generations.",
+      "paragraphs": [
+        "Scott married Jean Grey, but his history with Madelyne Pryor and Emma Frost complicates any simple love story. The decision to leave Madelyne after Jean's return and his later psychic affair are distinct events, each with different stakes.",
+        "When infant Nathan faced a deadly infection, Scott allowed him to be taken into the future for treatment. The atlas records that protective choice without using it to excuse other decisions."
+      ],
+      "takeaway": "Love, protection, and betrayal are separate dimensions of the same life.",
+      "readLabel": "Explore Cyclops's Marvel comics history"
+    },
+    {
+      "id": "emma",
+      "tag": "Rivalry and second chances",
+      "headline": "Emma Frost could be Jean's rival and still receive her help",
+      "lede": "The Emma–Jean relationship resists a permanent friend-or-enemy label.",
+      "paragraphs": [
+        "Jean confronted Emma after discovering her psychic affair with Scott Summers. That confrontation was personal, not merely a dispute between X-Men.",
+        "After Emma's diamond body was shattered, Jean helped reconstruct it. The later act of protection belongs beside the earlier conflict rather than replacing it."
+      ],
+      "takeaway": "One generous act does not erase a betrayal, but it changes the relationship's history.",
+      "readLabel": "Explore Emma Frost's Marvel comics history"
+    },
+    {
+      "id": "janet",
+      "tag": "Care and independence",
+      "headline": "Janet Van Dyne's relationships outgrew Hank Pym",
+      "lede": "Janet's story includes intimate harm, public responsibility, and a new generation of family.",
+      "paragraphs": [
+        "Hank and Janet's partnership began in romance but included Hank striking Janet and trying to enlist her in a staged rescue. These events cannot be reduced to a single 'Avengers couple' connection.",
+        "Janet later became a stabilizing figure for Nadia, celebrating a birthday Nadia had never experienced. Mayor Luke Cage also trusted Janet to investigate deaths at the Raft, a professional bond far removed from her early marriage."
+      ],
+      "takeaway": "A person's role in one relationship does not define all the others.",
+      "readLabel": "Explore Janet Van Dyne's comics history"
+    },
+    {
+      "id": "simon",
+      "tag": "Chosen brotherhood",
+      "headline": "Wonder Man and Vision made brotherhood out of a strange inheritance",
+      "lede": "Simon Williams's brain patterns helped create Vision, but their connection became more than an origin detail.",
+      "paragraphs": [
+        "Eric Williams, the Grim Reaper, tried to dictate who counted as his true brother, even attacking Simon and Vision. Simon and Vision developed their own brother-like bond despite that pressure.",
+        "Simon also faced a difficult decision when Wanda asked to reuse his brain patterns to restore Vision. His later romance with Wanda adds another chapter without resolving the earlier conflict."
+      ],
+      "takeaway": "Family can be chosen even when identity was engineered.",
+      "readLabel": "Explore Wonder Man's Marvel comics history"
     }
   ],
   "compare": {
