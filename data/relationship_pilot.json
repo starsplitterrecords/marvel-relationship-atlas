@@ -528,6 +528,78 @@
       "name": "Satana Hellstrom",
       "alias": "Satana",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "loki",
+      "name": "Loki Laufeyson",
+      "alias": "Loki Laufeyson",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "thor",
+      "name": "Thor Odinson",
+      "alias": "Thor Odinson",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "odin",
+      "name": "Odin Borson",
+      "alias": "Odin Borson",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "laufey",
+      "name": "Laufey",
+      "alias": "Laufey",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "sif",
+      "name": "Sif",
+      "alias": "Sif",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jane_foster",
+      "name": "Jane Foster",
+      "alias": "Jane Foster",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "beta_ray_bill",
+      "name": "Beta Ray Bill",
+      "alias": "Beta Ray Bill",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "skurge",
+      "name": "Skurge",
+      "alias": "Skurge",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "hela",
+      "name": "Hela",
+      "alias": "Hela",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "malekith",
+      "name": "Malekith",
+      "alias": "Malekith",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "surtur",
+      "name": "Surtur",
+      "alias": "Surtur",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "balder",
+      "name": "Balder",
+      "alias": "Balder",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -1144,6 +1216,34 @@
       "title": "Clea reading guide",
       "url": "https://www.marvel.com/comics/discover/2271/clea",
       "kind": "Official Marvel editorial history / issue guide",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "ASG26_S0",
+      "title": "Loki comics history",
+      "url": "https://www.marvel.com/characters/loki/in-comics",
+      "kind": "Official Marvel publisher history",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "ASG26_S1",
+      "title": "Odin reading guide",
+      "url": "https://www.marvel.com/comics/discover/1048/odin",
+      "kind": "Official Marvel publisher history",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "ASG26_S2",
+      "title": "Sif reading guide",
+      "url": "https://www.marvel.com/comics/discover/1054/sif",
+      "kind": "Official Marvel publisher history",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "ASG26_S3",
+      "title": "Skurge reading guide",
+      "url": "https://www.marvel.com/comics/discover/502/skurge-the-executioner",
+      "kind": "Official Marvel publisher history",
       "level": "publisher_secondary"
     }
   ],
@@ -3084,6 +3184,175 @@
       "evidence_tier": "publisher_secondary",
       "observation_type": "publisher_summary",
       "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "ASG26_E0",
+      "a": "odin",
+      "b": "laufey",
+      "issue": "Journey Into Mystery #112",
+      "publication_year": 1965,
+      "observation": "Odin fought Laufey, who died leaving his infant son.",
+      "source_id": "ASG26_S1",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ASG26_E1",
+      "a": "odin",
+      "b": "loki",
+      "issue": "Journey Into Mystery #112",
+      "publication_year": 1965,
+      "observation": "Odin adopted Laufey's infant son Loki.",
+      "source_id": "ASG26_S1",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ASG26_E2",
+      "a": "loki",
+      "b": "thor",
+      "issue": "Journey Into Mystery #85",
+      "publication_year": 1962,
+      "observation": "Loki escaped imprisonment and fought Thor, who defeated him.",
+      "source_id": "ASG26_S1",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ASG26_E3",
+      "a": "loki",
+      "b": "dormammu",
+      "issue": "Avengers–Defenders War (1973)",
+      "publication_year": 1973,
+      "observation": "Loki collaborated with Dormammu to obtain the Evil Eye.",
+      "source_id": "ASG26_S0",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ASG26_E4",
+      "a": "loki",
+      "b": "fisk",
+      "issue": "Acts of Vengeance (1989–90)",
+      "publication_year": 1989,
+      "observation": "Loki deceived Fisk into believing he directed the villain conspiracy.",
+      "source_id": "ASG26_S0",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ASG26_E5",
+      "a": "odin",
+      "b": "surtur",
+      "issue": "Thor #353 (1984)",
+      "publication_year": 1984,
+      "observation": "Odin, Thor and Loki jointly fought Surtur's assault on Asgard.",
+      "source_id": "ASG26_S1",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ASG26_E6",
+      "a": "odin",
+      "b": "sif",
+      "issue": "Thor (1998) #26–35",
+      "publication_year": 2000,
+      "observation": "Odin appointed Sif regent during his Odinsleep.",
+      "source_id": "ASG26_S2",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ASG26_E7",
+      "a": "sif",
+      "b": "jane_foster",
+      "issue": "Thor #236 (1975)",
+      "publication_year": 1975,
+      "observation": "Sif transferred her life force to save dying Jane Foster.",
+      "source_id": "ASG26_S2",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ASG26_E8",
+      "a": "sif",
+      "b": "beta_ray_bill",
+      "issue": "Thor #340 (1984)",
+      "publication_year": 1984,
+      "observation": "Sif defended Bill's people from demons as he and Thor closed the portal.",
+      "source_id": "ASG26_S2",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ASG26_E9",
+      "a": "sif",
+      "b": "malekith",
+      "issue": "Thor (1998) #26–35",
+      "publication_year": 2000,
+      "observation": "As regent Sif defended Asgard against Malekith.",
+      "source_id": "ASG26_S2",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ASG26_E10",
+      "a": "skurge",
+      "b": "hela",
+      "issue": "Thor #362 (1985)",
+      "publication_year": 1985,
+      "observation": "Skurge rejected Hela's enticement and died opposing her ship Naglfar.",
+      "source_id": "ASG26_S3",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ASG26_E11",
+      "a": "skurge",
+      "b": "balder",
+      "issue": "Thor #260 (1977)",
+      "publication_year": 1977,
+      "observation": "Skurge and the Enchantress battled Balder and Karnilla.",
+      "source_id": "ASG26_S3",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ASG26_E12",
+      "a": "thor",
+      "b": "surtur",
+      "issue": "Thor #353 (1984)",
+      "publication_year": 1984,
+      "observation": "Thor fought Surtur alongside Odin and Loki.",
+      "source_id": "ASG26_S1",
+      "review_status": "publisher synopsis, not panel-reviewed",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
     }
   ],
   "claims": [
@@ -6842,6 +7111,261 @@
         "MYP_E14"
       ],
       "scope": "Strange Tales #110",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C0",
+      "pair_id": "laufey-odin",
+      "from_id": "odin",
+      "to_id": "laufey",
+      "dimension": "conflict",
+      "assessment": "Odin fought Laufey, who died leaving his infant son.",
+      "epistemic": "direct",
+      "summary": "Odin fought Laufey, who died leaving his infant son.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E0"
+      ],
+      "scope": "Journey Into Mystery #112",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C1",
+      "pair_id": "loki-odin",
+      "from_id": "odin",
+      "to_id": "loki",
+      "dimension": "family",
+      "assessment": "Odin adopted Laufey's infant son Loki.",
+      "epistemic": "direct",
+      "summary": "Odin adopted Laufey's infant son Loki.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E1"
+      ],
+      "scope": "Journey Into Mystery #112",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C2",
+      "pair_id": "loki-thor",
+      "from_id": "loki",
+      "to_id": "thor",
+      "dimension": "conflict",
+      "assessment": "Loki escaped imprisonment and fought Thor, who defeated him.",
+      "epistemic": "direct",
+      "summary": "Loki escaped imprisonment and fought Thor, who defeated him.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E2"
+      ],
+      "scope": "Journey Into Mystery #85",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C3",
+      "pair_id": "loki-thor",
+      "from_id": "thor",
+      "to_id": "loki",
+      "dimension": "conflict",
+      "assessment": "Loki escaped imprisonment and fought Thor, who defeated him.",
+      "epistemic": "direct",
+      "summary": "Loki escaped imprisonment and fought Thor, who defeated him.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E2"
+      ],
+      "scope": "Journey Into Mystery #85",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C4",
+      "pair_id": "dormammu-loki",
+      "from_id": "loki",
+      "to_id": "dormammu",
+      "dimension": "cooperation",
+      "assessment": "Loki collaborated with Dormammu to obtain the Evil Eye.",
+      "epistemic": "direct",
+      "summary": "Loki collaborated with Dormammu to obtain the Evil Eye.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E3"
+      ],
+      "scope": "Avengers–Defenders War (1973)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C5",
+      "pair_id": "fisk-loki",
+      "from_id": "loki",
+      "to_id": "fisk",
+      "dimension": "influence",
+      "assessment": "Loki deceived Fisk into believing he directed the villain conspiracy.",
+      "epistemic": "interpretive",
+      "summary": "Loki deceived Fisk into believing he directed the villain conspiracy.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E4"
+      ],
+      "scope": "Acts of Vengeance (1989–90)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C6",
+      "pair_id": "odin-surtur",
+      "from_id": "odin",
+      "to_id": "surtur",
+      "dimension": "conflict",
+      "assessment": "Odin, Thor and Loki jointly fought Surtur's assault on Asgard.",
+      "epistemic": "direct",
+      "summary": "Odin, Thor and Loki jointly fought Surtur's assault on Asgard.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E5"
+      ],
+      "scope": "Thor #353 (1984)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C7",
+      "pair_id": "odin-sif",
+      "from_id": "odin",
+      "to_id": "sif",
+      "dimension": "authority",
+      "assessment": "Odin appointed Sif regent during his Odinsleep.",
+      "epistemic": "direct",
+      "summary": "Odin appointed Sif regent during his Odinsleep.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E6"
+      ],
+      "scope": "Thor (1998) #26–35",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C8",
+      "pair_id": "jane_foster-sif",
+      "from_id": "sif",
+      "to_id": "jane_foster",
+      "dimension": "protection",
+      "assessment": "Sif transferred her life force to save dying Jane Foster.",
+      "epistemic": "direct",
+      "summary": "Sif transferred her life force to save dying Jane Foster.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E7"
+      ],
+      "scope": "Thor #236 (1975)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C9",
+      "pair_id": "beta_ray_bill-sif",
+      "from_id": "sif",
+      "to_id": "beta_ray_bill",
+      "dimension": "cooperation",
+      "assessment": "Sif defended Bill's people from demons as he and Thor closed the portal.",
+      "epistemic": "direct",
+      "summary": "Sif defended Bill's people from demons as he and Thor closed the portal.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E8"
+      ],
+      "scope": "Thor #340 (1984)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C10",
+      "pair_id": "malekith-sif",
+      "from_id": "sif",
+      "to_id": "malekith",
+      "dimension": "conflict",
+      "assessment": "As regent Sif defended Asgard against Malekith.",
+      "epistemic": "direct",
+      "summary": "As regent Sif defended Asgard against Malekith.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E9"
+      ],
+      "scope": "Thor (1998) #26–35",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C11",
+      "pair_id": "hela-skurge",
+      "from_id": "skurge",
+      "to_id": "hela",
+      "dimension": "conflict",
+      "assessment": "Skurge rejected Hela's enticement and died opposing her ship Naglfar.",
+      "epistemic": "direct",
+      "summary": "Skurge rejected Hela's enticement and died opposing her ship Naglfar.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E10"
+      ],
+      "scope": "Thor #362 (1985)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C12",
+      "pair_id": "balder-skurge",
+      "from_id": "skurge",
+      "to_id": "balder",
+      "dimension": "conflict",
+      "assessment": "Skurge and the Enchantress battled Balder and Karnilla.",
+      "epistemic": "direct",
+      "summary": "Skurge and the Enchantress battled Balder and Karnilla.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E11"
+      ],
+      "scope": "Thor #260 (1977)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C13",
+      "pair_id": "surtur-thor",
+      "from_id": "thor",
+      "to_id": "surtur",
+      "dimension": "conflict",
+      "assessment": "Thor fought Surtur alongside Odin and Loki.",
+      "epistemic": "direct",
+      "summary": "Thor fought Surtur alongside Odin and Loki.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E12"
+      ],
+      "scope": "Thor #353 (1984)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "ASG26_C14",
+      "pair_id": "loki-thor",
+      "from_id": "thor",
+      "to_id": "loki",
+      "dimension": "cooperation",
+      "assessment": "Thor fought Surtur alongside Odin and Loki.",
+      "epistemic": "direct",
+      "summary": "Thor fought Surtur alongside Odin and Loki.",
+      "qualification": "Scoped to publisher story summary; panels not independently reviewed.",
+      "event_ids": [
+        "ASG26_E12"
+      ],
+      "scope": "Thor #353 (1984)",
       "continuity": "Earth-616",
       "review_status": "provisional; publisher_secondary"
     }
