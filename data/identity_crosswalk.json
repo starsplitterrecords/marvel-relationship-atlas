@@ -681,6 +681,94 @@
     {
       "person_id": "zadkiel",
       "node_id": "c_rel_zadkiel"
+    },
+    {
+      "person_id": "mj",
+      "node_id": "c_mj"
+    },
+    {
+      "person_id": "mayparker",
+      "node_id": "c_mayparker"
+    },
+    {
+      "person_id": "benparker",
+      "node_id": "c_benparker"
+    },
+    {
+      "person_id": "gwen616",
+      "node_id": "c_gwen616"
+    },
+    {
+      "person_id": "harry",
+      "node_id": "c_harry"
+    },
+    {
+      "person_id": "norman",
+      "node_id": "c_norman"
+    },
+    {
+      "person_id": "flash",
+      "node_id": "c_rel_flash"
+    },
+    {
+      "person_id": "blackcat",
+      "node_id": "c_blackcat"
+    },
+    {
+      "person_id": "eddie_brock",
+      "node_id": "c_venom"
+    },
+    {
+      "person_id": "miles",
+      "node_id": "c_peter"
+    },
+    {
+      "person_id": "liz",
+      "node_id": "c_liz"
+    },
+    {
+      "person_id": "jonah",
+      "node_id": "c_jonah"
+    },
+    {
+      "person_id": "blackbolt",
+      "node_id": "c_blackbolt"
+    },
+    {
+      "person_id": "medusa",
+      "node_id": "c_medusa"
+    },
+    {
+      "person_id": "maximus",
+      "node_id": "c_maximus"
+    },
+    {
+      "person_id": "ahura",
+      "node_id": "c_rel_ahura"
+    },
+    {
+      "person_id": "kang",
+      "node_id": "c_rel_kang"
+    },
+    {
+      "person_id": "luna",
+      "node_id": "c_rel_luna"
+    },
+    {
+      "person_id": "gorgon",
+      "node_id": "c_gorgon"
+    },
+    {
+      "person_id": "karnak",
+      "node_id": "c_karnak"
+    },
+    {
+      "person_id": "fantomex",
+      "node_id": "c_rel_fantomex"
+    },
+    {
+      "person_id": "wizard",
+      "node_id": "c_rel_wizard"
     }
   ]
 }
