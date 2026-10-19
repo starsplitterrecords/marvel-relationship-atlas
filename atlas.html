@@ -69,10 +69,12 @@ function color(n){return colors[n?.sector]||'#a5c5d9'}
 function el(tag,cls,text){let x=document.createElement(tag);if(cls)x.className=cls;if(text!==undefined)x.textContent=text;return x}
 function append(parent,...children){for(let c of children)parent.append(c);return parent}
 // Portrait pilot: source is Marvel's official X-Men character artwork. Fallback remains text.
+// Portraits are curated by stable Earth-616 node ID in data/portrait_catalog.json.
 const portraitPilot={
  'c_scott':{url:'https://cdn.marvel.com/content/1x/191cyc_com_crd_01.png',credit:'Marvel / X-Men character artwork',page:'https://www.marvel.com/teams-and-groups/x-men/in-comics'}
 };
-function attachPortrait(box,n){const entry=portraitPilot[n.id];if(!entry||n.kind!=='character')return box;
+async function loadPortraitCatalog(){try{let response=await fetch('./data/portrait_catalog.json',{cache:'no-cache'});if(!response.ok)return;let catalog=await response.json();if(!catalog.images||typeof catalog.images!=='object')return;for(let [id,entry] of Object.entries(catalog.images)){if(byId[id]&&entry.image_url&&entry.source_page&&['candidate','verified'].includes(entry.status)){portraitPilot[id]={url:entry.image_url,credit:entry.credit||'Marvel',page:entry.source_page}}}if(tab!=='network'&&document.visibilityState==='visible')render()}catch(error){console.warn('Portrait catalog unavailable; using existing artwork',error)}}
+function attachPortrait(box,n){const entry=portraitPilot[n.id];if(!entry)return box;
  let img=document.createElement('img');img.alt='';img.loading='lazy';img.decoding='async';img.referrerPolicy='no-referrer';
  img.style.cssText='width:100%;height:100%;object-fit:cover;border-radius:inherit;position:absolute;inset:0;display:block';
  box.style.position='relative';box.style.overflow='hidden';
@@ -156,7 +158,7 @@ function closeSearch(){$('queryResults').classList.add('hidden');$('queryResults
 function search(q){let box=$('queryResults');box.replaceChildren();q=q.trim().toLowerCase();$('clearQuery').classList.toggle('hidden',!q);if(!q){box.classList.add('hidden');return}const matches=nodes.filter(n=>`${n.name} ${n.identity||''} ${n.aliases||''}`.toLowerCase().includes(q)).sort((a,b)=>{let aName=a.name.toLowerCase().startsWith(q)?0:1,bName=b.name.toLowerCase().startsWith(q)?0:1;return aName-bName||a.name.localeCompare(b.name)}).slice(0,12);for(let n of matches){let b=el('button','result');b.append(iconNode(n,36));let txt=el('div');append(txt,el('strong','',n.name),el('span','subtitle',n.identity||n.kind));b.append(txt);b.onclick=()=>{$('query').value='';$('clearQuery').classList.add('hidden');openProfile(n.id)};box.append(b)}if(!matches.length)box.append(el('div','result','No matches in this dataset'));box.classList.remove('hidden')}
 function toast(t){let x=$('toast');x.textContent=t;x.classList.remove('hidden');clearTimeout(toast.timer);toast.timer=setTimeout(()=>x.classList.add('hidden'),2300)}
 function download(data,name,mime){let file=new Blob([data],{type:mime});let url=URL.createObjectURL(file),a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),1500)}
-load(db);updateNav();render();document.querySelectorAll('.navtab').forEach(b=>b.onclick=()=>switchTab(b.dataset.tab));$('query').addEventListener('input',e=>search(e.target.value));$('query').addEventListener('keydown',e=>{if(e.key==='Escape')closeSearch();if(e.key==='Enter'){let f=$('queryResults').querySelector('button');if(f)f.click()}});$('clearQuery').onclick=()=>{$('query').value='';search('');$('query').focus()};document.addEventListener('pointerdown',e=>{if(!e.target.closest('.searchshell'))closeSearch()});window.addEventListener('resize',()=>{if(tab==='network'&&!profile&&canvas)resizeNetwork()});
+load(db);updateNav();render();loadPortraitCatalog();document.querySelectorAll('.navtab').forEach(b=>b.onclick=()=>switchTab(b.dataset.tab));$('query').addEventListener('input',e=>search(e.target.value));$('query').addEventListener('keydown',e=>{if(e.key==='Escape')closeSearch();if(e.key==='Enter'){let f=$('queryResults').querySelector('button');if(f)f.click()}});$('clearQuery').onclick=()=>{$('query').value='';search('');$('query').focus()};document.addEventListener('pointerdown',e=>{if(!e.target.closest('.searchshell'))closeSearch()});window.addEventListener('resize',()=>{if(tab==='network'&&!profile&&canvas)resizeNetwork()});
 if('serviceWorker' in navigator&&location.protocol==='https:')navigator.serviceWorker.register('./service-worker.js').catch(()=>{});
 })();
 </script>
