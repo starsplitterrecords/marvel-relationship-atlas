@@ -1,0 +1,274 @@
+{
+  "batch_id": "FF11_20261019",
+  "status": "COMMITTED RESEARCH FILE ONLY — not merged into canonical",
+  "continuity": "Earth-616",
+  "community": "Fantastic Four family",
+  "evidence_limit": "Reconstructed from preceding in-chat research. Original detailed issue-scoped events and interpretations remain in conversation; this condensed preservation file must not be treated as issue-level validated.",
+  "people": [
+    {
+      "id": "phillip_masters",
+      "name": "phillip masters",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "jacob_reiss",
+      "name": "jacob reiss",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "lyja",
+      "name": "lyja",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "paibok",
+      "name": "paibok",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "sharon_ventura",
+      "name": "sharon ventura",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "norrin",
+      "name": "norrin",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "nkalla",
+      "name": "nkalla",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "jo_venn",
+      "name": "jo venn",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "nathaniel_richards_sr",
+      "name": "nathaniel richards sr",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "kristoff_vernard",
+      "name": "kristoff vernard",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "bentley_23",
+      "name": "bentley 23",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "dragon_man",
+      "name": "dragon man",
+      "identity_status": "proposed"
+    }
+  ],
+  "sources": [
+    {
+      "id": "FF11_S1",
+      "url": "https://www.marvel.com/characters/alicia-masters",
+      "evidence_tier": "publisher_secondary; verify applicability per claim"
+    },
+    {
+      "id": "FF11_S2",
+      "url": "https://www.marvel.com/teams-and-groups/fantastic-four/in-comics",
+      "evidence_tier": "publisher_secondary; verify applicability per claim"
+    },
+    {
+      "id": "FF11_S3",
+      "url": "https://www.marvel.com/characters/paibok/",
+      "evidence_tier": "publisher_secondary; verify applicability per claim"
+    },
+    {
+      "id": "FF11_S4",
+      "url": "https://www.marvel.com/teams-and-groups/future-foundation",
+      "evidence_tier": "publisher_secondary; verify applicability per claim"
+    },
+    {
+      "id": "FF11_S5",
+      "url": "https://www.marvel.com/comics/issue/123447/fantastic_four_2022_27_variant/variant",
+      "evidence_tier": "publisher_secondary; verify applicability per claim"
+    }
+  ],
+  "events": [],
+  "claims": [
+    {
+      "id": "FF11_C1",
+      "from_id": "phillip_masters",
+      "to_id": "jacob_reiss",
+      "dimension": "betrayal",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C2",
+      "from_id": "phillip_masters",
+      "to_id": "alicia",
+      "dimension": "coercion",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C3",
+      "from_id": "alicia",
+      "to_id": "phillip_masters",
+      "dimension": "conflict",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C4",
+      "from_id": "alicia",
+      "to_id": "norrin",
+      "dimension": "influence",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C5",
+      "from_id": "paibok",
+      "to_id": "lyja",
+      "dimension": "authority",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C6",
+      "from_id": "lyja",
+      "to_id": "paibok",
+      "dimension": "betrayal",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C7",
+      "from_id": "lyja",
+      "to_id": "alicia",
+      "dimension": "coercion",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C8",
+      "from_id": "lyja",
+      "to_id": "johnny",
+      "dimension": "romance",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C9",
+      "from_id": "sharon_ventura",
+      "to_id": "ben",
+      "dimension": "romance",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C10",
+      "from_id": "doom",
+      "to_id": "sharon_ventura",
+      "dimension": "coercion",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C11",
+      "from_id": "nathaniel_richards_sr",
+      "to_id": "franklin",
+      "dimension": "coercion",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C12",
+      "from_id": "doom",
+      "to_id": "kristoff_vernard",
+      "dimension": "family",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C13",
+      "from_id": "valeria",
+      "to_id": "dragon_man",
+      "dimension": "influence",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C14",
+      "from_id": "reed",
+      "to_id": "bentley_23",
+      "dimension": "mentorship",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C15",
+      "from_id": "alicia",
+      "to_id": "nkalla",
+      "dimension": "family",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C16",
+      "from_id": "alicia",
+      "to_id": "jo_venn",
+      "dimension": "family",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "FF11_C17",
+      "from_id": "nkalla",
+      "to_id": "jo_venn",
+      "dimension": "protection",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    }
+  ],
+  "review": {
+    "full_original_batch": "Earlier messages in this conversation",
+    "canonical_merge": false,
+    "warning": "Not a substitute for the full event-rich research payload."
+  }
+}
