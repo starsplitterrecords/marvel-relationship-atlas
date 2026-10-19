@@ -738,6 +738,78 @@
       "name": "David Cannon",
       "alias": "Whirlwind",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "sunspot",
+      "name": "Roberto da Costa",
+      "alias": "Sunspot",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "cannonball",
+      "name": "Samuel Guthrie",
+      "alias": "Cannonball",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "tabitha",
+      "name": "Tabitha Smith",
+      "alias": "Boom-Boom / Meltdown",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "wolfsbane",
+      "name": "Rahne Sinclair",
+      "alias": "Wolfsbane",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "dani",
+      "name": "Danielle Moonstar",
+      "alias": "Mirage",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "moira",
+      "name": "Moira MacTaggert",
+      "alias": "Moira MacTaggert",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "hrimhari",
+      "name": "Hrimhari",
+      "alias": "Wolf Prince",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "cypher",
+      "name": "Douglas Ramsey",
+      "alias": "Cypher",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "warlock_technarch",
+      "name": "Warlock",
+      "alias": "Technarch Warlock",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "magik",
+      "name": "Illyana Rasputina",
+      "alias": "Magik",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "belasco",
+      "name": "Belasco",
+      "alias": "Belasco",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "colossus",
+      "name": "Piotr Rasputin",
+      "alias": "Colossus",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -1551,6 +1623,30 @@
       "url": "https://www.marvel.com/comics/guides/2388/women_of_marvel_wasp",
       "kind": "Official Marvel publisher source",
       "level": "publisher_secondary"
+    },
+    {
+      "id": "NM6_S01",
+      "title": "Sunspot — Marvel Character Biography",
+      "url": "https://www.marvel.com/characters/sunspot",
+      "kind": "Marvel official publisher secondary"
+    },
+    {
+      "id": "NM6_S02",
+      "title": "Wolfsbane — Marvel Character Biography",
+      "url": "https://www.marvel.com/characters/wolfsbane",
+      "kind": "Marvel official publisher secondary"
+    },
+    {
+      "id": "NM6_S03",
+      "title": "Kate Pryde — Marvel Character Biography",
+      "url": "https://www.marvel.com/characters/kitty-pryde",
+      "kind": "Marvel official publisher secondary"
+    },
+    {
+      "id": "NM6_S04",
+      "title": "X-Men: Magik — Storm & Illyana (collects Uncanny X-Men #160 and Magik #1–4)",
+      "url": "https://www.marvel.com/comics/issue/47233/x-men_magik_-_storm_illyana_tpb_trade_paperback",
+      "kind": "Marvel official publisher secondary"
     }
   ],
   "events": [
@@ -4088,6 +4184,171 @@
       "evidence_tier": "publisher_secondary",
       "observation_type": "publisher_summary",
       "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "NM6_E01",
+      "a": "sunspot",
+      "b": "cannonball",
+      "scope": "New Mutants through later X-Force; specific betrayal issue unverified",
+      "observation": "Roberto and Sam become close friends; their friendship is strained when Roberto has an affair with Sam’s girlfriend Tabitha, and they later reconcile.",
+      "source_id": "NM6_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "New Mutants through later X-Force; specific betrayal issue unverified"
+    },
+    {
+      "id": "NM6_E02",
+      "a": "sunspot",
+      "b": "tabitha",
+      "scope": "Later X-Force / Meltdown relationship era; exact issue unverified",
+      "observation": "Roberto has an affair with Tabitha Smith while she is Sam Guthrie’s girlfriend.",
+      "source_id": "NM6_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "Later X-Force / Meltdown relationship era; exact issue unverified"
+    },
+    {
+      "id": "NM6_E03",
+      "a": "cannonball",
+      "b": "tabitha",
+      "scope": "X-Force / Meltdown relationship era; exact issue unverified",
+      "observation": "Marvel identifies Tabitha Smith as Sam Guthrie’s girlfriend during her affair with Roberto.",
+      "source_id": "NM6_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "X-Force / Meltdown relationship era; exact issue unverified"
+    },
+    {
+      "id": "NM6_E04",
+      "a": "wolfsbane",
+      "b": "dani",
+      "scope": "Early New Mutants, beginning in the 1980s",
+      "observation": "Rahne and Dani become close friends, and Dani can establish a psychic link with Rahne in wolf form.",
+      "source_id": "NM6_S02",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "Early New Mutants, beginning in the 1980s"
+    },
+    {
+      "id": "NM6_E05",
+      "a": "moira",
+      "b": "wolfsbane",
+      "scope": "Rahne’s childhood and New Mutants origin; before The New Mutants graphic novel (1982)",
+      "observation": "Moira protects Rahne from a mob, becomes her guardian/adoptive mother, and takes her to Xavier’s school.",
+      "source_id": "NM6_S02",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "Rahne’s childhood and New Mutants origin; before The New Mutants graphic novel (1982)"
+    },
+    {
+      "id": "NM6_E06",
+      "a": "wolfsbane",
+      "b": "hrimhari",
+      "scope": "New Mutants Asgard adventure, mid-1980s; later X-Force reunion",
+      "observation": "Rahne meets the Asgardian wolf prince Hrimhari; they fall in love, separate when she returns to Earth, and later reunite.",
+      "source_id": "NM6_S02",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "New Mutants Asgard adventure, mid-1980s; later X-Force reunion"
+    },
+    {
+      "id": "NM6_E07",
+      "a": "cypher",
+      "b": "wolfsbane",
+      "scope": "New Mutants (1983) #60-era; issue number requires direct verification",
+      "observation": "Doug pushes Rahne out of a bullet’s path and dies saving her; Rahne had been developing feelings for him.",
+      "source_id": "NM6_S02",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "New Mutants (1983) #60-era; issue number requires direct verification"
+    },
+    {
+      "id": "NM6_E08",
+      "a": "kitty",
+      "b": "cypher",
+      "scope": "Early New Mutants / Kitty’s computer-programming friendship, 1980s",
+      "observation": "Kitty becomes close friends with Doug Ramsey; they share an interest in computers before he joins the New Mutants.",
+      "source_id": "NM6_S03",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "Early New Mutants / Kitty’s computer-programming friendship, 1980s"
+    },
+    {
+      "id": "NM6_E09",
+      "a": "kitty",
+      "b": "magik",
+      "scope": "After Uncanny X-Men (1963) #160; early New Mutants years",
+      "observation": "Kitty tries to retrieve Illyana from Belasco’s Limbo; after Illyana returns older, the two become close friends with a psychic-like bond.",
+      "source_id": "NM6_S03",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "After Uncanny X-Men (1963) #160; early New Mutants years"
+    },
+    {
+      "id": "NM6_E10",
+      "a": "belasco",
+      "b": "magik",
+      "scope": "Uncanny X-Men (1963) #160 and Magik (1983) #1–4",
+      "observation": "Belasco abducts young Illyana into Limbo, where she experiences years of captivity and loses part of her soul.",
+      "source_id": "NM6_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "Uncanny X-Men (1963) #160 and Magik (1983) #1–4"
+    },
+    {
+      "id": "NM6_E11",
+      "a": "colossus",
+      "b": "magik",
+      "scope": "Uncanny X-Men (1963) #160; early Illyana rescue arc",
+      "observation": "Marvel identifies Illyana as Piotr Rasputin’s younger sister; the X-Men rescue her from Belasco’s Limbo.",
+      "source_id": "NM6_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "Uncanny X-Men (1963) #160; early Illyana rescue arc"
+    },
+    {
+      "id": "NM6_E12",
+      "a": "wolfsbane",
+      "b": "warlock_technarch",
+      "scope": "Warlock’s early New Mutants arrival, 1980s; exact issue unverified",
+      "observation": "Rahne presses the New Mutants to extend friendship to the unfamiliar Technarch Warlock.",
+      "source_id": "NM6_S02",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "Warlock’s early New Mutants arrival, 1980s; exact issue unverified"
+    },
+    {
+      "id": "NM6_E13",
+      "a": "sunspot",
+      "b": "dani",
+      "scope": "War of the Realms / Uncanny X-Men (2018–2019) era; exact issue unverified",
+      "observation": "After Roberto apparently explodes, Dani senses his presence and he tells her he loves her, calling her his sister.",
+      "source_id": "NM6_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "War of the Realms / Uncanny X-Men (2018–2019) era; exact issue unverified"
+    },
+    {
+      "id": "NM6_E14",
+      "a": "kitty",
+      "b": "colossus",
+      "scope": "X-Men romance across 1980s–2010s; abandoned wedding era",
+      "observation": "Kitty and Piotr repeatedly reconcile and separate; Kitty later proposes marriage but leaves the ceremony before marrying him.",
+      "source_id": "NM6_S03",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "X-Men romance across 1980s–2010s; abandoned wedding era"
+    },
+    {
+      "id": "NM6_E15",
+      "a": "wolfsbane",
+      "b": "magik",
+      "scope": "Inferno (1988–1989) New Mutants crossover",
+      "observation": "During Inferno, Rahne appeals to Illyana when she loses control of her demonic side, helping her resist the Darkchilde transformation.",
+      "source_id": "NM6_S02",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "issue": "Inferno (1988–1989) New Mutants crossover"
     }
   ],
   "claims": [
@@ -8681,6 +8942,294 @@
       "scope": "Avengers Inc. #1 (2023)",
       "continuity": "Earth-616",
       "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "NM6_C01",
+      "pair_id": "cannonball-sunspot",
+      "from_id": "cannonball",
+      "to_id": "sunspot",
+      "dimension": "friendship",
+      "epistemic": "direct",
+      "assessment": "Sam and Roberto maintain a close friendship despite a significant breach.",
+      "interpretation": "The reconciliation illustrates a durable friendship, not a permanently untroubled one.",
+      "qualification": "Marvel character biography; exact issue for the affair/reconciliation needs checking.",
+      "event_ids": [
+        "NM6_E01"
+      ],
+      "scope": "New Mutants through later X-Force; specific betrayal issue unverified",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Sam and Roberto maintain a close friendship despite a significant breach."
+    },
+    {
+      "id": "NM6_C02",
+      "pair_id": "sunspot-tabitha",
+      "from_id": "sunspot",
+      "to_id": "tabitha",
+      "dimension": "romance",
+      "epistemic": "direct",
+      "assessment": "Roberto becomes romantically involved with Tabitha during her relationship with Sam.",
+      "interpretation": "This creates a conflict of loyalty between Roberto and Sam.",
+      "qualification": "The source calls it an affair but does not independently establish all parties’ knowledge or timing.",
+      "event_ids": [
+        "NM6_E02"
+      ],
+      "scope": "Later X-Force / Meltdown relationship era; exact issue unverified",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Roberto becomes romantically involved with Tabitha during her relationship with Sam."
+    },
+    {
+      "id": "NM6_C03",
+      "pair_id": "cannonball-tabitha",
+      "from_id": "cannonball",
+      "to_id": "tabitha",
+      "dimension": "romance",
+      "epistemic": "direct",
+      "assessment": "Sam and Tabitha are romantically involved in the cited period.",
+      "interpretation": "Their relationship provides the context for Roberto’s betrayal of Sam.",
+      "qualification": "No assertion of the relationship’s duration or exclusivity beyond the source wording.",
+      "event_ids": [
+        "NM6_E03"
+      ],
+      "scope": "X-Force / Meltdown relationship era; exact issue unverified",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Sam and Tabitha are romantically involved in the cited period."
+    },
+    {
+      "id": "NM6_C04",
+      "pair_id": "dani-wolfsbane",
+      "from_id": "dani",
+      "to_id": "wolfsbane",
+      "dimension": "friendship",
+      "epistemic": "direct",
+      "assessment": "Dani shares a close friendship and an unusual psychic connection with Rahne.",
+      "interpretation": "Their bond makes Dani unusually able to understand Rahne’s experience in wolf form.",
+      "qualification": "Psychic connection is not evidence of permanent or unrestricted mind reading.",
+      "event_ids": [
+        "NM6_E04"
+      ],
+      "scope": "Early New Mutants, beginning in the 1980s",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Dani shares a close friendship and an unusual psychic connection with Rahne."
+    },
+    {
+      "id": "NM6_C05",
+      "pair_id": "moira-wolfsbane",
+      "from_id": "moira",
+      "to_id": "wolfsbane",
+      "dimension": "protection",
+      "epistemic": "direct",
+      "assessment": "Moira protects and takes parental responsibility for Rahne.",
+      "interpretation": "The relationship contrasts with Rahne’s earlier abusive upbringing.",
+      "qualification": "Marvel biography uses both guardian and adoption language; exact legal timeline needs issue-level confirmation.",
+      "event_ids": [
+        "NM6_E05"
+      ],
+      "scope": "Rahne’s childhood and New Mutants origin; before The New Mutants graphic novel (1982)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Moira protects and takes parental responsibility for Rahne."
+    },
+    {
+      "id": "NM6_C06",
+      "pair_id": "hrimhari-wolfsbane",
+      "from_id": "wolfsbane",
+      "to_id": "hrimhari",
+      "dimension": "romance",
+      "epistemic": "direct",
+      "assessment": "Rahne and Hrimhari fall in love despite their separate worlds.",
+      "interpretation": "Their romance creates a personal bridge between mutant life and Asgardian mythology.",
+      "qualification": "Their later child and Hrimhari’s sacrifice are distinct later events not collapsed into this episode.",
+      "event_ids": [
+        "NM6_E06"
+      ],
+      "scope": "New Mutants Asgard adventure, mid-1980s; later X-Force reunion",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Rahne and Hrimhari fall in love despite their separate worlds."
+    },
+    {
+      "id": "NM6_C07",
+      "pair_id": "cypher-wolfsbane",
+      "from_id": "cypher",
+      "to_id": "wolfsbane",
+      "dimension": "protection",
+      "epistemic": "direct",
+      "assessment": "Doug sacrifices his life to save Rahne.",
+      "interpretation": "His action is evidence of protection, not proof that he reciprocated Rahne’s romantic feelings.",
+      "qualification": "Exact issue inferred from series chronology; original issue panels not inspected.",
+      "event_ids": [
+        "NM6_E07"
+      ],
+      "scope": "New Mutants (1983) #60-era; issue number requires direct verification",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Doug sacrifices his life to save Rahne."
+    },
+    {
+      "id": "NM6_C08",
+      "pair_id": "cypher-kitty",
+      "from_id": "kitty",
+      "to_id": "cypher",
+      "dimension": "friendship",
+      "epistemic": "direct",
+      "assessment": "Kitty and Doug develop a friendship through a shared technical interest.",
+      "interpretation": "The connection crosses the X-Men/New Mutants generation boundary.",
+      "qualification": "Source establishes friendship but not the exact first issue.",
+      "event_ids": [
+        "NM6_E08"
+      ],
+      "scope": "Early New Mutants / Kitty’s computer-programming friendship, 1980s",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Kitty and Doug develop a friendship through a shared technical interest."
+    },
+    {
+      "id": "NM6_C09",
+      "pair_id": "kitty-magik",
+      "from_id": "kitty",
+      "to_id": "magik",
+      "dimension": "friendship",
+      "epistemic": "direct",
+      "assessment": "Kitty becomes one of Illyana’s close friends after the Limbo ordeal.",
+      "interpretation": "Their bond links the X-Men and New Mutants on a personal rather than merely organizational basis.",
+      "qualification": "Do not conflate Earth-616 Kitty with the alternate Limbo Cat depicted in Magik #1–4.",
+      "event_ids": [
+        "NM6_E09"
+      ],
+      "scope": "After Uncanny X-Men (1963) #160; early New Mutants years",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Kitty becomes one of Illyana’s close friends after the Limbo ordeal."
+    },
+    {
+      "id": "NM6_C10",
+      "pair_id": "belasco-magik",
+      "from_id": "belasco",
+      "to_id": "magik",
+      "dimension": "coercion",
+      "epistemic": "direct",
+      "assessment": "Belasco abducts and exerts supernatural control over Illyana.",
+      "interpretation": "This is predatory domination, not a consensual mentor relationship.",
+      "qualification": "Marvel synopsis; original panels not reviewed.",
+      "event_ids": [
+        "NM6_E10"
+      ],
+      "scope": "Uncanny X-Men (1963) #160 and Magik (1983) #1–4",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Belasco abducts and exerts supernatural control over Illyana."
+    },
+    {
+      "id": "NM6_C11",
+      "pair_id": "colossus-magik",
+      "from_id": "colossus",
+      "to_id": "magik",
+      "dimension": "family",
+      "epistemic": "direct",
+      "assessment": "Piotr is Illyana’s older brother.",
+      "interpretation": "Her captivity and accelerated aging complicate their family history.",
+      "qualification": "The synopsis credits the rescue to the X-Men collectively, not to Piotr acting alone.",
+      "event_ids": [
+        "NM6_E11"
+      ],
+      "scope": "Uncanny X-Men (1963) #160; early Illyana rescue arc",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Piotr is Illyana’s older brother."
+    },
+    {
+      "id": "NM6_C12",
+      "pair_id": "warlock_technarch-wolfsbane",
+      "from_id": "wolfsbane",
+      "to_id": "warlock_technarch",
+      "dimension": "friendship",
+      "epistemic": "direct",
+      "assessment": "Rahne advocates welcoming Warlock instead of treating him solely as a threat.",
+      "interpretation": "Her empathy helps a nonhuman outsider enter the group.",
+      "qualification": "Advocacy is documented; this event alone does not establish lifelong intimacy.",
+      "event_ids": [
+        "NM6_E12"
+      ],
+      "scope": "Warlock’s early New Mutants arrival, 1980s; exact issue unverified",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Rahne advocates welcoming Warlock instead of treating him solely as a threat."
+    },
+    {
+      "id": "NM6_C13",
+      "pair_id": "dani-sunspot",
+      "from_id": "sunspot",
+      "to_id": "dani",
+      "dimension": "affection",
+      "epistemic": "interpretive",
+      "assessment": "Roberto expresses sibling-like affection toward Dani.",
+      "interpretation": "This is chosen-family language, not evidence of biological kinship.",
+      "qualification": "Exact issue and metaphysical circumstances of his apparent death need review.",
+      "event_ids": [
+        "NM6_E13"
+      ],
+      "scope": "War of the Realms / Uncanny X-Men (2018–2019) era; exact issue unverified",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Roberto expresses sibling-like affection toward Dani."
+    },
+    {
+      "id": "NM6_C14",
+      "pair_id": "colossus-kitty",
+      "from_id": "kitty",
+      "to_id": "colossus",
+      "dimension": "romance",
+      "epistemic": "direct",
+      "assessment": "Kitty and Piotr sustain an on-and-off romantic relationship, eventually ending an attempted wedding.",
+      "interpretation": "Their story distinguishes long-term affection from willingness to marry.",
+      "qualification": "Do not describe the aborted wedding as a completed marriage.",
+      "event_ids": [
+        "NM6_E14"
+      ],
+      "scope": "X-Men romance across 1980s–2010s; abandoned wedding era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Kitty and Piotr sustain an on-and-off romantic relationship, eventually ending an attempted wedding."
+    },
+    {
+      "id": "NM6_C15",
+      "pair_id": "magik-wolfsbane",
+      "from_id": "wolfsbane",
+      "to_id": "magik",
+      "dimension": "influence",
+      "epistemic": "interpretive",
+      "assessment": "Rahne’s personal appeal helps Illyana regain control during Inferno.",
+      "interpretation": "Rahne’s influence works through their existing relationship, not formal magical authority.",
+      "qualification": "Publisher biography attributes a decisive appeal; the full causal chain needs panel-level review.",
+      "event_ids": [
+        "NM6_E15"
+      ],
+      "scope": "Inferno (1988–1989) New Mutants crossover",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Rahne’s personal appeal helps Illyana regain control during Inferno."
+    },
+    {
+      "id": "NM6_C16",
+      "pair_id": "cypher-wolfsbane",
+      "from_id": "wolfsbane",
+      "to_id": "cypher",
+      "dimension": "affection",
+      "epistemic": "direct",
+      "assessment": "Rahne develops romantic feelings for Doug but does not tell him before his death.",
+      "interpretation": "The evidence supports her feelings, not mutual romantic involvement.",
+      "qualification": "Do not label Doug and Rahne as a confirmed romantic couple.",
+      "event_ids": [
+        "NM6_E07"
+      ],
+      "scope": "New Mutants (1983) #60-era; exact issue requires verification",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary",
+      "summary": "Rahne develops romantic feelings for Doug but does not tell him before his death."
     }
   ],
   "research_backlog": [
