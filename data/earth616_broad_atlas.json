@@ -4203,6 +4203,60 @@
       "sector": "mystic",
       "summary": "Sourced relationship research subject",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "c_rel_flash",
+      "name": "Flash Thompson",
+      "identity": "Eugene Thompson",
+      "kind": "character",
+      "sector": "street",
+      "summary": "Relationship Atlas research subject",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "c_rel_ahura",
+      "name": "Ahura",
+      "identity": "Ahura Boltagon",
+      "kind": "character",
+      "sector": "royal",
+      "summary": "Relationship Atlas research subject",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "c_rel_kang",
+      "name": "Kang the Conqueror",
+      "identity": "Nathaniel Richards",
+      "kind": "character",
+      "sector": "royal",
+      "summary": "Relationship Atlas research subject",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "c_rel_luna",
+      "name": "Luna",
+      "identity": "Luna Maximoff",
+      "kind": "character",
+      "sector": "royal",
+      "summary": "Relationship Atlas research subject",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "c_rel_fantomex",
+      "name": "Fantomex",
+      "identity": "Charlie-Cluster 7",
+      "kind": "character",
+      "sector": "royal",
+      "summary": "Relationship Atlas research subject",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "c_rel_wizard",
+      "name": "Wizard",
+      "identity": "Bentley Wittman",
+      "kind": "character",
+      "sector": "royal",
+      "summary": "Relationship Atlas research subject",
+      "continuity": "Earth-616"
     }
   ],
   "edges": [
@@ -13302,6 +13356,259 @@
       "source_id": "REL_GR5_S04",
       "continuity": "Earth-616",
       "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SP3_C02",
+      "source": "c_mj",
+      "target": "c_mayparker",
+      "kind": "ally",
+      "era": "Stark Tower era",
+      "note": "friendship (mj → mayparker): Mary Jane and May bond over Peter's secret and safety. [SP3_C02]",
+      "source_id": "REL_SP3_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SP3_C03",
+      "source": "c_blackcat",
+      "target": "c_mj",
+      "kind": "ally",
+      "era": "Later reconciliation",
+      "note": "friendship (blackcat → mj): Felicia and Mary Jane reconcile after rivalry and fight together. [SP3_C03]",
+      "source_id": "REL_SP3_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SP3_C04",
+      "source": "c_harry",
+      "target": "c_peter",
+      "kind": "ally",
+      "era": "Empire State University era",
+      "note": "friendship (harry → peter): Harry offers Peter housing; Peter tutors Harry. [SP3_C04]",
+      "source_id": "REL_SP3_S03",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SP3_C05",
+      "source": "c_norman",
+      "target": "c_harry",
+      "kind": "conflict",
+      "era": "Harry's young-adult years",
+      "note": "conflict (norman → harry): Norman belittles Harry, damaging their father-son bond. [SP3_C05]",
+      "source_id": "REL_SP3_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SP3_C06",
+      "source": "c_harry",
+      "target": "c_liz",
+      "kind": "romance",
+      "era": "Harry and Liz marriage era",
+      "note": "romance (harry → liz): Harry and Liz marry and have their son Normie. [SP3_C06]",
+      "source_id": "REL_SP3_S03",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SP3_C09",
+      "source": "c_rel_flash",
+      "target": "c_peter",
+      "kind": "ally",
+      "era": "High school through Red Goblin (2018)",
+      "note": "friendship (flash → peter): Flash changes from Peter's bully to his friend and calls him a hero. [SP3_C09]",
+      "source_id": "REL_SP3_S04",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SP3_C12",
+      "source": "c_peter",
+      "target": "c_peter",
+      "kind": "associated",
+      "era": "Post-Secret Wars (2015 onward)",
+      "note": "mentorship (peter → miles): Peter mentors Miles in the rebuilt prime reality. [SP3_C12]",
+      "source_id": "REL_SP3_S05",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SP3_C13",
+      "source": "c_jonah",
+      "target": "c_peter",
+      "kind": "associated",
+      "era": "Daily Bugle freelance era",
+      "note": "professional (jonah → peter): Jameson purchases Peter's photos while attacking Spider-Man publicly. [SP3_C13]",
+      "source_id": "SILKREF",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SP3_C14",
+      "source": "c_benparker",
+      "target": "c_peter",
+      "kind": "related",
+      "era": "Amazing Fantasy (1962) #15",
+      "note": "influence (benparker → peter): Ben's death after Peter lets a burglar escape shapes Peter's responsibility. [SP3_C14]",
+      "source_id": "SILKREF",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C01",
+      "source": "c_medusa",
+      "target": "c_blackbolt",
+      "kind": "conflict",
+      "era": "Inhuman (2014) #12",
+      "note": "conflict (medusa → blackbolt): Medusa cuts ties after Black Bolt's absence and Terrigen-bomb decision. [ATT26A_C01]",
+      "source_id": "REL_ATT26A_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C02",
+      "source": "c_maximus",
+      "target": "c_blackbolt",
+      "kind": "conflict",
+      "era": "Inhumans: The Untold Saga / By Right of Birth",
+      "note": "coercion (maximus → blackbolt): Maximus usurps his brother's throne. [ATT26A_C02]",
+      "source_id": "REL_ATT26A_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C03",
+      "source": "c_medusa",
+      "target": "c_rel_ahura",
+      "kind": "family",
+      "era": "Marvel Graphic Novel: The Inhumans",
+      "note": "family (medusa → ahura): Medusa secretly gives birth to Ahura and conceals it from Inhuman elders. [ATT26A_C03]",
+      "source_id": "REL_ATT26A_S02",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C04",
+      "source": "c_blackbolt",
+      "target": "c_rel_ahura",
+      "kind": "ally",
+      "era": "Uncanny Inhumans (2015) Kang/Ahura arc",
+      "note": "protection (blackbolt → ahura): Black Bolt entrusts Ahura to Kang to survive the Incursions. [ATT26A_C04]",
+      "source_id": "REL_ATT26A_S03",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C05",
+      "source": "c_rel_kang",
+      "target": "c_rel_ahura",
+      "kind": "conflict",
+      "era": "Uncanny Inhumans (2015) Kang/Ahura arc",
+      "note": "coercion (kang → ahura): Kang raises and manipulates Ahura; Ahura later turns against him. [ATT26A_C05]",
+      "source_id": "REL_ATT26A_S03",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C07",
+      "source": "c_crystal",
+      "target": "c_pietro",
+      "kind": "romance",
+      "era": "Avengers (1963) #110",
+      "note": "romance (crystal → pietro): Crystal nurses Pietro and the pair fall in love. [ATT26A_C07]",
+      "source_id": "REL_ATT26A_S05",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C08",
+      "source": "c_crystal",
+      "target": "c_rel_luna",
+      "kind": "family",
+      "era": "Crystal and Pietro parenthood era",
+      "note": "family (crystal → luna): Crystal and Pietro have daughter Luna. [ATT26A_C08]",
+      "source_id": "REL_ATT26A_S04",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C09",
+      "source": "c_pietro",
+      "target": "c_rel_luna",
+      "kind": "family",
+      "era": "Crystal and Pietro parenthood era",
+      "note": "family (pietro → luna): Pietro and Crystal have daughter Luna. [ATT26A_C09]",
+      "source_id": "REL_ATT26A_S04",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C10",
+      "source": "c_medusa",
+      "target": "c_johnny",
+      "kind": "romance",
+      "era": "Uncanny Inhumans (2015) #0–10",
+      "note": "romance (medusa → johnny): Medusa and Johnny become romantically involved after her separation. [ATT26A_C10]",
+      "source_id": "REL_ATT26A_S06",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C11",
+      "source": "c_medusa",
+      "target": "c_ronan",
+      "kind": "associated",
+      "era": "Secret Invasion: Inhumans (2008) #3",
+      "note": "professional (medusa → ronan): Medusa weighs a diplomatic bargain with Ronan while seeking Black Bolt. [ATT26A_C11]",
+      "source_id": "REL_ATT26A_S07",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C12",
+      "source": "c_blackbolt",
+      "target": "c_pietro",
+      "kind": "conflict",
+      "era": "Son of M (2005) #6",
+      "note": "conflict (blackbolt → pietro): Black Bolt confronts Pietro after theft of Terrigen Crystals. [ATT26A_C12]",
+      "source_id": "REL_ATT26A_S08",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C13",
+      "source": "c_gorgon",
+      "target": "c_medusa",
+      "kind": "ally",
+      "era": "Early Fantastic Four / Inhumans introduction",
+      "note": "protection (gorgon → medusa): Gorgon locates an amnesiac Medusa to reunite her with her family. [ATT26A_C13]",
+      "source_id": "BETA",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C14",
+      "source": "c_karnak",
+      "target": "c_rel_fantomex",
+      "kind": "conflict",
+      "era": "Inhumans vs. X-Men (2016) #5",
+      "note": "conflict (karnak → fantomex): Karnak and Fantomex directly confront one another. [ATT26A_C14]",
+      "source_id": "REL_ATT26A_S10",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ATT26A_C15",
+      "source": "c_rel_wizard",
+      "target": "c_medusa",
+      "kind": "related",
+      "era": "Fantastic Four (1961) #36",
+      "note": "influence (wizard → medusa): Wizard recruits amnesiac Medusa into the Frightful Four. [ATT26A_C15]",
+      "source_id": "REL_ATT26A_S01",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
     }
   ],
   "sources": [
@@ -14711,6 +15018,134 @@
       "url": "https://www.marvel.com/comics/collection/33276/ghost_rider_by_jason_aaron_omnibus_hardcover",
       "publisher": "Marvel",
       "type": "Publisher secondary; not panel-verified",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SP3_S02",
+      "title": "mary-jane-watson",
+      "url": "https://www.marvel.com/characters/mary-jane-watson",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SP3_S03",
+      "title": "harry-osborn",
+      "url": "https://www.marvel.com/characters/harry-osborn",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SP3_S04",
+      "title": "flash-thompson",
+      "url": "https://www.marvel.com/characters/flash-thompson",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SP3_S05",
+      "title": "in-comics",
+      "url": "https://www.marvel.com/characters/spider-man-miles-morales/in-comics",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SP3_S07",
+      "title": "16926",
+      "url": "https://www.marvel.com/comics/issue/16926",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SP3_S08",
+      "title": "profile",
+      "url": "https://www.marvel.com/characters/green-goblin-norman-osborn/in-comics/profile/",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SP3_S09",
+      "title": "black-cat-felicia-hardy",
+      "url": "https://www.marvel.com/characters/black-cat-felicia-hardy/",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_ATT26A_S01",
+      "title": "medusa",
+      "url": "https://www.marvel.com/comics/discover/682/medusa",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_ATT26A_S02",
+      "title": "inhumans_by_right_of_birth_trade_paperback",
+      "url": "https://www.marvel.com/comics/collection/47645/inhumans_by_right_of_birth_trade_paperback",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_ATT26A_S03",
+      "title": "in-comics",
+      "url": "https://www.marvel.com/characters/kang/in-comics",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_ATT26A_S04",
+      "title": "MMRPG_CharacterProfiles_20240717.pdf",
+      "url": "https://cdn.marvel.com/u/prod/marvel/i/pdf/MMRPG_CharacterProfiles_20240717.pdf",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_ATT26A_S05",
+      "title": "slug",
+      "url": "https://www.marvel.com/comics/issue/6965/slug",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_ATT26A_S06",
+      "title": "uncanny_inhumans_vol_1_trade_paperback",
+      "url": "https://www.marvel.com/comics/collection/60487/uncanny_inhumans_vol_1_trade_paperback",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_ATT26A_S07",
+      "title": "secret-invasion-inhumans-2008-3",
+      "url": "https://www.marvel.com/comics/issue/22340/secret-invasion-inhumans-2008-3",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_ATT26A_S08",
+      "title": "black-bolt",
+      "url": "https://www.marvel.com/comics/discover/679/black-bolt",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_ATT26A_S10",
+      "title": "inhumans_vs_x-men_2016_5",
+      "url": "https://www.marvel.com/comics/issue/61598/inhumans_vs_x-men_2016_5",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary; URL verification pending",
       "verified_on": "2026-10-19"
     }
   ]
