@@ -456,6 +456,78 @@
       "name": "Barbara Morse",
       "alias": "Mockingbird",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "strange",
+      "name": "Stephen Strange",
+      "alias": "Doctor Strange",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "clea",
+      "name": "Clea",
+      "alias": "Clea",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "wong",
+      "name": "Wong",
+      "alias": "Wong",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "dormammu",
+      "name": "Dormammu",
+      "alias": "Dormammu",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "umar",
+      "name": "Umar",
+      "alias": "Umar",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "orini",
+      "name": "Orini",
+      "alias": "Orini",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "hamir",
+      "name": "Hamir",
+      "alias": "Hamir",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ancient_one",
+      "name": "Yao",
+      "alias": "Ancient One",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "johnny_blaze",
+      "name": "Johnny Blaze",
+      "alias": "Ghost Rider",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "mephisto",
+      "name": "Mephisto",
+      "alias": "Mephisto",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "nightmare",
+      "name": "Nightmare",
+      "alias": "Nightmare",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "satana",
+      "name": "Satana Hellstrom",
+      "alias": "Satana",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -1052,6 +1124,27 @@
       "url": "https://www.marvel.com/comics/collection/36574/captain_america_prisoner_of_war_tpb_trade_paperback",
       "kind": "Official Marvel issue or editorial history",
       "level": "publisher_secondary; original panels not inspected"
+    },
+    {
+      "id": "MYP_S1",
+      "title": "Clea comics history",
+      "url": "https://www.marvel.com/characters/clea/in-comics",
+      "kind": "Official Marvel editorial history / issue guide",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MYP_S2",
+      "title": "Wong comics history",
+      "url": "https://www.marvel.com/characters/wong/in-comics",
+      "kind": "Official Marvel editorial history / issue guide",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MYP_S3",
+      "title": "Clea reading guide",
+      "url": "https://www.marvel.com/comics/discover/2271/clea",
+      "kind": "Official Marvel editorial history / issue guide",
+      "level": "publisher_secondary"
     }
   ],
   "events": [
@@ -2809,6 +2902,188 @@
       "observation_type": "publisher_summary",
       "review_status": "Official Marvel summary; original panels not reviewed",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "MYP_E1",
+      "a": "clea",
+      "b": "strange",
+      "issue": "Strange Tales #126 (1964)",
+      "publication_year": 1964,
+      "observation": "Clea guided and protected Strange in Dormammu's realm.",
+      "source_id": "MYP_S3",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E2",
+      "a": "strange",
+      "b": "clea",
+      "issue": "Doctor Strange (1968) #171–173",
+      "publication_year": 1969,
+      "observation": "Strange rescued Clea, who returned to Earth as his partner and student.",
+      "source_id": "MYP_S3",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E3",
+      "a": "clea",
+      "b": "dormammu",
+      "issue": "Strange Tales #126–127",
+      "publication_year": 1964,
+      "observation": "Clea defied Dormammu to help Strange, provoking Dormammu's retaliation.",
+      "source_id": "MYP_S1",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E4",
+      "a": "umar",
+      "b": "clea",
+      "issue": "Doctor Strange (1968) #171–173",
+      "publication_year": 1969,
+      "observation": "Umar opposed and imprisoned her daughter Clea during the Dark Dimension conflict.",
+      "source_id": "MYP_S1",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E5",
+      "a": "orini",
+      "b": "clea",
+      "issue": "Doctor Strange (1968) #171–173",
+      "publication_year": 1969,
+      "observation": "Orini supported Umar against their daughter Clea.",
+      "source_id": "MYP_S1",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E6",
+      "a": "dormammu",
+      "b": "umar",
+      "issue": "Strange Tales #150–152",
+      "publication_year": 1966,
+      "observation": "Dormammu and Umar are siblings whose rivalry shaped rule of the Dark Dimension.",
+      "source_id": "MYP_S1",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E7",
+      "a": "wong",
+      "b": "strange",
+      "issue": "Doctor Strange (1968) #1 onward",
+      "publication_year": 1968,
+      "observation": "Wong served Strange and developed an enduring personal friendship.",
+      "source_id": "MYP_S2",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E8",
+      "a": "hamir",
+      "b": "wong",
+      "issue": "Wong comics history: family service",
+      "publication_year": null,
+      "observation": "Hamir raised Wong within a family tradition of service to the Sorcerer Supreme.",
+      "source_id": "MYP_S2",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E9",
+      "a": "wong",
+      "b": "ancient_one",
+      "issue": "Wong comics history: training",
+      "publication_year": null,
+      "observation": "Wong trained under the Ancient One before serving Doctor Strange.",
+      "source_id": "MYP_S2",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E10",
+      "a": "ancient_one",
+      "b": "strange",
+      "issue": "Strange Tales #110–115",
+      "publication_year": 1963,
+      "observation": "The Ancient One instructed Stephen Strange in the mystic arts.",
+      "source_id": "MYP_S2",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E11",
+      "a": "wong",
+      "b": "johnny_blaze",
+      "issue": "Wong comics history: Mephisto conflict",
+      "publication_year": null,
+      "observation": "Wong worked with Johnny Blaze in an effort against Mephisto.",
+      "source_id": "MYP_S2",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E12",
+      "a": "johnny_blaze",
+      "b": "mephisto",
+      "issue": "Wong comics history: Mephisto conflict",
+      "publication_year": null,
+      "observation": "Johnny Blaze and Wong acted against Mephisto.",
+      "source_id": "MYP_S2",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E13",
+      "a": "wong",
+      "b": "natasha",
+      "issue": "Wong comics history: Blasphemy Cartel",
+      "publication_year": null,
+      "observation": "Wong consulted Natasha Romanoff while investigating the Blasphemy Cartel.",
+      "source_id": "MYP_S2",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
+    },
+    {
+      "id": "MYP_E14",
+      "a": "strange",
+      "b": "nightmare",
+      "issue": "Strange Tales #110",
+      "publication_year": 1963,
+      "observation": "Strange confronted Nightmare in the Dream Dimension.",
+      "source_id": "MYP_S2",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "original panels not reviewed"
     }
   ],
   "claims": [
@@ -6280,6 +6555,295 @@
       "scope": "Secret Avengers (2013) #15",
       "continuity": "Earth-616",
       "review_status": "provisional; Marvel publisher_secondary, panels not verified"
+    },
+    {
+      "id": "MYP_C1",
+      "pair_id": "clea-strange",
+      "from_id": "clea",
+      "to_id": "strange",
+      "dimension": "protection",
+      "assessment": "guided and protected Strange",
+      "epistemic": "direct",
+      "summary": "guided and protected Strange",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E1"
+      ],
+      "scope": "Strange Tales #126 (1964)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C2",
+      "pair_id": "clea-strange",
+      "from_id": "strange",
+      "to_id": "clea",
+      "dimension": "mentorship",
+      "assessment": "took Clea as student",
+      "epistemic": "direct",
+      "summary": "took Clea as student",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E2"
+      ],
+      "scope": "Doctor Strange (1968) #171–173",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C3",
+      "pair_id": "clea-dormammu",
+      "from_id": "clea",
+      "to_id": "dormammu",
+      "dimension": "conflict",
+      "assessment": "defied Dormammu to help Strange",
+      "epistemic": "direct",
+      "summary": "defied Dormammu to help Strange",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E3"
+      ],
+      "scope": "Strange Tales #126–127",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C4",
+      "pair_id": "clea-dormammu",
+      "from_id": "dormammu",
+      "to_id": "clea",
+      "dimension": "coercion",
+      "assessment": "retaliated against Clea for defiance",
+      "epistemic": "direct",
+      "summary": "retaliated against Clea for defiance",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E3"
+      ],
+      "scope": "Strange Tales #126–127",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C5",
+      "pair_id": "clea-umar",
+      "from_id": "umar",
+      "to_id": "clea",
+      "dimension": "coercion",
+      "assessment": "imprisoned daughter Clea",
+      "epistemic": "direct",
+      "summary": "imprisoned daughter Clea",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E4"
+      ],
+      "scope": "Doctor Strange (1968) #171–173",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C6",
+      "pair_id": "clea-orini",
+      "from_id": "orini",
+      "to_id": "clea",
+      "dimension": "conflict",
+      "assessment": "sided with Umar against Clea",
+      "epistemic": "direct",
+      "summary": "sided with Umar against Clea",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E5"
+      ],
+      "scope": "Doctor Strange (1968) #171–173",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C7",
+      "pair_id": "dormammu-umar",
+      "from_id": "dormammu",
+      "to_id": "umar",
+      "dimension": "family",
+      "assessment": "sibling kinship",
+      "epistemic": "direct",
+      "summary": "sibling kinship",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E6"
+      ],
+      "scope": "Strange Tales #150–152",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C8",
+      "pair_id": "strange-wong",
+      "from_id": "wong",
+      "to_id": "strange",
+      "dimension": "professional",
+      "assessment": "served Strange as aide",
+      "epistemic": "direct",
+      "summary": "served Strange as aide",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E7"
+      ],
+      "scope": "Doctor Strange (1968) #1 onward",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C9",
+      "pair_id": "strange-wong",
+      "from_id": "wong",
+      "to_id": "strange",
+      "dimension": "friendship",
+      "assessment": "developed personal friendship",
+      "epistemic": "direct",
+      "summary": "developed personal friendship",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E7"
+      ],
+      "scope": "Doctor Strange (1968) #1 onward",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C10",
+      "pair_id": "hamir-wong",
+      "from_id": "hamir",
+      "to_id": "wong",
+      "dimension": "family",
+      "assessment": "father and son",
+      "epistemic": "direct",
+      "summary": "father and son",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E8"
+      ],
+      "scope": "Wong comics history: family service",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C11",
+      "pair_id": "hamir-wong",
+      "from_id": "hamir",
+      "to_id": "wong",
+      "dimension": "influence",
+      "assessment": "raised Wong in service tradition",
+      "epistemic": "direct",
+      "summary": "raised Wong in service tradition",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E8"
+      ],
+      "scope": "Wong comics history: family service",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C12",
+      "pair_id": "ancient_one-wong",
+      "from_id": "ancient_one",
+      "to_id": "wong",
+      "dimension": "mentorship",
+      "assessment": "trained Wong",
+      "epistemic": "direct",
+      "summary": "trained Wong",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E9"
+      ],
+      "scope": "Wong comics history: training",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C13",
+      "pair_id": "ancient_one-strange",
+      "from_id": "ancient_one",
+      "to_id": "strange",
+      "dimension": "mentorship",
+      "assessment": "taught Strange mystic arts",
+      "epistemic": "direct",
+      "summary": "taught Strange mystic arts",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E10"
+      ],
+      "scope": "Strange Tales #110–115",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C14",
+      "pair_id": "johnny_blaze-wong",
+      "from_id": "wong",
+      "to_id": "johnny_blaze",
+      "dimension": "cooperation",
+      "assessment": "worked against Mephisto",
+      "epistemic": "direct",
+      "summary": "worked against Mephisto",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E11"
+      ],
+      "scope": "Wong comics history: Mephisto conflict",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C15",
+      "pair_id": "johnny_blaze-mephisto",
+      "from_id": "johnny_blaze",
+      "to_id": "mephisto",
+      "dimension": "conflict",
+      "assessment": "opposed Mephisto",
+      "epistemic": "direct",
+      "summary": "opposed Mephisto",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E12"
+      ],
+      "scope": "Wong comics history: Mephisto conflict",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C16",
+      "pair_id": "natasha-wong",
+      "from_id": "wong",
+      "to_id": "natasha",
+      "dimension": "cooperation",
+      "assessment": "consulted Black Widow during investigation",
+      "epistemic": "direct",
+      "summary": "consulted Black Widow during investigation",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E13"
+      ],
+      "scope": "Wong comics history: Blasphemy Cartel",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MYP_C17",
+      "pair_id": "nightmare-strange",
+      "from_id": "strange",
+      "to_id": "nightmare",
+      "dimension": "conflict",
+      "assessment": "confronted Nightmare",
+      "epistemic": "direct",
+      "summary": "confronted Nightmare",
+      "qualification": "Publisher summary only; scoped to cited story; original panels not reviewed.",
+      "event_ids": [
+        "MYP_E14"
+      ],
+      "scope": "Strange Tales #110",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
     }
   ],
   "research_backlog": [
