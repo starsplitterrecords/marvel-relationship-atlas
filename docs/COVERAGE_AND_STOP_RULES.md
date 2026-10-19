@@ -60,3 +60,16 @@ First, address major empty story worlds. Second, favor personal connections that
 ## Reader experience versus internal accountability
 
 The site and hourly chat findings should read as editorial prose about **people**. Keep terms like schema, IDs and scorecards out of that narrative. The internal research ledger must nevertheless expose exact verified totals and full source links for auditing.
+
+## Qualitative relationship research: analytical depth (2026-10-19)
+
+Breadth is necessary but not sufficient. In addition to the existing coverage rules, maintain a separate **deep-dive track** that produces evidence-based, temporally scoped profiles of meaningful pairs. A profile should not collapse decades of changing relations into a single permanent `ally` or `enemy` label.
+
+- **Event versus relationship:** A rescue is evidence of a protective *act*, not automatically an enduring protector role. A fight is evidence of conflict in that story, not necessarily permanent enmity. Do not inflate single incidents into stable ties.
+- **Asymmetry:** Track A→B and B→A separately. Admiration, trust, authority and romantic feelings need not be reciprocated.
+- **Independent dimensions:** Affection, trust, moral respect, competence respect, ideological alignment, coercion, authority, dependence and cooperation may coexist, even when apparently contradictory.
+- **Chronology and transitions:** Specify issue or era, major turning points, reversals, reconciliations and retcons. Keep historical claims scoped; a later change does not erase earlier evidence.
+- **Evidence and inference:** Record concrete documented observations and citations separately from analyst interpretation, alternative explanations and uncertainty. Prefer original issues when legally available; otherwise mark publisher biography summaries as secondary and issue details as provisional.
+- **Bridges and structure:** Seek interpersonal connections across communities and ask how personal obligations, authority or trust transmit influence. Do not infer influence solely from network centrality.
+
+A quality review should ask whether the resulting analysis teaches the reader something beyond the source biography. Periodically select an existing pair for deep analysis **without counting it as a newly covered pair**. Maintain breadth rotation so deep dives do not recentralize one protagonist.
