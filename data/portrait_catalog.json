@@ -350,11 +350,11 @@
       "name": "Wonder Man",
       "identity": "Simon Williams",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/30e3fbadd2dfc4183c99d5487d127b05.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/30e3fbadd2dfc4183c99d5487d127b05.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched candidate; artwork and rights not verified."
     },
     "c_bobbi": {
       "name": "Mockingbird",
@@ -1410,11 +1410,11 @@
       "name": "Adam Warlock",
       "identity": "Adam Warlock",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/3374325d5f111c071383b78fc46db256.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/3374325d5f111c071383b78fc46db256.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched candidate; artwork and rights not verified."
     },
     "c_quasar": {
       "name": "Quasar",
@@ -1740,11 +1740,11 @@
       "name": "Triton",
       "identity": "Triton Mander-Azur",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/308b6b29806ad57561b4ec2b51ac3306.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/308b6b29806ad57561b4ec2b51ac3306.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched candidate; artwork and rights not verified."
     },
     "c_lockjaw": {
       "name": "Lockjaw",
@@ -2380,11 +2380,11 @@
       "name": "Black Cat",
       "identity": "Felicia Hardy",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/253a702b6314f4c443b116f9b43a7d6e.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/253a702b6314f4c443b116f9b43a7d6e.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched candidate; artwork and rights not verified."
     },
     "c_venom": {
       "name": "Venom",
@@ -2440,11 +2440,11 @@
       "name": "Hobgoblin",
       "identity": "Roderick Kingsley",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/2c05e2f8fd21a7b8d61ca5740fe31db1.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/2c05e2f8fd21a7b8d61ca5740fe31db1.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched candidate; artwork and rights not verified."
     },
     "c_chameleon": {
       "name": "Chameleon",
@@ -2500,11 +2500,11 @@
       "name": "Spider-Man (Miles Morales)",
       "identity": "Miles Morales",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/291f9b2b4e921f6ae1cf617677962e3e.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/291f9b2b4e921f6ae1cf617677962e3e.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched candidate; artwork and rights not verified."
     },
     "c_anya": {
       "name": "Araña / Spider-Girl",
@@ -3010,11 +3010,11 @@
       "name": "Cloak",
       "identity": "Tyrone Johnson",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/2f4ff394656eac569d6d4d626cd14198.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/2f4ff394656eac569d6d4d626cd14198.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched candidate; artwork and rights not verified."
     },
     "c_dagger": {
       "name": "Dagger",
@@ -3440,11 +3440,11 @@
       "name": "Nightmare",
       "identity": "Nightmare",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/24e6b7c8bf93a16f9b8c5845c9a0c939.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/24e6b7c8bf93a16f9b8c5845c9a0c939.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched candidate; artwork and rights not verified."
     },
     "c_rel_satana": {
       "name": "Satana",
