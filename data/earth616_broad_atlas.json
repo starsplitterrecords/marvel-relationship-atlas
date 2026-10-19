@@ -3981,6 +3981,39 @@
       "source": "",
       "continuity": "Earth-616",
       "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_moira",
+      "name": "Moira MacTaggert",
+      "identity": "Moira MacTaggert",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas subject; see sourced interpersonal research for context.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; current status not asserted"
+    },
+    {
+      "id": "c_rel_hrimhari",
+      "name": "Wolf Prince",
+      "identity": "Hrimhari",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; see sourced interpersonal research for context.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; current status not asserted"
+    },
+    {
+      "id": "c_rel_belasco",
+      "name": "Belasco",
+      "identity": "Belasco",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; see sourced interpersonal research for context.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; current status not asserted"
     }
   ],
   "edges": [
@@ -12464,6 +12497,171 @@
       "source_id": "REL_AVC7_S10",
       "continuity": "Earth-616",
       "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C01",
+      "source": "c_cannonball",
+      "target": "c_sunspot",
+      "kind": "ally",
+      "era": "New Mutants through later X-Force; specific betrayal issue unverified",
+      "note": "friendship (cannonball → sunspot): Sam and Roberto maintain a close friendship despite a significant breach. [NM6_C01]",
+      "source_id": "SU",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C02",
+      "source": "c_sunspot",
+      "target": "c_boom",
+      "kind": "romance",
+      "era": "Later X-Force / Meltdown relationship era; exact issue unverified",
+      "note": "romance (sunspot → tabitha): Roberto becomes romantically involved with Tabitha during her relationship with Sam. [NM6_C02]",
+      "source_id": "SU",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C03",
+      "source": "c_cannonball",
+      "target": "c_boom",
+      "kind": "romance",
+      "era": "X-Force / Meltdown relationship era; exact issue unverified",
+      "note": "romance (cannonball → tabitha): Sam and Tabitha are romantically involved in the cited period. [NM6_C03]",
+      "source_id": "SU",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C04",
+      "source": "c_moonstar",
+      "target": "c_wolfsbane",
+      "kind": "ally",
+      "era": "Early New Mutants, beginning in the 1980s",
+      "note": "friendship (dani → wolfsbane): Dani shares a close friendship and an unusual psychic connection with Rahne. [NM6_C04]",
+      "source_id": "WOLF",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C05",
+      "source": "c_rel_moira",
+      "target": "c_wolfsbane",
+      "kind": "ally",
+      "era": "Rahne’s childhood and New Mutants origin; before The New Mutants graphic novel (1982)",
+      "note": "protection (moira → wolfsbane): Moira protects and takes parental responsibility for Rahne. [NM6_C05]",
+      "source_id": "WOLF",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C06",
+      "source": "c_wolfsbane",
+      "target": "c_rel_hrimhari",
+      "kind": "romance",
+      "era": "New Mutants Asgard adventure, mid-1980s; later X-Force reunion",
+      "note": "romance (wolfsbane → hrimhari): Rahne and Hrimhari fall in love despite their separate worlds. [NM6_C06]",
+      "source_id": "WOLF",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C07",
+      "source": "c_cypher",
+      "target": "c_wolfsbane",
+      "kind": "ally",
+      "era": "New Mutants (1983) #60-era; issue number requires direct verification",
+      "note": "protection (cypher → wolfsbane): Doug sacrifices his life to save Rahne. [NM6_C07]",
+      "source_id": "WOLF",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C08",
+      "source": "c_kate",
+      "target": "c_cypher",
+      "kind": "ally",
+      "era": "Early New Mutants / Kitty’s computer-programming friendship, 1980s",
+      "note": "friendship (kitty → cypher): Kitty and Doug develop a friendship through a shared technical interest. [NM6_C08]",
+      "source_id": "REL_COS07",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C09",
+      "source": "c_kate",
+      "target": "c_illyana",
+      "kind": "ally",
+      "era": "After Uncanny X-Men (1963) #160; early New Mutants years",
+      "note": "friendship (kitty → magik): Kitty becomes one of Illyana’s close friends after the Limbo ordeal. [NM6_C09]",
+      "source_id": "REL_COS07",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C10",
+      "source": "c_rel_belasco",
+      "target": "c_illyana",
+      "kind": "conflict",
+      "era": "Uncanny X-Men (1963) #160 and Magik (1983) #1–4",
+      "note": "coercion (belasco → magik): Belasco abducts and exerts supernatural control over Illyana. [NM6_C10]",
+      "source_id": "REL_NM6_S04",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C12",
+      "source": "c_wolfsbane",
+      "target": "c_warlock",
+      "kind": "ally",
+      "era": "Warlock’s early New Mutants arrival, 1980s; exact issue unverified",
+      "note": "friendship (wolfsbane → warlock_technarch): Rahne advocates welcoming Warlock instead of treating him solely as a threat. [NM6_C12]",
+      "source_id": "WOLF",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C13",
+      "source": "c_sunspot",
+      "target": "c_moonstar",
+      "kind": "related",
+      "era": "War of the Realms / Uncanny X-Men (2018–2019) era; exact issue unverified",
+      "note": "affection (sunspot → dani): Roberto expresses sibling-like affection toward Dani. [NM6_C13]",
+      "source_id": "SU",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C14",
+      "source": "c_kate",
+      "target": "c_piotr",
+      "kind": "romance",
+      "era": "X-Men romance across 1980s–2010s; abandoned wedding era",
+      "note": "romance (kitty → colossus): Kitty and Piotr sustain an on-and-off romantic relationship, eventually ending an attempted wedding. [NM6_C14]",
+      "source_id": "REL_COS07",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C15",
+      "source": "c_wolfsbane",
+      "target": "c_illyana",
+      "kind": "related",
+      "era": "Inferno (1988–1989) New Mutants crossover",
+      "note": "influence (wolfsbane → magik): Rahne’s personal appeal helps Illyana regain control during Inferno. [NM6_C15]",
+      "source_id": "WOLF",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_NM6_C16",
+      "source": "c_wolfsbane",
+      "target": "c_cypher",
+      "kind": "related",
+      "era": "New Mutants (1983) #60-era; exact issue requires verification",
+      "note": "affection (wolfsbane → cypher): Rahne develops romantic feelings for Doug but does not tell him before his death. [NM6_C16]",
+      "source_id": "WOLF",
+      "continuity": "Earth-616",
+      "confidence": "Provisional publisher-secondary; original panels not reviewed"
     }
   ],
   "sources": [
@@ -13753,6 +13951,14 @@
       "url": "https://www.marvel.com/comics/guides/2388/women_of_marvel_wasp",
       "publisher": "Marvel",
       "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_NM6_S04",
+      "title": "X-Men: Magik — Storm & Illyana (collects Uncanny X-Men #160 and Magik #1–4)",
+      "url": "https://www.marvel.com/comics/issue/47233/x-men_magik_-_storm_illyana_tpb_trade_paperback",
+      "publisher": "Marvel",
+      "type": "Publisher-secondary research",
       "verified_on": "2026-10-19"
     }
   ]
