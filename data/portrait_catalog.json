@@ -210,11 +210,11 @@
       "name": "Captain America",
       "identity": "Steve Rogers",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/07b27ecea586a26594dd4b070a2bea64.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/07b27ecea586a26594dd4b070a2bea64.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Matched character identity to public dataset. Image still needs visual and rights review."
     },
     "c_natasha": {
       "name": "Black Widow",
@@ -410,11 +410,11 @@
       "name": "Ant-Man",
       "identity": "Scott Lang",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/07abae9691991d4e78aefb3b0508d912.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/07abae9691991d4e78aefb3b0508d912.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Matched character identity to public dataset. Image still needs visual and rights review."
     },
     "c_charles": {
       "name": "Professor X",
@@ -530,11 +530,11 @@
       "name": "Kate Pryde",
       "identity": "Katherine Pryde",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/0522d9f70b4c5eb7203918b936dce718.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/0522d9f70b4c5eb7203918b936dce718.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Matched character identity to public dataset. Image still needs visual and rights review."
     },
     "c_illyana": {
       "name": "Magik",
@@ -2340,11 +2340,11 @@
       "name": "Betty Brant",
       "identity": "Elizabeth Brant",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/0b5a6a862f402876988904bf7dffba82.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/0b5a6a862f402876988904bf7dffba82.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Matched character identity to public dataset. Image still needs visual and rights review."
     },
     "c_robertson": {
       "name": "Robbie Robertson",
@@ -2490,11 +2490,11 @@
       "name": "Silk",
       "identity": "Cindy Moon",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/14991e978a1427faae26226e574cae0d.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/14991e978a1427faae26226e574cae0d.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Matched character identity to public dataset. Image still needs visual and rights review."
     },
     "c_miles": {
       "name": "Spider-Man (Miles Morales)",
@@ -2680,11 +2680,11 @@
       "name": "Elektra",
       "identity": "Elektra Natchios",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/0aa1122cb70091b3244671f89263c6fa.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/0aa1122cb70091b3244671f89263c6fa.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Matched character identity to public dataset. Image still needs visual and rights review."
     },
     "c_foggy": {
       "name": "Foggy Nelson",
@@ -3020,11 +3020,11 @@
       "name": "Dagger",
       "identity": "Tandy Bowen",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/1050d0dab27c374f048f3889f145c574.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/1050d0dab27c374f048f3889f145c574.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Matched character identity to public dataset. Image still needs visual and rights review."
     },
     "c_firestar": {
       "name": "Firestar",
@@ -3480,11 +3480,11 @@
       "name": "Beta Ray Bill",
       "identity": "Beta Ray Bill",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/12be06a07e78c063faf79783e912b5e2.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/12be06a07e78c063faf79783e912b5e2.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Matched character identity to public dataset. Image still needs visual and rights review."
     },
     "c_rel_skurge": {
       "name": "Skurge",
