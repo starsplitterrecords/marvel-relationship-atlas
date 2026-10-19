@@ -1020,6 +1020,138 @@
       "name": "Zadkiel",
       "alias": "Zadkiel",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "mj",
+      "name": "Mary Jane Watson",
+      "alias": "Mary Jane",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "mayparker",
+      "name": "May Parker",
+      "alias": "Aunt May",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "benparker",
+      "name": "Benjamin Parker",
+      "alias": "Uncle Ben",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gwen616",
+      "name": "Gwendolyne Stacy",
+      "alias": "Gwen Stacy (Earth-616)",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "harry",
+      "name": "Harry Osborn",
+      "alias": "Harry Osborn",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "norman",
+      "name": "Norman Osborn",
+      "alias": "Green Goblin",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "flash",
+      "name": "Eugene Thompson",
+      "alias": "Flash Thompson",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "blackcat",
+      "name": "Felicia Hardy",
+      "alias": "Black Cat",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "eddie_brock",
+      "name": "Eddie Brock",
+      "alias": "Venom",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "miles",
+      "name": "Miles Morales",
+      "alias": "Spider-Man",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "liz",
+      "name": "Elizabeth Allan",
+      "alias": "Liz Allan",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jonah",
+      "name": "J. Jonah Jameson",
+      "alias": "J. Jonah Jameson",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "blackbolt",
+      "name": "Blackagar Boltagon",
+      "alias": "Black Bolt",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "medusa",
+      "name": "Medusalith Amaquelin",
+      "alias": "Medusa",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "maximus",
+      "name": "Maximus Boltagon",
+      "alias": "Maximus the Mad",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ahura",
+      "name": "Ahura Boltagon",
+      "alias": "Ahura",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "kang",
+      "name": "Nathaniel Richards",
+      "alias": "Kang the Conqueror",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "luna",
+      "name": "Luna Maximoff",
+      "alias": "Luna",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gorgon",
+      "name": "Gorgon Petragon",
+      "alias": "Gorgon",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "karnak",
+      "name": "Karnak Mander-Azur",
+      "alias": "Karnak",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "fantomex",
+      "name": "Charlie-Cluster 7",
+      "alias": "Fantomex",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "wizard",
+      "name": "Bentley Wittman",
+      "alias": "Wizard",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -1983,6 +2115,139 @@
       "url": "https://www.marvel.com/comics/collection/33276/ghost_rider_by_jason_aaron_omnibus_hardcover",
       "level": "Publisher summary; panels not independently reviewed",
       "kind": "Marvel publisher secondary"
+    },
+    {
+      "id": "SP3_S01",
+      "title": "in-comics",
+      "url": "https://www.marvel.com/characters/spider-man-peter-parker/in-comics",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "SP3_S02",
+      "title": "mary-jane-watson",
+      "url": "https://www.marvel.com/characters/mary-jane-watson",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "SP3_S03",
+      "title": "harry-osborn",
+      "url": "https://www.marvel.com/characters/harry-osborn",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "SP3_S04",
+      "title": "flash-thompson",
+      "url": "https://www.marvel.com/characters/flash-thompson",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "SP3_S05",
+      "title": "in-comics",
+      "url": "https://www.marvel.com/characters/spider-man-miles-morales/in-comics",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "SP3_S06",
+      "title": "venom-eddie-brock",
+      "url": "https://www.marvel.com/comics/discover/713/venom-eddie-brock",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "SP3_S07",
+      "title": "16926",
+      "url": "https://www.marvel.com/comics/issue/16926",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "SP3_S08",
+      "title": "profile",
+      "url": "https://www.marvel.com/characters/green-goblin-norman-osborn/in-comics/profile/",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "SP3_S09",
+      "title": "black-cat-felicia-hardy",
+      "url": "https://www.marvel.com/characters/black-cat-felicia-hardy/",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "ATT26A_S01",
+      "title": "medusa",
+      "url": "https://www.marvel.com/comics/discover/682/medusa",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "ATT26A_S02",
+      "title": "inhumans_by_right_of_birth_trade_paperback",
+      "url": "https://www.marvel.com/comics/collection/47645/inhumans_by_right_of_birth_trade_paperback",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "ATT26A_S03",
+      "title": "in-comics",
+      "url": "https://www.marvel.com/characters/kang/in-comics",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "ATT26A_S04",
+      "title": "MMRPG_CharacterProfiles_20240717.pdf",
+      "url": "https://cdn.marvel.com/u/prod/marvel/i/pdf/MMRPG_CharacterProfiles_20240717.pdf",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "ATT26A_S05",
+      "title": "slug",
+      "url": "https://www.marvel.com/comics/issue/6965/slug",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "ATT26A_S06",
+      "title": "uncanny_inhumans_vol_1_trade_paperback",
+      "url": "https://www.marvel.com/comics/collection/60487/uncanny_inhumans_vol_1_trade_paperback",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "ATT26A_S07",
+      "title": "secret-invasion-inhumans-2008-3",
+      "url": "https://www.marvel.com/comics/issue/22340/secret-invasion-inhumans-2008-3",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "ATT26A_S08",
+      "title": "black-bolt",
+      "url": "https://www.marvel.com/comics/discover/679/black-bolt",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "ATT26A_S09",
+      "title": "in-comics",
+      "url": "https://www.marvel.com/teams-and-groups/fantastic-four/in-comics",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
+    },
+    {
+      "id": "ATT26A_S10",
+      "title": "inhumans_vs_x-men_2016_5",
+      "url": "https://www.marvel.com/comics/issue/61598/inhumans_vs_x-men_2016_5",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; original comic panels not reviewed; URL may require verification"
     }
   ],
   "events": [
@@ -5236,6 +5501,306 @@
       "b": "zadkiel",
       "issue": "Ghost Rider (2006) #20–35 and Ghost Riders: Heaven’s on Fire (2009) #1–6",
       "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "SP3_E01",
+      "a": "mj",
+      "b": "peter",
+      "issue": "Marriage and confidant era",
+      "observation": "Mary Jane knows Peter is Spider-Man and becomes his trusted confidant.",
+      "source_id": "SP3_S02",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E02",
+      "a": "mj",
+      "b": "mayparker",
+      "issue": "Stark Tower era",
+      "observation": "Mary Jane and May bond over Peter's secret and safety.",
+      "source_id": "SP3_S02",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E03",
+      "a": "blackcat",
+      "b": "mj",
+      "issue": "Later reconciliation",
+      "observation": "Felicia and Mary Jane reconcile after rivalry and fight together.",
+      "source_id": "SP3_S02",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E04",
+      "a": "harry",
+      "b": "peter",
+      "issue": "Empire State University era",
+      "observation": "Harry offers Peter housing; Peter tutors Harry.",
+      "source_id": "SP3_S03",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E05",
+      "a": "norman",
+      "b": "harry",
+      "issue": "Harry's young-adult years",
+      "observation": "Norman belittles Harry, damaging their father-son bond.",
+      "source_id": "SP3_S02",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E06",
+      "a": "harry",
+      "b": "liz",
+      "issue": "Harry and Liz marriage era",
+      "observation": "Harry and Liz marry and have their son Normie.",
+      "source_id": "SP3_S03",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E07",
+      "a": "norman",
+      "b": "gwen616",
+      "issue": "Amazing Spider-Man (1963) #121",
+      "observation": "Green Goblin causes Gwen's death in his vendetta against Peter.",
+      "source_id": "SP3_S08",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E08",
+      "a": "peter",
+      "b": "gwen616",
+      "issue": "Amazing Spider-Man #121 and earlier college era",
+      "observation": "Peter and Gwen are romantically involved before her death.",
+      "source_id": "SP3_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E09",
+      "a": "flash",
+      "b": "peter",
+      "issue": "High school through Red Goblin (2018)",
+      "observation": "Flash changes from Peter's bully to his friend and calls him a hero.",
+      "source_id": "SP3_S04",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E10",
+      "a": "blackcat",
+      "b": "peter",
+      "issue": "Spider-Man / Black Cat romance era",
+      "observation": "Felicia and Peter begin a romance shaped by his civilian identity.",
+      "source_id": "SP3_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E11",
+      "a": "eddie_brock",
+      "b": "peter",
+      "issue": "Amazing Spider-Man (1963) #300",
+      "observation": "Eddie's grievance and Venom bond drive him to trap Spider-Man.",
+      "source_id": "SP3_S06",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E12",
+      "a": "peter",
+      "b": "miles",
+      "issue": "Post-Secret Wars (2015 onward)",
+      "observation": "Peter mentors Miles in the rebuilt prime reality.",
+      "source_id": "SP3_S05",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E13",
+      "a": "jonah",
+      "b": "peter",
+      "issue": "Daily Bugle freelance era",
+      "observation": "Jameson purchases Peter's photos while attacking Spider-Man publicly.",
+      "source_id": "SP3_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E14",
+      "a": "benparker",
+      "b": "peter",
+      "issue": "Amazing Fantasy (1962) #15",
+      "observation": "Ben's death after Peter lets a burglar escape shapes Peter's responsibility.",
+      "source_id": "SP3_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_E15",
+      "a": "mayparker",
+      "b": "peter",
+      "issue": "Amazing Fantasy (1962) #15 onward",
+      "observation": "May raises orphaned Peter and he conceals his hero identity to protect her.",
+      "source_id": "SP3_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E01",
+      "a": "medusa",
+      "b": "blackbolt",
+      "issue": "Inhuman (2014) #12",
+      "observation": "Medusa cuts ties after Black Bolt's absence and Terrigen-bomb decision.",
+      "source_id": "ATT26A_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E02",
+      "a": "maximus",
+      "b": "blackbolt",
+      "issue": "Inhumans: The Untold Saga / By Right of Birth",
+      "observation": "Maximus usurps his brother's throne.",
+      "source_id": "ATT26A_S02",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E03",
+      "a": "medusa",
+      "b": "ahura",
+      "issue": "Marvel Graphic Novel: The Inhumans",
+      "observation": "Medusa secretly gives birth to Ahura and conceals it from Inhuman elders.",
+      "source_id": "ATT26A_S02",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E04",
+      "a": "blackbolt",
+      "b": "ahura",
+      "issue": "Uncanny Inhumans (2015) Kang/Ahura arc",
+      "observation": "Black Bolt entrusts Ahura to Kang to survive the Incursions.",
+      "source_id": "ATT26A_S03",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E05",
+      "a": "kang",
+      "b": "ahura",
+      "issue": "Uncanny Inhumans (2015) Kang/Ahura arc",
+      "observation": "Kang raises and manipulates Ahura; Ahura later turns against him.",
+      "source_id": "ATT26A_S03",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E06",
+      "a": "crystal",
+      "b": "medusa",
+      "issue": "Early Attilan separation and reunion",
+      "observation": "Crystal searches for her separated sister Medusa and reunites with her.",
+      "source_id": "ATT26A_S04",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E07",
+      "a": "crystal",
+      "b": "pietro",
+      "issue": "Avengers (1963) #110",
+      "observation": "Crystal nurses Pietro and the pair fall in love.",
+      "source_id": "ATT26A_S05",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E08",
+      "a": "crystal",
+      "b": "luna",
+      "issue": "Crystal and Pietro parenthood era",
+      "observation": "Crystal and Pietro have daughter Luna.",
+      "source_id": "ATT26A_S04",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E09",
+      "a": "pietro",
+      "b": "luna",
+      "issue": "Crystal and Pietro parenthood era",
+      "observation": "Pietro and Crystal have daughter Luna.",
+      "source_id": "ATT26A_S04",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E10",
+      "a": "medusa",
+      "b": "johnny",
+      "issue": "Uncanny Inhumans (2015) #0–10",
+      "observation": "Medusa and Johnny become romantically involved after her separation.",
+      "source_id": "ATT26A_S06",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E11",
+      "a": "medusa",
+      "b": "ronan",
+      "issue": "Secret Invasion: Inhumans (2008) #3",
+      "observation": "Medusa weighs a diplomatic bargain with Ronan while seeking Black Bolt.",
+      "source_id": "ATT26A_S07",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E12",
+      "a": "blackbolt",
+      "b": "pietro",
+      "issue": "Son of M (2005) #6",
+      "observation": "Black Bolt confronts Pietro after theft of Terrigen Crystals.",
+      "source_id": "ATT26A_S08",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E13",
+      "a": "gorgon",
+      "b": "medusa",
+      "issue": "Early Fantastic Four / Inhumans introduction",
+      "observation": "Gorgon locates an amnesiac Medusa to reunite her with her family.",
+      "source_id": "ATT26A_S09",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E14",
+      "a": "karnak",
+      "b": "fantomex",
+      "issue": "Inhumans vs. X-Men (2016) #5",
+      "observation": "Karnak and Fantomex directly confront one another.",
+      "source_id": "ATT26A_S10",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_E15",
+      "a": "wizard",
+      "b": "medusa",
+      "issue": "Fantastic Four (1961) #36",
+      "observation": "Wizard recruits amnesiac Medusa into the Frightful Four.",
+      "source_id": "ATT26A_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
     }
   ],
   "claims": [
@@ -10888,6 +11453,516 @@
       "continuity": "Earth-616",
       "review_status": "Publisher secondary; original panels not independently reviewed",
       "summary": "Johnny directly resists Zadkiel’s supernatural authority and agenda."
+    },
+    {
+      "id": "SP3_C01",
+      "pair_id": "mj-peter",
+      "from_id": "mj",
+      "to_id": "peter",
+      "dimension": "trust",
+      "assessment": "Mary Jane knows Peter is Spider-Man and becomes his trusted confidant.",
+      "epistemic": "direct",
+      "summary": "Mary Jane knows Peter is Spider-Man and becomes his trusted confidant.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E01"
+      ],
+      "scope": "Marriage and confidant era",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C02",
+      "pair_id": "mayparker-mj",
+      "from_id": "mj",
+      "to_id": "mayparker",
+      "dimension": "friendship",
+      "assessment": "Mary Jane and May bond over Peter's secret and safety.",
+      "epistemic": "direct",
+      "summary": "Mary Jane and May bond over Peter's secret and safety.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E02"
+      ],
+      "scope": "Stark Tower era",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C03",
+      "pair_id": "blackcat-mj",
+      "from_id": "blackcat",
+      "to_id": "mj",
+      "dimension": "friendship",
+      "assessment": "Felicia and Mary Jane reconcile after rivalry and fight together.",
+      "epistemic": "direct",
+      "summary": "Felicia and Mary Jane reconcile after rivalry and fight together.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E03"
+      ],
+      "scope": "Later reconciliation",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C04",
+      "pair_id": "harry-peter",
+      "from_id": "harry",
+      "to_id": "peter",
+      "dimension": "friendship",
+      "assessment": "Harry offers Peter housing; Peter tutors Harry.",
+      "epistemic": "direct",
+      "summary": "Harry offers Peter housing; Peter tutors Harry.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E04"
+      ],
+      "scope": "Empire State University era",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C05",
+      "pair_id": "harry-norman",
+      "from_id": "norman",
+      "to_id": "harry",
+      "dimension": "conflict",
+      "assessment": "Norman belittles Harry, damaging their father-son bond.",
+      "epistemic": "direct",
+      "summary": "Norman belittles Harry, damaging their father-son bond.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E05"
+      ],
+      "scope": "Harry's young-adult years",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C06",
+      "pair_id": "harry-liz",
+      "from_id": "harry",
+      "to_id": "liz",
+      "dimension": "romance",
+      "assessment": "Harry and Liz marry and have their son Normie.",
+      "epistemic": "direct",
+      "summary": "Harry and Liz marry and have their son Normie.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E06"
+      ],
+      "scope": "Harry and Liz marriage era",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C07",
+      "pair_id": "gwen616-norman",
+      "from_id": "norman",
+      "to_id": "gwen616",
+      "dimension": "conflict",
+      "assessment": "Green Goblin causes Gwen's death in his vendetta against Peter.",
+      "epistemic": "direct",
+      "summary": "Green Goblin causes Gwen's death in his vendetta against Peter.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E07"
+      ],
+      "scope": "Amazing Spider-Man (1963) #121",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C08",
+      "pair_id": "gwen616-peter",
+      "from_id": "peter",
+      "to_id": "gwen616",
+      "dimension": "romance",
+      "assessment": "Peter and Gwen are romantically involved before her death.",
+      "epistemic": "direct",
+      "summary": "Peter and Gwen are romantically involved before her death.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E08"
+      ],
+      "scope": "Amazing Spider-Man #121 and earlier college era",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C09",
+      "pair_id": "flash-peter",
+      "from_id": "flash",
+      "to_id": "peter",
+      "dimension": "friendship",
+      "assessment": "Flash changes from Peter's bully to his friend and calls him a hero.",
+      "epistemic": "direct",
+      "summary": "Flash changes from Peter's bully to his friend and calls him a hero.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E09"
+      ],
+      "scope": "High school through Red Goblin (2018)",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C10",
+      "pair_id": "blackcat-peter",
+      "from_id": "blackcat",
+      "to_id": "peter",
+      "dimension": "romance",
+      "assessment": "Felicia and Peter begin a romance shaped by his civilian identity.",
+      "epistemic": "direct",
+      "summary": "Felicia and Peter begin a romance shaped by his civilian identity.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E10"
+      ],
+      "scope": "Spider-Man / Black Cat romance era",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C11",
+      "pair_id": "eddie_brock-peter",
+      "from_id": "eddie_brock",
+      "to_id": "peter",
+      "dimension": "conflict",
+      "assessment": "Eddie's grievance and Venom bond drive him to trap Spider-Man.",
+      "epistemic": "direct",
+      "summary": "Eddie's grievance and Venom bond drive him to trap Spider-Man.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E11"
+      ],
+      "scope": "Amazing Spider-Man (1963) #300",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C12",
+      "pair_id": "miles-peter",
+      "from_id": "peter",
+      "to_id": "miles",
+      "dimension": "mentorship",
+      "assessment": "Peter mentors Miles in the rebuilt prime reality.",
+      "epistemic": "direct",
+      "summary": "Peter mentors Miles in the rebuilt prime reality.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E12"
+      ],
+      "scope": "Post-Secret Wars (2015 onward)",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C13",
+      "pair_id": "jonah-peter",
+      "from_id": "jonah",
+      "to_id": "peter",
+      "dimension": "professional",
+      "assessment": "Jameson purchases Peter's photos while attacking Spider-Man publicly.",
+      "epistemic": "direct",
+      "summary": "Jameson purchases Peter's photos while attacking Spider-Man publicly.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E13"
+      ],
+      "scope": "Daily Bugle freelance era",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C14",
+      "pair_id": "benparker-peter",
+      "from_id": "benparker",
+      "to_id": "peter",
+      "dimension": "influence",
+      "assessment": "Ben's death after Peter lets a burglar escape shapes Peter's responsibility.",
+      "epistemic": "direct",
+      "summary": "Ben's death after Peter lets a burglar escape shapes Peter's responsibility.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E14"
+      ],
+      "scope": "Amazing Fantasy (1962) #15",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "SP3_C15",
+      "pair_id": "mayparker-peter",
+      "from_id": "mayparker",
+      "to_id": "peter",
+      "dimension": "family",
+      "assessment": "May raises orphaned Peter and he conceals his hero identity to protect her.",
+      "epistemic": "direct",
+      "summary": "May raises orphaned Peter and he conceals his hero identity to protect her.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "SP3_E15"
+      ],
+      "scope": "Amazing Fantasy (1962) #15 onward",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C01",
+      "pair_id": "blackbolt-medusa",
+      "from_id": "medusa",
+      "to_id": "blackbolt",
+      "dimension": "conflict",
+      "assessment": "Medusa cuts ties after Black Bolt's absence and Terrigen-bomb decision.",
+      "epistemic": "direct",
+      "summary": "Medusa cuts ties after Black Bolt's absence and Terrigen-bomb decision.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E01"
+      ],
+      "scope": "Inhuman (2014) #12",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C02",
+      "pair_id": "blackbolt-maximus",
+      "from_id": "maximus",
+      "to_id": "blackbolt",
+      "dimension": "coercion",
+      "assessment": "Maximus usurps his brother's throne.",
+      "epistemic": "direct",
+      "summary": "Maximus usurps his brother's throne.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E02"
+      ],
+      "scope": "Inhumans: The Untold Saga / By Right of Birth",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C03",
+      "pair_id": "ahura-medusa",
+      "from_id": "medusa",
+      "to_id": "ahura",
+      "dimension": "family",
+      "assessment": "Medusa secretly gives birth to Ahura and conceals it from Inhuman elders.",
+      "epistemic": "direct",
+      "summary": "Medusa secretly gives birth to Ahura and conceals it from Inhuman elders.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E03"
+      ],
+      "scope": "Marvel Graphic Novel: The Inhumans",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C04",
+      "pair_id": "ahura-blackbolt",
+      "from_id": "blackbolt",
+      "to_id": "ahura",
+      "dimension": "protection",
+      "assessment": "Black Bolt entrusts Ahura to Kang to survive the Incursions.",
+      "epistemic": "direct",
+      "summary": "Black Bolt entrusts Ahura to Kang to survive the Incursions.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E04"
+      ],
+      "scope": "Uncanny Inhumans (2015) Kang/Ahura arc",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C05",
+      "pair_id": "ahura-kang",
+      "from_id": "kang",
+      "to_id": "ahura",
+      "dimension": "coercion",
+      "assessment": "Kang raises and manipulates Ahura; Ahura later turns against him.",
+      "epistemic": "direct",
+      "summary": "Kang raises and manipulates Ahura; Ahura later turns against him.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E05"
+      ],
+      "scope": "Uncanny Inhumans (2015) Kang/Ahura arc",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C06",
+      "pair_id": "crystal-medusa",
+      "from_id": "crystal",
+      "to_id": "medusa",
+      "dimension": "family",
+      "assessment": "Crystal searches for her separated sister Medusa and reunites with her.",
+      "epistemic": "direct",
+      "summary": "Crystal searches for her separated sister Medusa and reunites with her.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E06"
+      ],
+      "scope": "Early Attilan separation and reunion",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C07",
+      "pair_id": "crystal-pietro",
+      "from_id": "crystal",
+      "to_id": "pietro",
+      "dimension": "romance",
+      "assessment": "Crystal nurses Pietro and the pair fall in love.",
+      "epistemic": "direct",
+      "summary": "Crystal nurses Pietro and the pair fall in love.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E07"
+      ],
+      "scope": "Avengers (1963) #110",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C08",
+      "pair_id": "crystal-luna",
+      "from_id": "crystal",
+      "to_id": "luna",
+      "dimension": "family",
+      "assessment": "Crystal and Pietro have daughter Luna.",
+      "epistemic": "direct",
+      "summary": "Crystal and Pietro have daughter Luna.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E08"
+      ],
+      "scope": "Crystal and Pietro parenthood era",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C09",
+      "pair_id": "luna-pietro",
+      "from_id": "pietro",
+      "to_id": "luna",
+      "dimension": "family",
+      "assessment": "Pietro and Crystal have daughter Luna.",
+      "epistemic": "direct",
+      "summary": "Pietro and Crystal have daughter Luna.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E09"
+      ],
+      "scope": "Crystal and Pietro parenthood era",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C10",
+      "pair_id": "johnny-medusa",
+      "from_id": "medusa",
+      "to_id": "johnny",
+      "dimension": "romance",
+      "assessment": "Medusa and Johnny become romantically involved after her separation.",
+      "epistemic": "direct",
+      "summary": "Medusa and Johnny become romantically involved after her separation.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E10"
+      ],
+      "scope": "Uncanny Inhumans (2015) #0–10",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C11",
+      "pair_id": "medusa-ronan",
+      "from_id": "medusa",
+      "to_id": "ronan",
+      "dimension": "professional",
+      "assessment": "Medusa weighs a diplomatic bargain with Ronan while seeking Black Bolt.",
+      "epistemic": "direct",
+      "summary": "Medusa weighs a diplomatic bargain with Ronan while seeking Black Bolt.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E11"
+      ],
+      "scope": "Secret Invasion: Inhumans (2008) #3",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C12",
+      "pair_id": "blackbolt-pietro",
+      "from_id": "blackbolt",
+      "to_id": "pietro",
+      "dimension": "conflict",
+      "assessment": "Black Bolt confronts Pietro after theft of Terrigen Crystals.",
+      "epistemic": "direct",
+      "summary": "Black Bolt confronts Pietro after theft of Terrigen Crystals.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E12"
+      ],
+      "scope": "Son of M (2005) #6",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C13",
+      "pair_id": "gorgon-medusa",
+      "from_id": "gorgon",
+      "to_id": "medusa",
+      "dimension": "protection",
+      "assessment": "Gorgon locates an amnesiac Medusa to reunite her with her family.",
+      "epistemic": "direct",
+      "summary": "Gorgon locates an amnesiac Medusa to reunite her with her family.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E13"
+      ],
+      "scope": "Early Fantastic Four / Inhumans introduction",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C14",
+      "pair_id": "fantomex-karnak",
+      "from_id": "karnak",
+      "to_id": "fantomex",
+      "dimension": "conflict",
+      "assessment": "Karnak and Fantomex directly confront one another.",
+      "epistemic": "direct",
+      "summary": "Karnak and Fantomex directly confront one another.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E14"
+      ],
+      "scope": "Inhumans vs. X-Men (2016) #5",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATT26A_C15",
+      "pair_id": "medusa-wizard",
+      "from_id": "wizard",
+      "to_id": "medusa",
+      "dimension": "influence",
+      "assessment": "Wizard recruits amnesiac Medusa into the Frightful Four.",
+      "epistemic": "direct",
+      "summary": "Wizard recruits amnesiac Medusa into the Frightful Four.",
+      "qualification": "Publisher-secondary description; issue attribution and interpretation require editorial review.",
+      "event_ids": [
+        "ATT26A_E15"
+      ],
+      "scope": "Fantastic Four (1961) #36",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
     }
   ],
   "research_backlog": [
