@@ -300,11 +300,11 @@
       "name": "Spider-Man",
       "identity": "Peter Parker",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "verified",
+      "image_url": "https://cdn.marvel.com/content/2x/_spidey_card_17.jpg",
+      "source_page": "https://www.marvel.com/articles/culture-lifestyle/explore-philosophy-of-spider-man",
+      "credit": "Marvel / Spider-Man and Peter Parker split portrait",
+      "review_note": "Marvel-hosted illustration showing Peter Parker and Spider-Man together; verified as Peter Parker, not an alternate Spider-person."
     },
     "c_jessica": {
       "name": "Spider-Woman",
