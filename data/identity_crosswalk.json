@@ -769,6 +769,146 @@
     {
       "person_id": "wizard",
       "node_id": "c_rel_wizard"
+    },
+    {
+      "person_id": "winston_frost",
+      "node_id": "c_rel_winston_frost"
+    },
+    {
+      "person_id": "christian_frost",
+      "node_id": "c_rel_christian_frost"
+    },
+    {
+      "person_id": "sebastian_shaw",
+      "node_id": "c_shaw"
+    },
+    {
+      "person_id": "lourdes_chantel",
+      "node_id": "c_lourdes"
+    },
+    {
+      "person_id": "edward_buckman",
+      "node_id": "c_rel_edward_buckman"
+    },
+    {
+      "person_id": "selene",
+      "node_id": "c_selene"
+    },
+    {
+      "person_id": "firestar",
+      "node_id": "c_firestar"
+    },
+    {
+      "person_id": "banshee",
+      "node_id": "c_banshee"
+    },
+    {
+      "person_id": "sage",
+      "node_id": "c_rel_sage"
+    },
+    {
+      "person_id": "donald_pierce",
+      "node_id": "c_rel_donald_pierce"
+    },
+    {
+      "person_id": "shinobi_shaw",
+      "node_id": "c_rel_shinobi_shaw"
+    },
+    {
+      "person_id": "mastermind",
+      "node_id": "c_mastermind"
+    },
+    {
+      "person_id": "lilandra",
+      "node_id": "c_lilandra"
+    },
+    {
+      "person_id": "deathbird",
+      "node_id": "c_deathbird"
+    },
+    {
+      "person_id": "dken",
+      "node_id": "c_rel_dken"
+    },
+    {
+      "person_id": "gladiator",
+      "node_id": "c_gladiator"
+    },
+    {
+      "person_id": "rachel",
+      "node_id": "c_rachel"
+    },
+    {
+      "person_id": "korvus",
+      "node_id": "c_rel_korvus"
+    },
+    {
+      "person_id": "katherine_anne",
+      "node_id": "c_rel_katherine_anne"
+    },
+    {
+      "person_id": "tkorr",
+      "node_id": "c_rel_tkorr"
+    },
+    {
+      "person_id": "cerise",
+      "node_id": "c_rel_cerise"
+    },
+    {
+      "person_id": "kaardum",
+      "node_id": "c_rel_kaardum"
+    },
+    {
+      "person_id": "xandra",
+      "node_id": "c_rel_xandra"
+    },
+    {
+      "person_id": "helmut_zemo",
+      "node_id": "c_zemo"
+    },
+    {
+      "person_id": "moonstone",
+      "node_id": "c_moonstone"
+    },
+    {
+      "person_id": "songbird",
+      "node_id": "c_songbird"
+    },
+    {
+      "person_id": "atlas",
+      "node_id": "c_atlas"
+    },
+    {
+      "person_id": "mach1",
+      "node_id": "c_mach1"
+    },
+    {
+      "person_id": "fixer",
+      "node_id": "c_techno"
+    },
+    {
+      "person_id": "jolt",
+      "node_id": "c_jolt"
+    },
+    {
+      "person_id": "blackout",
+      "node_id": "c_rel_blackout"
+    },
+    {
+      "person_id": "graviton",
+      "node_id": "c_rel_graviton"
+    },
+    {
+      "person_id": "radioactive_man",
+      "node_id": "c_rel_radioactive_man"
+    },
+    {
+      "person_id": "doctor_faustus",
+      "node_id": "c_rel_doctor_faustus"
+    },
+    {
+      "person_id": "lloyd_bloch",
+      "node_id": "c_rel_lloyd_bloch"
     }
   ]
 }
