@@ -760,11 +760,11 @@
       "name": "Doctor Doom",
       "identity": "Victor von Doom",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/0082f45e7825644e5b0c7c225139f11b.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/0082f45e7825644e5b0c7c225139f11b.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance not verified)",
+      "review_note": "Matched character name and civilian identity to external dataset. Artwork itself requires visual and rights review."
     },
     "c_mole": {
       "name": "Mole Man",
@@ -2420,11 +2420,11 @@
       "name": "Rhino",
       "identity": "Aleksei Sytsevich",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/04d27835f31f362d7b8fbc7f3437ae87.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/04d27835f31f362d7b8fbc7f3437ae87.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance not verified)",
+      "review_note": "Matched character name and civilian identity to external dataset. Artwork itself requires visual and rights review."
     },
     "c_lizard": {
       "name": "Lizard",
@@ -2610,11 +2610,11 @@
       "name": "Shocker",
       "identity": "Herman Schultz",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/02d46b0195e665436ba39968f733fd44.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/02d46b0195e665436ba39968f733fd44.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance not verified)",
+      "review_note": "Matched character name and civilian identity to external dataset. Artwork itself requires visual and rights review."
     },
     "c_negative": {
       "name": "Mister Negative",
@@ -3260,11 +3260,11 @@
       "name": "Okoye",
       "identity": "Okoye",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/014097e4076914242dd7d04931055df1.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/014097e4076914242dd7d04931055df1.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance not verified)",
+      "review_note": "Matched character name and civilian identity to external dataset. Artwork itself requires visual and rights review."
     },
     "c_rel_nakia": {
       "name": "Malice",
