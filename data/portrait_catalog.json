@@ -1,0 +1,4080 @@
+{
+  "meta": {
+    "schema": "portrait-catalog-v1",
+    "scope": "Earth-616 Explorer node IDs",
+    "updated": "2026-10-19",
+    "policy": "Official Marvel art preferred; exact character or organization identity must be confirmed. No guessed CDN paths or substitutes. Artwork rights remain with Marvel. Missing art uses initials."
+  },
+  "images": {
+    "o_avengers": {
+      "name": "Avengers",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_xmen": {
+      "name": "X-Men",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_ff": {
+      "name": "Fantastic Four",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_shield": {
+      "name": "S.H.I.E.L.D.",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_hydra": {
+      "name": "HYDRA",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_new_av": {
+      "name": "New Avengers",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_west_av": {
+      "name": "West Coast Avengers",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_unity": {
+      "name": "Avengers Unity Squad",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_illum": {
+      "name": "Illuminati",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_brother": {
+      "name": "Brotherhood of Evil Mutants",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_xforce": {
+      "name": "X-Force",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_future": {
+      "name": "Future Foundation",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_masters": {
+      "name": "Masters of Evil",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_aim": {
+      "name": "A.I.M.",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_latveria": {
+      "name": "Latverian monarchy",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_tony": {
+      "name": "Iron Man",
+      "identity": "Tony Stark",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_thor": {
+      "name": "Thor",
+      "identity": "Thor Odinson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_bruce": {
+      "name": "Hulk",
+      "identity": "Bruce Banner",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_hank": {
+      "name": "Ant-Man / Giant-Man",
+      "identity": "Hank Pym",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_janet": {
+      "name": "Wasp",
+      "identity": "Janet van Dyne",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_steve": {
+      "name": "Captain America",
+      "identity": "Steve Rogers",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_natasha": {
+      "name": "Black Widow",
+      "identity": "Natasha Romanoff",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_clint": {
+      "name": "Hawkeye",
+      "identity": "Clint Barton",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_wanda": {
+      "name": "Scarlet Witch",
+      "identity": "Wanda Maximoff",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_pietro": {
+      "name": "Quicksilver",
+      "identity": "Pietro Maximoff",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_vision": {
+      "name": "Vision",
+      "identity": "Vision",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_tchalla": {
+      "name": "Black Panther",
+      "identity": "T’Challa",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_carol": {
+      "name": "Captain Marvel",
+      "identity": "Carol Danvers",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_jennifer": {
+      "name": "She-Hulk",
+      "identity": "Jennifer Walters",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_peter": {
+      "name": "Spider-Man",
+      "identity": "Peter Parker",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_jessica": {
+      "name": "Spider-Woman",
+      "identity": "Jessica Drew",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_luke": {
+      "name": "Luke Cage",
+      "identity": "Luke Cage",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_strange": {
+      "name": "Doctor Strange",
+      "identity": "Stephen Strange",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_samwilson": {
+      "name": "Falcon / Captain America",
+      "identity": "Sam Wilson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_simon": {
+      "name": "Wonder Man",
+      "identity": "Simon Williams",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_bobbi": {
+      "name": "Mockingbird",
+      "identity": "Bobbi Morse",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rhodey": {
+      "name": "War Machine",
+      "identity": "James Rhodes",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_jarvis": {
+      "name": "Edwin Jarvis",
+      "identity": "Edwin Jarvis",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_robbie": {
+      "name": "Ghost Rider",
+      "identity": "Robbie Reyes",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_blade": {
+      "name": "Blade",
+      "identity": "Eric Brooks",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_scottlang": {
+      "name": "Ant-Man",
+      "identity": "Scott Lang",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_charles": {
+      "name": "Professor X",
+      "identity": "Charles Xavier",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_scott": {
+      "name": "Cyclops",
+      "identity": "Scott Summers",
+      "kind": "character",
+      "status": "candidate",
+      "image_url": "https://cdn.marvel.com/content/1x/191cyc_com_crd_01.png",
+      "source_page": "https://www.marvel.com/teams-and-groups/x-men/in-comics",
+      "credit": "Marvel / X-Men character artwork",
+      "review_note": "Existing site image; image delivery and current reuse terms not independently retested."
+    },
+    "c_jean": {
+      "name": "Jean Grey / Phoenix",
+      "identity": "Jean Grey",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_angel": {
+      "name": "Angel",
+      "identity": "Warren Worthington III",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_bobby": {
+      "name": "Iceman",
+      "identity": "Bobby Drake",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_beast": {
+      "name": "Beast",
+      "identity": "Hank McCoy",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_logan": {
+      "name": "Wolverine",
+      "identity": "James Howlett / Logan",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_ororo": {
+      "name": "Storm",
+      "identity": "Ororo Munroe",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_piotr": {
+      "name": "Colossus",
+      "identity": "Piotr Rasputin",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_kurt": {
+      "name": "Nightcrawler",
+      "identity": "Kurt Wagner",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rogue": {
+      "name": "Rogue",
+      "identity": "Anna Marie",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_kate": {
+      "name": "Kate Pryde",
+      "identity": "Katherine Pryde",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_illyana": {
+      "name": "Magik",
+      "identity": "Illyana Rasputina",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_gambit": {
+      "name": "Gambit",
+      "identity": "Remy LeBeau",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_magneto": {
+      "name": "Magneto",
+      "identity": "Max Eisenhardt",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_toad": {
+      "name": "Toad",
+      "identity": "Mortimer Toynbee",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_mastermind": {
+      "name": "Mastermind",
+      "identity": "Jason Wyngarde",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_mystique": {
+      "name": "Mystique",
+      "identity": "Raven Darkhölme",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_cable": {
+      "name": "Cable",
+      "identity": "Nathan Summers",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_domino": {
+      "name": "Domino",
+      "identity": "Neena Thurman",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_laura": {
+      "name": "Wolverine / X-23",
+      "identity": "Laura Kinney",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_warpath": {
+      "name": "Warpath",
+      "identity": "James Proudstar",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_cannonball": {
+      "name": "Cannonball",
+      "identity": "Sam Guthrie",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_shatterstar": {
+      "name": "Shatterstar",
+      "identity": "Gaveedra-Seven",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_boom": {
+      "name": "Boom-Boom",
+      "identity": "Tabitha Smith",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_reed": {
+      "name": "Mister Fantastic",
+      "identity": "Reed Richards",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_sue": {
+      "name": "Invisible Woman",
+      "identity": "Susan Storm Richards",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_johnny": {
+      "name": "Human Torch",
+      "identity": "Johnny Storm",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_ben": {
+      "name": "Thing",
+      "identity": "Ben Grimm",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_franklin": {
+      "name": "Franklin Richards",
+      "identity": "Franklin Richards",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_valeria": {
+      "name": "Valeria Richards",
+      "identity": "Valeria Richards",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_alicia": {
+      "name": "Alicia Masters",
+      "identity": "Alicia Masters",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_crystal": {
+      "name": "Crystal",
+      "identity": "Crystalia Amaquelin",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_medusa": {
+      "name": "Medusa",
+      "identity": "Medusalith Amaquelin",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_doom": {
+      "name": "Doctor Doom",
+      "identity": "Victor von Doom",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_mole": {
+      "name": "Mole Man",
+      "identity": "Harvey Elder",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_fury": {
+      "name": "Nick Fury Sr.",
+      "identity": "Nicholas Joseph Fury",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_furyjr": {
+      "name": "Nick Fury Jr.",
+      "identity": "Marcus Johnson / Nick Fury Jr.",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_maria": {
+      "name": "Maria Hill",
+      "identity": "Maria Hill",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_dugan": {
+      "name": "Dum Dum Dugan",
+      "identity": "Timothy Dugan",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_sitwell": {
+      "name": "Jasper Sitwell",
+      "identity": "Jasper Sitwell",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_gabe": {
+      "name": "Gabe Jones",
+      "identity": "Gabriel Jones",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_valentina": {
+      "name": "Contessa Valentina",
+      "identity": "Valentina Allegra de Fontaine",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_strucker": {
+      "name": "Baron Strucker",
+      "identity": "Wolfgang von Strucker",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_viper": {
+      "name": "Viper / Madame HYDRA",
+      "identity": "Ophelia Sarkissian",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_zola": {
+      "name": "Arnim Zola",
+      "identity": "Arnim Zola",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_redskull": {
+      "name": "Red Skull",
+      "identity": "Johann Schmidt",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_zemo": {
+      "name": "Baron Zemo",
+      "identity": "Helmut Zemo",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_ultron": {
+      "name": "Ultron",
+      "identity": "Ultron",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_new_mutants": {
+      "name": "New Mutants",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_guardians": {
+      "name": "Guardians of the Galaxy",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_defenders": {
+      "name": "Defenders (classic)",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_young_av": {
+      "name": "Young Avengers",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_runaways": {
+      "name": "Runaways",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_pride": {
+      "name": "The Pride",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_alpha": {
+      "name": "Alpha Flight",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_inhumans": {
+      "name": "Inhuman Royal Family",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_excalibur": {
+      "name": "Excalibur",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_xfactor": {
+      "name": "X-Factor (government team)",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_xfactor_o5": {
+      "name": "X-Factor (original five)",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_thunderbolts": {
+      "name": "Thunderbolts (original)",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_hellfire": {
+      "name": "Hellfire Club — Inner Circle",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_sinister6": {
+      "name": "Sinister Six (original)",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_shiar": {
+      "name": "Shi’ar Empire",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_kree": {
+      "name": "Kree Empire",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_skrull": {
+      "name": "Skrull Empire",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_nova": {
+      "name": "Nova Corps",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_wakanda": {
+      "name": "Wakandan Royal Family",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_asgard": {
+      "name": "Asgardian Royal House",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_imperial_guard": {
+      "name": "Shi’ar Imperial Guard",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_sunspot": {
+      "name": "Sunspot",
+      "identity": "Roberto da Costa",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_moonstar": {
+      "name": "Mirage / Moonstar",
+      "identity": "Danielle Moonstar",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_karma": {
+      "name": "Karma",
+      "identity": "Xi’an Coy Manh",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_wolfsbane": {
+      "name": "Wolfsbane",
+      "identity": "Rahne Sinclair",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_magma": {
+      "name": "Magma",
+      "identity": "Amara Aquilla",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_cypher": {
+      "name": "Cypher",
+      "identity": "Douglas Ramsey",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_warlock": {
+      "name": "Warlock",
+      "identity": "Technarch alien",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_havok": {
+      "name": "Havok",
+      "identity": "Alex Summers",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_polaris": {
+      "name": "Polaris",
+      "identity": "Lorna Dane",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_madrox": {
+      "name": "Multiple Man",
+      "identity": "Jamie Madrox",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_strongguy": {
+      "name": "Strong Guy",
+      "identity": "Guido Carosella",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_valcooper": {
+      "name": "Valerie Cooper",
+      "identity": "Valerie Cooper",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rictor": {
+      "name": "Rictor",
+      "identity": "Julio Esteban Richter",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_brian": {
+      "name": "Captain Britain",
+      "identity": "Brian Braddock",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_meggan": {
+      "name": "Meggan",
+      "identity": "Meggan Braddock",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rachel": {
+      "name": "Marvel Girl / Rachel Summers",
+      "identity": "Rachel Summers",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_betsy": {
+      "name": "Captain Britain / Psylocke",
+      "identity": "Betsy Braddock",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_jubilee": {
+      "name": "Jubilee",
+      "identity": "Jubilation Lee",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_lockheed": {
+      "name": "Lockheed",
+      "identity": "Lockheed",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_emma": {
+      "name": "Emma Frost",
+      "identity": "Emma Frost",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_shaw": {
+      "name": "Sebastian Shaw",
+      "identity": "Sebastian Shaw",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_selene": {
+      "name": "Selene",
+      "identity": "Selene Gallio",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_lourdes": {
+      "name": "Lourdes Chantel",
+      "identity": "Lourdes Chantel",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_star_lord": {
+      "name": "Star-Lord",
+      "identity": "Peter Quill",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rocket": {
+      "name": "Rocket Raccoon",
+      "identity": "Rocket",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_groot": {
+      "name": "Groot",
+      "identity": "Groot",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_gamora": {
+      "name": "Gamora",
+      "identity": "Gamora",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_drax": {
+      "name": "Drax the Destroyer",
+      "identity": "Drax",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_mantis": {
+      "name": "Mantis",
+      "identity": "Mantis",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_adam_w": {
+      "name": "Adam Warlock",
+      "identity": "Adam Warlock",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_quasar": {
+      "name": "Quasar",
+      "identity": "Wendell Vaughn",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_namor": {
+      "name": "Namor",
+      "identity": "Namor McKenzie",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_surfer": {
+      "name": "Silver Surfer",
+      "identity": "Norrin Radd",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_hulkling": {
+      "name": "Hulkling",
+      "identity": "Teddy Altman",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_wiccan": {
+      "name": "Wiccan",
+      "identity": "Billy Kaplan",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_speed": {
+      "name": "Speed",
+      "identity": "Tommy Shepherd",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_hawkeye_kate": {
+      "name": "Hawkeye",
+      "identity": "Kate Bishop",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_cassie": {
+      "name": "Stature / Stinger",
+      "identity": "Cassie Lang",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_patriot": {
+      "name": "Patriot",
+      "identity": "Eli Bradley",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_ironlad": {
+      "name": "Iron Lad",
+      "identity": "Nathaniel Richards (future Kang)",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_america": {
+      "name": "America Chavez",
+      "identity": "America Chavez",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_nohvarr": {
+      "name": "Marvel Boy",
+      "identity": "Noh-Varr",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_prodigy": {
+      "name": "Prodigy",
+      "identity": "David Alleyne",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_nico": {
+      "name": "Nico Minoru",
+      "identity": "Nico Minoru",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_karolina": {
+      "name": "Karolina Dean",
+      "identity": "Karolina Dean",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_gert": {
+      "name": "Gertrude Yorkes",
+      "identity": "Gertrude Yorkes",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_chase": {
+      "name": "Chase Stein",
+      "identity": "Chase Stein",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_molly": {
+      "name": "Molly Hayes",
+      "identity": "Molly Hayes",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_alexw": {
+      "name": "Alex Wilder",
+      "identity": "Alex Wilder",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_victor": {
+      "name": "Victor Mancha",
+      "identity": "Victor Mancha",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_guardian": {
+      "name": "Guardian",
+      "identity": "James MacDonald Hudson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_vindicator": {
+      "name": "Vindicator",
+      "identity": "Heather Hudson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_sasquatch": {
+      "name": "Sasquatch",
+      "identity": "Walter Langkowski",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_snowbird": {
+      "name": "Snowbird",
+      "identity": "Narya",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_northstar": {
+      "name": "Northstar",
+      "identity": "Jean-Paul Beaubier",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_aurora": {
+      "name": "Aurora",
+      "identity": "Jeanne-Marie Beaubier",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_shaman": {
+      "name": "Shaman",
+      "identity": "Michael Twoyoungmen",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_marrina": {
+      "name": "Marrina",
+      "identity": "Marrina Smallwood",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_puck": {
+      "name": "Puck",
+      "identity": "Eugene Judd",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_blackbolt": {
+      "name": "Black Bolt",
+      "identity": "Blackagar Boltagon",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_gorgon": {
+      "name": "Gorgon",
+      "identity": "Gorgon Petragon",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_karnak": {
+      "name": "Karnak",
+      "identity": "Karnak Mander-Azur",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_triton": {
+      "name": "Triton",
+      "identity": "Triton Mander-Azur",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_lockjaw": {
+      "name": "Lockjaw",
+      "identity": "Lockjaw",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_maximus": {
+      "name": "Maximus",
+      "identity": "Maximus Boltagon",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_moonstone": {
+      "name": "Moonstone / Meteorite",
+      "identity": "Karla Sofen",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_songbird": {
+      "name": "Songbird / Screaming Mimi",
+      "identity": "Melissa Gold",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_atlas": {
+      "name": "Atlas / Goliath",
+      "identity": "Erik Josten",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_mach1": {
+      "name": "MACH-I / Beetle",
+      "identity": "Abner Jenkins",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_techno": {
+      "name": "Techno / Fixer",
+      "identity": "Paul Ebersol",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_jolt": {
+      "name": "Jolt",
+      "identity": "Hallie Takahama",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_otto": {
+      "name": "Doctor Octopus",
+      "identity": "Otto Octavius",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_electro": {
+      "name": "Electro",
+      "identity": "Max Dillon",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_mysterio": {
+      "name": "Mysterio",
+      "identity": "Quentin Beck",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_vulture": {
+      "name": "Vulture",
+      "identity": "Adrian Toomes",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_sandman": {
+      "name": "Sandman",
+      "identity": "Flint Marko / William Baker",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_kraven": {
+      "name": "Kraven the Hunter",
+      "identity": "Sergei Kravinoff",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_lilandra": {
+      "name": "Lilandra",
+      "identity": "Lilandra Neramani",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_gladiator": {
+      "name": "Gladiator",
+      "identity": "Kallark",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_vulcan": {
+      "name": "Vulcan",
+      "identity": "Gabriel Summers",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_deathbird": {
+      "name": "Deathbird",
+      "identity": "Cal’syee Neramani",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_dken": {
+      "name": "D’Ken",
+      "identity": "D’Ken Neramani",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_ronan": {
+      "name": "Ronan the Accuser",
+      "identity": "Ronan",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_marvell": {
+      "name": "Captain Marvel / Mar-Vell",
+      "identity": "Mar-Vell",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_super_skrull": {
+      "name": "Super-Skrull",
+      "identity": "Kl’rt",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_talos": {
+      "name": "Talos",
+      "identity": "Talos",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_veranke": {
+      "name": "Queen Veranke",
+      "identity": "Veranke",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_nova_rider": {
+      "name": "Nova",
+      "identity": "Richard Rider",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_shuri": {
+      "name": "Shuri",
+      "identity": "Shuri",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_tchaka": {
+      "name": "T’Chaka",
+      "identity": "T’Chaka",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_ramonda": {
+      "name": "Ramonda",
+      "identity": "Ramonda",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_loki": {
+      "name": "Loki",
+      "identity": "Loki Laufeyson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_odin": {
+      "name": "Odin",
+      "identity": "Odin Borson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_sif": {
+      "name": "Sif",
+      "identity": "Lady Sif",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_banshee": {
+      "name": "Banshee",
+      "identity": "Sean Cassidy",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_sunfire": {
+      "name": "Sunfire",
+      "identity": "Shiro Yoshida",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_thunderbird": {
+      "name": "Thunderbird",
+      "identity": "John Proudstar",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_defenders17": {
+      "name": "Defenders (2017 team)",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_heroes_hire": {
+      "name": "Heroes for Hire (Power Man & Iron Fist)",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_daughters": {
+      "name": "Daughters of the Dragon",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_hand": {
+      "name": "The Hand",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_chaste": {
+      "name": "The Chaste",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_fist": {
+      "name": "The Fist (2022)",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_fisk": {
+      "name": "Fisk criminal enterprise",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_maggia": {
+      "name": "Maggia",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_bugle": {
+      "name": "Daily Bugle",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_nelson": {
+      "name": "Nelson & Murdock",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_oscorp": {
+      "name": "Oscorp",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_horizon": {
+      "name": "Horizon Labs",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_new_warriors": {
+      "name": "New Warriors (classic)",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_daredevil_circle": {
+      "name": "Daredevil support network",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_spider_circle": {
+      "name": "Spider-Man support network",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_spider_foes": {
+      "name": "Spider-Man recurring antagonists",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_wildpack": {
+      "name": "Silver Sable / Wild Pack",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "o_alias": {
+      "name": "Alias Investigations",
+      "identity": null,
+      "kind": "organization",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_mj": {
+      "name": "Mary Jane Watson",
+      "identity": "Mary Jane Watson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_mayparker": {
+      "name": "Aunt May",
+      "identity": "May Reilly Parker",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_benparker": {
+      "name": "Uncle Ben",
+      "identity": "Benjamin Parker",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_gwen616": {
+      "name": "Gwen Stacy (Earth-616)",
+      "identity": "Gwendolyne Stacy",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_harry": {
+      "name": "Harry Osborn",
+      "identity": "Harry Osborn",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_norman": {
+      "name": "Green Goblin",
+      "identity": "Norman Osborn",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_jonah": {
+      "name": "J. Jonah Jameson",
+      "identity": "John Jonah Jameson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_betty": {
+      "name": "Betty Brant",
+      "identity": "Elizabeth Brant",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_robertson": {
+      "name": "Robbie Robertson",
+      "identity": "Joseph Robertson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_flash": {
+      "name": "Agent Anti-Venom",
+      "identity": "Eugene “Flash” Thompson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_liz": {
+      "name": "Liz Allan",
+      "identity": "Elizabeth Allan",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_blackcat": {
+      "name": "Black Cat",
+      "identity": "Felicia Hardy",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_venom": {
+      "name": "Venom",
+      "identity": "Eddie Brock",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_carnage": {
+      "name": "Carnage",
+      "identity": "Cletus Kasady",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_scorpion": {
+      "name": "Scorpion",
+      "identity": "Mac Gargan",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rhino": {
+      "name": "Rhino",
+      "identity": "Aleksei Sytsevich",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_lizard": {
+      "name": "Lizard",
+      "identity": "Dr. Curt Connors",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_hobgoblin": {
+      "name": "Hobgoblin",
+      "identity": "Roderick Kingsley",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_chameleon": {
+      "name": "Chameleon",
+      "identity": "Dmitri Smerdyakov",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_jackal": {
+      "name": "Jackal",
+      "identity": "Miles Warren",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_benreilly": {
+      "name": "Scarlet Spider",
+      "identity": "Ben Reilly",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_kaine": {
+      "name": "Scarlet Spider / Kaine",
+      "identity": "Kaine Parker",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_silk": {
+      "name": "Silk",
+      "identity": "Cindy Moon",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_miles": {
+      "name": "Spider-Man (Miles Morales)",
+      "identity": "Miles Morales",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_anya": {
+      "name": "Araña / Spider-Girl",
+      "identity": "Anya Corazon",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_julia": {
+      "name": "Spider-Woman / Arachne",
+      "identity": "Julia Carpenter",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_morbius": {
+      "name": "Morbius",
+      "identity": "Michael Morbius",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_silver": {
+      "name": "Silver Sable",
+      "identity": "Silver Sablinova",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_prowler": {
+      "name": "Prowler",
+      "identity": "Hobie Brown",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_tombstone": {
+      "name": "Tombstone",
+      "identity": "Lonnie Lincoln",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_hammerhead": {
+      "name": "Hammerhead",
+      "identity": "Unknown",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_boomerang": {
+      "name": "Boomerang",
+      "identity": "Fred Myers",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_beetle": {
+      "name": "Beetle",
+      "identity": "Janice Lincoln",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_hydroman": {
+      "name": "Hydro-Man",
+      "identity": "Morris Bench",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_shocker": {
+      "name": "Shocker",
+      "identity": "Herman Schultz",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_negative": {
+      "name": "Mister Negative",
+      "identity": "Martin Li",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_spot": {
+      "name": "Spot",
+      "identity": "Jonathan Ohnn",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_smythe": {
+      "name": "Spider-Slayer",
+      "identity": "Alistair Smythe",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_spencer": {
+      "name": "Spencer Smythe",
+      "identity": "Spencer Smythe",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_johnj": {
+      "name": "Man-Wolf",
+      "identity": "John Jameson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_matt": {
+      "name": "Daredevil",
+      "identity": "Matt Murdock",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_elektra": {
+      "name": "Elektra",
+      "identity": "Elektra Natchios",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_foggy": {
+      "name": "Foggy Nelson",
+      "identity": "Franklin Nelson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_karen": {
+      "name": "Karen Page",
+      "identity": "Karen Page",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_stick": {
+      "name": "Stick",
+      "identity": "Stick",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_jackm": {
+      "name": "Battlin’ Jack Murdock",
+      "identity": "Jack Murdock",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_kingpin": {
+      "name": "Kingpin",
+      "identity": "Wilson Fisk",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_vanessa": {
+      "name": "Vanessa Fisk",
+      "identity": "Vanessa Fisk",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_bullseye": {
+      "name": "Bullseye",
+      "identity": "Not conclusively established in main comics continuity",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_typhoid": {
+      "name": "Typhoid Mary",
+      "identity": "Mary Walker",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_purple": {
+      "name": "Purple Man",
+      "identity": "Zebediah Killgrave",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_owl": {
+      "name": "The Owl",
+      "identity": "Leland Owlsley",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_gladiator_potter": {
+      "name": "Gladiator",
+      "identity": "Melvin Potter",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_stiltman": {
+      "name": "Stilt-Man",
+      "identity": "Wilbur Day",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_jester": {
+      "name": "Jester",
+      "identity": "Jonathan Powers",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_echo": {
+      "name": "Echo",
+      "identity": "Maya Lopez",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_blindspot": {
+      "name": "Blindspot",
+      "identity": "Samuel Chung",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_sisterm": {
+      "name": "Sister Maggie",
+      "identity": "Maggie Murdock",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_ladybull": {
+      "name": "Lady Bullseye",
+      "identity": "Maki Matsumoto",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_turk": {
+      "name": "Turk Barrett",
+      "identity": "Turk Barrett",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_tarantula": {
+      "name": "Black Tarantula",
+      "identity": "Carlos LaMuerto",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_nuke": {
+      "name": "Nuke",
+      "identity": "Frank Simpson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_fear": {
+      "name": "Mister Fear",
+      "identity": "Larry Cranston",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_nightnurse": {
+      "name": "Night Nurse",
+      "identity": "Linda Carter",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_ironfist": {
+      "name": "Iron Fist",
+      "identity": "Danny Rand",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_jessjones": {
+      "name": "Jessica Jones",
+      "identity": "Jessica Jones",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_misty": {
+      "name": "Misty Knight",
+      "identity": "Mercedes Knight",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_colleen": {
+      "name": "Colleen Wing",
+      "identity": "Colleen Wing",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_shangchi": {
+      "name": "Shang-Chi",
+      "identity": "Shang-Chi",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_moonknight": {
+      "name": "Moon Knight",
+      "identity": "Marc Spector",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_punisher": {
+      "name": "Punisher",
+      "identity": "Frank Castle",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_micro": {
+      "name": "Microchip",
+      "identity": "David Lieberman",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_whitetiger": {
+      "name": "White Tiger",
+      "identity": "Hector Ayala",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_paladin": {
+      "name": "Paladin",
+      "identity": "Identity unconfirmed",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_cloak": {
+      "name": "Cloak",
+      "identity": "Tyrone Johnson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_dagger": {
+      "name": "Dagger",
+      "identity": "Tandy Bowen",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_firestar": {
+      "name": "Firestar",
+      "identity": "Angelica Jones",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_justice": {
+      "name": "Justice",
+      "identity": "Vance Astrovik",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_speedball": {
+      "name": "Speedball",
+      "identity": "Robbie Baldwin",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_nightthrasher": {
+      "name": "Night Thrasher",
+      "identity": "Dwayne Taylor",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_darkhawk": {
+      "name": "Darkhawk",
+      "identity": "Chris Powell",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_jigsaw": {
+      "name": "Jigsaw",
+      "identity": "Billy Russo",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_bushmaster": {
+      "name": "Bushmaster",
+      "identity": "John McIver",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_cottonmouth": {
+      "name": "Cottonmouth",
+      "identity": "Cornell Stokes",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_mariah": {
+      "name": "Black Mariah",
+      "identity": "Mariah Dillard",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_silvermane": {
+      "name": "Silvermane",
+      "identity": "Silvio Manfredi",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_nefar": {
+      "name": "Count Nefaria",
+      "identity": "Luchino Nefaria",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_namorita": {
+      "name": "Namorita",
+      "identity": "Namorita Prentiss",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_destiny": {
+      "name": "Destiny",
+      "identity": "Irene Adler",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_graydon": {
+      "name": "Graydon Creed",
+      "identity": "Graydon Creed",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_gabrielle": {
+      "name": "Gabrielle Haller",
+      "identity": "Gabrielle Haller",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_bella": {
+      "name": "Bella Donna",
+      "identity": "Bella Donna Boudreaux",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_cody": {
+      "name": "Cody Robbins",
+      "identity": "Cody Robbins",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_agatha": {
+      "name": "Agatha Harkness",
+      "identity": "Agatha Harkness",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_phyla": {
+      "name": "Quasar (formerly); Martyr",
+      "identity": "Phyla-Vell",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_moondragon": {
+      "name": "Moondragon",
+      "identity": "Heather Douglas",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_j_son": {
+      "name": "J'son",
+      "identity": "J'son of Spartax",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_gilbert": {
+      "name": "Gilbert Vaughn",
+      "identity": "Gilbert Vaughn",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_kayla": {
+      "name": "Kayla Ballantine",
+      "identity": "Kayla Ballantine",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_okoye": {
+      "name": "Okoye",
+      "identity": "Okoye",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_nakia": {
+      "name": "Malice",
+      "identity": "Nakia",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_ayo": {
+      "name": "Midnight Angel",
+      "identity": "Ayo",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_monica_lynne": {
+      "name": "Monica Lynne",
+      "identity": "Monica Lynne",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_tetu": {
+      "name": "Tetu",
+      "identity": "Tetu",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_bucky": {
+      "name": "Winter Soldier",
+      "identity": "James Buchanan Barnes",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_alexei": {
+      "name": "Red Guardian",
+      "identity": "Alexei Shostakov",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_yelena": {
+      "name": "White Widow",
+      "identity": "Yelena Belova",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_sharon": {
+      "name": "Agent 13",
+      "identity": "Sharon Carter",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_peggy": {
+      "name": "Peggy Carter",
+      "identity": "Margaret Carter",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_clea": {
+      "name": "Clea",
+      "identity": "Clea",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_wong": {
+      "name": "Wong",
+      "identity": "Wong",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_dormammu": {
+      "name": "Dormammu",
+      "identity": "Dormammu",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_umar": {
+      "name": "Umar",
+      "identity": "Umar",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_orini": {
+      "name": "Orini",
+      "identity": "Orini",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_hamir": {
+      "name": "Hamir",
+      "identity": "Hamir",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_ancient_one": {
+      "name": "Ancient One",
+      "identity": "Yao",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_mephisto": {
+      "name": "Mephisto",
+      "identity": "Mephisto",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_nightmare": {
+      "name": "Nightmare",
+      "identity": "Nightmare",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_satana": {
+      "name": "Satana",
+      "identity": "Satana Hellstrom",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_laufey": {
+      "name": "Laufey",
+      "identity": "Laufey",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_jane_foster": {
+      "name": "Jane Foster",
+      "identity": "Jane Foster",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_beta_ray_bill": {
+      "name": "Beta Ray Bill",
+      "identity": "Beta Ray Bill",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_skurge": {
+      "name": "Skurge",
+      "identity": "Skurge",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_hela": {
+      "name": "Hela",
+      "identity": "Hela",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_malekith": {
+      "name": "Malekith",
+      "identity": "Malekith",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_surtur": {
+      "name": "Surtur",
+      "identity": "Surtur",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_balder": {
+      "name": "Balder",
+      "identity": "Balder",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_madelyne": {
+      "name": "Goblin Queen",
+      "identity": "Madelyne Pryor",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_corsair": {
+      "name": "Corsair",
+      "identity": "Christopher Summers",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_sinister": {
+      "name": "Mister Sinister",
+      "identity": "Nathaniel Essex",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_jocasta": {
+      "name": "Jocasta",
+      "identity": "Jocasta",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_eric_williams": {
+      "name": "Grim Reaper",
+      "identity": "Eric Williams",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_whirlwind": {
+      "name": "Whirlwind",
+      "identity": "David Cannon",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_moira": {
+      "name": "Moira MacTaggert",
+      "identity": "Moira MacTaggert",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_hrimhari": {
+      "name": "Wolf Prince",
+      "identity": "Hrimhari",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_belasco": {
+      "name": "Belasco",
+      "identity": "Belasco",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_jake_fury": {
+      "name": "Scorpio",
+      "identity": "Jacob Fury",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_daisy": {
+      "name": "Quake",
+      "identity": "Daisy Johnson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_phil_coulson": {
+      "name": "Agent Coulson",
+      "identity": "Phil Coulson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_crossbones": {
+      "name": "Crossbones",
+      "identity": "Brock Rumlow",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_sin": {
+      "name": "Sin",
+      "identity": "Sinthea Shmidt",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_diamondback": {
+      "name": "Diamondback",
+      "identity": "Rachel Leighton",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_hulkling": {
+      "name": "Hulkling / Dorrek VIII",
+      "identity": "Theodore Altman",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_anelle": {
+      "name": "Princess Anelle",
+      "identity": "Anelle",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_elysius": {
+      "name": "Elysius",
+      "identity": "Elysius",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_genis_vell": {
+      "name": "Photon / Captain Marvel",
+      "identity": "Genis-Vell",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_starfox": {
+      "name": "Starfox",
+      "identity": "Eros",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_naomi_kale": {
+      "name": "Naomi Kale",
+      "identity": "Naomi Kale",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_barbara_ketch": {
+      "name": "Barbara Ketch",
+      "identity": "Barbara Ketch",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_crash_simpson": {
+      "name": "Crash Simpson",
+      "identity": "Craig Simpson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_roxanne_simpson": {
+      "name": "Roxanne Blaze / Black Rose",
+      "identity": "Roxanne Simpson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_zarathos": {
+      "name": "Zarathos",
+      "identity": "Zarathos",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_noble_kale": {
+      "name": "Ghost Rider / Angel of Death",
+      "identity": "Noble Kale",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_blackheart": {
+      "name": "Blackheart",
+      "identity": "Blackheart",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_michael_badilino": {
+      "name": "Vengeance",
+      "identity": "Michael Badilino",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_mary_lebow": {
+      "name": "Mary LeBow",
+      "identity": "Mary LeBow",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_zadkiel": {
+      "name": "Zadkiel",
+      "identity": "Zadkiel",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_flash": {
+      "name": "Flash Thompson",
+      "identity": "Eugene Thompson",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_ahura": {
+      "name": "Ahura",
+      "identity": "Ahura Boltagon",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_kang": {
+      "name": "Kang the Conqueror",
+      "identity": "Nathaniel Richards",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_luna": {
+      "name": "Luna",
+      "identity": "Luna Maximoff",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_fantomex": {
+      "name": "Fantomex",
+      "identity": "Charlie-Cluster 7",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_wizard": {
+      "name": "Wizard",
+      "identity": "Bentley Wittman",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_winston_frost": {
+      "name": "Winston Frost",
+      "identity": "Winston Frost",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_christian_frost": {
+      "name": "Christian Frost",
+      "identity": "Christian Frost",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_edward_buckman": {
+      "name": "White King",
+      "identity": "Edward Buckman",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_sage": {
+      "name": "Sage / Tessa",
+      "identity": "Tessa",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_donald_pierce": {
+      "name": "White King",
+      "identity": "Donald Pierce",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_shinobi_shaw": {
+      "name": "Shinobi Shaw",
+      "identity": "Shinobi Shaw",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_dken": {
+      "name": "D’ken",
+      "identity": "D’ken Neramani",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_korvus": {
+      "name": "Korvus",
+      "identity": "Korvus Rook’shir",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_katherine_anne": {
+      "name": "Katherine-Anne Summers",
+      "identity": "Katherine-Anne Summers",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_tkorr": {
+      "name": "Emperor T’korr",
+      "identity": "T’korr",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_cerise": {
+      "name": "Cerise",
+      "identity": "Cerise",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_kaardum": {
+      "name": "Major-General Ka’ardum",
+      "identity": "Ka’ardum",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_xandra": {
+      "name": "Majestrix Xandra",
+      "identity": "Xandra Neramani",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_blackout": {
+      "name": "Blackout",
+      "identity": "Marcus Daniels",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_graviton": {
+      "name": "Graviton",
+      "identity": "Franklin Hall",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_radioactive_man": {
+      "name": "Radioactive Man",
+      "identity": "Chen Lu",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_doctor_faustus": {
+      "name": "Doctor Faustus",
+      "identity": "Johann Fennhoff",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    },
+    "c_rel_lloyd_bloch": {
+      "name": "Moonstone (original) / Nefarius",
+      "identity": "Lloyd Bloch",
+      "kind": "character",
+      "status": "pending",
+      "image_url": null,
+      "source_page": null,
+      "credit": null,
+      "review_note": null
+    }
+  }
+}
