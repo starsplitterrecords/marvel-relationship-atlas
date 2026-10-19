@@ -93,182 +93,372 @@
       "evidence_tier": "publisher_secondary; verify applicability per claim"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "id": "FF11_20261019_E01",
+      "a": "phillip_masters",
+      "b": "jacob_reiss",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: phillip_masters → jacob_reiss, proposed betrayal relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E02",
+      "a": "phillip_masters",
+      "b": "alicia",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: phillip_masters → alicia, proposed coercion relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E03",
+      "a": "alicia",
+      "b": "phillip_masters",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: alicia → phillip_masters, proposed conflict relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E04",
+      "a": "alicia",
+      "b": "norrin",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: alicia → norrin, proposed influence relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E05",
+      "a": "paibok",
+      "b": "lyja",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: paibok → lyja, proposed authority relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E06",
+      "a": "lyja",
+      "b": "paibok",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: lyja → paibok, proposed betrayal relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E07",
+      "a": "lyja",
+      "b": "alicia",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: lyja → alicia, proposed coercion relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E08",
+      "a": "lyja",
+      "b": "johnny",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: lyja → johnny, proposed romance relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E09",
+      "a": "sharon_ventura",
+      "b": "ben",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: sharon_ventura → ben, proposed romance relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E10",
+      "a": "doom",
+      "b": "sharon_ventura",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: doom → sharon_ventura, proposed coercion relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E11",
+      "a": "nathaniel_richards_sr",
+      "b": "franklin",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: nathaniel_richards_sr → franklin, proposed coercion relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E12",
+      "a": "doom",
+      "b": "kristoff_vernard",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: doom → kristoff_vernard, proposed family relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S4",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E13",
+      "a": "valeria",
+      "b": "dragon_man",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: valeria → dragon_man, proposed influence relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S4",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E14",
+      "a": "reed",
+      "b": "bentley_23",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: reed → bentley_23, proposed mentorship relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S4",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E15",
+      "a": "alicia",
+      "b": "nkalla",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: alicia → nkalla, proposed family relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S5",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E16",
+      "a": "alicia",
+      "b": "jo_venn",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: alicia → jo_venn, proposed family relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S5",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "FF11_20261019_E17",
+      "a": "nkalla",
+      "b": "jo_venn",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: nkalla → jo_venn, proposed protection relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "FF11_S5",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    }
+  ],
   "claims": [
     {
       "id": "FF11_C1",
       "from_id": "phillip_masters",
       "to_id": "jacob_reiss",
       "dimension": "betrayal",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed betrayal between phillip_masters and jacob_reiss; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E01"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C2",
       "from_id": "phillip_masters",
       "to_id": "alicia",
       "dimension": "coercion",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed coercion between phillip_masters and alicia; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E02"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C3",
       "from_id": "alicia",
       "to_id": "phillip_masters",
       "dimension": "conflict",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed conflict between alicia and phillip_masters; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E03"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C4",
       "from_id": "alicia",
       "to_id": "norrin",
       "dimension": "influence",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed influence between alicia and norrin; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E04"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C5",
       "from_id": "paibok",
       "to_id": "lyja",
       "dimension": "authority",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed authority between paibok and lyja; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E05"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C6",
       "from_id": "lyja",
       "to_id": "paibok",
       "dimension": "betrayal",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed betrayal between lyja and paibok; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E06"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C7",
       "from_id": "lyja",
       "to_id": "alicia",
       "dimension": "coercion",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed coercion between lyja and alicia; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E07"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C8",
       "from_id": "lyja",
       "to_id": "johnny",
       "dimension": "romance",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed romance between lyja and johnny; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E08"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C9",
       "from_id": "sharon_ventura",
       "to_id": "ben",
       "dimension": "romance",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed romance between sharon_ventura and ben; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E09"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C10",
       "from_id": "doom",
       "to_id": "sharon_ventura",
       "dimension": "coercion",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed coercion between doom and sharon_ventura; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E10"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C11",
       "from_id": "nathaniel_richards_sr",
       "to_id": "franklin",
       "dimension": "coercion",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed coercion between nathaniel_richards_sr and franklin; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E11"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C12",
       "from_id": "doom",
       "to_id": "kristoff_vernard",
       "dimension": "family",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed family between doom and kristoff_vernard; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E12"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C13",
       "from_id": "valeria",
       "to_id": "dragon_man",
       "dimension": "influence",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed influence between valeria and dragon_man; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E13"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C14",
       "from_id": "reed",
       "to_id": "bentley_23",
       "dimension": "mentorship",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed mentorship between reed and bentley_23; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E14"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C15",
       "from_id": "alicia",
       "to_id": "nkalla",
       "dimension": "family",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed family between alicia and nkalla; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E15"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C16",
       "from_id": "alicia",
       "to_id": "jo_venn",
       "dimension": "family",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed family between alicia and jo_venn; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E16"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "FF11_C17",
       "from_id": "nkalla",
       "to_id": "jo_venn",
       "dimension": "protection",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed protection between nkalla and jo_venn; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "FF11_20261019_E17"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     }
   ],
   "review": {
     "full_original_batch": "Earlier messages in this conversation",
     "canonical_merge": false,
-    "warning": "Not a substitute for the full event-rich research payload."
+    "warning": "Not a substitute for the full event-rich research payload.",
+    "original_issue_events_recovered": false,
+    "note": "Added explicit event stubs for all claims to make missing evidence visible and prevent accidental promotion as verified."
   }
 }
