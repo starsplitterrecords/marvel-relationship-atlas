@@ -83,212 +83,435 @@
       "evidence_tier": "publisher_secondary; verify applicability per claim"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "id": "VAMP12_20261019_E01",
+      "a": "deacon_frost",
+      "b": "tara_brooks",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: deacon_frost → tara_brooks, proposed violence relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E02",
+      "a": "blade",
+      "b": "deacon_frost",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: blade → deacon_frost, proposed conflict relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E03",
+      "a": "deacon_frost",
+      "b": "hannibal_king",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: deacon_frost → hannibal_king, proposed coercion relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E04",
+      "a": "blade",
+      "b": "hannibal_king",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: blade → hannibal_king, proposed cooperation relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E05",
+      "a": "deacon_frost",
+      "b": "dracula_vlad",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: deacon_frost → dracula_vlad, proposed power_rivalry relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E06",
+      "a": "blade",
+      "b": "dracula_vlad",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: blade → dracula_vlad, proposed conflict relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E07",
+      "a": "blade",
+      "b": "dracula_vlad",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: blade → dracula_vlad, proposed conditional_cooperation relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E08",
+      "a": "lilith_dracula",
+      "b": "dracula_vlad",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: lilith_dracula → dracula_vlad, proposed family_conflict relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E09",
+      "a": "morbius",
+      "b": "emil_nikos",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: morbius → emil_nikos, proposed violence relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E10",
+      "a": "emil_nikos",
+      "b": "morbius",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: emil_nikos → morbius, proposed mercy relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E11",
+      "a": "morbius",
+      "b": "martine_bancroft",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: morbius → martine_bancroft, proposed protection relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E12",
+      "a": "morbius",
+      "b": "martine_bancroft",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: morbius → martine_bancroft, proposed lethal_mercy relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E13",
+      "a": "blade",
+      "b": "spitfire_jacqueline",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: blade → spitfire_jacqueline, proposed conflict relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E14",
+      "a": "blade",
+      "b": "spitfire_jacqueline",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: blade → spitfire_jacqueline, proposed romance relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E15",
+      "a": "morbius",
+      "b": "jack_russell",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: morbius → jack_russell, proposed domination_attempt relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E16",
+      "a": "marie_laveau",
+      "b": "morbius",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: marie_laveau → morbius, proposed instrumentalization relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E17",
+      "a": "morbius",
+      "b": "strange",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: morbius → strange, proposed cooperation relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E18",
+      "a": "morbius",
+      "b": "frank",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: morbius → frank, proposed restoration relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E19",
+      "a": "frank",
+      "b": "morbius",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: frank → morbius, proposed protection relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "VAMP12_20261019_E20",
+      "a": "blade",
+      "b": "morbius",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: blade → morbius, proposed protection relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "VAMP12_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    }
+  ],
   "claims": [
     {
       "id": "VAMP12_C1",
       "from_id": "deacon_frost",
       "to_id": "tara_brooks",
       "dimension": "violence",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed violence between deacon_frost and tara_brooks; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E01"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C2",
       "from_id": "blade",
       "to_id": "deacon_frost",
       "dimension": "conflict",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed conflict between blade and deacon_frost; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E02"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C3",
       "from_id": "deacon_frost",
       "to_id": "hannibal_king",
       "dimension": "coercion",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed coercion between deacon_frost and hannibal_king; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E03"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C4",
       "from_id": "blade",
       "to_id": "hannibal_king",
       "dimension": "cooperation",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed cooperation between blade and hannibal_king; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E04"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C5",
       "from_id": "deacon_frost",
       "to_id": "dracula_vlad",
       "dimension": "power_rivalry",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed power_rivalry between deacon_frost and dracula_vlad; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E05"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C6",
       "from_id": "blade",
       "to_id": "dracula_vlad",
       "dimension": "conflict",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed conflict between blade and dracula_vlad; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E06"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C7",
       "from_id": "blade",
       "to_id": "dracula_vlad",
       "dimension": "conditional_cooperation",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed conditional_cooperation between blade and dracula_vlad; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E07"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C8",
       "from_id": "lilith_dracula",
       "to_id": "dracula_vlad",
       "dimension": "family_conflict",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed family_conflict between lilith_dracula and dracula_vlad; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E08"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C9",
       "from_id": "morbius",
       "to_id": "emil_nikos",
       "dimension": "violence",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed violence between morbius and emil_nikos; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E09"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C10",
       "from_id": "emil_nikos",
       "to_id": "morbius",
       "dimension": "mercy",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed mercy between emil_nikos and morbius; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E10"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C11",
       "from_id": "morbius",
       "to_id": "martine_bancroft",
       "dimension": "protection",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed protection between morbius and martine_bancroft; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E11"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C12",
       "from_id": "morbius",
       "to_id": "martine_bancroft",
       "dimension": "lethal_mercy",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed lethal_mercy between morbius and martine_bancroft; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E12"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C13",
       "from_id": "blade",
       "to_id": "spitfire_jacqueline",
       "dimension": "conflict",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed conflict between blade and spitfire_jacqueline; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E13"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C14",
       "from_id": "blade",
       "to_id": "spitfire_jacqueline",
       "dimension": "romance",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed romance between blade and spitfire_jacqueline; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E14"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C15",
       "from_id": "morbius",
       "to_id": "jack_russell",
       "dimension": "domination_attempt",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed domination_attempt between morbius and jack_russell; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E15"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C16",
       "from_id": "marie_laveau",
       "to_id": "morbius",
       "dimension": "instrumentalization",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed instrumentalization between marie_laveau and morbius; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E16"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C17",
       "from_id": "morbius",
       "to_id": "strange",
       "dimension": "cooperation",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed cooperation between morbius and strange; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E17"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C18",
       "from_id": "morbius",
       "to_id": "frank",
       "dimension": "restoration",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed restoration between morbius and frank; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E18"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C19",
       "from_id": "frank",
       "to_id": "morbius",
       "dimension": "protection",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed protection between frank and morbius; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E19"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "VAMP12_C20",
       "from_id": "blade",
       "to_id": "morbius",
       "dimension": "protection",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed protection between blade and morbius; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "VAMP12_20261019_E20"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     }
   ],
   "review": {
     "full_original_batch": "Earlier messages in this conversation",
     "canonical_merge": false,
-    "warning": "Not a substitute for the full event-rich research payload."
+    "warning": "Not a substitute for the full event-rich research payload.",
+    "original_issue_events_recovered": false,
+    "note": "Added explicit event stubs for all claims to make missing evidence visible and prevent accidental promotion as verified."
   }
 }
