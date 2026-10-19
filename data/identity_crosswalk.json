@@ -541,6 +541,146 @@
     {
       "person_id": "colossus",
       "node_id": "c_piotr"
+    },
+    {
+      "person_id": "jake_fury",
+      "node_id": "c_rel_jake_fury"
+    },
+    {
+      "person_id": "mikel_fury",
+      "node_id": "c_rel_jake_fury"
+    },
+    {
+      "person_id": "nick_fury_jr",
+      "node_id": "c_furyjr"
+    },
+    {
+      "person_id": "dugan",
+      "node_id": "c_dugan"
+    },
+    {
+      "person_id": "sitwell",
+      "node_id": "c_sitwell"
+    },
+    {
+      "person_id": "daisy",
+      "node_id": "c_rel_daisy"
+    },
+    {
+      "person_id": "phil_coulson",
+      "node_id": "c_rel_phil_coulson"
+    },
+    {
+      "person_id": "jessica_drew",
+      "node_id": "c_jessica"
+    },
+    {
+      "person_id": "red_skull",
+      "node_id": "c_redskull"
+    },
+    {
+      "person_id": "crossbones",
+      "node_id": "c_rel_crossbones"
+    },
+    {
+      "person_id": "sin",
+      "node_id": "c_rel_sin"
+    },
+    {
+      "person_id": "diamondback",
+      "node_id": "c_rel_diamondback"
+    },
+    {
+      "person_id": "hulkling",
+      "node_id": "c_rel_hulkling"
+    },
+    {
+      "person_id": "wiccan",
+      "node_id": "c_wiccan"
+    },
+    {
+      "person_id": "speed",
+      "node_id": "c_speed"
+    },
+    {
+      "person_id": "anelle",
+      "node_id": "c_rel_anelle"
+    },
+    {
+      "person_id": "mar_vell",
+      "node_id": "c_carol"
+    },
+    {
+      "person_id": "elysius",
+      "node_id": "c_rel_elysius"
+    },
+    {
+      "person_id": "genis_vell",
+      "node_id": "c_rel_genis_vell"
+    },
+    {
+      "person_id": "starfox",
+      "node_id": "c_rel_starfox"
+    },
+    {
+      "person_id": "kate_bishop",
+      "node_id": "c_clint"
+    },
+    {
+      "person_id": "iron_lad",
+      "node_id": "c_ironlad"
+    },
+    {
+      "person_id": "eli_bradley",
+      "node_id": "c_patriot"
+    },
+    {
+      "person_id": "super_skrull",
+      "node_id": "c_super_skrull"
+    },
+    {
+      "person_id": "danny_ketch",
+      "node_id": "c_robbie"
+    },
+    {
+      "person_id": "naomi_kale",
+      "node_id": "c_rel_naomi_kale"
+    },
+    {
+      "person_id": "barbara_ketch",
+      "node_id": "c_rel_barbara_ketch"
+    },
+    {
+      "person_id": "crash_simpson",
+      "node_id": "c_rel_crash_simpson"
+    },
+    {
+      "person_id": "roxanne_simpson",
+      "node_id": "c_rel_roxanne_simpson"
+    },
+    {
+      "person_id": "zarathos",
+      "node_id": "c_rel_zarathos"
+    },
+    {
+      "person_id": "noble_kale",
+      "node_id": "c_rel_noble_kale"
+    },
+    {
+      "person_id": "blackheart",
+      "node_id": "c_rel_blackheart"
+    },
+    {
+      "person_id": "michael_badilino",
+      "node_id": "c_rel_michael_badilino"
+    },
+    {
+      "person_id": "mary_lebow",
+      "node_id": "c_rel_mary_lebow"
+    },
+    {
+      "person_id": "zadkiel",
+      "node_id": "c_rel_zadkiel"
     }
   ]
 }
