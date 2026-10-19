@@ -1,0 +1,454 @@
+{
+  "batch_id": "ET13_20261019",
+  "status": "UNCOMMITTED research batch; committed as standalone incremental JSON, not merged into canonical relationship_pilot.json",
+  "continuity": "Earth-616",
+  "community": "Eternals / Deviants / Avengers bridge",
+  "people": [
+    {
+      "id": "sprite",
+      "name": "Sprite",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gilgamesh",
+      "name": "Gilgamesh",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "zuras",
+      "name": "Zuras",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ikaris",
+      "name": "Ikaris",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "sersi",
+      "name": "Sersi",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "makkari",
+      "name": "Makkari",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "druig",
+      "name": "Druig",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "valkin",
+      "name": "Valkin",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "thena",
+      "name": "Thena",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ajak",
+      "name": "Ajak",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "kro_eternal",
+      "name": "Kro",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "dane_whitman",
+      "name": "Dane Whitman",
+      "continuity": "Earth-616"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ET13_20261019_S01",
+      "url": "https://www.marvel.com/characters/sprite/in-comics",
+      "evidence_tier": "official_publisher_summary"
+    },
+    {
+      "id": "ET13_20261019_S02",
+      "url": "https://www.marvel.com/characters/druig/in-comics",
+      "evidence_tier": "official_publisher_summary"
+    },
+    {
+      "id": "ET13_20261019_S03",
+      "url": "https://www.marvel.com/comics/guides/1432/black-knight",
+      "evidence_tier": "official_publisher_summary"
+    },
+    {
+      "id": "ET13_20261019_S04",
+      "url": "https://www.marvel.com/comics/issue/7236/avengers_1963_355",
+      "evidence_tier": "official_publisher_summary"
+    },
+    {
+      "id": "ET13_20261019_S05",
+      "url": "https://www.marvel.com/comics/issue/8814/eternals_1976_6",
+      "evidence_tier": "official_publisher_summary"
+    },
+    {
+      "id": "ET13_20261019_S06",
+      "url": "https://www.marvel.com/comics/issue/8800/eternals_1976_10",
+      "evidence_tier": "official_publisher_summary"
+    },
+    {
+      "id": "ET13_20261019_S07",
+      "url": "https://www.marvel.com/comics/issue/93004/the_eternals_1985_4",
+      "evidence_tier": "official_publisher_summary"
+    },
+    {
+      "id": "ET13_20261019_S08",
+      "url": "https://www.marvel.com/characters/quasar-wendell-vaughn",
+      "evidence_tier": "official_publisher_summary"
+    },
+    {
+      "id": "ET13_20261019_S09",
+      "url": "https://www.marvel.com/comics/issue/21564/eternals_2008_2",
+      "evidence_tier": "official_publisher_summary"
+    },
+    {
+      "id": "ET13_20261019_S10",
+      "url": "https://www.marvel.com/comics/issue/85562/ETERNALS_3",
+      "evidence_tier": "official_publisher_summary"
+    }
+  ],
+  "events": [
+    {
+      "id": "ET13_20261019_E01",
+      "a": "sprite",
+      "b": "gilgamesh",
+      "issue": "Early Eternals / Forgotten One era",
+      "observation": "Sprite defies Zuras and helps the exiled Forgotten One intervene against a Deviant device.",
+      "source_id": "ET13_20261019_S01"
+    },
+    {
+      "id": "ET13_20261019_E02",
+      "a": "zuras",
+      "b": "sprite",
+      "issue": "Early Eternals; Eternals (2006) aftermath",
+      "observation": "Zuras assigns Sprite mutual guardianship with Gilgamesh; later punishes Sprite after the reality rewrite.",
+      "source_id": "ET13_20261019_S01"
+    },
+    {
+      "id": "ET13_20261019_E03",
+      "a": "ikaris",
+      "b": "sprite",
+      "issue": "Eternals (2021) #1–3 era",
+      "observation": "Ikaris defends Sprite when Druig suspects Sprite of murdering Zuras.",
+      "source_id": "ET13_20261019_S01"
+    },
+    {
+      "id": "ET13_20261019_E04",
+      "a": "sprite",
+      "b": "sersi",
+      "issue": "Avengers (1963) #361 era",
+      "observation": "Sprite warns Sersi about mahd w'yry and argues for sparing her life.",
+      "source_id": "ET13_20261019_S01"
+    },
+    {
+      "id": "ET13_20261019_E05",
+      "a": "sprite",
+      "b": "makkari",
+      "issue": "Eternals (2006) #1–7 era",
+      "observation": "Sprite brings a partially awakened Makkari to the Dreaming Celestial to gather Eternals.",
+      "source_id": "ET13_20261019_S01"
+    },
+    {
+      "id": "ET13_20261019_E06",
+      "a": "valkin",
+      "b": "druig",
+      "issue": "Druig family history; issue pending",
+      "observation": "Valkin questions Druig's moral direction; Druig rejects his father's outlook.",
+      "source_id": "ET13_20261019_S02"
+    },
+    {
+      "id": "ET13_20261019_E07",
+      "a": "druig",
+      "b": "ikaris",
+      "issue": "Eternals (1976), Fourth Host era",
+      "observation": "Druig tortures Ikaris for the location of a Celestial weapon.",
+      "source_id": "ET13_20261019_S02"
+    },
+    {
+      "id": "ET13_20261019_E08",
+      "a": "ikaris",
+      "b": "druig",
+      "issue": "Eternals (1976), Fourth Host era",
+      "observation": "Ikaris disintegrates Druig to stop him using the weapon.",
+      "source_id": "ET13_20261019_S02"
+    },
+    {
+      "id": "ET13_20261019_E09",
+      "a": "druig",
+      "b": "thena",
+      "issue": "Eternals (2008) #1–9 era",
+      "observation": "Druig endangers Thena's child Joey to escape with Legba.",
+      "source_id": "ET13_20261019_S02"
+    },
+    {
+      "id": "ET13_20261019_E10",
+      "a": "druig",
+      "b": "ajak",
+      "issue": "Eternals (2008) #1–9 era",
+      "observation": "Druig offers assistance to Ajak and Zuras in exchange for noninterference in his country.",
+      "source_id": "ET13_20261019_S02"
+    },
+    {
+      "id": "ET13_20261019_E11",
+      "a": "thena",
+      "b": "kro_eternal",
+      "issue": "Eternals (1976) #6 and #10",
+      "observation": "Thena and Kro announce a truce; a later issue describes her leaving him.",
+      "source_id": "ET13_20261019_S05"
+    },
+    {
+      "id": "ET13_20261019_E12",
+      "a": "thena",
+      "b": "kro_eternal",
+      "issue": "Eternals family history; exact issue pending",
+      "observation": "Marvel identifies Thena and Kro as parents of children together.",
+      "source_id": "ET13_20261019_S01"
+    },
+    {
+      "id": "ET13_20261019_E13",
+      "a": "sersi",
+      "b": "dane_whitman",
+      "issue": "Avengers (1963) #355, #361",
+      "observation": "Sersi and Dane begin a relationship and later undergo the Gann Josin psychic bond.",
+      "source_id": "ET13_20261019_S04"
+    },
+    {
+      "id": "ET13_20261019_E14",
+      "a": "sersi",
+      "b": "ikaris",
+      "issue": "Eternals (2021) #1–5 era",
+      "observation": "Sersi treats Ikaris's wounds after his confrontation with Thanos.",
+      "source_id": "ET13_20261019_S01"
+    },
+    {
+      "id": "ET13_20261019_E15",
+      "a": "makkari",
+      "b": "wendell",
+      "issue": "Quasar (1989) era",
+      "observation": "Makkari lives with Wendell Vaughn and explores space with him.",
+      "source_id": "ET13_20261019_S08"
+    },
+    {
+      "id": "ET13_20261019_E16",
+      "a": "ikaris",
+      "b": "kro_eternal",
+      "issue": "The Eternals (1985) #4",
+      "observation": "Ikaris and Makkari fight Kro and his Deviant fleet.",
+      "source_id": "ET13_20261019_S07"
+    },
+    {
+      "id": "ET13_20261019_E17",
+      "a": "zuras",
+      "b": "gilgamesh",
+      "issue": "Early Eternals / Forgotten One era",
+      "observation": "Zuras assigns Gilgamesh reciprocal guardianship duties with Sprite.",
+      "source_id": "ET13_20261019_S01"
+    }
+  ],
+  "claims": [
+    {
+      "id": "ET13_20261019_C01",
+      "from_id": "sprite",
+      "to_id": "gilgamesh",
+      "dimension": "protection",
+      "assessment": "Sprite defies Zuras and helps the exiled Forgotten One intervene against a Deviant device.",
+      "interpretation": "Event-scoped interpretation; do not infer a permanent relationship.",
+      "event_ids": [
+        "ET13_20261019_E01"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C02",
+      "from_id": "zuras",
+      "to_id": "sprite",
+      "dimension": "authority",
+      "assessment": "Zuras assigns Sprite mutual guardianship with Gilgamesh; later punishes Sprite after the reality rewrite.",
+      "interpretation": "Formal authority and punitive discipline are distinct from affection.",
+      "event_ids": [
+        "ET13_20261019_E02"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C03",
+      "from_id": "ikaris",
+      "to_id": "sprite",
+      "dimension": "trust",
+      "assessment": "Ikaris defends Sprite when Druig suspects Sprite of murdering Zuras.",
+      "interpretation": "Defending a suspect does not establish the suspect's innocence.",
+      "event_ids": [
+        "ET13_20261019_E03"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C04",
+      "from_id": "sprite",
+      "to_id": "sersi",
+      "dimension": "protection",
+      "assessment": "Sprite warns Sersi about mahd w'yry and argues for sparing her life.",
+      "interpretation": "A specific intervention, not a permanent protective role.",
+      "event_ids": [
+        "ET13_20261019_E04"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C05",
+      "from_id": "sprite",
+      "to_id": "makkari",
+      "dimension": "influence",
+      "assessment": "Sprite brings a partially awakened Makkari to the Dreaming Celestial to gather Eternals.",
+      "interpretation": "Consent is not established.",
+      "event_ids": [
+        "ET13_20261019_E05"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C06",
+      "from_id": "valkin",
+      "to_id": "druig",
+      "dimension": "ideology",
+      "assessment": "Valkin questions Druig's moral direction; Druig rejects his father's outlook.",
+      "interpretation": "Disagreement does not measure affection.",
+      "event_ids": [
+        "ET13_20261019_E06"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C07",
+      "from_id": "druig",
+      "to_id": "ikaris",
+      "dimension": "coercion",
+      "assessment": "Druig tortures Ikaris for the location of a Celestial weapon.",
+      "interpretation": "Direct coercion, despite family ties.",
+      "event_ids": [
+        "ET13_20261019_E07"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C08",
+      "from_id": "ikaris",
+      "to_id": "druig",
+      "dimension": "conflict",
+      "assessment": "Ikaris disintegrates Druig to stop him using the weapon.",
+      "interpretation": "Event-scoped lethal conflict, not permanent death.",
+      "event_ids": [
+        "ET13_20261019_E08"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C09",
+      "from_id": "druig",
+      "to_id": "thena",
+      "dimension": "coercion",
+      "assessment": "Druig endangers Thena's child Joey to escape with Legba.",
+      "interpretation": "Threatening kin as leverage.",
+      "event_ids": [
+        "ET13_20261019_E09"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C10",
+      "from_id": "druig",
+      "to_id": "ajak",
+      "dimension": "cooperation",
+      "assessment": "Druig offers assistance to Ajak and Zuras in exchange for noninterference in his country.",
+      "interpretation": "Conditional alliance does not prove trust.",
+      "event_ids": [
+        "ET13_20261019_E10"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C11",
+      "from_id": "thena",
+      "to_id": "kro_eternal",
+      "dimension": "cooperation",
+      "assessment": "Thena and Kro announce a truce; a later issue describes her leaving him.",
+      "interpretation": "The truce is time-scoped.",
+      "event_ids": [
+        "ET13_20261019_E11"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C12",
+      "from_id": "thena",
+      "to_id": "kro_eternal",
+      "dimension": "family",
+      "assessment": "Marvel identifies Thena and Kro as parents of children together.",
+      "interpretation": "Parenthood does not establish current romantic status.",
+      "event_ids": [
+        "ET13_20261019_E12"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C13",
+      "from_id": "sersi",
+      "to_id": "dane_whitman",
+      "dimension": "romance",
+      "assessment": "Sersi and Dane begin a relationship and later undergo the Gann Josin psychic bond.",
+      "interpretation": "Romance and psychic linkage should be analyzed separately.",
+      "event_ids": [
+        "ET13_20261019_E13"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C14",
+      "from_id": "sersi",
+      "to_id": "ikaris",
+      "dimension": "protection",
+      "assessment": "Sersi treats Ikaris's wounds after his confrontation with Thanos.",
+      "interpretation": "Specific caregiving act only.",
+      "event_ids": [
+        "ET13_20261019_E14"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C15",
+      "from_id": "makkari",
+      "to_id": "wendell",
+      "dimension": "friendship",
+      "assessment": "Makkari lives with Wendell Vaughn and explores space with him.",
+      "interpretation": "Publisher identifies them as friends and roommates.",
+      "event_ids": [
+        "ET13_20261019_E15"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C16",
+      "from_id": "ikaris",
+      "to_id": "kro_eternal",
+      "dimension": "conflict",
+      "assessment": "Ikaris and Makkari fight Kro and his Deviant fleet.",
+      "interpretation": "A particular confrontation.",
+      "event_ids": [
+        "ET13_20261019_E16"
+      ]
+    },
+    {
+      "id": "ET13_20261019_C17",
+      "from_id": "zuras",
+      "to_id": "gilgamesh",
+      "dimension": "authority",
+      "assessment": "Zuras assigns Gilgamesh reciprocal guardianship duties with Sprite.",
+      "interpretation": "Institutional assignment does not prove affection.",
+      "event_ids": [
+        "ET13_20261019_E17"
+      ]
+    }
+  ],
+  "review": {
+    "original_panels_reviewed": false,
+    "exact_issue_precision": "Several era placements provisional",
+    "canonical_merge": false,
+    "source_note": "Condensed from ET13 research batch; full 21-event original remains in chat artifact.",
+    "existing_person_id_reused": "wendell"
+  }
+}
