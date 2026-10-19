@@ -1362,6 +1362,78 @@
       "name": "Lloyd Bloch",
       "alias": "Moonstone (original) / Nefarius",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "sprite",
+      "name": "Sprite",
+      "continuity": "Earth-616",
+      "alias": "Sprite"
+    },
+    {
+      "id": "gilgamesh",
+      "name": "Gilgamesh",
+      "continuity": "Earth-616",
+      "alias": "Gilgamesh"
+    },
+    {
+      "id": "zuras",
+      "name": "Zuras",
+      "continuity": "Earth-616",
+      "alias": "Zuras"
+    },
+    {
+      "id": "ikaris",
+      "name": "Ikaris",
+      "continuity": "Earth-616",
+      "alias": "Ikaris"
+    },
+    {
+      "id": "sersi",
+      "name": "Sersi",
+      "continuity": "Earth-616",
+      "alias": "Sersi"
+    },
+    {
+      "id": "makkari",
+      "name": "Makkari",
+      "continuity": "Earth-616",
+      "alias": "Makkari"
+    },
+    {
+      "id": "druig",
+      "name": "Druig",
+      "continuity": "Earth-616",
+      "alias": "Druig"
+    },
+    {
+      "id": "valkin",
+      "name": "Valkin",
+      "continuity": "Earth-616",
+      "alias": "Valkin"
+    },
+    {
+      "id": "thena",
+      "name": "Thena",
+      "continuity": "Earth-616",
+      "alias": "Thena"
+    },
+    {
+      "id": "ajak",
+      "name": "Ajak",
+      "continuity": "Earth-616",
+      "alias": "Ajak"
+    },
+    {
+      "id": "kro_eternal",
+      "name": "Kro",
+      "continuity": "Earth-616",
+      "alias": "Kro"
+    },
+    {
+      "id": "dane_whitman",
+      "name": "Dane Whitman",
+      "continuity": "Earth-616",
+      "alias": "Dane Whitman"
     }
   ],
   "dimensions": [
@@ -2567,6 +2639,86 @@
       "url": "https://www.marvel.com/comics/collection/37489/thunderbolts_classic_vol_1_trade_paperback",
       "evidence_tier": "publisher_secondary",
       "kind": "Marvel publisher secondary"
+    },
+    {
+      "id": "ET13_20261019_S01",
+      "url": "https://www.marvel.com/characters/sprite/in-comics",
+      "evidence_tier": "official_publisher_summary",
+      "title": "in-comics",
+      "kind": "Official Marvel publisher summary",
+      "level": "Secondary publisher evidence; no primary panels reviewed"
+    },
+    {
+      "id": "ET13_20261019_S02",
+      "url": "https://www.marvel.com/characters/druig/in-comics",
+      "evidence_tier": "official_publisher_summary",
+      "title": "in-comics",
+      "kind": "Official Marvel publisher summary",
+      "level": "Secondary publisher evidence; no primary panels reviewed"
+    },
+    {
+      "id": "ET13_20261019_S03",
+      "url": "https://www.marvel.com/comics/guides/1432/black-knight",
+      "evidence_tier": "official_publisher_summary",
+      "title": "black-knight",
+      "kind": "Official Marvel publisher summary",
+      "level": "Secondary publisher evidence; no primary panels reviewed"
+    },
+    {
+      "id": "ET13_20261019_S04",
+      "url": "https://www.marvel.com/comics/issue/7236/avengers_1963_355",
+      "evidence_tier": "official_publisher_summary",
+      "title": "avengers_1963_355",
+      "kind": "Official Marvel publisher summary",
+      "level": "Secondary publisher evidence; no primary panels reviewed"
+    },
+    {
+      "id": "ET13_20261019_S05",
+      "url": "https://www.marvel.com/comics/issue/8814/eternals_1976_6",
+      "evidence_tier": "official_publisher_summary",
+      "title": "eternals_1976_6",
+      "kind": "Official Marvel publisher summary",
+      "level": "Secondary publisher evidence; no primary panels reviewed"
+    },
+    {
+      "id": "ET13_20261019_S06",
+      "url": "https://www.marvel.com/comics/issue/8800/eternals_1976_10",
+      "evidence_tier": "official_publisher_summary",
+      "title": "eternals_1976_10",
+      "kind": "Official Marvel publisher summary",
+      "level": "Secondary publisher evidence; no primary panels reviewed"
+    },
+    {
+      "id": "ET13_20261019_S07",
+      "url": "https://www.marvel.com/comics/issue/93004/the_eternals_1985_4",
+      "evidence_tier": "official_publisher_summary",
+      "title": "the_eternals_1985_4",
+      "kind": "Official Marvel publisher summary",
+      "level": "Secondary publisher evidence; no primary panels reviewed"
+    },
+    {
+      "id": "ET13_20261019_S08",
+      "url": "https://www.marvel.com/characters/quasar-wendell-vaughn",
+      "evidence_tier": "official_publisher_summary",
+      "title": "quasar-wendell-vaughn",
+      "kind": "Official Marvel publisher summary",
+      "level": "Secondary publisher evidence; no primary panels reviewed"
+    },
+    {
+      "id": "ET13_20261019_S09",
+      "url": "https://www.marvel.com/comics/issue/21564/eternals_2008_2",
+      "evidence_tier": "official_publisher_summary",
+      "title": "eternals_2008_2",
+      "kind": "Official Marvel publisher summary",
+      "level": "Secondary publisher evidence; no primary panels reviewed"
+    },
+    {
+      "id": "ET13_20261019_S10",
+      "url": "https://www.marvel.com/comics/issue/85562/ETERNALS_3",
+      "evidence_tier": "official_publisher_summary",
+      "title": "ETERNALS_3",
+      "kind": "Official Marvel publisher summary",
+      "level": "Secondary publisher evidence; no primary panels reviewed"
     }
   ],
   "events": [
@@ -6636,6 +6788,237 @@
       "b": "helmut_zemo",
       "issue": "Thunderbolts (2016) #12, Secret Empire lead-in",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "ET13_20261019_E01",
+      "a": "sprite",
+      "b": "gilgamesh",
+      "issue": "Early Eternals / Forgotten One era",
+      "observation": "Sprite defies Zuras and helps the exiled Forgotten One intervene against a Deviant device.",
+      "source_id": "ET13_20261019_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E02",
+      "a": "zuras",
+      "b": "sprite",
+      "issue": "Early Eternals; Eternals (2006) aftermath",
+      "observation": "Zuras assigns Sprite mutual guardianship with Gilgamesh; later punishes Sprite after the reality rewrite.",
+      "source_id": "ET13_20261019_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E03",
+      "a": "ikaris",
+      "b": "sprite",
+      "issue": "Eternals (2021) #1–3 era",
+      "observation": "Ikaris defends Sprite when Druig suspects Sprite of murdering Zuras.",
+      "source_id": "ET13_20261019_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E04",
+      "a": "sprite",
+      "b": "sersi",
+      "issue": "Avengers (1963) #361 era",
+      "observation": "Sprite warns Sersi about mahd w'yry and argues for sparing her life.",
+      "source_id": "ET13_20261019_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E05",
+      "a": "sprite",
+      "b": "makkari",
+      "issue": "Eternals (2006) #1–7 era",
+      "observation": "Sprite brings a partially awakened Makkari to the Dreaming Celestial to gather Eternals.",
+      "source_id": "ET13_20261019_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E06",
+      "a": "valkin",
+      "b": "druig",
+      "issue": "Druig family history; issue pending",
+      "observation": "Valkin questions Druig's moral direction; Druig rejects his father's outlook.",
+      "source_id": "ET13_20261019_S02",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E07",
+      "a": "druig",
+      "b": "ikaris",
+      "issue": "Eternals (1976), Fourth Host era",
+      "observation": "Druig tortures Ikaris for the location of a Celestial weapon.",
+      "source_id": "ET13_20261019_S02",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E08",
+      "a": "ikaris",
+      "b": "druig",
+      "issue": "Eternals (1976), Fourth Host era",
+      "observation": "Ikaris disintegrates Druig to stop him using the weapon.",
+      "source_id": "ET13_20261019_S02",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E09",
+      "a": "druig",
+      "b": "thena",
+      "issue": "Eternals (2008) #1–9 era",
+      "observation": "Druig endangers Thena's child Joey to escape with Legba.",
+      "source_id": "ET13_20261019_S02",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E10",
+      "a": "druig",
+      "b": "ajak",
+      "issue": "Eternals (2008) #1–9 era",
+      "observation": "Druig offers assistance to Ajak and Zuras in exchange for noninterference in his country.",
+      "source_id": "ET13_20261019_S02",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E11",
+      "a": "thena",
+      "b": "kro_eternal",
+      "issue": "Eternals (1976) #6 and #10",
+      "observation": "Thena and Kro announce a truce; a later issue describes her leaving him.",
+      "source_id": "ET13_20261019_S05",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E12",
+      "a": "thena",
+      "b": "kro_eternal",
+      "issue": "Eternals family history; exact issue pending",
+      "observation": "Marvel identifies Thena and Kro as parents of children together.",
+      "source_id": "ET13_20261019_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E13",
+      "a": "sersi",
+      "b": "dane_whitman",
+      "issue": "Avengers (1963) #355, #361",
+      "observation": "Sersi and Dane begin a relationship and later undergo the Gann Josin psychic bond.",
+      "source_id": "ET13_20261019_S04",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E14",
+      "a": "sersi",
+      "b": "ikaris",
+      "issue": "Eternals (2021) #1–5 era",
+      "observation": "Sersi treats Ikaris's wounds after his confrontation with Thanos.",
+      "source_id": "ET13_20261019_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E15",
+      "a": "makkari",
+      "b": "wendell",
+      "issue": "Quasar (1989) era",
+      "observation": "Makkari lives with Wendell Vaughn and explores space with him.",
+      "source_id": "ET13_20261019_S08",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E16",
+      "a": "ikaris",
+      "b": "kro_eternal",
+      "issue": "The Eternals (1985) #4",
+      "observation": "Ikaris and Makkari fight Kro and his Deviant fleet.",
+      "source_id": "ET13_20261019_S07",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E17",
+      "a": "zuras",
+      "b": "gilgamesh",
+      "issue": "Early Eternals / Forgotten One era",
+      "observation": "Zuras assigns Gilgamesh reciprocal guardianship duties with Sprite.",
+      "source_id": "ET13_20261019_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E18",
+      "a": "ikaris",
+      "b": "sprite",
+      "issue": "Eternals (2021) #1–3 era",
+      "observation": "Ikaris releases the rebooted Sprite from imprisonment on Zuras's order; they later investigate Zuras's murder together.",
+      "source_id": "ET13_20261019_S02",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E19",
+      "a": "thena",
+      "b": "kro_eternal",
+      "issue": "Eternals (1976) #10",
+      "observation": "Publisher synopsis says Thena abandons Kro and takes two captives; motives require panel review.",
+      "source_id": "ET13_20261019_S06",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E20",
+      "a": "sersi",
+      "b": "dane_whitman",
+      "issue": "Avengers (1963) #361",
+      "observation": "Sersi and Dane undergo the Gann Josin psychic bond; Dane experiences its imposition as exploitative.",
+      "source_id": "ET13_20261019_S03",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "ET13_20261019_E21",
+      "a": "zuras",
+      "b": "sprite",
+      "issue": "Eternals (2006) aftermath",
+      "observation": "After Sprite manipulates the Uni-Mind and Dreaming Celestial to rewrite Eternal lives, Zuras imposes mortal death as punishment.",
+      "source_id": "ET13_20261019_S01",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
+      "evidence_tier": "publisher_secondary"
     }
   ],
   "claims": [
@@ -13608,6 +13991,312 @@
       "summary": "MACH-X resists Zemo’s effort to reclaim the Thunderbolts, unlike Atlas, Fixer and Moonstone, who return to Zemo.",
       "continuity": "Earth-616",
       "qualification": "Publisher secondary; original panels not independently verified"
+    },
+    {
+      "id": "ET13_20261019_C01",
+      "from_id": "sprite",
+      "to_id": "gilgamesh",
+      "dimension": "protection",
+      "assessment": "Sprite defies Zuras and helps the exiled Forgotten One intervene against a Deviant device.",
+      "interpretation": "Event-scoped interpretation; do not infer a permanent relationship.",
+      "event_ids": [
+        "ET13_20261019_E01"
+      ],
+      "pair_id": "gilgamesh-sprite",
+      "scope": "Early Eternals / Forgotten One era",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Sprite defies Zuras and helps the exiled Forgotten One intervene against a Deviant device.",
+      "qualification": "Event-scoped interpretation; do not infer a permanent relationship."
+    },
+    {
+      "id": "ET13_20261019_C02",
+      "from_id": "zuras",
+      "to_id": "sprite",
+      "dimension": "authority",
+      "assessment": "Zuras assigns Sprite mutual guardianship with Gilgamesh; later punishes Sprite after the reality rewrite.",
+      "interpretation": "Formal authority and punitive discipline are distinct from affection.",
+      "event_ids": [
+        "ET13_20261019_E02"
+      ],
+      "pair_id": "sprite-zuras",
+      "scope": "Early Eternals; Eternals (2006) aftermath",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Zuras assigns Sprite mutual guardianship with Gilgamesh; later punishes Sprite after the reality rewrite.",
+      "qualification": "Formal authority and punitive discipline are distinct from affection."
+    },
+    {
+      "id": "ET13_20261019_C03",
+      "from_id": "ikaris",
+      "to_id": "sprite",
+      "dimension": "trust",
+      "assessment": "Ikaris defends Sprite when Druig suspects Sprite of murdering Zuras.",
+      "interpretation": "Defending a suspect does not establish the suspect's innocence.",
+      "event_ids": [
+        "ET13_20261019_E03"
+      ],
+      "pair_id": "ikaris-sprite",
+      "scope": "Eternals (2021) #1–3 era",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Ikaris defends Sprite when Druig suspects Sprite of murdering Zuras.",
+      "qualification": "Defending a suspect does not establish the suspect's innocence."
+    },
+    {
+      "id": "ET13_20261019_C04",
+      "from_id": "sprite",
+      "to_id": "sersi",
+      "dimension": "protection",
+      "assessment": "Sprite warns Sersi about mahd w'yry and argues for sparing her life.",
+      "interpretation": "A specific intervention, not a permanent protective role.",
+      "event_ids": [
+        "ET13_20261019_E04"
+      ],
+      "pair_id": "sersi-sprite",
+      "scope": "Avengers (1963) #361 era",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Sprite warns Sersi about mahd w'yry and argues for sparing her life.",
+      "qualification": "A specific intervention, not a permanent protective role."
+    },
+    {
+      "id": "ET13_20261019_C05",
+      "from_id": "sprite",
+      "to_id": "makkari",
+      "dimension": "influence",
+      "assessment": "Sprite brings a partially awakened Makkari to the Dreaming Celestial to gather Eternals.",
+      "interpretation": "Consent is not established.",
+      "event_ids": [
+        "ET13_20261019_E05"
+      ],
+      "pair_id": "makkari-sprite",
+      "scope": "Eternals (2006) #1–7 era",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Sprite brings a partially awakened Makkari to the Dreaming Celestial to gather Eternals.",
+      "qualification": "Consent is not established."
+    },
+    {
+      "id": "ET13_20261019_C06",
+      "from_id": "valkin",
+      "to_id": "druig",
+      "dimension": "ideology",
+      "assessment": "Valkin questions Druig's moral direction; Druig rejects his father's outlook.",
+      "interpretation": "Disagreement does not measure affection.",
+      "event_ids": [
+        "ET13_20261019_E06"
+      ],
+      "pair_id": "druig-valkin",
+      "scope": "Druig family history; issue pending",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Valkin questions Druig's moral direction; Druig rejects his father's outlook.",
+      "qualification": "Disagreement does not measure affection."
+    },
+    {
+      "id": "ET13_20261019_C07",
+      "from_id": "druig",
+      "to_id": "ikaris",
+      "dimension": "coercion",
+      "assessment": "Druig tortures Ikaris for the location of a Celestial weapon.",
+      "interpretation": "Direct coercion, despite family ties.",
+      "event_ids": [
+        "ET13_20261019_E07"
+      ],
+      "pair_id": "druig-ikaris",
+      "scope": "Eternals (1976), Fourth Host era",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Druig tortures Ikaris for the location of a Celestial weapon.",
+      "qualification": "Direct coercion, despite family ties."
+    },
+    {
+      "id": "ET13_20261019_C08",
+      "from_id": "ikaris",
+      "to_id": "druig",
+      "dimension": "conflict",
+      "assessment": "Ikaris disintegrates Druig to stop him using the weapon.",
+      "interpretation": "Event-scoped lethal conflict, not permanent death.",
+      "event_ids": [
+        "ET13_20261019_E08"
+      ],
+      "pair_id": "druig-ikaris",
+      "scope": "Eternals (1976), Fourth Host era",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Ikaris disintegrates Druig to stop him using the weapon.",
+      "qualification": "Event-scoped lethal conflict, not permanent death."
+    },
+    {
+      "id": "ET13_20261019_C09",
+      "from_id": "druig",
+      "to_id": "thena",
+      "dimension": "coercion",
+      "assessment": "Druig endangers Thena's child Joey to escape with Legba.",
+      "interpretation": "Threatening kin as leverage.",
+      "event_ids": [
+        "ET13_20261019_E09"
+      ],
+      "pair_id": "druig-thena",
+      "scope": "Eternals (2008) #1–9 era",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Druig endangers Thena's child Joey to escape with Legba.",
+      "qualification": "Threatening kin as leverage."
+    },
+    {
+      "id": "ET13_20261019_C10",
+      "from_id": "druig",
+      "to_id": "ajak",
+      "dimension": "cooperation",
+      "assessment": "Druig offers assistance to Ajak and Zuras in exchange for noninterference in his country.",
+      "interpretation": "Conditional alliance does not prove trust.",
+      "event_ids": [
+        "ET13_20261019_E10"
+      ],
+      "pair_id": "ajak-druig",
+      "scope": "Eternals (2008) #1–9 era",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Druig offers assistance to Ajak and Zuras in exchange for noninterference in his country.",
+      "qualification": "Conditional alliance does not prove trust."
+    },
+    {
+      "id": "ET13_20261019_C11",
+      "from_id": "thena",
+      "to_id": "kro_eternal",
+      "dimension": "cooperation",
+      "assessment": "Thena and Kro announce a truce; a later issue describes her leaving him.",
+      "interpretation": "The truce is time-scoped.",
+      "event_ids": [
+        "ET13_20261019_E11"
+      ],
+      "pair_id": "kro_eternal-thena",
+      "scope": "Eternals (1976) #6 and #10",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Thena and Kro announce a truce; a later issue describes her leaving him.",
+      "qualification": "The truce is time-scoped."
+    },
+    {
+      "id": "ET13_20261019_C12",
+      "from_id": "thena",
+      "to_id": "kro_eternal",
+      "dimension": "family",
+      "assessment": "Marvel identifies Thena and Kro as parents of children together.",
+      "interpretation": "Parenthood does not establish current romantic status.",
+      "event_ids": [
+        "ET13_20261019_E12"
+      ],
+      "pair_id": "kro_eternal-thena",
+      "scope": "Eternals family history; exact issue pending",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Marvel identifies Thena and Kro as parents of children together.",
+      "qualification": "Parenthood does not establish current romantic status."
+    },
+    {
+      "id": "ET13_20261019_C13",
+      "from_id": "sersi",
+      "to_id": "dane_whitman",
+      "dimension": "romance",
+      "assessment": "Sersi and Dane begin a relationship and later undergo the Gann Josin psychic bond.",
+      "interpretation": "Romance and psychic linkage should be analyzed separately.",
+      "event_ids": [
+        "ET13_20261019_E13"
+      ],
+      "pair_id": "dane_whitman-sersi",
+      "scope": "Avengers (1963) #355, #361",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Sersi and Dane begin a relationship and later undergo the Gann Josin psychic bond.",
+      "qualification": "Romance and psychic linkage should be analyzed separately."
+    },
+    {
+      "id": "ET13_20261019_C14",
+      "from_id": "sersi",
+      "to_id": "ikaris",
+      "dimension": "protection",
+      "assessment": "Sersi treats Ikaris's wounds after his confrontation with Thanos.",
+      "interpretation": "Specific caregiving act only.",
+      "event_ids": [
+        "ET13_20261019_E14"
+      ],
+      "pair_id": "ikaris-sersi",
+      "scope": "Eternals (2021) #1–5 era",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Sersi treats Ikaris's wounds after his confrontation with Thanos.",
+      "qualification": "Specific caregiving act only."
+    },
+    {
+      "id": "ET13_20261019_C15",
+      "from_id": "makkari",
+      "to_id": "wendell",
+      "dimension": "friendship",
+      "assessment": "Makkari lives with Wendell Vaughn and explores space with him.",
+      "interpretation": "Publisher identifies them as friends and roommates.",
+      "event_ids": [
+        "ET13_20261019_E15"
+      ],
+      "pair_id": "makkari-wendell",
+      "scope": "Quasar (1989) era",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Makkari lives with Wendell Vaughn and explores space with him.",
+      "qualification": "Publisher identifies them as friends and roommates."
+    },
+    {
+      "id": "ET13_20261019_C16",
+      "from_id": "ikaris",
+      "to_id": "kro_eternal",
+      "dimension": "conflict",
+      "assessment": "Ikaris and Makkari fight Kro and his Deviant fleet.",
+      "interpretation": "A particular confrontation.",
+      "event_ids": [
+        "ET13_20261019_E16"
+      ],
+      "pair_id": "ikaris-kro_eternal",
+      "scope": "The Eternals (1985) #4",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Ikaris and Makkari fight Kro and his Deviant fleet.",
+      "qualification": "A particular confrontation."
+    },
+    {
+      "id": "ET13_20261019_C17",
+      "from_id": "zuras",
+      "to_id": "gilgamesh",
+      "dimension": "authority",
+      "assessment": "Zuras assigns Gilgamesh reciprocal guardianship duties with Sprite.",
+      "interpretation": "Institutional assignment does not prove affection.",
+      "event_ids": [
+        "ET13_20261019_E17"
+      ],
+      "pair_id": "gilgamesh-zuras",
+      "scope": "Early Eternals / Forgotten One era",
+      "continuity": "Earth-616",
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; primary issue panels not reviewed",
+      "summary": "Zuras assigns Gilgamesh reciprocal guardianship duties with Sprite.",
+      "qualification": "Institutional assignment does not prove affection."
     }
   ],
   "research_backlog": [
