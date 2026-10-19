@@ -88,192 +88,393 @@
       "evidence_tier": "publisher_secondary; verify applicability per claim"
     }
   ],
-  "events": [],
+  "events": [
+    {
+      "id": "CA10_20261019_E01",
+      "a": "john_walker",
+      "b": "lemar_hoskins",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: john_walker → lemar_hoskins, proposed friendship relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E02",
+      "a": "hector_lennox",
+      "b": "john_walker",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: hector_lennox → john_walker, proposed betrayal relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E03",
+      "a": "curtiss_jackson",
+      "b": "john_walker",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: curtiss_jackson → john_walker, proposed dependence relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E04",
+      "a": "valerie_cooper",
+      "b": "john_walker",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: valerie_cooper → john_walker, proposed authority relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E05",
+      "a": "john_walker",
+      "b": "steve",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: john_walker → steve, proposed conflict relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S1",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E06",
+      "a": "john_walker",
+      "b": "clint",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: john_walker → clint, proposed conflict relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E07",
+      "a": "sam_wilson",
+      "b": "joaquin_torres",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: sam_wilson → joaquin_torres, proposed mentorship relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E08",
+      "a": "joaquin_torres",
+      "b": "sam_wilson",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: joaquin_torres → sam_wilson, proposed protection relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E09",
+      "a": "sam_wilson",
+      "b": "misty_knight",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: sam_wilson → misty_knight, proposed romance relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S2",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E10",
+      "a": "sam_wilson",
+      "b": "rayshaun_lucas",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: sam_wilson → rayshaun_lucas, proposed mentorship relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E11",
+      "a": "steve",
+      "b": "sam_wilson",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: steve → sam_wilson, proposed trust relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E12",
+      "a": "joaquin_torres",
+      "b": "rayshaun_lucas",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: joaquin_torres → rayshaun_lucas, proposed cooperation relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E13",
+      "a": "isaiah_bradley",
+      "b": "eli_bradley",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: isaiah_bradley → eli_bradley, proposed protection relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E14",
+      "a": "josiah_x",
+      "b": "isaiah_bradley",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: josiah_x → isaiah_bradley, proposed influence relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S3",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E15",
+      "a": "faith_bradley",
+      "b": "isaiah_bradley",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: faith_bradley → isaiah_bradley, proposed family relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S4",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E16",
+      "a": "sam_wilson",
+      "b": "bucky",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: sam_wilson → bucky, proposed cooperation relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S4",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E17",
+      "a": "john_walker",
+      "b": "steve",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: john_walker → steve, proposed respect relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S4",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    },
+    {
+      "id": "CA10_20261019_E18",
+      "a": "john_walker",
+      "b": "clint",
+      "issue": "UNVERIFIED — exact Earth-616 issue or era pending",
+      "observation": "Research lead: john_walker → clint, proposed cooperation relationship. Exact issue and concrete story observation not recovered from earlier research; verification required.",
+      "source_id": "CA10_S4",
+      "review_status": "unverified research lead; source not confirmed for this specific pair"
+    }
+  ],
   "claims": [
     {
       "id": "CA10_C1",
       "from_id": "john_walker",
       "to_id": "lemar_hoskins",
       "dimension": "friendship",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed friendship between john_walker and lemar_hoskins; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E01"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C2",
       "from_id": "hector_lennox",
       "to_id": "john_walker",
       "dimension": "betrayal",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed betrayal between hector_lennox and john_walker; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E02"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C3",
       "from_id": "curtiss_jackson",
       "to_id": "john_walker",
       "dimension": "dependence",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed dependence between curtiss_jackson and john_walker; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E03"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C4",
       "from_id": "valerie_cooper",
       "to_id": "john_walker",
       "dimension": "authority",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed authority between valerie_cooper and john_walker; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E04"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C5",
       "from_id": "john_walker",
       "to_id": "steve",
       "dimension": "conflict",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed conflict between john_walker and steve; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E05"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C6",
       "from_id": "john_walker",
       "to_id": "clint",
       "dimension": "conflict",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed conflict between john_walker and clint; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E06"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C7",
       "from_id": "sam_wilson",
       "to_id": "joaquin_torres",
       "dimension": "mentorship",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed mentorship between sam_wilson and joaquin_torres; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E07"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C8",
       "from_id": "joaquin_torres",
       "to_id": "sam_wilson",
       "dimension": "protection",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed protection between joaquin_torres and sam_wilson; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E08"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C9",
       "from_id": "sam_wilson",
       "to_id": "misty_knight",
       "dimension": "romance",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed romance between sam_wilson and misty_knight; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E09"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C10",
       "from_id": "sam_wilson",
       "to_id": "rayshaun_lucas",
       "dimension": "mentorship",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed mentorship between sam_wilson and rayshaun_lucas; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E10"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C11",
       "from_id": "steve",
       "to_id": "sam_wilson",
       "dimension": "trust",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed trust between steve and sam_wilson; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E11"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C12",
       "from_id": "joaquin_torres",
       "to_id": "rayshaun_lucas",
       "dimension": "cooperation",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed cooperation between joaquin_torres and rayshaun_lucas; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E12"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C13",
       "from_id": "isaiah_bradley",
       "to_id": "eli_bradley",
       "dimension": "protection",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed protection between isaiah_bradley and eli_bradley; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E13"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C14",
       "from_id": "josiah_x",
       "to_id": "isaiah_bradley",
       "dimension": "influence",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed influence between josiah_x and isaiah_bradley; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E14"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C15",
       "from_id": "faith_bradley",
       "to_id": "isaiah_bradley",
       "dimension": "family",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed family between faith_bradley and isaiah_bradley; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E15"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C16",
       "from_id": "sam_wilson",
       "to_id": "bucky",
       "dimension": "cooperation",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed cooperation between sam_wilson and bucky; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E16"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C17",
       "from_id": "john_walker",
       "to_id": "steve",
       "dimension": "respect",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed respect between john_walker and steve; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E17"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     },
     {
       "id": "CA10_C18",
       "from_id": "john_walker",
       "to_id": "clint",
       "dimension": "cooperation",
-      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
-      "interpretation": "Not independently revalidated in this condensed preservation file.",
-      "event_ids": [],
-      "verification_status": "requires transfer of original detailed event evidence"
+      "assessment": "Proposed cooperation between john_walker and clint; underlying narrative evidence pending recovery.",
+      "interpretation": "Do not publish as established relationship without issue-scoped verification.",
+      "event_ids": [
+        "CA10_20261019_E18"
+      ],
+      "verification_status": "UNVERIFIED — source-to-claim match not confirmed"
     }
   ],
   "review": {
     "full_original_batch": "Earlier messages in this conversation",
     "canonical_merge": false,
-    "warning": "Not a substitute for the full event-rich research payload."
+    "warning": "Not a substitute for the full event-rich research payload.",
+    "original_issue_events_recovered": false,
+    "note": "Added explicit event stubs for all claims to make missing evidence visible and prevent accidental promotion as verified."
   }
 }
