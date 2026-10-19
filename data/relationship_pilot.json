@@ -600,6 +600,144 @@
       "name": "Balder",
       "alias": "Balder",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "cyclops",
+      "name": "Scott Summers",
+      "alias": "Cyclops",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jean",
+      "name": "Jean Grey",
+      "alias": "Phoenix",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "emma",
+      "name": "Emma Frost",
+      "alias": "White Queen",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "logan",
+      "name": "James Howlett",
+      "alias": "Wolverine",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "madelyne",
+      "name": "Madelyne Pryor",
+      "alias": "Goblin Queen",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "cable",
+      "name": "Nathan Christopher Summers",
+      "alias": "Cable",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "havok",
+      "name": "Alex Summers",
+      "alias": "Havok",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "polaris",
+      "name": "Lorna Dane",
+      "alias": "Polaris",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "corsair",
+      "name": "Christopher Summers",
+      "alias": "Corsair",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "vulcan",
+      "name": "Gabriel Summers",
+      "alias": "Vulcan",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "sinister",
+      "name": "Nathaniel Essex",
+      "alias": "Mister Sinister",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "storm",
+      "name": "Ororo Munroe",
+      "alias": "Storm",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "hank_pym",
+      "name": "Henry Pym",
+      "alias": "Ant-Man",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "janet",
+      "name": "Janet Van Dyne",
+      "alias": "Wasp",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ultron",
+      "name": "Ultron",
+      "alias": "Ultron",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jocasta",
+      "name": "Jocasta",
+      "alias": "Jocasta",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "simon",
+      "name": "Simon Williams",
+      "alias": "Wonder Man",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "eric_williams",
+      "name": "Eric Williams",
+      "alias": "Grim Reaper",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "scott_lang",
+      "name": "Scott Lang",
+      "alias": "Ant-Man",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "cassie",
+      "name": "Cassandra Lang",
+      "alias": "Stature",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "nadia",
+      "name": "Nadia Van Dyne",
+      "alias": "Wasp",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "beast",
+      "name": "Henry McCoy",
+      "alias": "Beast",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "whirlwind",
+      "name": "David Cannon",
+      "alias": "Whirlwind",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -1244,6 +1382,174 @@
       "title": "Skurge reading guide",
       "url": "https://www.marvel.com/comics/discover/502/skurge-the-executioner",
       "kind": "Official Marvel publisher history",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MUT7_S01",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/cyclops-scott-summers",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MUT7_S02",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/emma-frost/",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MUT7_S03",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/phoenix-jean-grey",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MUT7_S04",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/havok",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MUT7_S05",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/mister-sinister",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MUT7_S06",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/kitty-pryde",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MUT7_S07",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/marvel-girl-rachel-summers",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MUT7_S08",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/cable-nathan-summers/in-comics",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MUT7_S09",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/issue/13742/uncanny_x-men_1981_201",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MUT7_S10",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/guides/1870/jean_grey_and_emma_frosts_comic_history",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MUT7_S11",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/issue/21648/kitty_pryde_and_wolverine_1984_4",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "MUT7_S12",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/issue/50992/adventures_of_cyclops_phoenix_1994_1",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "AVC7_S01",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/teams-and-groups/avengers/in-comics",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "AVC7_S02",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/issue/32680/avengers_origins_ant-man_the_wasp_2011_1",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "AVC7_S03",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/guides/188/ultron_the_living_automaton",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "AVC7_S04",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/guides/2500/every-major_a-i_in_the_marvel_universe",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "AVC7_S05",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/wonder-man-simon-williams/in-comics",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "AVC7_S06",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/issue/11956/",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "AVC7_S07",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/guides/2359/scott_and_cassie_lang",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "AVC7_S08",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/issue/70576/the_unstoppable_wasp_8",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "AVC7_S09",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/amp/articles/comics/new-series-starring-janet-and-nadia-van-dyne-celebrates-the-60th-anniversary-of-wasp",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "AVC7_S10",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/amp/articles/comics/avengers-inc-victor-shade-explained",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "AVC7_S11",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/guides/2525/wonder-man",
+      "kind": "Official Marvel publisher source",
+      "level": "publisher_secondary"
+    },
+    {
+      "id": "AVC7_S12",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/guides/2388/women_of_marvel_wasp",
+      "kind": "Official Marvel publisher source",
       "level": "publisher_secondary"
     }
   ],
@@ -3353,6 +3659,435 @@
       "evidence_tier": "publisher_secondary",
       "observation_type": "publisher_summary",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "MUT7_E01",
+      "a": "cyclops",
+      "b": "jean",
+      "issue": "X-Men #30 (1994)",
+      "publication_year": 1994,
+      "observation": "Scott and Jean married.",
+      "source_id": "MUT7_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E02",
+      "a": "cyclops",
+      "b": "emma",
+      "issue": "New X-Men #139 (2003)",
+      "publication_year": 2003,
+      "observation": "Scott and Emma conducted a psychic affair during his marriage.",
+      "source_id": "MUT7_S02",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E03",
+      "a": "cyclops",
+      "b": "madelyne",
+      "issue": "X-Factor #1 (1986)",
+      "publication_year": 1986,
+      "observation": "Scott left Madelyne and infant Nathan after Jean returned.",
+      "source_id": "MUT7_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E04",
+      "a": "cyclops",
+      "b": "cable",
+      "issue": "X-Factor #68 (1991)",
+      "publication_year": 1991,
+      "observation": "Scott allowed Clan Askani to take infected Nathan into the future to save him.",
+      "source_id": "MUT7_S08",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E05",
+      "a": "storm",
+      "b": "cyclops",
+      "issue": "Uncanny X-Men #201 (1986)",
+      "publication_year": 1986,
+      "observation": "Storm defeated Scott in a contest for leadership.",
+      "source_id": "MUT7_S09",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E06",
+      "a": "havok",
+      "b": "cyclops",
+      "issue": "Summers childhood / early X-Men",
+      "publication_year": null,
+      "observation": "Brothers survived family plane disaster; Alex struggled in Scott's shadow.",
+      "source_id": "MUT7_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E07",
+      "a": "jean",
+      "b": "emma",
+      "issue": "New X-Men #139 (2003)",
+      "publication_year": 2003,
+      "observation": "Jean confronted Emma psychically over the affair.",
+      "source_id": "MUT7_S10",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E08",
+      "a": "jean",
+      "b": "storm",
+      "issue": "X-Men after 1975",
+      "publication_year": 1975,
+      "observation": "Jean and Ororo became close friends.",
+      "source_id": "MUT7_S03",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E09",
+      "a": "jean",
+      "b": "cable",
+      "issue": "Adventures of Cyclops & Phoenix #1-4 (1994)",
+      "publication_year": 1994,
+      "observation": "Jean helped raise Nathan in the future as Redd.",
+      "source_id": "MUT7_S12",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E10",
+      "a": "havok",
+      "b": "polaris",
+      "issue": "X-Men / Starjammers eras",
+      "publication_year": null,
+      "observation": "Alex and Lorna rekindled an intermittent romance.",
+      "source_id": "MUT7_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E11",
+      "a": "havok",
+      "b": "vulcan",
+      "issue": "Uncanny X-Men #475-486 (2006-07)",
+      "publication_year": 2006,
+      "observation": "Alex resisted Gabriel's bid for Shi'ar power.",
+      "source_id": "MUT7_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E12",
+      "a": "vulcan",
+      "b": "corsair",
+      "issue": "Uncanny X-Men #475-486 (2006-07)",
+      "publication_year": 2006,
+      "observation": "Gabriel killed his father Christopher.",
+      "source_id": "MUT7_S07",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E13",
+      "a": "sinister",
+      "b": "madelyne",
+      "issue": "Inferno (1988-89)",
+      "publication_year": 1988,
+      "observation": "Sinister created and programmed Madelyne to love Scott.",
+      "source_id": "MUT7_S05",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E14",
+      "a": "emma",
+      "b": "kitty",
+      "issue": "Astonishing X-Men (2004)",
+      "publication_year": 2004,
+      "observation": "Emma recruited Kitty as a safeguard against Emma herself.",
+      "source_id": "MUT7_S06",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E15",
+      "a": "logan",
+      "b": "kitty",
+      "issue": "Kitty Pryde and Wolverine #4 (1985)",
+      "publication_year": 1985,
+      "observation": "Logan trained Kitty to resist Ogun's domination.",
+      "source_id": "MUT7_S11",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "MUT7_E16",
+      "a": "jean",
+      "b": "emma",
+      "issue": "New X-Men #139-141 (2003)",
+      "publication_year": 2003,
+      "observation": "Jean reassembled Emma's shattered diamond body.",
+      "source_id": "MUT7_S02",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E01",
+      "a": "hank_pym",
+      "b": "janet",
+      "issue": "Avengers Origins: Ant-Man & Wasp #1 (2011)",
+      "publication_year": 2011,
+      "observation": "Hank and Janet's courtship was retold.",
+      "source_id": "AVC7_S02",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E02",
+      "a": "hank_pym",
+      "b": "janet",
+      "issue": "Avengers #213 (1981)",
+      "publication_year": 1981,
+      "observation": "Hank struck Janet and pressured her to support a staged rescue.",
+      "source_id": "AVC7_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E03",
+      "a": "ultron",
+      "b": "hank_pym",
+      "issue": "Avengers #54-55 (1968)",
+      "publication_year": 1968,
+      "observation": "Ultron turned against Hank and erased his memory.",
+      "source_id": "AVC7_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E04",
+      "a": "ultron",
+      "b": "vision",
+      "issue": "Avengers #57 (1968)",
+      "publication_year": 1968,
+      "observation": "Ultron created Vision using Simon Williams's brain patterns.",
+      "source_id": "AVC7_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E05",
+      "a": "ultron",
+      "b": "jocasta",
+      "issue": "Avengers #161-162 (1977)",
+      "publication_year": 1977,
+      "observation": "Ultron created Jocasta as his intended bride; she rebelled.",
+      "source_id": "AVC7_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E06",
+      "a": "eric_williams",
+      "b": "simon",
+      "issue": "Avengers #151 (1976)",
+      "publication_year": 1976,
+      "observation": "Eric arranged Simon's revival for his own purposes.",
+      "source_id": "AVC7_S11",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E07",
+      "a": "eric_williams",
+      "b": "vision",
+      "issue": "Vision and the Scarlet Witch #3 (1983)",
+      "publication_year": 1983,
+      "observation": "Eric attacked Vision and Simon over brotherhood.",
+      "source_id": "AVC7_S06",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E08",
+      "a": "simon",
+      "b": "vision",
+      "issue": "Avengers era (1970s-1980s)",
+      "publication_year": 1970,
+      "observation": "Simon and Vision came to regard each other as brothers.",
+      "source_id": "AVC7_S05",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E09",
+      "a": "simon",
+      "b": "wanda",
+      "issue": "West Coast Avengers (1989)",
+      "publication_year": 1989,
+      "observation": "Simon refused Wanda's request to reuse his brain patterns.",
+      "source_id": "AVC7_S05",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E10",
+      "a": "simon",
+      "b": "wanda",
+      "issue": "Avengers (late 1990s)",
+      "publication_year": 1990,
+      "observation": "Wanda restored Simon and they began a romance.",
+      "source_id": "AVC7_S05",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E11",
+      "a": "carol",
+      "b": "simon",
+      "issue": "Avengers (1970s-1980s)",
+      "publication_year": 1970,
+      "observation": "Carol counseled Simon about fear of death.",
+      "source_id": "AVC7_S05",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E12",
+      "a": "beast",
+      "b": "simon",
+      "issue": "Avengers #164 (1977)",
+      "publication_year": 1977,
+      "observation": "Beast befriended Simon and encouraged acting.",
+      "source_id": "AVC7_S11",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E13",
+      "a": "scott_lang",
+      "b": "cassie",
+      "issue": "Marvel Premiere #47 (1979)",
+      "publication_year": 1979,
+      "observation": "Scott stole Ant-Man suit to save Cassie.",
+      "source_id": "AVC7_S07",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E14",
+      "a": "hank_pym",
+      "b": "scott_lang",
+      "issue": "Marvel Premiere #47 (1979)",
+      "publication_year": 1979,
+      "observation": "Hank let Scott keep the suit if used for good.",
+      "source_id": "AVC7_S07",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E15",
+      "a": "janet",
+      "b": "nadia",
+      "issue": "Unstoppable Wasp #8 (2019)",
+      "publication_year": 2019,
+      "observation": "Janet arranged Nadia's first birthday celebration.",
+      "source_id": "AVC7_S08",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E16",
+      "a": "whirlwind",
+      "b": "janet",
+      "issue": "Avengers #46, #139 (1967-75)",
+      "publication_year": 1967,
+      "observation": "Whirlwind posed as Janet's chauffeur and stole from her.",
+      "source_id": "AVC7_S10",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "AVC7_E17",
+      "a": "luke",
+      "b": "janet",
+      "issue": "Avengers Inc. #1 (2023)",
+      "publication_year": 2023,
+      "observation": "Luke asked Janet to investigate the Raft murders.",
+      "source_id": "AVC7_S10",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "review_status": "provisional; original panels not reviewed"
     }
   ],
   "claims": [
@@ -7366,6 +8101,584 @@
         "ASG26_E12"
       ],
       "scope": "Thor #353 (1984)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C01",
+      "pair_id": "cyclops-jean",
+      "from_id": "cyclops",
+      "to_id": "jean",
+      "dimension": "romance",
+      "assessment": "Scott and Jean married.",
+      "epistemic": "direct",
+      "summary": "Scott and Jean married.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E01"
+      ],
+      "scope": "X-Men #30 (1994)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C02",
+      "pair_id": "cyclops-emma",
+      "from_id": "cyclops",
+      "to_id": "emma",
+      "dimension": "romance",
+      "assessment": "Scott and Emma conducted a psychic affair during his marriage.",
+      "epistemic": "direct",
+      "summary": "Scott and Emma conducted a psychic affair during his marriage.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E02"
+      ],
+      "scope": "New X-Men #139 (2003)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C03",
+      "pair_id": "cyclops-madelyne",
+      "from_id": "cyclops",
+      "to_id": "madelyne",
+      "dimension": "betrayal",
+      "assessment": "Scott left Madelyne and infant Nathan after Jean returned.",
+      "epistemic": "interpretive",
+      "summary": "Scott left Madelyne and infant Nathan after Jean returned.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E03"
+      ],
+      "scope": "X-Factor #1 (1986)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C04",
+      "pair_id": "cable-cyclops",
+      "from_id": "cyclops",
+      "to_id": "cable",
+      "dimension": "protection",
+      "assessment": "Scott allowed Clan Askani to take infected Nathan into the future to save him.",
+      "epistemic": "direct",
+      "summary": "Scott allowed Clan Askani to take infected Nathan into the future to save him.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E04"
+      ],
+      "scope": "X-Factor #68 (1991)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C05",
+      "pair_id": "cyclops-storm",
+      "from_id": "storm",
+      "to_id": "cyclops",
+      "dimension": "authority",
+      "assessment": "Storm defeated Scott in a contest for leadership.",
+      "epistemic": "direct",
+      "summary": "Storm defeated Scott in a contest for leadership.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E05"
+      ],
+      "scope": "Uncanny X-Men #201 (1986)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C06",
+      "pair_id": "cyclops-havok",
+      "from_id": "havok",
+      "to_id": "cyclops",
+      "dimension": "family",
+      "assessment": "Brothers survived family plane disaster; Alex struggled in Scott's shadow.",
+      "epistemic": "direct",
+      "summary": "Brothers survived family plane disaster; Alex struggled in Scott's shadow.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E06"
+      ],
+      "scope": "Summers childhood / early X-Men",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C07",
+      "pair_id": "emma-jean",
+      "from_id": "jean",
+      "to_id": "emma",
+      "dimension": "conflict",
+      "assessment": "Jean confronted Emma psychically over the affair.",
+      "epistemic": "direct",
+      "summary": "Jean confronted Emma psychically over the affair.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E07"
+      ],
+      "scope": "New X-Men #139 (2003)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C08",
+      "pair_id": "jean-storm",
+      "from_id": "jean",
+      "to_id": "storm",
+      "dimension": "friendship",
+      "assessment": "Jean and Ororo became close friends.",
+      "epistemic": "direct",
+      "summary": "Jean and Ororo became close friends.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E08"
+      ],
+      "scope": "X-Men after 1975",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C09",
+      "pair_id": "cable-jean",
+      "from_id": "jean",
+      "to_id": "cable",
+      "dimension": "protection",
+      "assessment": "Jean helped raise Nathan in the future as Redd.",
+      "epistemic": "direct",
+      "summary": "Jean helped raise Nathan in the future as Redd.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E09"
+      ],
+      "scope": "Adventures of Cyclops & Phoenix #1-4 (1994)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C10",
+      "pair_id": "havok-polaris",
+      "from_id": "havok",
+      "to_id": "polaris",
+      "dimension": "romance",
+      "assessment": "Alex and Lorna rekindled an intermittent romance.",
+      "epistemic": "direct",
+      "summary": "Alex and Lorna rekindled an intermittent romance.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E10"
+      ],
+      "scope": "X-Men / Starjammers eras",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C11",
+      "pair_id": "havok-vulcan",
+      "from_id": "havok",
+      "to_id": "vulcan",
+      "dimension": "conflict",
+      "assessment": "Alex resisted Gabriel's bid for Shi'ar power.",
+      "epistemic": "direct",
+      "summary": "Alex resisted Gabriel's bid for Shi'ar power.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E11"
+      ],
+      "scope": "Uncanny X-Men #475-486 (2006-07)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C12",
+      "pair_id": "corsair-vulcan",
+      "from_id": "vulcan",
+      "to_id": "corsair",
+      "dimension": "conflict",
+      "assessment": "Gabriel killed his father Christopher.",
+      "epistemic": "direct",
+      "summary": "Gabriel killed his father Christopher.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E12"
+      ],
+      "scope": "Uncanny X-Men #475-486 (2006-07)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C13",
+      "pair_id": "madelyne-sinister",
+      "from_id": "sinister",
+      "to_id": "madelyne",
+      "dimension": "coercion",
+      "assessment": "Sinister created and programmed Madelyne to love Scott.",
+      "epistemic": "direct",
+      "summary": "Sinister created and programmed Madelyne to love Scott.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E13"
+      ],
+      "scope": "Inferno (1988-89)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C14",
+      "pair_id": "emma-kitty",
+      "from_id": "emma",
+      "to_id": "kitty",
+      "dimension": "trust",
+      "assessment": "Emma recruited Kitty as a safeguard against Emma herself.",
+      "epistemic": "interpretive",
+      "summary": "Emma recruited Kitty as a safeguard against Emma herself.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E14"
+      ],
+      "scope": "Astonishing X-Men (2004)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C15",
+      "pair_id": "kitty-logan",
+      "from_id": "logan",
+      "to_id": "kitty",
+      "dimension": "mentorship",
+      "assessment": "Logan trained Kitty to resist Ogun's domination.",
+      "epistemic": "direct",
+      "summary": "Logan trained Kitty to resist Ogun's domination.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E15"
+      ],
+      "scope": "Kitty Pryde and Wolverine #4 (1985)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C16",
+      "pair_id": "cyclops-jean",
+      "from_id": "cyclops",
+      "to_id": "jean",
+      "dimension": "betrayal",
+      "assessment": "Scott and Emma conducted a psychic affair during his marriage.",
+      "epistemic": "interpretive",
+      "summary": "Scott and Emma conducted a psychic affair during his marriage.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E02"
+      ],
+      "scope": "New X-Men #139 (2003)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "MUT7_C17",
+      "pair_id": "emma-jean",
+      "from_id": "jean",
+      "to_id": "emma",
+      "dimension": "protection",
+      "assessment": "Jean reassembled Emma's shattered diamond body.",
+      "epistemic": "direct",
+      "summary": "Jean reassembled Emma's shattered diamond body.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "MUT7_E16"
+      ],
+      "scope": "New X-Men #139-141 (2003)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C01",
+      "pair_id": "hank_pym-janet",
+      "from_id": "hank_pym",
+      "to_id": "janet",
+      "dimension": "romance",
+      "assessment": "Hank and Janet's courtship was retold.",
+      "epistemic": "direct",
+      "summary": "Hank and Janet's courtship was retold.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E01"
+      ],
+      "scope": "Avengers Origins: Ant-Man & Wasp #1 (2011)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C02",
+      "pair_id": "hank_pym-janet",
+      "from_id": "hank_pym",
+      "to_id": "janet",
+      "dimension": "coercion",
+      "assessment": "Hank struck Janet and pressured her to support a staged rescue.",
+      "epistemic": "direct",
+      "summary": "Hank struck Janet and pressured her to support a staged rescue.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E02"
+      ],
+      "scope": "Avengers #213 (1981)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C03",
+      "pair_id": "hank_pym-ultron",
+      "from_id": "ultron",
+      "to_id": "hank_pym",
+      "dimension": "conflict",
+      "assessment": "Ultron turned against Hank and erased his memory.",
+      "epistemic": "direct",
+      "summary": "Ultron turned against Hank and erased his memory.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E03"
+      ],
+      "scope": "Avengers #54-55 (1968)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C04",
+      "pair_id": "ultron-vision",
+      "from_id": "ultron",
+      "to_id": "vision",
+      "dimension": "coercion",
+      "assessment": "Ultron created Vision using Simon Williams's brain patterns.",
+      "epistemic": "direct",
+      "summary": "Ultron created Vision using Simon Williams's brain patterns.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E04"
+      ],
+      "scope": "Avengers #57 (1968)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C05",
+      "pair_id": "jocasta-ultron",
+      "from_id": "ultron",
+      "to_id": "jocasta",
+      "dimension": "coercion",
+      "assessment": "Ultron created Jocasta as his intended bride; she rebelled.",
+      "epistemic": "direct",
+      "summary": "Ultron created Jocasta as his intended bride; she rebelled.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E05"
+      ],
+      "scope": "Avengers #161-162 (1977)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C06",
+      "pair_id": "eric_williams-simon",
+      "from_id": "eric_williams",
+      "to_id": "simon",
+      "dimension": "coercion",
+      "assessment": "Eric arranged Simon's revival for his own purposes.",
+      "epistemic": "direct",
+      "summary": "Eric arranged Simon's revival for his own purposes.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E06"
+      ],
+      "scope": "Avengers #151 (1976)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C07",
+      "pair_id": "eric_williams-vision",
+      "from_id": "eric_williams",
+      "to_id": "vision",
+      "dimension": "coercion",
+      "assessment": "Eric attacked Vision and Simon over brotherhood.",
+      "epistemic": "interpretive",
+      "summary": "Eric attacked Vision and Simon over brotherhood.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E07"
+      ],
+      "scope": "Vision and the Scarlet Witch #3 (1983)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C08",
+      "pair_id": "simon-vision",
+      "from_id": "simon",
+      "to_id": "vision",
+      "dimension": "family",
+      "assessment": "Simon and Vision came to regard each other as brothers.",
+      "epistemic": "direct",
+      "summary": "Simon and Vision came to regard each other as brothers.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E08"
+      ],
+      "scope": "Avengers era (1970s-1980s)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C09",
+      "pair_id": "simon-wanda",
+      "from_id": "simon",
+      "to_id": "wanda",
+      "dimension": "conflict",
+      "assessment": "Simon refused Wanda's request to reuse his brain patterns.",
+      "epistemic": "direct",
+      "summary": "Simon refused Wanda's request to reuse his brain patterns.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E09"
+      ],
+      "scope": "West Coast Avengers (1989)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C10",
+      "pair_id": "simon-wanda",
+      "from_id": "simon",
+      "to_id": "wanda",
+      "dimension": "romance",
+      "assessment": "Wanda restored Simon and they began a romance.",
+      "epistemic": "direct",
+      "summary": "Wanda restored Simon and they began a romance.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E10"
+      ],
+      "scope": "Avengers (late 1990s)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C11",
+      "pair_id": "carol-simon",
+      "from_id": "carol",
+      "to_id": "simon",
+      "dimension": "friendship",
+      "assessment": "Carol counseled Simon about fear of death.",
+      "epistemic": "direct",
+      "summary": "Carol counseled Simon about fear of death.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E11"
+      ],
+      "scope": "Avengers (1970s-1980s)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C12",
+      "pair_id": "beast-simon",
+      "from_id": "beast",
+      "to_id": "simon",
+      "dimension": "friendship",
+      "assessment": "Beast befriended Simon and encouraged acting.",
+      "epistemic": "direct",
+      "summary": "Beast befriended Simon and encouraged acting.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E12"
+      ],
+      "scope": "Avengers #164 (1977)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C13",
+      "pair_id": "cassie-scott_lang",
+      "from_id": "scott_lang",
+      "to_id": "cassie",
+      "dimension": "protection",
+      "assessment": "Scott stole Ant-Man suit to save Cassie.",
+      "epistemic": "direct",
+      "summary": "Scott stole Ant-Man suit to save Cassie.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E13"
+      ],
+      "scope": "Marvel Premiere #47 (1979)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C14",
+      "pair_id": "hank_pym-scott_lang",
+      "from_id": "hank_pym",
+      "to_id": "scott_lang",
+      "dimension": "trust",
+      "assessment": "Hank let Scott keep the suit if used for good.",
+      "epistemic": "direct",
+      "summary": "Hank let Scott keep the suit if used for good.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E14"
+      ],
+      "scope": "Marvel Premiere #47 (1979)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C15",
+      "pair_id": "janet-nadia",
+      "from_id": "janet",
+      "to_id": "nadia",
+      "dimension": "family",
+      "assessment": "Janet arranged Nadia's first birthday celebration.",
+      "epistemic": "direct",
+      "summary": "Janet arranged Nadia's first birthday celebration.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E15"
+      ],
+      "scope": "Unstoppable Wasp #8 (2019)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C16",
+      "pair_id": "janet-whirlwind",
+      "from_id": "whirlwind",
+      "to_id": "janet",
+      "dimension": "coercion",
+      "assessment": "Whirlwind posed as Janet's chauffeur and stole from her.",
+      "epistemic": "direct",
+      "summary": "Whirlwind posed as Janet's chauffeur and stole from her.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E16"
+      ],
+      "scope": "Avengers #46, #139 (1967-75)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; publisher_secondary"
+    },
+    {
+      "id": "AVC7_C17",
+      "pair_id": "janet-luke",
+      "from_id": "luke",
+      "to_id": "janet",
+      "dimension": "professional",
+      "assessment": "Luke asked Janet to investigate the Raft murders.",
+      "epistemic": "direct",
+      "summary": "Luke asked Janet to investigate the Raft murders.",
+      "qualification": "Marvel publisher history; panel-level verification pending.",
+      "event_ids": [
+        "AVC7_E17"
+      ],
+      "scope": "Avengers Inc. #1 (2023)",
       "continuity": "Earth-616",
       "review_status": "provisional; publisher_secondary"
     }
