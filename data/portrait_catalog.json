@@ -280,11 +280,11 @@
       "name": "Captain Marvel",
       "identity": "Carol Danvers",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/192e9bc0ec83e41764bc844ef908453c.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/192e9bc0ec83e41764bc844ef908453c.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched external portrait candidate; visual and reuse-rights review pending."
     },
     "c_jennifer": {
       "name": "She-Hulk",
@@ -690,11 +690,11 @@
       "name": "Human Torch",
       "identity": "Johnny Storm",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/20937cfa1542c3067a030281a1feff40.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/20937cfa1542c3067a030281a1feff40.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched external portrait candidate; visual and reuse-rights review pending."
     },
     "c_ben": {
       "name": "Thing",
@@ -1670,11 +1670,11 @@
       "name": "Aurora",
       "identity": "Jeanne-Marie Beaubier",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/212af7d9f483116e8767b6883d0a09a7.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/212af7d9f483116e8767b6883d0a09a7.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched external portrait candidate; visual and reuse-rights review pending."
     },
     "c_shaman": {
       "name": "Shaman",
@@ -2430,11 +2430,11 @@
       "name": "Lizard",
       "identity": "Dr. Curt Connors",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/1c19db3144b87eae8e40d5e7b5204526.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/1c19db3144b87eae8e40d5e7b5204526.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched external portrait candidate; visual and reuse-rights review pending."
     },
     "c_hobgoblin": {
       "name": "Hobgoblin",
@@ -2960,11 +2960,11 @@
       "name": "Moon Knight",
       "identity": "Marc Spector",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/1dca841a2e59e95d997e8cb006b9be47.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/1dca841a2e59e95d997e8cb006b9be47.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched external portrait candidate; visual and reuse-rights review pending."
     },
     "c_punisher": {
       "name": "Punisher",
@@ -3560,11 +3560,11 @@
       "name": "Mister Sinister",
       "identity": "Nathaniel Essex",
       "kind": "character",
-      "status": "pending",
-      "image_url": null,
-      "source_page": null,
-      "credit": null,
-      "review_note": null
+      "status": "candidate",
+      "image_url": "https://raw.githubusercontent.com/Sidmaz666/character-dataset/main/data/images/21fabe82e02c355fd1e3f0d190b9f06f.png",
+      "source_page": "https://github.com/Sidmaz666/character-dataset/blob/main/data/characters/marvel/21fabe82e02c355fd1e3f0d190b9f06f.json",
+      "credit": "Sidmaz666/character-dataset (third-party artwork; rights and provenance unverified)",
+      "review_note": "Identity-matched external portrait candidate; visual and reuse-rights review pending."
     },
     "c_rel_jocasta": {
       "name": "Jocasta",
