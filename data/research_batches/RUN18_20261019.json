@@ -1,0 +1,458 @@
+{
+  "batch_id": "RUN18_20261019",
+  "status": "COMMITTED RESEARCH FILE — not merged into canonical atlas",
+  "continuity": "Earth-616",
+  "community": "Runaways / Pride / AI family / Harlem",
+  "people": [
+    {
+      "id": "alex_wilder",
+      "name": "Alex Wilder"
+    },
+    {
+      "id": "nico_minoru",
+      "name": "Nico Minoru",
+      "alias": "Sister Grimm"
+    },
+    {
+      "id": "gert_yorkes",
+      "name": "Gertrude Yorkes",
+      "alias": "Arsenic"
+    },
+    {
+      "id": "chase_stein",
+      "name": "Chase Stein",
+      "alias": "Talkback"
+    },
+    {
+      "id": "karolina_dean",
+      "name": "Karolina Dean",
+      "alias": "Lucy in the Sky"
+    },
+    {
+      "id": "molly_hayes",
+      "name": "Molly Hayes",
+      "alias": "Princess Powerful"
+    },
+    {
+      "id": "victor_mancha",
+      "name": "Victor Mancha"
+    },
+    {
+      "id": "xavin",
+      "name": "Xavin"
+    },
+    {
+      "id": "geoffrey_wilder",
+      "name": "Geoffrey Wilder"
+    },
+    {
+      "id": "catherine_wilder",
+      "name": "Catherine Wilder"
+    },
+    {
+      "id": "topher_runaways",
+      "name": "Topher",
+      "alias": "Vampire"
+    },
+    {
+      "id": "marianella_mancha",
+      "name": "Marianella Mancha"
+    }
+  ],
+  "sources": [
+    {
+      "id": "RUN18_20261019_S01",
+      "url": "https://www.marvel.com/characters/alex-wilder/in-comics/",
+      "evidence_tier": "official Marvel publisher secondary evidence"
+    },
+    {
+      "id": "RUN18_20261019_S02",
+      "url": "https://www.marvel.com/articles/comics/get-ready-to-run-the-good-die-young",
+      "evidence_tier": "official Marvel publisher secondary evidence"
+    },
+    {
+      "id": "RUN18_20261019_S03",
+      "url": "https://www.marvel.com/articles/comics/get-ready-to-run-parental-guidance",
+      "evidence_tier": "official Marvel publisher secondary evidence"
+    },
+    {
+      "id": "RUN18_20261019_S04",
+      "url": "https://www.marvel.com/articles/comics/get-ready-to-run-dead-means-dead",
+      "evidence_tier": "official Marvel publisher secondary evidence"
+    },
+    {
+      "id": "RUN18_20261019_S05",
+      "url": "https://www.marvel.com/amp/articles/comics/get-ready-to-run-true-believers",
+      "evidence_tier": "official Marvel publisher secondary evidence"
+    },
+    {
+      "id": "RUN18_20261019_S06",
+      "url": "https://www.marvel.com/comics/guides/2500/every-major-a-i-in-the-marvel-universe",
+      "evidence_tier": "official Marvel publisher secondary evidence"
+    },
+    {
+      "id": "RUN18_20261019_S07",
+      "url": "https://www.marvel.com/comics/issue/4058/runaways_2005_15",
+      "evidence_tier": "official Marvel publisher secondary evidence"
+    },
+    {
+      "id": "RUN18_20261019_S08",
+      "url": "https://www.marvel.com/articles/comics/runaways-how-things-have-changed-for-molly",
+      "evidence_tier": "official Marvel publisher secondary evidence"
+    }
+  ],
+  "events": [
+    {
+      "id": "RUN18_20261019_E01",
+      "a": "alex_wilder",
+      "b": "geoffrey_wilder",
+      "issue": "Runaways (2003) #1-18; motive in #17",
+      "observation": "Alex plans to preserve his father from betrayal by other Pride families.",
+      "source_id": "RUN18_20261019_S02"
+    },
+    {
+      "id": "RUN18_20261019_E02",
+      "a": "alex_wilder",
+      "b": "catherine_wilder",
+      "issue": "Runaways (2003) #1-18",
+      "observation": "Alex schemes to secure his mother's survival under the Gibborim bargain.",
+      "source_id": "RUN18_20261019_S01"
+    },
+    {
+      "id": "RUN18_20261019_E03",
+      "a": "alex_wilder",
+      "b": "nico_minoru",
+      "issue": "Runaways (2003) #1-18",
+      "observation": "Alex and Nico develop a romantic relationship while hiding from their parents.",
+      "source_id": "RUN18_20261019_S01"
+    },
+    {
+      "id": "RUN18_20261019_E04",
+      "a": "alex_wilder",
+      "b": "nico_minoru",
+      "issue": "Runaways (2003) #13-18",
+      "observation": "Alex reveals his Pride allegiance, takes Nico's Staff of One and offers her a place in his family's survival plan.",
+      "source_id": "RUN18_20261019_S02"
+    },
+    {
+      "id": "RUN18_20261019_E05",
+      "a": "alex_wilder",
+      "b": "karolina_dean",
+      "issue": "Runaways (2003) #13-18",
+      "observation": "Alex knocks Karolina unconscious during the confrontation with the Pride.",
+      "source_id": "RUN18_20261019_S01"
+    },
+    {
+      "id": "RUN18_20261019_E06",
+      "a": "gert_yorkes",
+      "b": "chase_stein",
+      "issue": "Runaways (2003) #13-18",
+      "observation": "Gert revives Chase using mouth-to-mouth resuscitation after he nearly dies.",
+      "source_id": "RUN18_20261019_S02"
+    },
+    {
+      "id": "RUN18_20261019_E07",
+      "a": "chase_stein",
+      "b": "gert_yorkes",
+      "issue": "Runaways (2005) #19-24",
+      "observation": "Chase attempts to bargain his own life to resurrect Gert.",
+      "source_id": "RUN18_20261019_S04"
+    },
+    {
+      "id": "RUN18_20261019_E08",
+      "a": "geoffrey_wilder",
+      "b": "gert_yorkes",
+      "issue": "Runaways (2005) #13-18",
+      "observation": "A time-displaced younger Geoffrey fatally stabs Gert during a sacrificial scheme.",
+      "source_id": "RUN18_20261019_S03"
+    },
+    {
+      "id": "RUN18_20261019_E09",
+      "a": "geoffrey_wilder",
+      "b": "molly_hayes",
+      "issue": "Runaways (2005) #13-18",
+      "observation": "Geoffrey's new Pride abducts Molly while he negotiates with the Gibborim.",
+      "source_id": "RUN18_20261019_S03"
+    },
+    {
+      "id": "RUN18_20261019_E10",
+      "a": "nico_minoru",
+      "b": "chase_stein",
+      "issue": "Runaways (2005) #13-18",
+      "observation": "Nico and Chase kiss; Geoffrey's ally reveals the kiss to Gert.",
+      "source_id": "RUN18_20261019_S03"
+    },
+    {
+      "id": "RUN18_20261019_E11",
+      "a": "nico_minoru",
+      "b": "victor_mancha",
+      "issue": "Runaways (2005) #19-24",
+      "observation": "Marvel describes Nico and Victor as beginning some kind of romantic relationship.",
+      "source_id": "RUN18_20261019_S04"
+    },
+    {
+      "id": "RUN18_20261019_E12",
+      "a": "xavin",
+      "b": "karolina_dean",
+      "issue": "Runaways (2005) #13-18",
+      "observation": "Xavin and Karolina return following a disrupted wedding involving an interstellar dispute.",
+      "source_id": "RUN18_20261019_S03"
+    },
+    {
+      "id": "RUN18_20261019_E13",
+      "a": "ultron",
+      "b": "victor_mancha",
+      "issue": "Runaways (2005) #1-6; revisited #15",
+      "observation": "Ultron creates Victor and tries to control his actions through embedded programming.",
+      "source_id": "RUN18_20261019_S05"
+    },
+    {
+      "id": "RUN18_20261019_E14",
+      "a": "marianella_mancha",
+      "b": "victor_mancha",
+      "issue": "Runaways (2005) #1-6",
+      "observation": "Marianella raises Victor as her son before Ultron kills her.",
+      "source_id": "RUN18_20261019_S05"
+    },
+    {
+      "id": "RUN18_20261019_E15",
+      "a": "topher_runaways",
+      "b": "nico_minoru",
+      "issue": "Runaways (2003) #7-12",
+      "observation": "Topher becomes romantically involved with Nico while concealing that he is a vampire.",
+      "source_id": "RUN18_20261019_S01"
+    },
+    {
+      "id": "RUN18_20261019_E16",
+      "a": "karolina_dean",
+      "b": "topher_runaways",
+      "issue": "Runaways (2003) #7-12",
+      "observation": "Karolina kills Topher with her light powers during the confrontation.",
+      "source_id": "RUN18_20261019_S01"
+    },
+    {
+      "id": "RUN18_20261019_E17",
+      "a": "alex_wilder",
+      "b": "luke",
+      "issue": "Power Man and Iron Fist (2016), Harlem arc; exact issue pending",
+      "observation": "Alex attempts to establish a supernatural criminal enterprise in Harlem and fights Luke Cage and Danny Rand.",
+      "source_id": "RUN18_20261019_S01"
+    },
+    {
+      "id": "RUN18_20261019_E18",
+      "a": "nico_minoru",
+      "b": "alex_wilder",
+      "issue": "After Runaways (2003) #18; exact issue pending",
+      "observation": "Nico attempts to resurrect Alex with the Staff of One after his apparent death.",
+      "source_id": "RUN18_20261019_S01"
+    }
+  ],
+  "claims": [
+    {
+      "id": "RUN18_20261019_C01",
+      "from_id": "alex_wilder",
+      "to_id": "geoffrey_wilder",
+      "dimension": "protection",
+      "assessment": "Alex acts to preserve his father's life.",
+      "interpretation": "Familial loyalty motivates deception of others.",
+      "event_ids": [
+        "RUN18_20261019_E01"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C02",
+      "from_id": "alex_wilder",
+      "to_id": "catherine_wilder",
+      "dimension": "protection",
+      "assessment": "Alex plans to secure his mother's survival.",
+      "interpretation": "A protective intention within a murderous scheme.",
+      "event_ids": [
+        "RUN18_20261019_E02"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C03",
+      "from_id": "alex_wilder",
+      "to_id": "nico_minoru",
+      "dimension": "romance",
+      "assessment": "Alex and Nico become romantically involved.",
+      "interpretation": "Affection can coexist with concealed allegiance.",
+      "event_ids": [
+        "RUN18_20261019_E03"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C04",
+      "from_id": "alex_wilder",
+      "to_id": "nico_minoru",
+      "dimension": "betrayal",
+      "assessment": "Alex steals Nico's staff and reveals his Pride allegiance.",
+      "interpretation": "The betrayal does not establish that his earlier affection was false.",
+      "event_ids": [
+        "RUN18_20261019_E04"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C05",
+      "from_id": "alex_wilder",
+      "to_id": "karolina_dean",
+      "dimension": "coercion",
+      "assessment": "Alex incapacitates Karolina during the Pride confrontation.",
+      "interpretation": "An event-scoped assault.",
+      "event_ids": [
+        "RUN18_20261019_E05"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C06",
+      "from_id": "gert_yorkes",
+      "to_id": "chase_stein",
+      "dimension": "protection",
+      "assessment": "Gert revives Chase when he nearly dies.",
+      "interpretation": "A specific protective act.",
+      "event_ids": [
+        "RUN18_20261019_E06"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C07",
+      "from_id": "chase_stein",
+      "to_id": "gert_yorkes",
+      "dimension": "affection",
+      "assessment": "Chase offers his life in an attempt to resurrect Gert.",
+      "interpretation": "Evidence of profound grief and attachment.",
+      "event_ids": [
+        "RUN18_20261019_E07"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C08",
+      "from_id": "geoffrey_wilder",
+      "to_id": "gert_yorkes",
+      "dimension": "conflict",
+      "assessment": "Time-displaced Geoffrey fatally wounds Gert.",
+      "interpretation": "The displaced version of Geoffrey must be distinguished chronologically.",
+      "event_ids": [
+        "RUN18_20261019_E08"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C09",
+      "from_id": "geoffrey_wilder",
+      "to_id": "molly_hayes",
+      "dimension": "coercion",
+      "assessment": "Geoffrey's Pride abducts Molly.",
+      "interpretation": "A coercive action, not proof of personal hatred.",
+      "event_ids": [
+        "RUN18_20261019_E09"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C10",
+      "from_id": "nico_minoru",
+      "to_id": "chase_stein",
+      "dimension": "affection",
+      "assessment": "Nico and Chase kiss.",
+      "interpretation": "A kiss alone does not establish a durable romantic relationship.",
+      "event_ids": [
+        "RUN18_20261019_E10"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C11",
+      "from_id": "nico_minoru",
+      "to_id": "victor_mancha",
+      "dimension": "romance",
+      "assessment": "Nico and Victor begin a possible romance.",
+      "interpretation": "Publisher wording is tentative; exact mutuality requires review.",
+      "event_ids": [
+        "RUN18_20261019_E11"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C12",
+      "from_id": "xavin",
+      "to_id": "karolina_dean",
+      "dimension": "romance",
+      "assessment": "Xavin and Karolina plan a wedding.",
+      "interpretation": "A planned wedding, not evidence of a completed marriage.",
+      "event_ids": [
+        "RUN18_20261019_E12"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C13",
+      "from_id": "ultron",
+      "to_id": "victor_mancha",
+      "dimension": "coercion",
+      "assessment": "Ultron creates and attempts to control Victor.",
+      "interpretation": "Creation and parenthood do not imply care.",
+      "event_ids": [
+        "RUN18_20261019_E13"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C14",
+      "from_id": "marianella_mancha",
+      "to_id": "victor_mancha",
+      "dimension": "family",
+      "assessment": "Marianella raises Victor as her son.",
+      "interpretation": "Caregiving is distinct from biological parentage.",
+      "event_ids": [
+        "RUN18_20261019_E14"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C15",
+      "from_id": "topher_runaways",
+      "to_id": "nico_minoru",
+      "dimension": "romance",
+      "assessment": "Topher becomes romantically involved with Nico.",
+      "interpretation": "His concealed vampire identity complicates trust.",
+      "event_ids": [
+        "RUN18_20261019_E15"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C16",
+      "from_id": "karolina_dean",
+      "to_id": "topher_runaways",
+      "dimension": "conflict",
+      "assessment": "Karolina kills Topher during the confrontation.",
+      "interpretation": "Event-specific lethal conflict.",
+      "event_ids": [
+        "RUN18_20261019_E16"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C17",
+      "from_id": "alex_wilder",
+      "to_id": "luke",
+      "dimension": "conflict",
+      "assessment": "Alex confronts Luke Cage in Harlem.",
+      "interpretation": "A cross-community conflict; exact issue pending.",
+      "event_ids": [
+        "RUN18_20261019_E17"
+      ]
+    },
+    {
+      "id": "RUN18_20261019_C18",
+      "from_id": "nico_minoru",
+      "to_id": "alex_wilder",
+      "dimension": "affection",
+      "assessment": "Nico attempts to resurrect Alex.",
+      "interpretation": "The attempt does not establish forgiveness.",
+      "event_ids": [
+        "RUN18_20261019_E18"
+      ]
+    }
+  ],
+  "review": {
+    "primary_panels_reviewed": false,
+    "evidence_tier": "Official Marvel publisher secondary evidence",
+    "issue_precision": "Some issue ranges and specific encounters require primary verification",
+    "canonical_merge": false,
+    "original_payload": "Reconstructed from the preceding complete RUN18 in-chat payload",
+    "committed": 1
+  }
+}
