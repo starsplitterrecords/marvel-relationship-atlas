@@ -1,0 +1,279 @@
+{
+  "batch_id": "CA10_20261019",
+  "status": "COMMITTED RESEARCH FILE ONLY — not merged into canonical",
+  "continuity": "Earth-616",
+  "community": "Captain America legacy",
+  "evidence_limit": "Reconstructed from preceding in-chat research. Original detailed issue-scoped events and interpretations remain in conversation; this condensed preservation file must not be treated as issue-level validated.",
+  "people": [
+    {
+      "id": "john_walker",
+      "name": "john walker",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "lemar_hoskins",
+      "name": "lemar hoskins",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "hector_lennox",
+      "name": "hector lennox",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "curtiss_jackson",
+      "name": "curtiss jackson",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "valerie_cooper",
+      "name": "valerie cooper",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "sam_wilson",
+      "name": "sam wilson",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "joaquin_torres",
+      "name": "joaquin torres",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "misty_knight",
+      "name": "misty knight",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "isaiah_bradley",
+      "name": "isaiah bradley",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "rayshaun_lucas",
+      "name": "rayshaun lucas",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "josiah_x",
+      "name": "josiah x",
+      "identity_status": "proposed"
+    },
+    {
+      "id": "faith_bradley",
+      "name": "faith bradley",
+      "identity_status": "proposed"
+    }
+  ],
+  "sources": [
+    {
+      "id": "CA10_S1",
+      "url": "https://www.marvel.com/characters/u-s-agent/in-comics",
+      "evidence_tier": "publisher_secondary; verify applicability per claim"
+    },
+    {
+      "id": "CA10_S2",
+      "url": "https://www.marvel.com/comics/guides/1715/sam-wilson-captain-america",
+      "evidence_tier": "publisher_secondary; verify applicability per claim"
+    },
+    {
+      "id": "CA10_S3",
+      "url": "https://www.marvel.com/comics/discover/2473/joaquin-torres-falcon",
+      "evidence_tier": "publisher_secondary; verify applicability per claim"
+    },
+    {
+      "id": "CA10_S4",
+      "url": "https://www.marvel.com/articles/comics/isaiah-bradley-captain-america-in-the-comics",
+      "evidence_tier": "publisher_secondary; verify applicability per claim"
+    }
+  ],
+  "events": [],
+  "claims": [
+    {
+      "id": "CA10_C1",
+      "from_id": "john_walker",
+      "to_id": "lemar_hoskins",
+      "dimension": "friendship",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C2",
+      "from_id": "hector_lennox",
+      "to_id": "john_walker",
+      "dimension": "betrayal",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C3",
+      "from_id": "curtiss_jackson",
+      "to_id": "john_walker",
+      "dimension": "dependence",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C4",
+      "from_id": "valerie_cooper",
+      "to_id": "john_walker",
+      "dimension": "authority",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C5",
+      "from_id": "john_walker",
+      "to_id": "steve",
+      "dimension": "conflict",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C6",
+      "from_id": "john_walker",
+      "to_id": "clint",
+      "dimension": "conflict",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C7",
+      "from_id": "sam_wilson",
+      "to_id": "joaquin_torres",
+      "dimension": "mentorship",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C8",
+      "from_id": "joaquin_torres",
+      "to_id": "sam_wilson",
+      "dimension": "protection",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C9",
+      "from_id": "sam_wilson",
+      "to_id": "misty_knight",
+      "dimension": "romance",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C10",
+      "from_id": "sam_wilson",
+      "to_id": "rayshaun_lucas",
+      "dimension": "mentorship",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C11",
+      "from_id": "steve",
+      "to_id": "sam_wilson",
+      "dimension": "trust",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C12",
+      "from_id": "joaquin_torres",
+      "to_id": "rayshaun_lucas",
+      "dimension": "cooperation",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C13",
+      "from_id": "isaiah_bradley",
+      "to_id": "eli_bradley",
+      "dimension": "protection",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C14",
+      "from_id": "josiah_x",
+      "to_id": "isaiah_bradley",
+      "dimension": "influence",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C15",
+      "from_id": "faith_bradley",
+      "to_id": "isaiah_bradley",
+      "dimension": "family",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C16",
+      "from_id": "sam_wilson",
+      "to_id": "bucky",
+      "dimension": "cooperation",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C17",
+      "from_id": "john_walker",
+      "to_id": "steve",
+      "dimension": "respect",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    },
+    {
+      "id": "CA10_C18",
+      "from_id": "john_walker",
+      "to_id": "clint",
+      "dimension": "cooperation",
+      "assessment": "Prior in-chat research proposal; refer to original batch for exact issue-scoped story observation.",
+      "interpretation": "Not independently revalidated in this condensed preservation file.",
+      "event_ids": [],
+      "verification_status": "requires transfer of original detailed event evidence"
+    }
+  ],
+  "review": {
+    "full_original_batch": "Earlier messages in this conversation",
+    "canonical_merge": false,
+    "warning": "Not a substitute for the full event-rich research payload."
+  }
+}
