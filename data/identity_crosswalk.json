@@ -3,7 +3,7 @@
     "purpose": "Link the historical broad character catalogue to the deeper interpersonal research catalogue without merging them prematurely.",
     "created": "2026-10-18",
     "scope": "Earth-616",
-    "review": "Initial exact identity matches; no mantle-only matching."
+    "review": "Synchronized identity crosswalk with relationship pilot on 2026-10-19; exact identity matches and manually reviewed aliases; relationship-only people added to broad atlas."
   },
   "mappings": [
     {
@@ -129,6 +129,370 @@
     {
       "person_id": "pietro",
       "node_id": "c_pietro"
+    },
+    {
+      "person_id": "destiny",
+      "node_id": "c_rel_destiny"
+    },
+    {
+      "person_id": "graydon",
+      "node_id": "c_rel_graydon"
+    },
+    {
+      "person_id": "gabrielle",
+      "node_id": "c_rel_gabrielle"
+    },
+    {
+      "person_id": "bella",
+      "node_id": "c_rel_bella"
+    },
+    {
+      "person_id": "cody",
+      "node_id": "c_rel_cody"
+    },
+    {
+      "person_id": "agatha",
+      "node_id": "c_rel_agatha"
+    },
+    {
+      "person_id": "quill",
+      "node_id": "c_star_lord"
+    },
+    {
+      "person_id": "mantis",
+      "node_id": "c_mantis"
+    },
+    {
+      "person_id": "rocket",
+      "node_id": "c_rocket"
+    },
+    {
+      "person_id": "groot",
+      "node_id": "c_groot"
+    },
+    {
+      "person_id": "gamora",
+      "node_id": "c_gamora"
+    },
+    {
+      "person_id": "drax",
+      "node_id": "c_drax"
+    },
+    {
+      "person_id": "adam",
+      "node_id": "c_adam_w"
+    },
+    {
+      "person_id": "phyla",
+      "node_id": "c_rel_phyla"
+    },
+    {
+      "person_id": "moondragon",
+      "node_id": "c_rel_moondragon"
+    },
+    {
+      "person_id": "wendell",
+      "node_id": "c_quasar"
+    },
+    {
+      "person_id": "kitty",
+      "node_id": "c_kate"
+    },
+    {
+      "person_id": "j_son",
+      "node_id": "c_rel_j_son"
+    },
+    {
+      "person_id": "ronan",
+      "node_id": "c_ronan"
+    },
+    {
+      "person_id": "richard",
+      "node_id": "c_nova_rider"
+    },
+    {
+      "person_id": "gilbert",
+      "node_id": "c_rel_gilbert"
+    },
+    {
+      "person_id": "kayla",
+      "node_id": "c_rel_kayla"
+    },
+    {
+      "person_id": "tchalla",
+      "node_id": "c_tchalla"
+    },
+    {
+      "person_id": "shuri",
+      "node_id": "c_shuri"
+    },
+    {
+      "person_id": "ramonda",
+      "node_id": "c_ramonda"
+    },
+    {
+      "person_id": "okoye",
+      "node_id": "c_rel_okoye"
+    },
+    {
+      "person_id": "nakia",
+      "node_id": "c_rel_nakia"
+    },
+    {
+      "person_id": "ayo",
+      "node_id": "c_rel_ayo"
+    },
+    {
+      "person_id": "aneka",
+      "node_id": "c_rel_ayo"
+    },
+    {
+      "person_id": "namor",
+      "node_id": "c_namor"
+    },
+    {
+      "person_id": "monica_lynne",
+      "node_id": "c_rel_monica_lynne"
+    },
+    {
+      "person_id": "tetu",
+      "node_id": "c_rel_tetu"
+    },
+    {
+      "person_id": "natasha",
+      "node_id": "c_natasha"
+    },
+    {
+      "person_id": "clint",
+      "node_id": "c_clint"
+    },
+    {
+      "person_id": "bucky",
+      "node_id": "c_rel_bucky"
+    },
+    {
+      "person_id": "alexei",
+      "node_id": "c_rel_alexei"
+    },
+    {
+      "person_id": "yelena",
+      "node_id": "c_rel_yelena"
+    },
+    {
+      "person_id": "nick_fury_sr",
+      "node_id": "c_fury"
+    },
+    {
+      "person_id": "valentina",
+      "node_id": "c_valentina"
+    },
+    {
+      "person_id": "sharon",
+      "node_id": "c_rel_sharon"
+    },
+    {
+      "person_id": "peggy",
+      "node_id": "c_rel_peggy"
+    },
+    {
+      "person_id": "gabe",
+      "node_id": "c_gabe"
+    },
+    {
+      "person_id": "steve",
+      "node_id": "c_steve"
+    },
+    {
+      "person_id": "bobbi",
+      "node_id": "c_bobbi"
+    },
+    {
+      "person_id": "strange",
+      "node_id": "c_strange"
+    },
+    {
+      "person_id": "clea",
+      "node_id": "c_rel_clea"
+    },
+    {
+      "person_id": "wong",
+      "node_id": "c_rel_wong"
+    },
+    {
+      "person_id": "dormammu",
+      "node_id": "c_rel_dormammu"
+    },
+    {
+      "person_id": "umar",
+      "node_id": "c_rel_umar"
+    },
+    {
+      "person_id": "orini",
+      "node_id": "c_rel_orini"
+    },
+    {
+      "person_id": "hamir",
+      "node_id": "c_rel_hamir"
+    },
+    {
+      "person_id": "ancient_one",
+      "node_id": "c_rel_ancient_one"
+    },
+    {
+      "person_id": "johnny_blaze",
+      "node_id": "c_robbie"
+    },
+    {
+      "person_id": "mephisto",
+      "node_id": "c_rel_mephisto"
+    },
+    {
+      "person_id": "nightmare",
+      "node_id": "c_rel_nightmare"
+    },
+    {
+      "person_id": "satana",
+      "node_id": "c_rel_satana"
+    },
+    {
+      "person_id": "loki",
+      "node_id": "c_loki"
+    },
+    {
+      "person_id": "thor",
+      "node_id": "c_thor"
+    },
+    {
+      "person_id": "odin",
+      "node_id": "c_odin"
+    },
+    {
+      "person_id": "laufey",
+      "node_id": "c_rel_laufey"
+    },
+    {
+      "person_id": "sif",
+      "node_id": "c_sif"
+    },
+    {
+      "person_id": "jane_foster",
+      "node_id": "c_rel_jane_foster"
+    },
+    {
+      "person_id": "beta_ray_bill",
+      "node_id": "c_rel_beta_ray_bill"
+    },
+    {
+      "person_id": "skurge",
+      "node_id": "c_rel_skurge"
+    },
+    {
+      "person_id": "hela",
+      "node_id": "c_rel_hela"
+    },
+    {
+      "person_id": "malekith",
+      "node_id": "c_rel_malekith"
+    },
+    {
+      "person_id": "surtur",
+      "node_id": "c_rel_surtur"
+    },
+    {
+      "person_id": "balder",
+      "node_id": "c_rel_balder"
+    },
+    {
+      "person_id": "cyclops",
+      "node_id": "c_scott"
+    },
+    {
+      "person_id": "jean",
+      "node_id": "c_jean"
+    },
+    {
+      "person_id": "emma",
+      "node_id": "c_emma"
+    },
+    {
+      "person_id": "logan",
+      "node_id": "c_logan"
+    },
+    {
+      "person_id": "madelyne",
+      "node_id": "c_rel_madelyne"
+    },
+    {
+      "person_id": "cable",
+      "node_id": "c_cable"
+    },
+    {
+      "person_id": "havok",
+      "node_id": "c_havok"
+    },
+    {
+      "person_id": "polaris",
+      "node_id": "c_polaris"
+    },
+    {
+      "person_id": "corsair",
+      "node_id": "c_rel_corsair"
+    },
+    {
+      "person_id": "vulcan",
+      "node_id": "c_vulcan"
+    },
+    {
+      "person_id": "sinister",
+      "node_id": "c_rel_sinister"
+    },
+    {
+      "person_id": "storm",
+      "node_id": "c_ororo"
+    },
+    {
+      "person_id": "hank_pym",
+      "node_id": "c_hank"
+    },
+    {
+      "person_id": "janet",
+      "node_id": "c_janet"
+    },
+    {
+      "person_id": "ultron",
+      "node_id": "c_ultron"
+    },
+    {
+      "person_id": "jocasta",
+      "node_id": "c_rel_jocasta"
+    },
+    {
+      "person_id": "simon",
+      "node_id": "c_simon"
+    },
+    {
+      "person_id": "eric_williams",
+      "node_id": "c_rel_eric_williams"
+    },
+    {
+      "person_id": "scott_lang",
+      "node_id": "c_scottlang"
+    },
+    {
+      "person_id": "cassie",
+      "node_id": "c_cassie"
+    },
+    {
+      "person_id": "nadia",
+      "node_id": "c_janet"
+    },
+    {
+      "person_id": "beast",
+      "node_id": "c_beast"
+    },
+    {
+      "person_id": "whirlwind",
+      "node_id": "c_rel_whirlwind"
     }
   ]
 }
