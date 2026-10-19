@@ -1,12 +1,12 @@
 {
   "meta": {
     "title": "Marvel Earth-616 Explorer",
-    "version": "0.4 — Street-Level Expansion",
-    "as_of": "2026-10-17",
+    "version": "0.5 — Relationship Research Synchronization",
+    "as_of": "2026-10-19",
     "scope": "Earth-616 comics, with clearly marked relocated characters; recorded history, not current rosters",
     "disclaimer": "Curated and non-exhaustive. All links represent historical relationships; era labels do not establish start/end dates. Broad reference links are flagged for issue-level follow-up. No MCU-only versions are merged.",
     "schema": "v1 nodes/edges/sources backwards compatible with v0.2 mobile UI",
-    "change_log": "v0.4 adds street-level heroes, supporting cast, organized crime, separate Defenders incarnations and romance/mentor relationships.",
+    "change_log": "Synchronized canonical relationship research people, identities, publisher sources, and evidence-backed interpersonal connections into broad explorer; coarse edge types retain directed dimensions in notes.",
     "research_quality": "Source links refer to official Marvel character/issue guides. High confidence on issue-specific roster events; broad sources explicitly labeled issue-level verification pending."
   },
   "nodes": [
@@ -3484,6 +3484,501 @@
       "sector": "cosmic",
       "summary": "Atlantean hero and founding member of the original New Warriors.",
       "source": "NW90",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_destiny",
+      "name": "Destiny",
+      "identity": "Irene Adler",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_graydon",
+      "name": "Graydon Creed",
+      "identity": "Graydon Creed",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_gabrielle",
+      "name": "Gabrielle Haller",
+      "identity": "Gabrielle Haller",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_bella",
+      "name": "Bella Donna",
+      "identity": "Bella Donna Boudreaux",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_cody",
+      "name": "Cody Robbins",
+      "identity": "Cody Robbins",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_agatha",
+      "name": "Agatha Harkness",
+      "identity": "Agatha Harkness",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_phyla",
+      "name": "Quasar (formerly); Martyr",
+      "identity": "Phyla-Vell",
+      "kind": "character",
+      "sector": "cosmic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_moondragon",
+      "name": "Moondragon",
+      "identity": "Heather Douglas",
+      "kind": "character",
+      "sector": "cosmic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_j_son",
+      "name": "J'son",
+      "identity": "J'son of Spartax",
+      "kind": "character",
+      "sector": "cosmic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_gilbert",
+      "name": "Gilbert Vaughn",
+      "identity": "Gilbert Vaughn",
+      "kind": "character",
+      "sector": "cosmic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_kayla",
+      "name": "Kayla Ballantine",
+      "identity": "Kayla Ballantine",
+      "kind": "character",
+      "sector": "cosmic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_okoye",
+      "name": "Okoye",
+      "identity": "Okoye",
+      "kind": "character",
+      "sector": "hero",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_nakia",
+      "name": "Malice",
+      "identity": "Nakia",
+      "kind": "character",
+      "sector": "hero",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_ayo",
+      "name": "Midnight Angel",
+      "identity": "Ayo",
+      "kind": "character",
+      "sector": "hero",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_monica_lynne",
+      "name": "Monica Lynne",
+      "identity": "Monica Lynne",
+      "kind": "character",
+      "sector": "hero",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_tetu",
+      "name": "Tetu",
+      "identity": "Tetu",
+      "kind": "character",
+      "sector": "hero",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_bucky",
+      "name": "Winter Soldier",
+      "identity": "James Buchanan Barnes",
+      "kind": "character",
+      "sector": "hero",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_alexei",
+      "name": "Red Guardian",
+      "identity": "Alexei Shostakov",
+      "kind": "character",
+      "sector": "hero",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_yelena",
+      "name": "White Widow",
+      "identity": "Yelena Belova",
+      "kind": "character",
+      "sector": "hero",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_sharon",
+      "name": "Agent 13",
+      "identity": "Sharon Carter",
+      "kind": "character",
+      "sector": "hero",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_peggy",
+      "name": "Peggy Carter",
+      "identity": "Margaret Carter",
+      "kind": "character",
+      "sector": "hero",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_clea",
+      "name": "Clea",
+      "identity": "Clea",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_wong",
+      "name": "Wong",
+      "identity": "Wong",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_dormammu",
+      "name": "Dormammu",
+      "identity": "Dormammu",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_umar",
+      "name": "Umar",
+      "identity": "Umar",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_orini",
+      "name": "Orini",
+      "identity": "Orini",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_hamir",
+      "name": "Hamir",
+      "identity": "Hamir",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_ancient_one",
+      "name": "Ancient One",
+      "identity": "Yao",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_mephisto",
+      "name": "Mephisto",
+      "identity": "Mephisto",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_nightmare",
+      "name": "Nightmare",
+      "identity": "Nightmare",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_satana",
+      "name": "Satana",
+      "identity": "Satana Hellstrom",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_laufey",
+      "name": "Laufey",
+      "identity": "Laufey",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_jane_foster",
+      "name": "Jane Foster",
+      "identity": "Jane Foster",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_beta_ray_bill",
+      "name": "Beta Ray Bill",
+      "identity": "Beta Ray Bill",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_skurge",
+      "name": "Skurge",
+      "identity": "Skurge",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_hela",
+      "name": "Hela",
+      "identity": "Hela",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_malekith",
+      "name": "Malekith",
+      "identity": "Malekith",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_surtur",
+      "name": "Surtur",
+      "identity": "Surtur",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_balder",
+      "name": "Balder",
+      "identity": "Balder",
+      "kind": "character",
+      "sector": "mystic",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_madelyne",
+      "name": "Goblin Queen",
+      "identity": "Madelyne Pryor",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_corsair",
+      "name": "Corsair",
+      "identity": "Christopher Summers",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_sinister",
+      "name": "Mister Sinister",
+      "identity": "Nathaniel Essex",
+      "kind": "character",
+      "sector": "mutant",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_jocasta",
+      "name": "Jocasta",
+      "identity": "Jocasta",
+      "kind": "character",
+      "sector": "hero",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_eric_williams",
+      "name": "Grim Reaper",
+      "identity": "Eric Williams",
+      "kind": "character",
+      "sector": "villain",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
+      "continuity": "Earth-616",
+      "status": "Historical subject; no present status asserted"
+    },
+    {
+      "id": "c_rel_whirlwind",
+      "name": "Whirlwind",
+      "identity": "David Cannon",
+      "kind": "character",
+      "sector": "villain",
+      "summary": "Relationship Atlas subject; sourced interpersonal history available in the relationship research view.",
+      "source": "",
       "continuity": "Earth-616",
       "status": "Historical subject; no present status asserted"
     }
@@ -10044,6 +10539,1931 @@
       "source_id": "JES",
       "continuity": "Earth-616",
       "confidence": "Reference supported"
+    },
+    {
+      "id": "rel_CL001",
+      "source": "c_matt",
+      "target": "c_punisher",
+      "kind": "related",
+      "era": "1982 encounter",
+      "note": "ideology (matt → frank): Opposes lethal vigilantism [CL001]",
+      "source_id": "REL_P2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL003",
+      "source": "c_matt",
+      "target": "c_punisher",
+      "kind": "conflict",
+      "era": "Across cited encounters",
+      "note": "conflict (matt → frank): Intervenes against Frank’s methods [CL003]",
+      "source_id": "REL_P2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL009",
+      "source": "c_luke",
+      "target": "c_matt",
+      "kind": "conflict",
+      "era": "Shadowland 2010",
+      "note": "conflict (luke → matt): Opposes Matt’s Hand-led regime [CL009]",
+      "source_id": "REL_L3",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL014",
+      "source": "c_matt",
+      "target": "c_foggy",
+      "kind": "associated",
+      "era": "Early career; other periods",
+      "note": "professional (matt → foggy): Runs a legal partnership [CL014]",
+      "source_id": "FOGR",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL015",
+      "source": "c_foggy",
+      "target": "c_matt",
+      "kind": "related",
+      "era": "2011 series #16–21",
+      "note": "trust (foggy → matt): Breaks ties over concerns about Matt [CL015]",
+      "source_id": "REL_F2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL022",
+      "source": "c_elektra",
+      "target": "c_matt",
+      "kind": "related",
+      "era": "2022",
+      "note": "influence (elektra → matt): Recruits Matt as a partner [CL022]",
+      "source_id": "FIST",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL026",
+      "source": "c_kingpin",
+      "target": "c_matt",
+      "kind": "associated",
+      "era": "Mayor Fisk arc",
+      "note": "authority (fisk → matt): Holds municipal authority as mayor [CL026]",
+      "source_id": "REL_K2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL031",
+      "source": "c_matt",
+      "target": "c_peter",
+      "kind": "related",
+      "era": "Early shared history; see Marvel article",
+      "note": "competence_respect (matt → peter): Praises Peter’s heroism [CL031]",
+      "source_id": "REL_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL032",
+      "source": "c_matt",
+      "target": "c_peter",
+      "kind": "conflict",
+      "era": "1966",
+      "note": "conflict (matt → peter): Clashes due to villain manipulation [CL032]",
+      "source_id": "REL_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL038",
+      "source": "c_blindspot",
+      "target": "c_matt",
+      "kind": "related",
+      "era": "2015–16",
+      "note": "dependence (sam → matt): Relies on Matt for guidance [CL038]",
+      "source_id": "REL_B1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL040",
+      "source": "c_karen",
+      "target": "c_matt",
+      "kind": "conflict",
+      "era": "Born Again, 1986",
+      "note": "betrayal (karen → matt): Sells Matt’s secret identity [CL040]",
+      "source_id": "REL_C1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL041",
+      "source": "c_matt",
+      "target": "c_karen",
+      "kind": "related",
+      "era": "1969",
+      "note": "trust (matt → karen): Shares vulnerable identity information [CL041]",
+      "source_id": "REL_C1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL049",
+      "source": "c_matt",
+      "target": "c_punisher",
+      "kind": "associated",
+      "era": "Trial of the Punisher (2013)",
+      "note": "professional (matt → frank): Participates in Frank’s legal accountability [CL049]",
+      "source_id": "REL_R02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL059",
+      "source": "c_mystique",
+      "target": "c_rogue",
+      "kind": "family",
+      "era": "Rogue's childhood",
+      "note": "family (mystique → rogue): Raised Rogue as her daughter [CL059]",
+      "source_id": "REL_MX03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL060",
+      "source": "c_rel_destiny",
+      "target": "c_rogue",
+      "kind": "family",
+      "era": "Rogue's childhood",
+      "note": "family (destiny → rogue): Helped raise Rogue [CL060]",
+      "source_id": "REL_MX03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL061",
+      "source": "c_rogue",
+      "target": "c_rel_destiny",
+      "kind": "related",
+      "era": "Marvel retrospective",
+      "note": "affection (rogue → destiny): Feels especially close to Destiny [CL061]",
+      "source_id": "REL_MX01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL062",
+      "source": "c_mystique",
+      "target": "c_rel_destiny",
+      "kind": "romance",
+      "era": "Across historic eras",
+      "note": "romance (mystique → destiny): Shared a longstanding romantic partnership [CL062]",
+      "source_id": "REL_MX03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL064",
+      "source": "c_mystique",
+      "target": "c_rogue",
+      "kind": "related",
+      "era": "Brotherhood era",
+      "note": "influence (mystique → rogue): Recruited Rogue into Brotherhood activities [CL064]",
+      "source_id": "REL_MX03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL065",
+      "source": "c_rogue",
+      "target": "c_mystique",
+      "kind": "conflict",
+      "era": "Early X-Men transition",
+      "note": "conflict (rogue → mystique): Left Mystique's Brotherhood orbit for the X-Men [CL065]",
+      "source_id": "REL_MX01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL066",
+      "source": "c_rogue",
+      "target": "c_gambit",
+      "kind": "romance",
+      "era": "1990s–2018",
+      "note": "romance (rogue → gambit): Built a romance through repeated ruptures [CL066]",
+      "source_id": "REL_MX01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL068",
+      "source": "c_rogue",
+      "target": "c_gambit",
+      "kind": "related",
+      "era": "Uncanny X-Men #350",
+      "note": "trust (rogue → gambit): Left Gambit after learning his hidden Marauders involvement [CL068]",
+      "source_id": "REL_MX01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL069",
+      "source": "c_gambit",
+      "target": "c_rel_bella",
+      "kind": "romance",
+      "era": "Prior to Rogue romance",
+      "note": "romance (gambit → bella): Had been married to Bella Donna [CL069]",
+      "source_id": "REL_MX04",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL070",
+      "source": "c_mystique",
+      "target": "c_gambit",
+      "kind": "conflict",
+      "era": "Xavier Institute Foxx episode",
+      "note": "coercion (mystique → gambit): Approached Gambit while disguising herself as Foxx [CL070]",
+      "source_id": "REL_MX02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL072",
+      "source": "c_mystique",
+      "target": "c_kurt",
+      "kind": "family",
+      "era": "Birth and later retcons",
+      "note": "family (mystique → nightcrawler): Is Kurt Wagner's parent [CL072]",
+      "source_id": "REL_MX02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL073",
+      "source": "c_mystique",
+      "target": "c_rel_graydon",
+      "kind": "family",
+      "era": "Early family history",
+      "note": "family (mystique → graydon): Is Graydon Creed's parent [CL073]",
+      "source_id": "REL_MX02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL074",
+      "source": "c_mystique",
+      "target": "c_rel_graydon",
+      "kind": "conflict",
+      "era": "Early family history",
+      "note": "conflict (mystique → graydon): Abandoned Graydon when he was young [CL074]",
+      "source_id": "REL_MX02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL075",
+      "source": "c_rogue",
+      "target": "c_carol",
+      "kind": "conflict",
+      "era": "Early Rogue stories",
+      "note": "conflict (rogue → carol): Absorbed Carol Danvers's powers and memories [CL075]",
+      "source_id": "REL_MX03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL076",
+      "source": "c_charles",
+      "target": "c_magneto",
+      "kind": "ally",
+      "era": "Before founding X-Men",
+      "note": "friendship (charles → magneto): Befriended Magneto before their political divide [CL076]",
+      "source_id": "XM",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL078",
+      "source": "c_charles",
+      "target": "c_magneto",
+      "kind": "related",
+      "era": "Emergence of Magneto persona",
+      "note": "ideology (charles → magneto): Advocated peaceful coexistence against Magneto's supremacist vision [CL078]",
+      "source_id": "XM",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL082",
+      "source": "c_strucker",
+      "target": "c_rel_gabrielle",
+      "kind": "conflict",
+      "era": "HYDRA kidnapping",
+      "note": "coercion (strucker → gabrielle): Abducted Gabrielle Haller [CL082]",
+      "source_id": "XM",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL083",
+      "source": "c_charles",
+      "target": "c_rel_gabrielle",
+      "kind": "ally",
+      "era": "Strucker kidnapping",
+      "note": "protection (charles → gabrielle): Helped rescue his friend Gabrielle [CL083]",
+      "source_id": "XM",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL084",
+      "source": "c_magneto",
+      "target": "c_rel_gabrielle",
+      "kind": "ally",
+      "era": "Strucker kidnapping",
+      "note": "protection (magneto → gabrielle): Helped rescue their mutual friend Gabrielle [CL084]",
+      "source_id": "XM",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL085",
+      "source": "c_rel_bella",
+      "target": "c_rogue",
+      "kind": "conflict",
+      "era": "Bella Donna retaliation",
+      "note": "conflict (bella → rogue): Targeted Rogue through an abduction involving Cody [CL085]",
+      "source_id": "REL_MX01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL087",
+      "source": "c_rogue",
+      "target": "c_gambit",
+      "kind": "ally",
+      "era": "2018 wedding",
+      "note": "cooperation (rogue → gambit): Accepted Gambit's proposal and married him [CL087]",
+      "source_id": "REL_MX01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL089",
+      "source": "c_rogue",
+      "target": "c_charles",
+      "kind": "related",
+      "era": "Early X-Men transition",
+      "note": "dependence (rogue → charles): Turned to Xavier for help after absorbing Carol's psyche [CL089]",
+      "source_id": "REL_MX01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL090",
+      "source": "c_reed",
+      "target": "c_ben",
+      "kind": "ally",
+      "era": "College through FF founding",
+      "note": "friendship (reed → ben): Was Ben's friend before they became the Fantastic Four [CL090]",
+      "source_id": "FF",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL092",
+      "source": "c_reed",
+      "target": "c_ben",
+      "kind": "associated",
+      "era": "Before FF launch",
+      "note": "professional (reed → ben): Offered Ben the pilot's role on his experimental spacecraft [CL092]",
+      "source_id": "FF",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL093",
+      "source": "c_reed",
+      "target": "c_sue",
+      "kind": "romance",
+      "era": "Fantastic Four Annual #3",
+      "note": "romance (reed → sue): Married Sue after years together [CL093]",
+      "source_id": "REL_FF03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL095",
+      "source": "c_reed",
+      "target": "c_sue",
+      "kind": "associated",
+      "era": "Early FF era",
+      "note": "authority (reed → sue): Held early patriarchal authority over Sue within the FF [CL095]",
+      "source_id": "FF",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL096",
+      "source": "c_sue",
+      "target": "c_reed",
+      "kind": "conflict",
+      "era": "Early FF leadership evolution",
+      "note": "conflict (sue → reed): Rejected Reed's unchallenged authority and sought a more equal voice [CL096]",
+      "source_id": "FF",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL099",
+      "source": "c_johnny",
+      "target": "c_ben",
+      "kind": "ally",
+      "era": "Across FF history",
+      "note": "friendship (johnny → ben): Regards Ben as his closest friend [CL099]",
+      "source_id": "REL_FF02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL101",
+      "source": "c_johnny",
+      "target": "c_ben",
+      "kind": "conflict",
+      "era": "Fantastic Four Fanfare 2025",
+      "note": "conflict (johnny → ben): Carries on a prank rivalry with Ben [CL101]",
+      "source_id": "REL_FF04",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL109",
+      "source": "c_johnny",
+      "target": "c_franklin",
+      "kind": "family",
+      "era": "FF family history",
+      "note": "family (johnny → franklin): Is Franklin's uncle [CL109]",
+      "source_id": "REL_FF02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL110",
+      "source": "c_johnny",
+      "target": "c_valeria",
+      "kind": "family",
+      "era": "FF family history",
+      "note": "family (johnny → valeria): Is Valeria's uncle [CL110]",
+      "source_id": "REL_FF02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL111",
+      "source": "c_ben",
+      "target": "c_alicia",
+      "kind": "romance",
+      "era": "Fantastic Four (2018) #5",
+      "note": "romance (ben → alicia): Married Alicia Masters after long courtship [CL111]",
+      "source_id": "REL_FF05",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL113",
+      "source": "c_johnny",
+      "target": "c_ben",
+      "kind": "related",
+      "era": "Ben and Alicia's wedding",
+      "note": "affection (johnny → ben): Organized Ben's bachelor celebration [CL113]",
+      "source_id": "REL_FF05",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL114",
+      "source": "c_johnny",
+      "target": "c_crystal",
+      "kind": "romance",
+      "era": "Fantastic Four #105–125",
+      "note": "romance (johnny → crystal): Developed a romantic relationship with Crystal [CL114]",
+      "source_id": "REL_FF06",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL116",
+      "source": "c_vision",
+      "target": "c_wanda",
+      "kind": "ally",
+      "era": "Avengers #76",
+      "note": "protection (vision → wanda): Tried to save Wanda at their first meeting [CL116]",
+      "source_id": "REL_AV01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL118",
+      "source": "c_wanda",
+      "target": "c_vision",
+      "kind": "romance",
+      "era": "Avengers #91",
+      "note": "romance (wanda → vision): Expressed romantic interest before Vision reciprocated [CL118]",
+      "source_id": "REL_AV01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL124",
+      "source": "c_wanda",
+      "target": "c_pietro",
+      "kind": "related",
+      "era": "Avengers #108",
+      "note": "affection (wanda → pietro): Was distraught by her brother's disappearance [CL124]",
+      "source_id": "REL_AV01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL125",
+      "source": "c_vision",
+      "target": "c_wanda",
+      "kind": "related",
+      "era": "West Coast Avengers #44–45",
+      "note": "dependence (vision → wanda): Lost memories of the marriage following reconstruction [CL125]",
+      "source_id": "REL_AV01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL127",
+      "source": "c_rel_agatha",
+      "target": "c_wanda",
+      "kind": "ally",
+      "era": "Vision and Scarlet Witch #12",
+      "note": "friendship (agatha → wanda): Was Wanda's friend when she revealed the twins' origins [CL127]",
+      "source_id": "REL_AV01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL128",
+      "source": "c_star_lord",
+      "target": "c_mantis",
+      "kind": "related",
+      "era": "2008 Guardians founding",
+      "note": "influence (quill → mantis): Asked Mantis to use mental influence to recruit Guardians [CL128]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL129",
+      "source": "c_mantis",
+      "target": "c_rocket",
+      "kind": "conflict",
+      "era": "2008 Guardians founding",
+      "note": "coercion (mantis → rocket): Mentally pushed Rocket to join the Guardians [CL129]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL130",
+      "source": "c_mantis",
+      "target": "c_groot",
+      "kind": "conflict",
+      "era": "2008 Guardians founding",
+      "note": "coercion (mantis → groot): Mentally pushed Groot to join the Guardians [CL130]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL131",
+      "source": "c_mantis",
+      "target": "c_gamora",
+      "kind": "conflict",
+      "era": "2008 Guardians founding",
+      "note": "coercion (mantis → gamora): Mentally pushed Gamora to join the Guardians [CL131]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL132",
+      "source": "c_mantis",
+      "target": "c_drax",
+      "kind": "conflict",
+      "era": "2008 Guardians founding",
+      "note": "coercion (mantis → drax): Mentally pushed Drax to join the Guardians [CL132]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL133",
+      "source": "c_mantis",
+      "target": "c_adam_w",
+      "kind": "conflict",
+      "era": "2008 Guardians founding",
+      "note": "coercion (mantis → adam): Mentally pushed Adam Warlock to join the Guardians [CL133]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL134",
+      "source": "c_mantis",
+      "target": "c_rel_phyla",
+      "kind": "conflict",
+      "era": "2008 Guardians founding",
+      "note": "coercion (mantis → phyla): Mentally pushed Phyla-Vell, then Quasar, to join the Guardians [CL134]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL135",
+      "source": "c_star_lord",
+      "target": "c_rocket",
+      "kind": "conflict",
+      "era": "2008 Guardians founding",
+      "note": "betrayal (quill → rocket): Arranged mental influence on Rocket's decision to join the team [CL135]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL136",
+      "source": "c_star_lord",
+      "target": "c_gamora",
+      "kind": "conflict",
+      "era": "2008 Guardians founding",
+      "note": "betrayal (quill → gamora): Arranged mental influence on Gamora's recruitment [CL136]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL137",
+      "source": "c_rocket",
+      "target": "c_star_lord",
+      "kind": "ally",
+      "era": "Guardians of the Galaxy (2008) #7–12",
+      "note": "protection (rocket → quill): Led a squad that came to Quill's aid in the Negative Zone [CL137]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL138",
+      "source": "c_ronan",
+      "target": "c_star_lord",
+      "kind": "conflict",
+      "era": "Guardians of the Galaxy (2008) #7–12",
+      "note": "conflict (ronan → quill): Defeated and banished Quill after a dispute about the Kree Babel Spire [CL138]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL140",
+      "source": "c_groot",
+      "target": "c_rocket",
+      "kind": "ally",
+      "era": "Groot (2015) #2–5",
+      "note": "friendship (groot → rocket): Called Rocket his best friend and undertook a journey to reunite with him [CL140]",
+      "source_id": "REL_COS04",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL143",
+      "source": "c_rel_phyla",
+      "target": "c_rel_moondragon",
+      "kind": "romance",
+      "era": "Annihilation: Conquest aftermath",
+      "note": "romance (phyla → moondragon): Sought to restore Moondragon to life after her death [CL143]",
+      "source_id": "REL_COS03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL144",
+      "source": "c_rel_phyla",
+      "target": "c_rel_moondragon",
+      "kind": "ally",
+      "era": "Post-Annihilation: Conquest",
+      "note": "protection (phyla → moondragon): Entered Oblivion's realm and made a dark bargain to bring Moondragon back [CL144]",
+      "source_id": "REL_COS03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL146",
+      "source": "c_drax",
+      "target": "c_rel_moondragon",
+      "kind": "family",
+      "era": "Drax/Moondragon origin",
+      "note": "family (drax → moondragon): Arthur Douglas, reborn as Drax, is Heather Douglas's father [CL146]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL148",
+      "source": "c_quasar",
+      "target": "c_rel_phyla",
+      "kind": "ally",
+      "era": "Annihilation: Conquest aftermath",
+      "note": "protection (wendell → phyla): Helped free Phyla from Annihilus's lingering influence within the Quantum Bands [CL148]",
+      "source_id": "REL_COS03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL149",
+      "source": "c_quasar",
+      "target": "c_rel_phyla",
+      "kind": "related",
+      "era": "Quantum Bands succession",
+      "note": "competence_respect (wendell → phyla): Reassured Phyla that she was worthy of being Quasar [CL149]",
+      "source_id": "REL_COS03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL151",
+      "source": "c_quasar",
+      "target": "c_nova_rider",
+      "kind": "ally",
+      "era": "Nova Corps Worldmind crisis",
+      "note": "protection (wendell → richard): Gave Richard Rider the Quantum Bands to stop his physical deterioration [CL151]",
+      "source_id": "REL_COS03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL153",
+      "source": "c_quasar",
+      "target": "c_drax",
+      "kind": "ally",
+      "era": "Moondragon resurrection arc",
+      "note": "cooperation (wendell → drax): Worked with Drax against Maelstrom and the Dragon of the Moon [CL153]",
+      "source_id": "REL_COS03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL155",
+      "source": "c_rel_moondragon",
+      "target": "c_quasar",
+      "kind": "romance",
+      "era": "Vaughn Security Consultants era",
+      "note": "romance (moondragon → wendell): Expressed romantic interest in Wendell while working for him [CL155]",
+      "source_id": "REL_COS03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL156",
+      "source": "c_quasar",
+      "target": "c_rel_kayla",
+      "kind": "romance",
+      "era": "Vaughn Security Consultants / Star Brand era",
+      "note": "romance (wendell → kayla): Returned Kayla's affection and entered a relationship with her [CL156]",
+      "source_id": "REL_COS03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL158",
+      "source": "c_rel_gilbert",
+      "target": "c_quasar",
+      "kind": "family",
+      "era": "Wendell's youth",
+      "note": "family (gilbert → wendell): Was Wendell's father and often withheld visible affection [CL158]",
+      "source_id": "REL_COS03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL159",
+      "source": "c_quasar",
+      "target": "c_rel_gilbert",
+      "kind": "related",
+      "era": "Wendell's youth and early career",
+      "note": "influence (wendell → gilbert): Sought his father's affection and approval despite Gilbert's distance [CL159]",
+      "source_id": "REL_COS03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL160",
+      "source": "c_quasar",
+      "target": "c_ben",
+      "kind": "ally",
+      "era": "Project PEGASUS era",
+      "note": "friendship (wendell → ben): Became friends with Ben Grimm at Project PEGASUS [CL160]",
+      "source_id": "REL_COS03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL161",
+      "source": "c_star_lord",
+      "target": "c_kate",
+      "kind": "romance",
+      "era": "Guardians / Black Vortex era",
+      "note": "romance (quill → kitty): Built a romantic relationship with Kate Pryde and proposed marriage [CL161]",
+      "source_id": "REL_COS07",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL163",
+      "source": "c_kate",
+      "target": "c_star_lord",
+      "kind": "related",
+      "era": "Post-Black Vortex engagement",
+      "note": "trust (kitty → quill): Ended the engagement after a betrayal of trust attributed to Peter [CL163]",
+      "source_id": "REL_COS07",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL164",
+      "source": "c_rel_j_son",
+      "target": "c_star_lord",
+      "kind": "family",
+      "era": "Spartax family history",
+      "note": "family (j_son → quill): Is Peter Quill's father, tied to Spartax royal succession [CL164]",
+      "source_id": "REL_COS02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL165",
+      "source": "c_star_lord",
+      "target": "c_rel_j_son",
+      "kind": "conflict",
+      "era": "Spartax succession / Black Vortex",
+      "note": "conflict (quill → j_son): Rejected his father's intended royal succession and later opposed J'son's plans [CL165]",
+      "source_id": "REL_COS02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL166",
+      "source": "c_kate",
+      "target": "c_rel_j_son",
+      "kind": "conflict",
+      "era": "Black Vortex crisis",
+      "note": "conflict (kitty → j_son): Helped thwart J'son's attempt to use the Black Vortex [CL166]",
+      "source_id": "REL_COS07",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL167",
+      "source": "c_kate",
+      "target": "c_star_lord",
+      "kind": "ally",
+      "era": "Black Vortex crisis",
+      "note": "cooperation (kitty → quill): Helped Peter oppose J'son and save Spartax [CL167]",
+      "source_id": "REL_COS07",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL168",
+      "source": "c_gamora",
+      "target": "c_adam_w",
+      "kind": "ally",
+      "era": "Guardians of the Galaxy (2008) #7–12",
+      "note": "cooperation (gamora → adam): Accompanied Adam Warlock in his Universal Church of Truth mission after the team split [CL168]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL169",
+      "source": "c_star_lord",
+      "target": "c_groot",
+      "kind": "conflict",
+      "era": "2008 Guardians founding",
+      "note": "betrayal (quill → groot): Arranged Mantis's mental influence on Groot's joining the team [CL169]",
+      "source_id": "REL_COS01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_CL170",
+      "source": "c_rel_phyla",
+      "target": "c_drax",
+      "kind": "ally",
+      "era": "Moondragon resurrection arc",
+      "note": "cooperation (phyla → drax): Joined Drax in action against the Dragon of the Moon [CL170]",
+      "source_id": "REL_COS03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_WK_CL003",
+      "source": "c_rel_nakia",
+      "target": "c_rel_monica_lynne",
+      "kind": "conflict",
+      "era": "Dora Milaje history; early Black Panther story",
+      "note": "conflict (nakia → monica_lynne): attempted lethal attack [WK_CL003]",
+      "source_id": "REL_WK01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_WK_CL004",
+      "source": "c_tchalla",
+      "target": "c_rel_nakia",
+      "kind": "associated",
+      "era": "Dora Milaje history; early Black Panther story",
+      "note": "authority (tchalla → nakia): banished from royal service after attack [WK_CL004]",
+      "source_id": "REL_WK01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_WK_CL005",
+      "source": "c_shuri",
+      "target": "c_namor",
+      "kind": "conflict",
+      "era": "New Avengers (2013) #7",
+      "note": "conflict (shuri → namor): rejected proposed peace treaty [WK_CL005]",
+      "source_id": "REL_WK03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_WK_CL006",
+      "source": "c_namor",
+      "target": "c_shuri",
+      "kind": "ally",
+      "era": "New Avengers (2013) #7",
+      "note": "cooperation (namor → shuri): sought a diplomatic peace agreement [WK_CL006]",
+      "source_id": "REL_WK03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_WK_CL007",
+      "source": "c_tchalla",
+      "target": "c_shuri",
+      "kind": "mentor",
+      "era": "Black Panther (2009) and Doomwar (2010)",
+      "note": "mentorship (tchalla → shuri): trained his younger sister [WK_CL007]",
+      "source_id": "REL_WK04",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_WK_CL009",
+      "source": "c_ramonda",
+      "target": "c_shuri",
+      "kind": "related",
+      "era": "Black Panther (2016) #8 and Wakanda (2022) #1",
+      "note": "influence (ramonda → shuri): encouraged daughter to address concerns [WK_CL009]",
+      "source_id": "REL_WK09",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_WK_CL010",
+      "source": "c_shuri",
+      "target": "c_rel_ayo",
+      "kind": "ally",
+      "era": "Black Panther (2016), Wakandan uprising",
+      "note": "cooperation (shuri → ayo): requested aid in defense of Wakanda [WK_CL010]",
+      "source_id": "REL_WK01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_WK_CL012",
+      "source": "c_rel_tetu",
+      "target": "c_rel_ayo",
+      "kind": "related",
+      "era": "Black Panther (2016) #6",
+      "note": "influence (tetu → aneka): attempted political recruitment [WK_CL012]",
+      "source_id": "REL_WK07",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_WK_CL014",
+      "source": "c_ramonda",
+      "target": "c_tchalla",
+      "kind": "related",
+      "era": "Black Panther: Allied Forces (2017 editorial)",
+      "note": "influence (ramonda → tchalla): offered candid counsel as adviser [WK_CL014]",
+      "source_id": "REL_WK05",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_WK_CL015",
+      "source": "c_tchalla",
+      "target": "c_rel_monica_lynne",
+      "kind": "romance",
+      "era": "Dora Milaje history",
+      "note": "romance (tchalla → monica_lynne): romantic interest identified by Marvel [WK_CL015]",
+      "source_id": "REL_WK01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C1",
+      "source": "c_natasha",
+      "target": "c_clint",
+      "kind": "related",
+      "era": "Early Iron Man/Hawkeye encounters (1960s)",
+      "note": "influence (natasha → clint): persuaded Clint to oppose Iron Man [SPY27_C1]",
+      "source_id": "REL_SPY27_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C3",
+      "source": "c_natasha",
+      "target": "c_rel_bucky",
+      "kind": "romance",
+      "era": "Tales of Suspense (2017) #100; Cold War backstory",
+      "note": "romance (natasha → bucky): former romantic partner [SPY27_C3]",
+      "source_id": "REL_SPY27_S4",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C4",
+      "source": "c_natasha",
+      "target": "c_rel_alexei",
+      "kind": "romance",
+      "era": "Avengers (1963) #43–44; Red Guardian history",
+      "note": "romance (natasha → alexei): former spouse [SPY27_C4]",
+      "source_id": "REL_SPY27_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C5",
+      "source": "c_rel_yelena",
+      "target": "c_natasha",
+      "kind": "conflict",
+      "era": "Black Widow (1999) #1",
+      "note": "conflict (yelena → natasha): rival claimant to Black Widow mantle [SPY27_C5]",
+      "source_id": "REL_SPY27_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C6",
+      "source": "c_natasha",
+      "target": "c_rel_yelena",
+      "kind": "related",
+      "era": "Black Widow (2001) #1",
+      "note": "influence (natasha → yelena): attempted deprogramming through identity exchange [SPY27_C6]",
+      "source_id": "REL_SPY27_S3",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C7",
+      "source": "c_natasha",
+      "target": "c_fury",
+      "kind": "associated",
+      "era": "Post-defection S.H.I.E.L.D. espionage assignments",
+      "note": "professional (natasha → nick_fury_sr): accepted espionage assignments from Fury [SPY27_C7]",
+      "source_id": "REL_SPY27_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C8",
+      "source": "c_clint",
+      "target": "c_rel_bucky",
+      "kind": "conflict",
+      "era": "Tales of Suspense (2017) #100",
+      "note": "conflict (clint → bucky): reluctant and distrustful investigative partnership [SPY27_C8]",
+      "source_id": "REL_SPY27_S4",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C9",
+      "source": "c_rel_bucky",
+      "target": "c_clint",
+      "kind": "ally",
+      "era": "Tales of Suspense (2017) #100",
+      "note": "cooperation (bucky → clint): investigated Natasha mystery with Clint [SPY27_C9]",
+      "source_id": "REL_SPY27_S4",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C10",
+      "source": "c_bobbi",
+      "target": "c_clint",
+      "kind": "romance",
+      "era": "Hawkeye (1983) #4",
+      "note": "romance (bobbi → clint): acknowledged love during crisis [SPY27_C10]",
+      "source_id": "REL_SPY27_S5",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C11",
+      "source": "c_valentina",
+      "target": "c_fury",
+      "kind": "romance",
+      "era": "Nick Fury, Agent of S.H.I.E.L.D. (1968) #2",
+      "note": "romance (valentina → nick_fury_sr): on-and-off intimate partner [SPY27_C11]",
+      "source_id": "REL_SPY27_S6",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C12",
+      "source": "c_valentina",
+      "target": "c_fury",
+      "kind": "conflict",
+      "era": "Secret Warriors (2009) #14–15",
+      "note": "betrayal (valentina → nick_fury_sr): hid Leviathan loyalty while close to Fury [SPY27_C12]",
+      "source_id": "REL_SPY27_S6",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C13",
+      "source": "c_valentina",
+      "target": "c_rel_sharon",
+      "kind": "ally",
+      "era": "Captain America (1968) #145",
+      "note": "cooperation (valentina → sharon): defended Sharon against Hydra [SPY27_C13]",
+      "source_id": "REL_SPY27_S6",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C15",
+      "source": "c_steve",
+      "target": "c_rel_bucky",
+      "kind": "ally",
+      "era": "Captain America #616–619 (Prisoner of War)",
+      "note": "protection (steve → bucky): worked to free Bucky from prison conspiracy [SPY27_C15]",
+      "source_id": "REL_SPY27_S8",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C16",
+      "source": "c_steve",
+      "target": "c_rel_peggy",
+      "kind": "romance",
+      "era": "Captain America (1968) #162 (wartime flashback)",
+      "note": "romance (steve → peggy): wartime romantic bond [SPY27_C16]",
+      "source_id": "REL_SPY27_S7",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C17",
+      "source": "c_rel_sharon",
+      "target": "c_rel_peggy",
+      "kind": "family",
+      "era": "Captain America (2004) #49",
+      "note": "family (sharon → peggy): niece of Peggy Carter [SPY27_C17]",
+      "source_id": "REL_SPY27_S7",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C18",
+      "source": "c_rel_peggy",
+      "target": "c_rel_sharon",
+      "kind": "related",
+      "era": "Captain America (2004) #49",
+      "note": "influence (peggy → sharon): wartime service inspired Sharon's espionage career [SPY27_C18]",
+      "source_id": "REL_SPY27_S7",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C19",
+      "source": "c_rel_peggy",
+      "target": "c_gabe",
+      "kind": "ally",
+      "era": "Captain America (1968) #175",
+      "note": "cooperation (peggy → gabe): joint undercover infiltration of Secret Empire [SPY27_C19]",
+      "source_id": "REL_SPY27_S7",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C20",
+      "source": "c_rel_sharon",
+      "target": "c_steve",
+      "kind": "romance",
+      "era": "Captain America (2004) #49",
+      "note": "romance (sharon → steve): loved Steve Rogers and mourned his apparent death [SPY27_C20]",
+      "source_id": "REL_SPY27_S7",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_SPY27_C21",
+      "source": "c_rel_yelena",
+      "target": "c_bobbi",
+      "kind": "conflict",
+      "era": "Secret Avengers (2013) #15",
+      "note": "conflict (yelena → bobbi): fought Mockingbird during A.I.M. mission [SPY27_C21]",
+      "source_id": "REL_SPY27_S3",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C1",
+      "source": "c_rel_clea",
+      "target": "c_strange",
+      "kind": "ally",
+      "era": "Strange Tales #126 (1964)",
+      "note": "protection (clea → strange): guided and protected Strange [MYP_C1]",
+      "source_id": "REL_MYP_S3",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C2",
+      "source": "c_strange",
+      "target": "c_rel_clea",
+      "kind": "mentor",
+      "era": "Doctor Strange (1968) #171–173",
+      "note": "mentorship (strange → clea): took Clea as student [MYP_C2]",
+      "source_id": "REL_MYP_S3",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C3",
+      "source": "c_rel_clea",
+      "target": "c_rel_dormammu",
+      "kind": "conflict",
+      "era": "Strange Tales #126–127",
+      "note": "conflict (clea → dormammu): defied Dormammu to help Strange [MYP_C3]",
+      "source_id": "REL_MYP_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C5",
+      "source": "c_rel_umar",
+      "target": "c_rel_clea",
+      "kind": "conflict",
+      "era": "Doctor Strange (1968) #171–173",
+      "note": "coercion (umar → clea): imprisoned daughter Clea [MYP_C5]",
+      "source_id": "REL_MYP_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C6",
+      "source": "c_rel_orini",
+      "target": "c_rel_clea",
+      "kind": "conflict",
+      "era": "Doctor Strange (1968) #171–173",
+      "note": "conflict (orini → clea): sided with Umar against Clea [MYP_C6]",
+      "source_id": "REL_MYP_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C7",
+      "source": "c_rel_dormammu",
+      "target": "c_rel_umar",
+      "kind": "family",
+      "era": "Strange Tales #150–152",
+      "note": "family (dormammu → umar): sibling kinship [MYP_C7]",
+      "source_id": "REL_MYP_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C8",
+      "source": "c_rel_wong",
+      "target": "c_strange",
+      "kind": "associated",
+      "era": "Doctor Strange (1968) #1 onward",
+      "note": "professional (wong → strange): served Strange as aide [MYP_C8]",
+      "source_id": "REL_MYP_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C9",
+      "source": "c_rel_wong",
+      "target": "c_strange",
+      "kind": "ally",
+      "era": "Doctor Strange (1968) #1 onward",
+      "note": "friendship (wong → strange): developed personal friendship [MYP_C9]",
+      "source_id": "REL_MYP_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C10",
+      "source": "c_rel_hamir",
+      "target": "c_rel_wong",
+      "kind": "family",
+      "era": "Wong comics history: family service",
+      "note": "family (hamir → wong): father and son [MYP_C10]",
+      "source_id": "REL_MYP_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C11",
+      "source": "c_rel_hamir",
+      "target": "c_rel_wong",
+      "kind": "related",
+      "era": "Wong comics history: family service",
+      "note": "influence (hamir → wong): raised Wong in service tradition [MYP_C11]",
+      "source_id": "REL_MYP_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C12",
+      "source": "c_rel_ancient_one",
+      "target": "c_rel_wong",
+      "kind": "mentor",
+      "era": "Wong comics history: training",
+      "note": "mentorship (ancient_one → wong): trained Wong [MYP_C12]",
+      "source_id": "REL_MYP_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C13",
+      "source": "c_rel_ancient_one",
+      "target": "c_strange",
+      "kind": "mentor",
+      "era": "Strange Tales #110–115",
+      "note": "mentorship (ancient_one → strange): taught Strange mystic arts [MYP_C13]",
+      "source_id": "REL_MYP_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C14",
+      "source": "c_rel_wong",
+      "target": "c_robbie",
+      "kind": "ally",
+      "era": "Wong comics history: Mephisto conflict",
+      "note": "cooperation (wong → johnny_blaze): worked against Mephisto [MYP_C14]",
+      "source_id": "REL_MYP_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C15",
+      "source": "c_robbie",
+      "target": "c_rel_mephisto",
+      "kind": "conflict",
+      "era": "Wong comics history: Mephisto conflict",
+      "note": "conflict (johnny_blaze → mephisto): opposed Mephisto [MYP_C15]",
+      "source_id": "REL_MYP_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C16",
+      "source": "c_rel_wong",
+      "target": "c_natasha",
+      "kind": "ally",
+      "era": "Wong comics history: Blasphemy Cartel",
+      "note": "cooperation (wong → natasha): consulted Black Widow during investigation [MYP_C16]",
+      "source_id": "REL_MYP_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MYP_C17",
+      "source": "c_strange",
+      "target": "c_rel_nightmare",
+      "kind": "conflict",
+      "era": "Strange Tales #110",
+      "note": "conflict (strange → nightmare): confronted Nightmare [MYP_C17]",
+      "source_id": "REL_MYP_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C0",
+      "source": "c_odin",
+      "target": "c_rel_laufey",
+      "kind": "conflict",
+      "era": "Journey Into Mystery #112",
+      "note": "conflict (odin → laufey): Odin fought Laufey, who died leaving his infant son. [ASG26_C0]",
+      "source_id": "REL_ASG26_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C2",
+      "source": "c_loki",
+      "target": "c_thor",
+      "kind": "conflict",
+      "era": "Journey Into Mystery #85",
+      "note": "conflict (loki → thor): Loki escaped imprisonment and fought Thor, who defeated him. [ASG26_C2]",
+      "source_id": "REL_ASG26_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C4",
+      "source": "c_loki",
+      "target": "c_rel_dormammu",
+      "kind": "ally",
+      "era": "Avengers–Defenders War (1973)",
+      "note": "cooperation (loki → dormammu): Loki collaborated with Dormammu to obtain the Evil Eye. [ASG26_C4]",
+      "source_id": "ASG",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C5",
+      "source": "c_loki",
+      "target": "c_kingpin",
+      "kind": "related",
+      "era": "Acts of Vengeance (1989–90)",
+      "note": "influence (loki → fisk): Loki deceived Fisk into believing he directed the villain conspiracy. [ASG26_C5]",
+      "source_id": "ASG",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C6",
+      "source": "c_odin",
+      "target": "c_rel_surtur",
+      "kind": "conflict",
+      "era": "Thor #353 (1984)",
+      "note": "conflict (odin → surtur): Odin, Thor and Loki jointly fought Surtur's assault on Asgard. [ASG26_C6]",
+      "source_id": "REL_ASG26_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C7",
+      "source": "c_odin",
+      "target": "c_sif",
+      "kind": "associated",
+      "era": "Thor (1998) #26–35",
+      "note": "authority (odin → sif): Odin appointed Sif regent during his Odinsleep. [ASG26_C7]",
+      "source_id": "REL_ASG26_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C8",
+      "source": "c_sif",
+      "target": "c_rel_jane_foster",
+      "kind": "ally",
+      "era": "Thor #236 (1975)",
+      "note": "protection (sif → jane_foster): Sif transferred her life force to save dying Jane Foster. [ASG26_C8]",
+      "source_id": "REL_ASG26_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C9",
+      "source": "c_sif",
+      "target": "c_rel_beta_ray_bill",
+      "kind": "ally",
+      "era": "Thor #340 (1984)",
+      "note": "cooperation (sif → beta_ray_bill): Sif defended Bill's people from demons as he and Thor closed the portal. [ASG26_C9]",
+      "source_id": "REL_ASG26_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C10",
+      "source": "c_sif",
+      "target": "c_rel_malekith",
+      "kind": "conflict",
+      "era": "Thor (1998) #26–35",
+      "note": "conflict (sif → malekith): As regent Sif defended Asgard against Malekith. [ASG26_C10]",
+      "source_id": "REL_ASG26_S2",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C11",
+      "source": "c_rel_skurge",
+      "target": "c_rel_hela",
+      "kind": "conflict",
+      "era": "Thor #362 (1985)",
+      "note": "conflict (skurge → hela): Skurge rejected Hela's enticement and died opposing her ship Naglfar. [ASG26_C11]",
+      "source_id": "REL_ASG26_S3",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C12",
+      "source": "c_rel_skurge",
+      "target": "c_rel_balder",
+      "kind": "conflict",
+      "era": "Thor #260 (1977)",
+      "note": "conflict (skurge → balder): Skurge and the Enchantress battled Balder and Karnilla. [ASG26_C12]",
+      "source_id": "REL_ASG26_S3",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C13",
+      "source": "c_thor",
+      "target": "c_rel_surtur",
+      "kind": "conflict",
+      "era": "Thor #353 (1984)",
+      "note": "conflict (thor → surtur): Thor fought Surtur alongside Odin and Loki. [ASG26_C13]",
+      "source_id": "REL_ASG26_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_ASG26_C14",
+      "source": "c_thor",
+      "target": "c_loki",
+      "kind": "ally",
+      "era": "Thor #353 (1984)",
+      "note": "cooperation (thor → loki): Thor fought Surtur alongside Odin and Loki. [ASG26_C14]",
+      "source_id": "REL_ASG26_S1",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C01",
+      "source": "c_scott",
+      "target": "c_jean",
+      "kind": "romance",
+      "era": "X-Men #30 (1994)",
+      "note": "romance (cyclops → jean): Scott and Jean married. [MUT7_C01]",
+      "source_id": "REL_MUT7_S01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C02",
+      "source": "c_scott",
+      "target": "c_emma",
+      "kind": "romance",
+      "era": "New X-Men #139 (2003)",
+      "note": "romance (cyclops → emma): Scott and Emma conducted a psychic affair during his marriage. [MUT7_C02]",
+      "source_id": "REL_MUT7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C03",
+      "source": "c_scott",
+      "target": "c_rel_madelyne",
+      "kind": "conflict",
+      "era": "X-Factor #1 (1986)",
+      "note": "betrayal (cyclops → madelyne): Scott left Madelyne and infant Nathan after Jean returned. [MUT7_C03]",
+      "source_id": "REL_MUT7_S01",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C04",
+      "source": "c_scott",
+      "target": "c_cable",
+      "kind": "ally",
+      "era": "X-Factor #68 (1991)",
+      "note": "protection (cyclops → cable): Scott allowed Clan Askani to take infected Nathan into the future to save him. [MUT7_C04]",
+      "source_id": "REL_MUT7_S08",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C05",
+      "source": "c_ororo",
+      "target": "c_scott",
+      "kind": "associated",
+      "era": "Uncanny X-Men #201 (1986)",
+      "note": "authority (storm → cyclops): Storm defeated Scott in a contest for leadership. [MUT7_C05]",
+      "source_id": "REL_MUT7_S09",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C07",
+      "source": "c_jean",
+      "target": "c_emma",
+      "kind": "conflict",
+      "era": "New X-Men #139 (2003)",
+      "note": "conflict (jean → emma): Jean confronted Emma psychically over the affair. [MUT7_C07]",
+      "source_id": "REL_MUT7_S10",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C08",
+      "source": "c_jean",
+      "target": "c_ororo",
+      "kind": "ally",
+      "era": "X-Men after 1975",
+      "note": "friendship (jean → storm): Jean and Ororo became close friends. [MUT7_C08]",
+      "source_id": "REL_MUT7_S03",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C09",
+      "source": "c_jean",
+      "target": "c_cable",
+      "kind": "ally",
+      "era": "Adventures of Cyclops & Phoenix #1-4 (1994)",
+      "note": "protection (jean → cable): Jean helped raise Nathan in the future as Redd. [MUT7_C09]",
+      "source_id": "REL_MUT7_S12",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C10",
+      "source": "c_havok",
+      "target": "c_polaris",
+      "kind": "romance",
+      "era": "X-Men / Starjammers eras",
+      "note": "romance (havok → polaris): Alex and Lorna rekindled an intermittent romance. [MUT7_C10]",
+      "source_id": "REL_MUT7_S04",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C11",
+      "source": "c_havok",
+      "target": "c_vulcan",
+      "kind": "conflict",
+      "era": "Uncanny X-Men #475-486 (2006-07)",
+      "note": "conflict (havok → vulcan): Alex resisted Gabriel's bid for Shi'ar power. [MUT7_C11]",
+      "source_id": "REL_MUT7_S04",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C12",
+      "source": "c_vulcan",
+      "target": "c_rel_corsair",
+      "kind": "conflict",
+      "era": "Uncanny X-Men #475-486 (2006-07)",
+      "note": "conflict (vulcan → corsair): Gabriel killed his father Christopher. [MUT7_C12]",
+      "source_id": "REL_MUT7_S07",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C13",
+      "source": "c_rel_sinister",
+      "target": "c_rel_madelyne",
+      "kind": "conflict",
+      "era": "Inferno (1988-89)",
+      "note": "coercion (sinister → madelyne): Sinister created and programmed Madelyne to love Scott. [MUT7_C13]",
+      "source_id": "REL_MUT7_S05",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C14",
+      "source": "c_emma",
+      "target": "c_kate",
+      "kind": "related",
+      "era": "Astonishing X-Men (2004)",
+      "note": "trust (emma → kitty): Emma recruited Kitty as a safeguard against Emma herself. [MUT7_C14]",
+      "source_id": "REL_COS07",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C15",
+      "source": "c_logan",
+      "target": "c_kate",
+      "kind": "mentor",
+      "era": "Kitty Pryde and Wolverine #4 (1985)",
+      "note": "mentorship (logan → kitty): Logan trained Kitty to resist Ogun's domination. [MUT7_C15]",
+      "source_id": "REL_MUT7_S11",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C16",
+      "source": "c_scott",
+      "target": "c_jean",
+      "kind": "conflict",
+      "era": "New X-Men #139 (2003)",
+      "note": "betrayal (cyclops → jean): Scott and Emma conducted a psychic affair during his marriage. [MUT7_C16]",
+      "source_id": "REL_MUT7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_MUT7_C17",
+      "source": "c_jean",
+      "target": "c_emma",
+      "kind": "ally",
+      "era": "New X-Men #139-141 (2003)",
+      "note": "protection (jean → emma): Jean reassembled Emma's shattered diamond body. [MUT7_C17]",
+      "source_id": "REL_MUT7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C01",
+      "source": "c_hank",
+      "target": "c_janet",
+      "kind": "romance",
+      "era": "Avengers Origins: Ant-Man & Wasp #1 (2011)",
+      "note": "romance (hank_pym → janet): Hank and Janet's courtship was retold. [AVC7_C01]",
+      "source_id": "REL_AVC7_S02",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C02",
+      "source": "c_hank",
+      "target": "c_janet",
+      "kind": "conflict",
+      "era": "Avengers #213 (1981)",
+      "note": "coercion (hank_pym → janet): Hank struck Janet and pressured her to support a staged rescue. [AVC7_C02]",
+      "source_id": "AV",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C03",
+      "source": "c_ultron",
+      "target": "c_hank",
+      "kind": "conflict",
+      "era": "Avengers #54-55 (1968)",
+      "note": "conflict (ultron → hank_pym): Ultron turned against Hank and erased his memory. [AVC7_C03]",
+      "source_id": "AV",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C04",
+      "source": "c_ultron",
+      "target": "c_vision",
+      "kind": "conflict",
+      "era": "Avengers #57 (1968)",
+      "note": "coercion (ultron → vision): Ultron created Vision using Simon Williams's brain patterns. [AVC7_C04]",
+      "source_id": "REL_AVC7_S04",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C05",
+      "source": "c_ultron",
+      "target": "c_rel_jocasta",
+      "kind": "conflict",
+      "era": "Avengers #161-162 (1977)",
+      "note": "coercion (ultron → jocasta): Ultron created Jocasta as his intended bride; she rebelled. [AVC7_C05]",
+      "source_id": "REL_AVC7_S04",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C06",
+      "source": "c_rel_eric_williams",
+      "target": "c_simon",
+      "kind": "conflict",
+      "era": "Avengers #151 (1976)",
+      "note": "coercion (eric_williams → simon): Eric arranged Simon's revival for his own purposes. [AVC7_C06]",
+      "source_id": "REL_AVC7_S11",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C07",
+      "source": "c_rel_eric_williams",
+      "target": "c_vision",
+      "kind": "conflict",
+      "era": "Vision and the Scarlet Witch #3 (1983)",
+      "note": "coercion (eric_williams → vision): Eric attacked Vision and Simon over brotherhood. [AVC7_C07]",
+      "source_id": "REL_AVC7_S06",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C08",
+      "source": "c_simon",
+      "target": "c_vision",
+      "kind": "family",
+      "era": "Avengers era (1970s-1980s)",
+      "note": "family (simon → vision): Simon and Vision came to regard each other as brothers. [AVC7_C08]",
+      "source_id": "REL_AVC7_S05",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C09",
+      "source": "c_simon",
+      "target": "c_wanda",
+      "kind": "conflict",
+      "era": "West Coast Avengers (1989)",
+      "note": "conflict (simon → wanda): Simon refused Wanda's request to reuse his brain patterns. [AVC7_C09]",
+      "source_id": "REL_AVC7_S05",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C10",
+      "source": "c_simon",
+      "target": "c_wanda",
+      "kind": "romance",
+      "era": "Avengers (late 1990s)",
+      "note": "romance (simon → wanda): Wanda restored Simon and they began a romance. [AVC7_C10]",
+      "source_id": "REL_AVC7_S05",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C11",
+      "source": "c_carol",
+      "target": "c_simon",
+      "kind": "ally",
+      "era": "Avengers (1970s-1980s)",
+      "note": "friendship (carol → simon): Carol counseled Simon about fear of death. [AVC7_C11]",
+      "source_id": "REL_AVC7_S05",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C12",
+      "source": "c_beast",
+      "target": "c_simon",
+      "kind": "ally",
+      "era": "Avengers #164 (1977)",
+      "note": "friendship (beast → simon): Beast befriended Simon and encouraged acting. [AVC7_C12]",
+      "source_id": "REL_AVC7_S11",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C13",
+      "source": "c_scottlang",
+      "target": "c_cassie",
+      "kind": "ally",
+      "era": "Marvel Premiere #47 (1979)",
+      "note": "protection (scott_lang → cassie): Scott stole Ant-Man suit to save Cassie. [AVC7_C13]",
+      "source_id": "REL_AVC7_S07",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C14",
+      "source": "c_hank",
+      "target": "c_scottlang",
+      "kind": "related",
+      "era": "Marvel Premiere #47 (1979)",
+      "note": "trust (hank_pym → scott_lang): Hank let Scott keep the suit if used for good. [AVC7_C14]",
+      "source_id": "REL_AVC7_S07",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C16",
+      "source": "c_rel_whirlwind",
+      "target": "c_janet",
+      "kind": "conflict",
+      "era": "Avengers #46, #139 (1967-75)",
+      "note": "coercion (whirlwind → janet): Whirlwind posed as Janet's chauffeur and stole from her. [AVC7_C16]",
+      "source_id": "REL_AVC7_S10",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "rel_AVC7_C17",
+      "source": "c_luke",
+      "target": "c_janet",
+      "kind": "associated",
+      "era": "Avengers Inc. #1 (2023)",
+      "note": "professional (luke → janet): Luke asked Janet to investigate the Raft murders. [AVC7_C17]",
+      "source_id": "REL_AVC7_S10",
+      "continuity": "Earth-616",
+      "confidence": "Publisher secondary; original panels not reviewed"
     }
   ],
   "sources": [
@@ -10638,6 +13058,702 @@
       "publisher": "Marvel",
       "type": "Comic issue synopsis",
       "verified_on": "2026-10-17"
+    },
+    {
+      "id": "REL_P1",
+      "title": "Daredevil & Punisher’s Best Team-Ups",
+      "url": "https://www.marvel.com/comics/discover/2482/daredevil-punisher-s-best-team-ups",
+      "publisher": "Marvel",
+      "type": "Marvel editorial reading guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_P2",
+      "title": "Daredevil #183 — facsimile synopsis",
+      "url": "https://www.marvel.com/comics/issue/112688/daredevil_facsimile_edition_2023_183",
+      "publisher": "Marvel",
+      "type": "Marvel issue synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_P3",
+      "title": "Punishment Fits the Crime: Matt and Frank",
+      "url": "https://www.marvel.com/articles/comics/punishment-fits-the-crime-matt-and-frank",
+      "publisher": "Marvel",
+      "type": "Marvel editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_P4",
+      "title": "Daredevil vs. Punisher (2005) #1",
+      "url": "https://www.marvel.com/comics/issue/2202/daredevil-vs-punisher-2005-1",
+      "publisher": "Marvel",
+      "type": "Marvel issue synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_P5",
+      "title": "Daredevil by Mark Waid Vol. 2",
+      "url": "https://www.marvel.com/comics/collection/47439/daredevil_by_mark_waid_vol_2_hc_2014_2",
+      "publisher": "Marvel",
+      "type": "Marvel collected-edition synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_L1",
+      "title": "Shadowland (2010) #1",
+      "url": "https://www.marvel.com/comics/issue/29703/shadowland-2010-1",
+      "publisher": "Marvel",
+      "type": "Marvel issue synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_L2",
+      "title": "Defenders (2017) reading guide",
+      "url": "https://share.marvel.com/comics/discover/796/defenders",
+      "publisher": "Marvel",
+      "type": "Marvel editorial reading guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_L3",
+      "title": "Shadowland Omnibus",
+      "url": "https://www.marvel.com/comics/collection/66094/",
+      "publisher": "Marvel",
+      "type": "Marvel collected-edition synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_F2",
+      "title": "Daredevil by Mark Waid Vol. 4",
+      "url": "https://www.marvel.com/comics/collection/40600/daredevil_by_mark_waid_vol_4_trade_paperback",
+      "publisher": "Marvel",
+      "type": "Marvel collected-edition synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_E1",
+      "title": "Marvel Valentine’s Day comic guide",
+      "url": "https://www.marvel.com/comics/discover/454/valentines-day",
+      "publisher": "Marvel",
+      "type": "Marvel editorial reading guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_E2",
+      "title": "Daredevil’s Darkest Moments",
+      "url": "https://www.marvel.com/articles/comics/daredevil-darkest-moments-list",
+      "publisher": "Marvel",
+      "type": "Marvel editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_E4",
+      "title": "Daredevil (2019) #29",
+      "url": "https://www.marvel.com/comics/issue/89599/DAREDEVIL_29",
+      "publisher": "Marvel",
+      "type": "Marvel issue synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_K1",
+      "title": "Daredevil: Born Again collected edition",
+      "url": "https://www.marvel.com/comics/issue/28764/",
+      "publisher": "Marvel",
+      "type": "Marvel collected-edition synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_K2",
+      "title": "The Kingpin reading guide",
+      "url": "https://www.marvel.com/comics/guides/543/the-kingpin",
+      "publisher": "Marvel",
+      "type": "Marvel editorial reading guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_S1",
+      "title": "Spider-Man and Daredevil’s Famed Fellowship",
+      "url": "https://www.marvel.com/articles/comics/didja-know-spider-man-and-daredevil-s-famed-fellowship",
+      "publisher": "Marvel",
+      "type": "Marvel editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_T1",
+      "title": "Daredevil (1964) #176",
+      "url": "https://www.marvel.com/comics/issue/8158/daredevil_1964_176",
+      "publisher": "Marvel",
+      "type": "Marvel issue synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_B1",
+      "title": "The Comics History of Blindspot",
+      "url": "https://www.marvel.com/articles/comics/sam-chung-blindspot-daredevil-comics-history-explained",
+      "publisher": "Marvel",
+      "type": "Marvel editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_B2",
+      "title": "Daredevil (2015) #10",
+      "url": "https://www.marvel.com/comics/issue/56719/slug",
+      "publisher": "Marvel",
+      "type": "Marvel issue synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_C1",
+      "title": "Daredevil (1964) #57",
+      "url": "https://www.marvel.com/comics/issue/8406",
+      "publisher": "Marvel",
+      "type": "Marvel issue synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_C2",
+      "title": "Daredevil: Born Again guide",
+      "url": "https://www.marvel.com/comics/guides/1032/daredevil-born-again",
+      "publisher": "Marvel",
+      "type": "Marvel editorial reading guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_R01",
+      "title": "Punisher’s Hit List: Daredevil / Punisher (2000) #3",
+      "url": "https://www.marvel.com/comics/guides/1266/punishers-hit-list",
+      "publisher": "Marvel",
+      "type": "Marvel editorial reading guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_R02",
+      "title": "Punisher & Bullseye: Deadliest Hits — Trial of the Punisher #1–2",
+      "url": "https://www.marvel.com/comics/issue/61784/punisher_bullseye_deadliest_hits_trade_paperback",
+      "publisher": "Marvel",
+      "type": "Marvel collected edition synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_R03",
+      "title": "Daredevil (1964) #257",
+      "url": "https://www.marvel.com/comics/issue/8248",
+      "publisher": "Marvel",
+      "type": "Marvel issue synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_R06",
+      "title": "Defenders Vol. 2: Kingpins of New York",
+      "url": "https://www.marvel.com/comics/collection/67328/defenders_vol_2_kingpins_of_new_york_trade_paperback",
+      "publisher": "Marvel",
+      "type": "Marvel collected edition synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_R10",
+      "title": "Shadowland: Power Man (2010) #4",
+      "url": "https://www.marvel.com/comics/issue/33877/",
+      "publisher": "Marvel",
+      "type": "Marvel issue synopsis",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MX01",
+      "title": "Rogue — in comics full report",
+      "url": "https://www.marvel.com/characters/rogue/in-comics",
+      "publisher": "Marvel",
+      "type": "Marvel official editorial biography / comics reading guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MX02",
+      "title": "Mystique — comics history and family",
+      "url": "https://www.marvel.com/characters/mystique",
+      "publisher": "Marvel",
+      "type": "Marvel official editorial biography / comics reading guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MX03",
+      "title": "Destiny and Mystique — centuries of romance",
+      "url": "https://www.marvel.com/articles/comics/x-men-destiny-mystique-best-moments-romance-list",
+      "publisher": "Marvel",
+      "type": "Marvel official editorial biography / comics reading guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MX04",
+      "title": "Gambit — comics history",
+      "url": "https://www.marvel.com/characters/gambit",
+      "publisher": "Marvel",
+      "type": "Marvel official editorial biography / comics reading guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_FF02",
+      "title": "Human Torch — Johnny Storm official comics history",
+      "url": "https://www.marvel.com/characters/human-torch-johnny-storm/in-comics/",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics history / issue guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_FF03",
+      "title": "Invisible Woman spotlight: Reed, Sue and their family",
+      "url": "https://www.marvel.com/articles/comics/women-s-history-month-invisible-woman",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics history / issue guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_FF04",
+      "title": "Fantastic Four Fanfare — Thing/Torch prank war",
+      "url": "https://www.marvel.com/comics/collection/122807/fantastic_four_fanfare_trade_paperback",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics history / issue guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_FF05",
+      "title": "Fantastic Four (2018) #5 — Ben and Alicia wedding",
+      "url": "https://www.marvel.com/comics/issue/68011/fantastic_four_2018_5",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics history / issue guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_FF06",
+      "title": "Fantastic Four: Battle of the Behemoths — Johnny and Crystal",
+      "url": "https://www.marvel.com/comics/collection/92890/fantastic_four_epic_collection_battle_of_the_behemoths_2021",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics history / issue guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_AV01",
+      "title": "Scarlet Witch and Vision — Marvel relationship history and issue guide",
+      "url": "https://www.marvel.com/comics/guides/2030/love-story-of-scarlet-witch-and-vision",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics history / issue guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_COS01",
+      "title": "Marvel editorial: Guarding the Galaxy — A Team Divided",
+      "url": "https://www.marvel.com/articles/comics/guarding-the-galaxy-a-team-divided",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics issue synopsis / editorial biography",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_COS02",
+      "title": "Marvel: Star-Lord (Peter Quill) in-comics full report",
+      "url": "https://www.marvel.com/characters/star-lord-peter-quill/in-comics/",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics issue synopsis / editorial biography",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_COS03",
+      "title": "Marvel: Quasar (Wendell Vaughn) comics biography",
+      "url": "https://www.marvel.com/characters/quasar-wendell-vaughn",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics issue synopsis / editorial biography",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_COS04",
+      "title": "Marvel: Groot (2015) #2 synopsis",
+      "url": "https://www.marvel.com/comics/issue/53699/groot_2015_2",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics issue synopsis / editorial biography",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_COS05",
+      "title": "Marvel: Groot (2015) #5 synopsis",
+      "url": "https://www.marvel.com/comics/issue/54929",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics issue synopsis / editorial biography",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_COS06",
+      "title": "Marvel: Rocket Raccoon & Groot (2016) #3 synopsis",
+      "url": "https://www.marvel.com/comics/issue/55601/rocket_raccoon__groot_2016_3",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics issue synopsis / editorial biography",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_COS07",
+      "title": "Marvel: Kate Pryde comics biography",
+      "url": "https://www.marvel.com/characters/kitty-pryde",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics issue synopsis / editorial biography",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_COS08",
+      "title": "Marvel editorial: Guarding the Galaxy — President Quill",
+      "url": "https://www.marvel.com/articles/comics/guarding-the-galaxy-president-quill",
+      "publisher": "Marvel",
+      "type": "Official Marvel comics issue synopsis / editorial biography",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_WK01",
+      "title": "Dora Milaje: Marvel comics history",
+      "url": "https://www.marvel.com/teams-groups/dora-milaje",
+      "publisher": "Marvel",
+      "type": "Marvel official issue synopsis / editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_WK02",
+      "title": "Black Panther: World of Wakanda (2016) #1",
+      "url": "https://www.marvel.com/comics/issue/61406",
+      "publisher": "Marvel",
+      "type": "Marvel official issue synopsis / editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_WK03",
+      "title": "Shuri: Marvel reading guide",
+      "url": "https://www.marvel.com/comics/discover/939/shuri",
+      "publisher": "Marvel",
+      "type": "Marvel official issue synopsis / editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_WK04",
+      "title": "The History of Shuri",
+      "url": "https://www.marvel.com/articles/comics/black-panther-deadliest-of-the-species",
+      "publisher": "Marvel",
+      "type": "Marvel official issue synopsis / editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_WK05",
+      "title": "Black Panther: Allied Forces",
+      "url": "https://www.marvel.com/articles/comics/black-panther-allied-forces",
+      "publisher": "Marvel",
+      "type": "Marvel official issue synopsis / editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_WK06",
+      "title": "Wakanda Forever collected edition",
+      "url": "https://www.marvel.com/comics/collection/70333/wakanda_forever_trade_paperback",
+      "publisher": "Marvel",
+      "type": "Marvel official issue synopsis / editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_WK07",
+      "title": "Black Panther (2016) #6",
+      "url": "https://www.marvel.com/comics/issue/57387",
+      "publisher": "Marvel",
+      "type": "Marvel official issue synopsis / editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_WK09",
+      "title": "Stephanie Williams on Shuri and Wakanda (2022) #1",
+      "url": "https://www.marvel.com/articles/comics/stephanie-williams-wakanda-2022-shuri-black-panther-interview",
+      "publisher": "Marvel",
+      "type": "Marvel official issue synopsis / editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SPY27_S1",
+      "title": "Marvel: Black Widow comics history",
+      "url": "https://www.marvel.com/characters/black-widow-natasha-romanova/in-comics",
+      "publisher": "Marvel",
+      "type": "Official Marvel issue or editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SPY27_S2",
+      "title": "Marvel: Yelena Belova comics reading guide",
+      "url": "https://www.marvel.com/comics/guides/1517/",
+      "publisher": "Marvel",
+      "type": "Official Marvel issue or editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SPY27_S3",
+      "title": "Marvel: Yelena Belova traumatic moments",
+      "url": "https://www.marvel.com/comics/guides/2490/yelena_belovas_most_traumatic_moments",
+      "publisher": "Marvel",
+      "type": "Official Marvel issue or editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SPY27_S4",
+      "title": "Tales of Suspense (2017) #100",
+      "url": "https://www.marvel.com/comics/issue/65310/tales_of_suspense_2017_100",
+      "publisher": "Marvel",
+      "type": "Official Marvel issue or editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SPY27_S5",
+      "title": "Hawkeye (1983) #4",
+      "url": "https://www.marvel.com/comics/issue/43179",
+      "publisher": "Marvel",
+      "type": "Official Marvel issue or editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SPY27_S6",
+      "title": "Marvel: Valentina de Fontaine comics history",
+      "url": "https://www.marvel.com/amp/articles/comics/countess-valentina-allegra-de-fontaine-in-the-comics-marvel-unlimited",
+      "publisher": "Marvel",
+      "type": "Official Marvel issue or editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SPY27_S7",
+      "title": "Marvel: Agent Peggy Carter reading guide",
+      "url": "https://www.marvel.com/comics/discover/442/agent-peggy-carter",
+      "publisher": "Marvel",
+      "type": "Official Marvel issue or editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_SPY27_S8",
+      "title": "Captain America: Prisoner of War collection",
+      "url": "https://www.marvel.com/comics/collection/36574/captain_america_prisoner_of_war_tpb_trade_paperback",
+      "publisher": "Marvel",
+      "type": "Official Marvel issue or editorial history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MYP_S1",
+      "title": "Clea comics history",
+      "url": "https://www.marvel.com/characters/clea/in-comics",
+      "publisher": "Marvel",
+      "type": "Official Marvel editorial history / issue guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MYP_S2",
+      "title": "Wong comics history",
+      "url": "https://www.marvel.com/characters/wong/in-comics",
+      "publisher": "Marvel",
+      "type": "Official Marvel editorial history / issue guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MYP_S3",
+      "title": "Clea reading guide",
+      "url": "https://www.marvel.com/comics/discover/2271/clea",
+      "publisher": "Marvel",
+      "type": "Official Marvel editorial history / issue guide",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_ASG26_S1",
+      "title": "Odin reading guide",
+      "url": "https://www.marvel.com/comics/discover/1048/odin",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_ASG26_S2",
+      "title": "Sif reading guide",
+      "url": "https://www.marvel.com/comics/discover/1054/sif",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_ASG26_S3",
+      "title": "Skurge reading guide",
+      "url": "https://www.marvel.com/comics/discover/502/skurge-the-executioner",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher history",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MUT7_S01",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/cyclops-scott-summers",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MUT7_S02",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/emma-frost/",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MUT7_S03",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/phoenix-jean-grey",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MUT7_S04",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/havok",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MUT7_S05",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/mister-sinister",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MUT7_S07",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/marvel-girl-rachel-summers",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MUT7_S08",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/cable-nathan-summers/in-comics",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MUT7_S09",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/issue/13742/uncanny_x-men_1981_201",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MUT7_S10",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/guides/1870/jean_grey_and_emma_frosts_comic_history",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MUT7_S11",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/issue/21648/kitty_pryde_and_wolverine_1984_4",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_MUT7_S12",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/issue/50992/adventures_of_cyclops_phoenix_1994_1",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_AVC7_S02",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/issue/32680/avengers_origins_ant-man_the_wasp_2011_1",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_AVC7_S03",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/guides/188/ultron_the_living_automaton",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_AVC7_S04",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/guides/2500/every-major_a-i_in_the_marvel_universe",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_AVC7_S05",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/characters/wonder-man-simon-williams/in-comics",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_AVC7_S06",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/issue/11956/",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_AVC7_S07",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/guides/2359/scott_and_cassie_lang",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_AVC7_S08",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/issue/70576/the_unstoppable_wasp_8",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_AVC7_S09",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/amp/articles/comics/new-series-starring-janet-and-nadia-van-dyne-celebrates-the-60th-anniversary-of-wasp",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_AVC7_S10",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/amp/articles/comics/avengers-inc-victor-shade-explained",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_AVC7_S11",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/guides/2525/wonder-man",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
+    },
+    {
+      "id": "REL_AVC7_S12",
+      "title": "Marvel publisher history or issue guide",
+      "url": "https://www.marvel.com/comics/guides/2388/women_of_marvel_wasp",
+      "publisher": "Marvel",
+      "type": "Official Marvel publisher source",
+      "verified_on": "2026-10-19"
     }
   ]
 }
