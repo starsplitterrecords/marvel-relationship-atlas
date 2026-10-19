@@ -493,6 +493,54 @@
     {
       "person_id": "whirlwind",
       "node_id": "c_rel_whirlwind"
+    },
+    {
+      "person_id": "sunspot",
+      "node_id": "c_sunspot"
+    },
+    {
+      "person_id": "cannonball",
+      "node_id": "c_cannonball"
+    },
+    {
+      "person_id": "tabitha",
+      "node_id": "c_boom"
+    },
+    {
+      "person_id": "wolfsbane",
+      "node_id": "c_wolfsbane"
+    },
+    {
+      "person_id": "dani",
+      "node_id": "c_moonstar"
+    },
+    {
+      "person_id": "moira",
+      "node_id": "c_rel_moira"
+    },
+    {
+      "person_id": "hrimhari",
+      "node_id": "c_rel_hrimhari"
+    },
+    {
+      "person_id": "cypher",
+      "node_id": "c_cypher"
+    },
+    {
+      "person_id": "warlock_technarch",
+      "node_id": "c_warlock"
+    },
+    {
+      "person_id": "magik",
+      "node_id": "c_illyana"
+    },
+    {
+      "person_id": "belasco",
+      "node_id": "c_rel_belasco"
+    },
+    {
+      "person_id": "colossus",
+      "node_id": "c_piotr"
     }
   ]
 }
