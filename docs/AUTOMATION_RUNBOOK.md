@@ -25,3 +25,18 @@ Write a short comics editorial about the people and what makes their relationshi
 
 ## Why these rules exist
 The first scheduled run (2026-10-18) committed `updates/2026-10-18-editorial-research-followups.md` with leads, **but zero new interpersonal relationships**. A later corrective manual run successfully committed new real relationship records. Future runs must use the latter as the model.
+
+## Research-first workflow and manual merge boundary (2026-10-19)
+
+**Current user instruction supersedes earlier hourly-commit requirements above.** Scheduled research is valuable even without a GitHub write. The hourly automation must deliver 2–3 short editorial paragraphs with official Marvel source links plus an additive, validated, copyable JSON research batch directly in chat. Mark it **UNCOMMITTED / awaiting manual merge**, and report zero committed unless an independently verified write occurred. **Do not write to GitHub or disable the automation during ordinary scheduled research runs.** GitHub commits happen only on a separate, explicit user instruction.
+
+### Two complementary research tracks
+
+1. **Breadth-first discovery:** rotate communities and identify meaningful, directional, source-backed person-to-person relationships. Preserve a broad character graph without treating co-appearances as relationships.
+2. **Relationship deep dives:** choose a high-value pair, collect multiple temporally ordered encounters, and assess how the relationship changes. A deep dive does not require adding new people. Distinguish trust, affection, moral respect, competence respect, authority, coercion, protection, influence, and ideological alignment independently. Record both directions when supported; do not infer reciprocity.
+
+For every assessment distinguish (a) directly documented behavior, (b) inference or interpretation, (c) exact issue/era and continuity, and (d) source/evidence quality. Publisher biographies are discovery-level secondary evidence, not substitutes for direct issue-level confirmation. **One rescue, fight, or collaboration does not establish a permanent personal trait or enduring relationship.** Mark single-incident assessments as event-scoped, avoid unearned long-term labels, and preserve uncertainty about retcons and continuity.
+
+### Original analytical output
+
+A deep-dive profile should answer: What does each party want from the other? What kinds of power, trust, obligation or affection exist in each direction? Which encounters change the balance? What persists despite conflict? Which interpretation is best supported, and what evidence would falsify it? Use event-linked observations and a chronological change log; do not invent internal motivations. A relationship's time-dependent structure, asymmetry and bridges to other communities are the original analytical contribution.
