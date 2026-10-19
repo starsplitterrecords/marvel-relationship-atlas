@@ -810,6 +810,216 @@
       "name": "Piotr Rasputin",
       "alias": "Colossus",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "jake_fury",
+      "name": "Jacob Fury",
+      "alias": "Scorpio",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "mikel_fury",
+      "name": "Mikel Fury",
+      "alias": "Scorpio",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "nick_fury_jr",
+      "name": "Nicholas Joseph Fury Jr.",
+      "alias": "Nick Fury Jr.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "dugan",
+      "name": "Timothy Dugan",
+      "alias": "Dum Dum Dugan",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "sitwell",
+      "name": "Jasper Sitwell",
+      "alias": "Jasper Sitwell",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "daisy",
+      "name": "Daisy Johnson",
+      "alias": "Quake",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "phil_coulson",
+      "name": "Phil Coulson",
+      "alias": "Agent Coulson",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jessica_drew",
+      "name": "Jessica Drew",
+      "alias": "Spider-Woman",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "red_skull",
+      "name": "Johann Shmidt",
+      "alias": "Red Skull",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "crossbones",
+      "name": "Brock Rumlow",
+      "alias": "Crossbones",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "sin",
+      "name": "Sinthea Shmidt",
+      "alias": "Sin",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "diamondback",
+      "name": "Rachel Leighton",
+      "alias": "Diamondback",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "hulkling",
+      "name": "Theodore Altman",
+      "alias": "Hulkling / Dorrek VIII",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "wiccan",
+      "name": "William Kaplan",
+      "alias": "Wiccan",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "speed",
+      "name": "Thomas Shepherd",
+      "alias": "Speed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "anelle",
+      "name": "Anelle",
+      "alias": "Princess Anelle",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "mar_vell",
+      "name": "Mar-Vell",
+      "alias": "Captain Marvel",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "elysius",
+      "name": "Elysius",
+      "alias": "Elysius",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "genis_vell",
+      "name": "Genis-Vell",
+      "alias": "Photon / Captain Marvel",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "starfox",
+      "name": "Eros",
+      "alias": "Starfox",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "kate_bishop",
+      "name": "Katherine Bishop",
+      "alias": "Hawkeye",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "iron_lad",
+      "name": "Nathaniel Richards",
+      "alias": "Iron Lad",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "eli_bradley",
+      "name": "Elijah Bradley",
+      "alias": "Patriot",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "super_skrull",
+      "name": "Kl’rt",
+      "alias": "Super-Skrull",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "danny_ketch",
+      "name": "Daniel Ketch",
+      "alias": "Ghost Rider",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "naomi_kale",
+      "name": "Naomi Kale",
+      "alias": "Naomi Kale",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "barbara_ketch",
+      "name": "Barbara Ketch",
+      "alias": "Barbara Ketch",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "crash_simpson",
+      "name": "Craig Simpson",
+      "alias": "Crash Simpson",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "roxanne_simpson",
+      "name": "Roxanne Simpson",
+      "alias": "Roxanne Blaze / Black Rose",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "zarathos",
+      "name": "Zarathos",
+      "alias": "Zarathos",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "noble_kale",
+      "name": "Noble Kale",
+      "alias": "Ghost Rider / Angel of Death",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "blackheart",
+      "name": "Blackheart",
+      "alias": "Blackheart",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "michael_badilino",
+      "name": "Michael Badilino",
+      "alias": "Vengeance",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "mary_lebow",
+      "name": "Mary LeBow",
+      "alias": "Mary LeBow",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "zadkiel",
+      "name": "Zadkiel",
+      "alias": "Zadkiel",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -1647,6 +1857,132 @@
       "title": "X-Men: Magik — Storm & Illyana (collects Uncanny X-Men #160 and Magik #1–4)",
       "url": "https://www.marvel.com/comics/issue/47233/x-men_magik_-_storm_illyana_tpb_trade_paperback",
       "kind": "Marvel official publisher secondary"
+    },
+    {
+      "id": "SHD4_S01",
+      "title": "Nick Fury Sr. — Marvel Character Biography",
+      "url": "https://www.marvel.com/characters/nick-fury-sr",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "SHD4_S02",
+      "title": "Secret Warriors Vol. 4: Last Ride of the Howling Commandos",
+      "url": "https://www.marvel.com/comics/collection/30962/secret_warriors_vol_4_last_ride_of_the_howling_commandos_trade_paperback",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "SHD4_S03",
+      "title": "Secret Warriors: Best Served Cold",
+      "url": "https://www.marvel.com/articles/comics/secret-warriors-best-served-cold",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "SHD4_S04",
+      "title": "Crossbones — Marvel Character Biography",
+      "url": "https://www.marvel.com/characters/crossbones",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "SHD4_S05",
+      "title": "Captain America Epic Collection: The Bloodstone Hunt",
+      "url": "https://www.marvel.com/comics/collection/66926/captain_america_epic_collection_the_bloodstone_hunt_trade_paperback",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "SHD4_S06",
+      "title": "Captain America: Red Menace Vol. 1",
+      "url": "https://www.marvel.com/comics/collection/4501/captain_america_red_menace_vol_1_trade_paperback",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "SHD4_S07",
+      "title": "Captain America (1968) #363",
+      "url": "https://www.marvel.com/comics/issue/7744/read",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "YA4_S01",
+      "title": "Young Avengers — Marvel official team history",
+      "url": "https://www.marvel.com/teams-and-groups/young-avengers",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "YA4_S02",
+      "title": "Wiccan — Marvel reading guide",
+      "url": "https://www.marvel.com/comics/discover/2450/wiccan",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "YA4_S03",
+      "title": "Wiccan & Speed — Marvel reading guide",
+      "url": "https://www.marvel.com/comics/guides/2461/wiccan_and_speed",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "YA4_S04",
+      "title": "Mar-Vell — Marvel character biography",
+      "url": "https://www.marvel.com/characters/captain-marvel-mar-vell",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "YA4_S05",
+      "title": "The Hawkeyes’ Best Team-Ups — Marvel reading guide",
+      "url": "https://www.marvel.com/comics/guides/2214/the-hawkeyes-best-team-ups",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "YA4_S06",
+      "title": "Lords of Empyre: Emperor Hulkling (2020) #1",
+      "url": "https://www.marvel.com/comics/issue/88624/read",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "YA4_S07",
+      "title": "Young Avengers (2005) #1",
+      "url": "https://www.marvel.com/comics/issue/1629/young-avengers-2005-1",
+      "kind": "Marvel publisher secondary",
+      "level": "Publisher summary; panels not independently reviewed"
+    },
+    {
+      "id": "GR5_S01",
+      "title": "Spirits of Vengeance — Official Marvel history",
+      "url": "https://www.marvel.com/teams-and-groups/spirits-of-vengeance",
+      "level": "Publisher summary; panels not independently reviewed",
+      "kind": "Marvel publisher secondary"
+    },
+    {
+      "id": "GR5_S02",
+      "title": "Ghost Rider: Johnny Blaze — Marvel reading guide",
+      "url": "https://www.marvel.com/comics/discover/1078/ghost-rider-johnny-blaze",
+      "level": "Publisher summary; panels not independently reviewed",
+      "kind": "Marvel publisher secondary"
+    },
+    {
+      "id": "GR5_S03",
+      "title": "Mary LeBow — Marvel-hosted biography",
+      "url": "https://www.marvel.com/characters/mary-lebow",
+      "level": "Publisher summary; panels not independently reviewed",
+      "kind": "Marvel publisher secondary"
+    },
+    {
+      "id": "GR5_S04",
+      "title": "Ghost Rider by Jason Aaron — Marvel collection",
+      "url": "https://www.marvel.com/comics/collection/33276/ghost_rider_by_jason_aaron_omnibus_hardcover",
+      "level": "Publisher summary; panels not independently reviewed",
+      "kind": "Marvel publisher secondary"
     }
   ],
   "events": [
@@ -4349,6 +4685,557 @@
       "continuity": "Earth-616",
       "review_status": "provisional; publisher_secondary",
       "issue": "Inferno (1988–1989) New Mutants crossover"
+    },
+    {
+      "id": "SHD4_E01",
+      "a": "jake_fury",
+      "b": "nick_fury_sr",
+      "issue": "Stark International / early S.H.I.E.L.D. spy investigation (issue pending)",
+      "observation": "Nick discovers that the Stark International spy is his brother Jake, who defected to Hydra; Jake shoots Nick in the left eye.",
+      "source_id": "SHD4_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E02",
+      "a": "nick_fury_sr",
+      "b": "mikel_fury",
+      "issue": "Later S.H.I.E.L.D. reconciliation; Secret Warriors (2009) #17–19 era",
+      "observation": "Nick makes peace with his son Mikel and recruits him as an agent; later Mikel leads the Grey team against Leviathan.",
+      "source_id": "SHD4_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E03",
+      "a": "nick_fury_sr",
+      "b": "nick_fury_jr",
+      "issue": "Battle Scars / Marcus Johnson recruitment era (2011–2012)",
+      "observation": "Nick conceals his younger son and the boy’s mother for their protection, then reconnects with him as an adult Army ranger.",
+      "source_id": "SHD4_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E04",
+      "a": "nick_fury_sr",
+      "b": "dugan",
+      "issue": "WWII Howling Commandos to S.H.I.E.L.D. founding era",
+      "observation": "Dugan joins a wartime rescue with Fury; years later Fury recruits his former comrade into S.H.I.E.L.D.",
+      "source_id": "SHD4_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E05",
+      "a": "nick_fury_sr",
+      "b": "sitwell",
+      "issue": "Early S.H.I.E.L.D. directorate era",
+      "observation": "Marvel identifies Jasper Sitwell as Fury’s right-hand man and a loyal, rule-following administrator.",
+      "source_id": "SHD4_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E06",
+      "a": "nick_fury_sr",
+      "b": "daisy",
+      "issue": "Secret Warriors (2009) #17–19",
+      "observation": "Fury assembles the White team under Daisy Johnson and places it under his direct command.",
+      "source_id": "SHD4_S02",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E07",
+      "a": "phil_coulson",
+      "b": "daisy",
+      "issue": "Secret Warriors (2017) #6 / post-Secret Empire",
+      "observation": "Writer Matthew Rosenberg describes Coulson as Daisy’s mentor and father figure; his killing motivates her pursuit of Deadpool.",
+      "source_id": "SHD4_S03",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E08",
+      "a": "nick_fury_sr",
+      "b": "jessica_drew",
+      "issue": "Pre-Secret Invasion infiltration era (2000s; issue pending)",
+      "observation": "Fury recruits Jessica Drew, already a S.H.I.E.L.D. double agent inside Hydra, to report directly to him on suspicious activity.",
+      "source_id": "SHD4_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E09",
+      "a": "red_skull",
+      "b": "crossbones",
+      "issue": "Crossbones recruitment and training era (late 1980s; exact issue pending)",
+      "observation": "After a confrontation at Arnim Zola’s castle, Red Skull trains Brock Rumlow as a bodyguard and gives him the Crossbones identity.",
+      "source_id": "SHD4_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E10",
+      "a": "crossbones",
+      "b": "sin",
+      "issue": "Captain America (2004) #15–17 / Red Menace era",
+      "observation": "Crossbones abducts the brainwashed Sin from re-education, tortures her until she remembers her prior identity, and later enters an on-and-off romance with her.",
+      "source_id": "SHD4_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E11",
+      "a": "crossbones",
+      "b": "diamondback",
+      "issue": "Captain America (1968) #351–371 / Bloodstone Hunt era",
+      "observation": "Crossbones kidnaps Diamondback, takes her to Madripoor, and uses her as bait to draw Captain America into a fight.",
+      "source_id": "SHD4_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E12",
+      "a": "diamondback",
+      "b": "steve",
+      "issue": "Captain America (1968) #351–371 / Bloodstone Hunt era",
+      "observation": "Marvel describes Diamondback as a foe turned friend to Captain America; she joins him on the Bloodstone Hunt.",
+      "source_id": "SHD4_S05",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E13",
+      "a": "crossbones",
+      "b": "steve",
+      "issue": "Captain America (1968) #363 (1989) / Bloodstone Hunt aftermath",
+      "observation": "Marvel’s issue synopsis identifies Crossbones as a threat to Captain America and Diamondback’s possible romantic future; biography recounts the abduction-and-trap encounter.",
+      "source_id": "SHD4_S07",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E14",
+      "a": "red_skull",
+      "b": "fisk",
+      "issue": "Red Skull Ice-drug scheme / Kingpin rivalry (issue pending)",
+      "observation": "Red Skull sends Crossbones after Kingpin, who sends Bullseye in response; Red Skull and Kingpin subsequently fight hand-to-hand.",
+      "source_id": "SHD4_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E15",
+      "a": "nick_fury_sr",
+      "b": "red_skull",
+      "issue": "World War II Howling Commandos operations",
+      "observation": "Fury and his commandos fight the Nazi Red Skull during World War II.",
+      "source_id": "SHD4_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "SHD4_E16",
+      "a": "crossbones",
+      "b": "sin",
+      "issue": "Captain America (2004) #15–17 / Red Menace",
+      "observation": "Marvel’s collection synopsis confirms Crossbones kidnaps Sin from a government re-education facility and travels with her to attack A.I.M.",
+      "source_id": "SHD4_S06",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; original panels not reviewed"
+    },
+    {
+      "id": "YA4_E01",
+      "a": "hulkling",
+      "b": "wiccan",
+      "issue": "Empyre: Aftermath Avengers (2020) #1",
+      "observation": "Billy and Teddy marry after Teddy becomes emperor of the Kree-Skrull Alliance.",
+      "source_id": "YA4_S02",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E02",
+      "a": "anelle",
+      "b": "hulkling",
+      "issue": "Lords of Empyre: Emperor Hulkling (2020) #1; retrospective",
+      "observation": "Marvel identifies Teddy as the son of Skrull princess Anelle.",
+      "source_id": "YA4_S06",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E03",
+      "a": "mar_vell",
+      "b": "hulkling",
+      "issue": "Lords of Empyre: Emperor Hulkling (2020) #1; retrospective",
+      "observation": "Marvel identifies Teddy as the son of the Kree hero Mar-Vell.",
+      "source_id": "YA4_S06",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E04",
+      "a": "mar_vell",
+      "b": "anelle",
+      "issue": "Mar-Vell biography; Kree-Skrull history",
+      "observation": "Marvel’s Mar-Vell biography describes his relationship with Anelle, who bore Teddy.",
+      "source_id": "YA4_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E05",
+      "a": "mar_vell",
+      "b": "elysius",
+      "issue": "Mar-Vell biography; pre-death era",
+      "observation": "Marvel describes Elysius as Mar-Vell’s companion and their discussion of having children.",
+      "source_id": "YA4_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E06",
+      "a": "elysius",
+      "b": "genis_vell",
+      "issue": "After The Death of Captain Marvel; retrospective",
+      "observation": "After Mar-Vell dies, Elysius uses his genetic material to conceive Genis-Vell.",
+      "source_id": "YA4_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E07",
+      "a": "elysius",
+      "b": "phyla",
+      "issue": "After The Death of Captain Marvel; retrospective",
+      "observation": "After Mar-Vell dies, Elysius uses his genetic material to conceive Phyla-Vell.",
+      "source_id": "YA4_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E08",
+      "a": "starfox",
+      "b": "mar_vell",
+      "issue": "Mar-Vell and Thanos conflict; Mar-Vell deathbed era",
+      "observation": "Eros joins Mar-Vell against Thanos, becomes his friend, and promises to care for Elysius after Mar-Vell dies.",
+      "source_id": "YA4_S04",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E09",
+      "a": "wiccan",
+      "b": "speed",
+      "issue": "Young Avengers (2005) #10; Young Avengers Presents (2008) #3",
+      "observation": "Billy and Tommy discover their twin connection; Billy convinces Tommy to help find Wanda.",
+      "source_id": "YA4_S03",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E10",
+      "a": "wanda",
+      "b": "wiccan",
+      "issue": "Avengers: The Children’s Crusade (2010) #1 and subsequent reunion",
+      "observation": "Wanda recovers her memories and embraces Billy as a reincarnation of her lost son.",
+      "source_id": "YA4_S03",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E11",
+      "a": "wanda",
+      "b": "speed",
+      "issue": "Avengers: The Children’s Crusade (2010) #1 and subsequent reunion",
+      "observation": "Wanda recovers her memories and embraces Tommy as a reincarnation of her lost son.",
+      "source_id": "YA4_S03",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E12",
+      "a": "clint",
+      "b": "kate_bishop",
+      "issue": "Young Avengers Presents (2008) #6; Hawkeye (2012) #2",
+      "observation": "Clint tests Kate’s archery and later gives his blessing for her to keep the Hawkeye name.",
+      "source_id": "YA4_S05",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E13",
+      "a": "kate_bishop",
+      "b": "eli_bradley",
+      "issue": "Young Avengers (2005) initial run; issue unspecified",
+      "observation": "Marvel’s team history describes longstanding mutual attraction between Kate and Eli.",
+      "source_id": "YA4_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E14",
+      "a": "super_skrull",
+      "b": "hulkling",
+      "issue": "Young Avengers (2005) #9–12 era; exact issue pending",
+      "observation": "Kl’rt abducts Teddy, explains his Skrull succession claim, and tries to take him into space.",
+      "source_id": "YA4_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "YA4_E15",
+      "a": "iron_lad",
+      "b": "eli_bradley",
+      "issue": "Young Avengers (2005) #1–6; recruitment arc",
+      "observation": "Iron Lad recruits Patriot using Vision’s failsafe program and leads missions to prepare for Kang.",
+      "source_id": "YA4_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "review_status": "provisional; official Marvel indexed summary, no panel inspection"
+    },
+    {
+      "id": "GR5_E01",
+      "from_id": "naomi_kale",
+      "to_id": "johnny_blaze",
+      "scope": "Blaze/Ketch childhood; later retrospective",
+      "observation": "Naomi left Johnny with Barton Blaze while trying to shield her children from the inherited Ghost Rider curse.",
+      "source_id": "GR5_S01",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "naomi_kale",
+      "b": "johnny_blaze",
+      "issue": "Blaze/Ketch childhood; later retrospective",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E02",
+      "from_id": "naomi_kale",
+      "to_id": "danny_ketch",
+      "scope": "Blaze/Ketch childhood; later retrospective",
+      "observation": "Naomi placed Danny with widow Francis Ketch and searched for magic to spare her children from the family curse.",
+      "source_id": "GR5_S01",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "naomi_kale",
+      "b": "danny_ketch",
+      "issue": "Blaze/Ketch childhood; later retrospective",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E03",
+      "from_id": "naomi_kale",
+      "to_id": "barbara_ketch",
+      "scope": "Blaze/Ketch childhood; later retrospective",
+      "observation": "Naomi placed Barbara with widow Francis Ketch along with Danny while trying to evade the family curse.",
+      "source_id": "GR5_S01",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "naomi_kale",
+      "b": "barbara_ketch",
+      "issue": "Blaze/Ketch childhood; later retrospective",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E04",
+      "from_id": "mephisto",
+      "to_id": "naomi_kale",
+      "scope": "Naomi Kale’s final Ghost Rider bargain; historical retrospective",
+      "observation": "Mephisto caught up with Naomi; she agreed to become Ghost Rider to keep the Ketch family safe and died after bonding with Noble Kale.",
+      "source_id": "GR5_S01",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "mephisto",
+      "b": "naomi_kale",
+      "issue": "Naomi Kale’s final Ghost Rider bargain; historical retrospective",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E05",
+      "from_id": "johnny_blaze",
+      "to_id": "crash_simpson",
+      "scope": "Marvel Spotlight (1971) #5, published 1972",
+      "observation": "Johnny bargains with a devil to save his adoptive father Crash Simpson from disease; Crash subsequently dies in a stunt accident.",
+      "source_id": "GR5_S02",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "johnny_blaze",
+      "b": "crash_simpson",
+      "issue": "Marvel Spotlight (1971) #5, published 1972",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E06",
+      "from_id": "mephisto",
+      "to_id": "zarathos",
+      "scope": "Ghost Rider origin and later revelations; issue-level pinpoint pending",
+      "observation": "Marvel says Mephisto enslaved Zarathos and implanted him in Johnny Blaze’s soul.",
+      "source_id": "GR5_S01",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "mephisto",
+      "b": "zarathos",
+      "issue": "Ghost Rider origin and later revelations; issue-level pinpoint pending",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E07",
+      "from_id": "johnny_blaze",
+      "to_id": "danny_ketch",
+      "scope": "Ghost Rider (1990) early issues; reconciliation and brotherhood revealed later",
+      "observation": "Johnny initially tries to kill the new Ghost Rider, Danny, then learns his intentions and eventually discovers that Danny is his brother; they later fight together.",
+      "source_id": "GR5_S01",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "johnny_blaze",
+      "b": "danny_ketch",
+      "issue": "Ghost Rider (1990) early issues; reconciliation and brotherhood revealed later",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E08",
+      "from_id": "danny_ketch",
+      "to_id": "barbara_ketch",
+      "scope": "Ghost Rider (1990) #1 origin era",
+      "observation": "Barbara is caught in mob crossfire; Danny encounters a motorcycle and transforms into the new Ghost Rider following her injury.",
+      "source_id": "GR5_S01",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "danny_ketch",
+      "b": "barbara_ketch",
+      "issue": "Ghost Rider (1990) #1 origin era",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E09",
+      "from_id": "blackheart",
+      "to_id": "noble_kale",
+      "scope": "Noble Kale / Blackheart King of Hell arc; exact issues pending",
+      "observation": "Blackheart offers Noble his original body in exchange for leading Blackheart’s new Spirits of Vengeance group; Noble agrees.",
+      "source_id": "GR5_S01",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "blackheart",
+      "b": "noble_kale",
+      "issue": "Noble Kale / Blackheart King of Hell arc; exact issues pending",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E10",
+      "from_id": "noble_kale",
+      "to_id": "roxanne_simpson",
+      "scope": "Noble Kale / Black Rose and King of Hell arc; exact issues pending",
+      "observation": "Noble obtains freedom for Black Rose, described as reincarnated Roxanne, and later returns Roxanne to Johnny Blaze.",
+      "source_id": "GR5_S01",
+      "evidence_level": "publisher_secondary_identity_review",
+      "continuity": "Earth-616",
+      "a": "noble_kale",
+      "b": "roxanne_simpson",
+      "issue": "Noble Kale / Black Rose and King of Hell arc; exact issues pending",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E11",
+      "from_id": "michael_badilino",
+      "to_id": "johnny_blaze",
+      "scope": "Vengeance origin / early 1990s Ghost Rider era",
+      "observation": "Michael blames the Ghost Rider for his family tragedy and pursues revenge, but eventually fights alongside Blaze and Ketch.",
+      "source_id": "GR5_S01",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "michael_badilino",
+      "b": "johnny_blaze",
+      "issue": "Vengeance origin / early 1990s Ghost Rider era",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E12",
+      "from_id": "mephisto",
+      "to_id": "michael_badilino",
+      "scope": "Vengeance origin / early 1990s Ghost Rider era",
+      "observation": "Michael makes a deal with Mephisto, who unlocks his Medallion of Power connection and turns him into Vengeance.",
+      "source_id": "GR5_S01",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "mephisto",
+      "b": "michael_badilino",
+      "issue": "Vengeance origin / early 1990s Ghost Rider era",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E13",
+      "from_id": "mary_lebow",
+      "to_id": "danny_ketch",
+      "scope": "Ghost Rider: Danny Ketch (2008) era; exact issues unverified",
+      "observation": "Mary uses technomancy to remove Danny’s Ghost Rider entity, helps him after his decline, and saves him from attackers.",
+      "source_id": "GR5_S03",
+      "evidence_level": "provisional_crowdsourced",
+      "continuity": "Earth-616",
+      "a": "mary_lebow",
+      "b": "danny_ketch",
+      "issue": "Ghost Rider: Danny Ketch (2008) era; exact issues unverified",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E14",
+      "from_id": "danny_ketch",
+      "to_id": "noble_kale",
+      "scope": "Noble Kale / Angel of Death transformation arc; exact issues pending",
+      "observation": "Danny restores Noble Kale’s memories, enabling his transformation into the Angel of Death.",
+      "source_id": "GR5_S01",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "danny_ketch",
+      "b": "noble_kale",
+      "issue": "Noble Kale / Angel of Death transformation arc; exact issues pending",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
+    },
+    {
+      "id": "GR5_E15",
+      "from_id": "johnny_blaze",
+      "to_id": "zadkiel",
+      "scope": "Ghost Rider (2006) #20–35 and Ghost Riders: Heaven’s on Fire (2009) #1–6",
+      "observation": "Johnny learns of Zadkiel’s role in his curse and opposes the renegade angel’s attempt to control the Ghost Riders and seize Heaven.",
+      "source_id": "GR5_S04",
+      "evidence_level": "publisher_secondary",
+      "continuity": "Earth-616",
+      "a": "johnny_blaze",
+      "b": "zadkiel",
+      "issue": "Ghost Rider (2006) #20–35 and Ghost Riders: Heaven’s on Fire (2009) #1–6",
+      "review_status": "Publisher secondary; issue/panels not independently verified"
     }
   ],
   "claims": [
@@ -9230,6 +10117,777 @@
       "continuity": "Earth-616",
       "review_status": "provisional; publisher_secondary",
       "summary": "Rahne develops romantic feelings for Doug but does not tell him before his death."
+    },
+    {
+      "id": "SHD4_C01",
+      "pair_id": "jake_fury-nick_fury_sr",
+      "from_id": "jake_fury",
+      "to_id": "nick_fury_sr",
+      "dimension": "betrayal",
+      "assessment": "Jake betrays Nick through Hydra espionage and shoots him.",
+      "epistemic": "direct",
+      "qualification": "The betrayal is historical; later undercover work against Hydra complicates any permanent-loyalty label.",
+      "event_ids": [
+        "SHD4_E01"
+      ],
+      "scope": "Stark International / early S.H.I.E.L.D. spy investigation (issue pending)",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "interpretation": "Family connection creates an additional dimension to the intelligence betrayal, but the evidence does not establish Jake’s entire motive.",
+      "summary": "Jake betrays Nick through Hydra espionage and shoots him."
+    },
+    {
+      "id": "SHD4_C02",
+      "pair_id": "mikel_fury-nick_fury_sr",
+      "from_id": "nick_fury_sr",
+      "to_id": "mikel_fury",
+      "dimension": "professional",
+      "assessment": "Nick recruits his son Mikel into intelligence operations.",
+      "epistemic": "direct",
+      "qualification": "Family connection is documented, but the claim is specifically about recruitment and command.",
+      "event_ids": [
+        "SHD4_E02"
+      ],
+      "scope": "Later S.H.I.E.L.D. reconciliation; Secret Warriors (2009) #17–19 era",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Nick recruits his son Mikel into intelligence operations."
+    },
+    {
+      "id": "SHD4_C03",
+      "pair_id": "nick_fury_jr-nick_fury_sr",
+      "from_id": "nick_fury_sr",
+      "to_id": "nick_fury_jr",
+      "dimension": "protection",
+      "assessment": "Nick keeps his younger son’s identity secret to protect him and his mother.",
+      "epistemic": "direct",
+      "qualification": "The protective purpose is stated by Marvel; concealment should not be equated with successful parenting.",
+      "event_ids": [
+        "SHD4_E03"
+      ],
+      "scope": "Battle Scars / Marcus Johnson recruitment era (2011–2012)",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Nick keeps his younger son’s identity secret to protect him and his mother."
+    },
+    {
+      "id": "SHD4_C04",
+      "pair_id": "dugan-nick_fury_sr",
+      "from_id": "nick_fury_sr",
+      "to_id": "dugan",
+      "dimension": "professional",
+      "assessment": "Fury recruits longtime wartime comrade Dugan into S.H.I.E.L.D.",
+      "epistemic": "direct",
+      "qualification": "A repeated working relationship is supported; private emotional trust is not separately measured.",
+      "event_ids": [
+        "SHD4_E04"
+      ],
+      "scope": "WWII Howling Commandos to S.H.I.E.L.D. founding era",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "interpretation": "Repeated recruitment suggests reliance across generations; the source does not quantify personal trust.",
+      "summary": "Fury recruits longtime wartime comrade Dugan into S.H.I.E.L.D."
+    },
+    {
+      "id": "SHD4_C05",
+      "pair_id": "nick_fury_sr-sitwell",
+      "from_id": "nick_fury_sr",
+      "to_id": "sitwell",
+      "dimension": "authority",
+      "assessment": "Fury exercises organizational authority with Sitwell as his right-hand administrator.",
+      "epistemic": "direct",
+      "qualification": "Do not extrapolate institutional authority to unconditional personal obedience.",
+      "event_ids": [
+        "SHD4_E05"
+      ],
+      "scope": "Early S.H.I.E.L.D. directorate era",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Fury exercises organizational authority with Sitwell as his right-hand administrator."
+    },
+    {
+      "id": "SHD4_C06",
+      "pair_id": "daisy-nick_fury_sr",
+      "from_id": "nick_fury_sr",
+      "to_id": "daisy",
+      "dimension": "authority",
+      "assessment": "Fury delegates White-team leadership to Daisy while retaining command.",
+      "epistemic": "direct",
+      "qualification": "Team leadership assignment is specific; shared membership alone is not the basis.",
+      "event_ids": [
+        "SHD4_E06"
+      ],
+      "scope": "Secret Warriors (2009) #17–19",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Fury delegates White-team leadership to Daisy while retaining command."
+    },
+    {
+      "id": "SHD4_C07",
+      "pair_id": "daisy-phil_coulson",
+      "from_id": "phil_coulson",
+      "to_id": "daisy",
+      "dimension": "mentorship",
+      "assessment": "Coulson is identified by the series writer as Daisy’s mentor and father figure.",
+      "epistemic": "direct",
+      "qualification": "The source is an author interview, not a transcript of their scenes; emotional bond is Daisy’s perspective.",
+      "event_ids": [
+        "SHD4_E07"
+      ],
+      "scope": "Secret Warriors (2017) #6 / post-Secret Empire",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Coulson is identified by the series writer as Daisy’s mentor and father figure."
+    },
+    {
+      "id": "SHD4_C08",
+      "pair_id": "jessica_drew-nick_fury_sr",
+      "from_id": "nick_fury_sr",
+      "to_id": "jessica_drew",
+      "dimension": "professional",
+      "assessment": "Fury establishes a direct intelligence-reporting relationship with Jessica Drew.",
+      "epistemic": "direct",
+      "qualification": "Later Skrull impersonation makes issue-by-issue identity verification important.",
+      "event_ids": [
+        "SHD4_E08"
+      ],
+      "scope": "Pre-Secret Invasion infiltration era (2000s; issue pending)",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Fury establishes a direct intelligence-reporting relationship with Jessica Drew."
+    },
+    {
+      "id": "SHD4_C09",
+      "pair_id": "crossbones-red_skull",
+      "from_id": "red_skull",
+      "to_id": "crossbones",
+      "dimension": "authority",
+      "assessment": "Red Skull trains and employs Crossbones as his bodyguard.",
+      "epistemic": "direct",
+      "qualification": "Do not infer affection from sustained service to a Nazi leader.",
+      "event_ids": [
+        "SHD4_E09"
+      ],
+      "scope": "Crossbones recruitment and training era (late 1980s; exact issue pending)",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "interpretation": "Training and naming Crossbones establish patronage and control rather than evidence of friendship.",
+      "summary": "Red Skull trains and employs Crossbones as his bodyguard."
+    },
+    {
+      "id": "SHD4_C10",
+      "pair_id": "crossbones-sin",
+      "from_id": "crossbones",
+      "to_id": "sin",
+      "dimension": "coercion",
+      "assessment": "Crossbones uses abduction and torture against Sin before their later romance.",
+      "epistemic": "direct",
+      "qualification": "The coercive episode and subsequent romantic involvement must remain distinct, not normalized as mutual affection.",
+      "event_ids": [
+        "SHD4_E10",
+        "SHD4_E16"
+      ],
+      "scope": "Captain America (2004) #15–17 / Red Menace era",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "interpretation": "The later romance must not be used to recast earlier torture as consensual intimacy.",
+      "summary": "Crossbones uses abduction and torture against Sin before their later romance."
+    },
+    {
+      "id": "SHD4_C11",
+      "pair_id": "crossbones-diamondback",
+      "from_id": "crossbones",
+      "to_id": "diamondback",
+      "dimension": "coercion",
+      "assessment": "Crossbones abducts and instrumentalizes Diamondback to trap Captain America.",
+      "epistemic": "direct",
+      "qualification": "Do not infer willing collaboration from her presence with Crossbones.",
+      "event_ids": [
+        "SHD4_E11"
+      ],
+      "scope": "Captain America (1968) #351–371 / Bloodstone Hunt era",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Crossbones abducts and instrumentalizes Diamondback to trap Captain America."
+    },
+    {
+      "id": "SHD4_C12",
+      "pair_id": "diamondback-steve",
+      "from_id": "diamondback",
+      "to_id": "steve",
+      "dimension": "friendship",
+      "assessment": "Diamondback develops a friendship with Captain America and joins his quest.",
+      "epistemic": "direct",
+      "qualification": "The publisher raises romance as a possibility; this record does not assert a completed romantic relationship.",
+      "event_ids": [
+        "SHD4_E12"
+      ],
+      "scope": "Captain America (1968) #351–371 / Bloodstone Hunt era",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "interpretation": "Their shift from adversaries to friends makes this a bridge across moral and criminal worlds.",
+      "summary": "Diamondback develops a friendship with Captain America and joins his quest."
+    },
+    {
+      "id": "SHD4_C13",
+      "pair_id": "crossbones-steve",
+      "from_id": "crossbones",
+      "to_id": "steve",
+      "dimension": "conflict",
+      "assessment": "Crossbones actively targets and fights Captain America.",
+      "epistemic": "direct",
+      "qualification": "Issue synopsis and character biography support hostility, not a permanent personal fixation.",
+      "event_ids": [
+        "SHD4_E13"
+      ],
+      "scope": "Captain America (1968) #363 (1989) / Bloodstone Hunt aftermath",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Crossbones actively targets and fights Captain America."
+    },
+    {
+      "id": "SHD4_C14",
+      "pair_id": "fisk-red_skull",
+      "from_id": "red_skull",
+      "to_id": "fisk",
+      "dimension": "conflict",
+      "assessment": "Red Skull competes with and directly fights Kingpin for criminal power.",
+      "epistemic": "direct",
+      "qualification": "This is a scoped rivalry, not evidence that all their enterprises are perpetually opposed.",
+      "event_ids": [
+        "SHD4_E14"
+      ],
+      "scope": "Red Skull Ice-drug scheme / Kingpin rivalry (issue pending)",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Red Skull competes with and directly fights Kingpin for criminal power."
+    },
+    {
+      "id": "SHD4_C15",
+      "pair_id": "nick_fury_sr-red_skull",
+      "from_id": "nick_fury_sr",
+      "to_id": "red_skull",
+      "dimension": "conflict",
+      "assessment": "Nick Fury opposes Red Skull in wartime combat.",
+      "epistemic": "direct",
+      "qualification": "Do not collapse this historical Red Skull into later impostors or clones without issue-specific review.",
+      "event_ids": [
+        "SHD4_E15"
+      ],
+      "scope": "World War II Howling Commandos operations",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Nick Fury opposes Red Skull in wartime combat."
+    },
+    {
+      "id": "YA4_C01",
+      "pair_id": "hulkling-wiccan",
+      "from_id": "hulkling",
+      "to_id": "wiccan",
+      "dimension": "romance",
+      "assessment": "Hulkling and Wiccan enter a marriage after years as partners.",
+      "epistemic": "direct",
+      "summary": "Hulkling and Wiccan enter a marriage after years as partners.",
+      "qualification": "The wedding is historical; it does not by itself establish that every later conflict is resolved.",
+      "event_ids": [
+        "YA4_E01"
+      ],
+      "scope": "Empyre: Aftermath Avengers (2020) #1",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C02",
+      "pair_id": "anelle-hulkling",
+      "from_id": "anelle",
+      "to_id": "hulkling",
+      "dimension": "family",
+      "assessment": "Anelle is Teddy’s mother.",
+      "epistemic": "direct",
+      "summary": "Anelle is Teddy’s mother.",
+      "qualification": "Parentage is documented; no inference about their lived maternal bond.",
+      "event_ids": [
+        "YA4_E02"
+      ],
+      "scope": "Lords of Empyre: Emperor Hulkling (2020) #1; retrospective",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C03",
+      "pair_id": "hulkling-mar_vell",
+      "from_id": "mar_vell",
+      "to_id": "hulkling",
+      "dimension": "family",
+      "assessment": "Mar-Vell is Teddy’s father.",
+      "epistemic": "direct",
+      "summary": "Mar-Vell is Teddy’s father.",
+      "qualification": "Teddy did not grow up knowing his biological parentage.",
+      "event_ids": [
+        "YA4_E03"
+      ],
+      "scope": "Lords of Empyre: Emperor Hulkling (2020) #1; retrospective",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C04",
+      "pair_id": "anelle-mar_vell",
+      "from_id": "mar_vell",
+      "to_id": "anelle",
+      "dimension": "romance",
+      "assessment": "Mar-Vell and Anelle have a personal relationship that produces a child across enemy empires.",
+      "epistemic": "interpretive",
+      "summary": "Mar-Vell and Anelle have a personal relationship that produces a child across enemy empires.",
+      "qualification": "Publisher confirms a relationship and their son; the precise romantic circumstances and issue remain unverified.",
+      "event_ids": [
+        "YA4_E04"
+      ],
+      "scope": "Mar-Vell biography; Kree-Skrull history",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C05",
+      "pair_id": "elysius-mar_vell",
+      "from_id": "mar_vell",
+      "to_id": "elysius",
+      "dimension": "romance",
+      "assessment": "Mar-Vell and Elysius are partners who plan a family.",
+      "epistemic": "direct",
+      "summary": "Mar-Vell and Elysius are partners who plan a family.",
+      "qualification": "No precise issue assignment from indexed biography.",
+      "event_ids": [
+        "YA4_E05"
+      ],
+      "scope": "Mar-Vell biography; pre-death era",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C06",
+      "pair_id": "elysius-genis_vell",
+      "from_id": "elysius",
+      "to_id": "genis_vell",
+      "dimension": "family",
+      "assessment": "Elysius is Genis-Vell’s mother.",
+      "epistemic": "direct",
+      "summary": "Elysius is Genis-Vell’s mother.",
+      "qualification": "Conception is posthumous; do not infer a father-child meeting.",
+      "event_ids": [
+        "YA4_E06"
+      ],
+      "scope": "After The Death of Captain Marvel; retrospective",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C07",
+      "pair_id": "elysius-phyla",
+      "from_id": "elysius",
+      "to_id": "phyla",
+      "dimension": "family",
+      "assessment": "Elysius is Phyla-Vell’s mother.",
+      "epistemic": "direct",
+      "summary": "Elysius is Phyla-Vell’s mother.",
+      "qualification": "Phyla-Vell is already present in canonical research; no duplicate person proposed.",
+      "event_ids": [
+        "YA4_E07"
+      ],
+      "scope": "After The Death of Captain Marvel; retrospective",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C08",
+      "pair_id": "mar_vell-starfox",
+      "from_id": "starfox",
+      "to_id": "mar_vell",
+      "dimension": "friendship",
+      "assessment": "Eros becomes Mar-Vell’s friend and accepts a personal deathbed obligation.",
+      "epistemic": "direct",
+      "summary": "Eros becomes Mar-Vell’s friend and accepts a personal deathbed obligation.",
+      "qualification": "The promise is documented; subsequent fulfillment is not established here.",
+      "event_ids": [
+        "YA4_E08"
+      ],
+      "scope": "Mar-Vell and Thanos conflict; Mar-Vell deathbed era",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C09",
+      "pair_id": "speed-wiccan",
+      "from_id": "wiccan",
+      "to_id": "speed",
+      "dimension": "family",
+      "assessment": "Billy recognizes Tommy as his reincarnated twin and recruits him to search for their mother.",
+      "epistemic": "direct",
+      "summary": "Billy recognizes Tommy as his reincarnated twin and recruits him to search for their mother.",
+      "qualification": "Reincarnation, not an ordinary shared biological upbringing.",
+      "event_ids": [
+        "YA4_E09"
+      ],
+      "scope": "Young Avengers (2005) #10; Young Avengers Presents (2008) #3",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C10",
+      "pair_id": "wanda-wiccan",
+      "from_id": "wanda",
+      "to_id": "wiccan",
+      "dimension": "family",
+      "assessment": "Wanda acknowledges Billy as her reincarnated son.",
+      "epistemic": "direct",
+      "summary": "Wanda acknowledges Billy as her reincarnated son.",
+      "qualification": "Recognition is a specific reunion, not evidence of a continuous upbringing.",
+      "event_ids": [
+        "YA4_E10"
+      ],
+      "scope": "Avengers: The Children’s Crusade (2010) #1 and subsequent reunion",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C11",
+      "pair_id": "speed-wanda",
+      "from_id": "wanda",
+      "to_id": "speed",
+      "dimension": "family",
+      "assessment": "Wanda acknowledges Tommy as her reincarnated son.",
+      "epistemic": "direct",
+      "summary": "Wanda acknowledges Tommy as her reincarnated son.",
+      "qualification": "Specific family recognition; not an ordinary biological history.",
+      "event_ids": [
+        "YA4_E11"
+      ],
+      "scope": "Avengers: The Children’s Crusade (2010) #1 and subsequent reunion",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C12",
+      "pair_id": "clint-kate_bishop",
+      "from_id": "clint",
+      "to_id": "kate_bishop",
+      "dimension": "mentorship",
+      "assessment": "Clint recognizes Kate as a worthy successor and allows her to retain the Hawkeye mantle.",
+      "epistemic": "interpretive",
+      "summary": "Clint recognizes Kate as a worthy successor and allows her to retain the Hawkeye mantle.",
+      "qualification": "The blessing is documented; a formal apprenticeship is not proven by this episode.",
+      "event_ids": [
+        "YA4_E12"
+      ],
+      "scope": "Young Avengers Presents (2008) #6; Hawkeye (2012) #2",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C13",
+      "pair_id": "eli_bradley-kate_bishop",
+      "from_id": "kate_bishop",
+      "to_id": "eli_bradley",
+      "dimension": "affection",
+      "assessment": "Kate is romantically attracted to Eli during the early Young Avengers period.",
+      "epistemic": "direct",
+      "summary": "Kate is romantically attracted to Eli during the early Young Avengers period.",
+      "qualification": "Attraction is not evidence of an exclusive or sustained romantic partnership.",
+      "event_ids": [
+        "YA4_E13"
+      ],
+      "scope": "Young Avengers (2005) initial run; issue unspecified",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C14",
+      "pair_id": "hulkling-super_skrull",
+      "from_id": "super_skrull",
+      "to_id": "hulkling",
+      "dimension": "coercion",
+      "assessment": "Super-Skrull attempts to control Teddy’s movement and dynastic future through abduction.",
+      "epistemic": "direct",
+      "summary": "Super-Skrull attempts to control Teddy’s movement and dynastic future through abduction.",
+      "qualification": "Later impersonation that allows Teddy to stay on Earth complicates a simple villain label.",
+      "event_ids": [
+        "YA4_E14"
+      ],
+      "scope": "Young Avengers (2005) #9–12 era; exact issue pending",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "YA4_C15",
+      "pair_id": "eli_bradley-iron_lad",
+      "from_id": "iron_lad",
+      "to_id": "eli_bradley",
+      "dimension": "authority",
+      "assessment": "Iron Lad recruits Eli and initially directs his training and missions.",
+      "epistemic": "direct",
+      "summary": "Iron Lad recruits Eli and initially directs his training and missions.",
+      "qualification": "This is bounded operational leadership, not permanent command or personal trust.",
+      "event_ids": [
+        "YA4_E15"
+      ],
+      "scope": "Young Avengers (2005) #1–6; recruitment arc",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed"
+    },
+    {
+      "id": "GR5_C01",
+      "pair_id": "johnny_blaze-naomi_kale",
+      "from_id": "naomi_kale",
+      "to_id": "johnny_blaze",
+      "dimension": "protection",
+      "assessment": "Naomi separates Johnny from his siblings as part of an attempt to protect him.",
+      "epistemic": "interpretive",
+      "interpretation_or_limit": "The protective purpose is stated; the emotional consequences for Johnny are not established.",
+      "event_ids": [
+        "GR5_E01"
+      ],
+      "scope": "Blaze/Ketch childhood; later retrospective",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Naomi separates Johnny from his siblings as part of an attempt to protect him."
+    },
+    {
+      "id": "GR5_C02",
+      "pair_id": "danny_ketch-naomi_kale",
+      "from_id": "naomi_kale",
+      "to_id": "danny_ketch",
+      "dimension": "protection",
+      "assessment": "Naomi takes concrete steps to protect Danny, including placing him in another household.",
+      "epistemic": "interpretive",
+      "interpretation_or_limit": "Protection does not establish that the separation ultimately benefited Danny.",
+      "event_ids": [
+        "GR5_E02"
+      ],
+      "scope": "Blaze/Ketch childhood; later retrospective",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Naomi takes concrete steps to protect Danny, including placing him in another household."
+    },
+    {
+      "id": "GR5_C03",
+      "pair_id": "barbara_ketch-naomi_kale",
+      "from_id": "naomi_kale",
+      "to_id": "barbara_ketch",
+      "dimension": "protection",
+      "assessment": "Naomi tries to protect Barbara through separation and magical intervention.",
+      "epistemic": "interpretive",
+      "interpretation_or_limit": "The outcome and Barbara’s subjective experience are not established.",
+      "event_ids": [
+        "GR5_E03"
+      ],
+      "scope": "Blaze/Ketch childhood; later retrospective",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Naomi tries to protect Barbara through separation and magical intervention."
+    },
+    {
+      "id": "GR5_C04",
+      "pair_id": "mephisto-naomi_kale",
+      "from_id": "mephisto",
+      "to_id": "naomi_kale",
+      "dimension": "influence",
+      "assessment": "Mephisto shapes Naomi’s fate through a conditional supernatural bargain.",
+      "epistemic": "interpretive",
+      "interpretation_or_limit": "Do not label her consent unambiguously free or coerced without the original story.",
+      "event_ids": [
+        "GR5_E04"
+      ],
+      "scope": "Naomi Kale’s final Ghost Rider bargain; historical retrospective",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Mephisto shapes Naomi’s fate through a conditional supernatural bargain."
+    },
+    {
+      "id": "GR5_C05",
+      "pair_id": "crash_simpson-johnny_blaze",
+      "from_id": "johnny_blaze",
+      "to_id": "crash_simpson",
+      "dimension": "protection",
+      "assessment": "Johnny acts to preserve Crash’s life despite a costly bargain.",
+      "epistemic": "direct",
+      "interpretation_or_limit": "The action is protective; it does not demonstrate that Johnny could prevent Crash’s accidental death.",
+      "event_ids": [
+        "GR5_E05"
+      ],
+      "scope": "Marvel Spotlight (1971) #5, published 1972",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Johnny acts to preserve Crash’s life despite a costly bargain."
+    },
+    {
+      "id": "GR5_C06",
+      "pair_id": "mephisto-zarathos",
+      "from_id": "mephisto",
+      "to_id": "zarathos",
+      "dimension": "coercion",
+      "assessment": "Mephisto enslaves and controls Zarathos as part of the Ghost Rider arrangement.",
+      "epistemic": "direct",
+      "interpretation_or_limit": "The source summarizes retconned supernatural history; panel-level chronology is unresolved.",
+      "event_ids": [
+        "GR5_E06"
+      ],
+      "scope": "Ghost Rider origin and later revelations; issue-level pinpoint pending",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Mephisto enslaves and controls Zarathos as part of the Ghost Rider arrangement."
+    },
+    {
+      "id": "GR5_C07",
+      "pair_id": "danny_ketch-johnny_blaze",
+      "from_id": "johnny_blaze",
+      "to_id": "danny_ketch",
+      "dimension": "conflict",
+      "assessment": "Johnny’s relationship with Danny changes from violent suspicion to brotherly cooperation.",
+      "epistemic": "direct",
+      "interpretation_or_limit": "Do not project the initial conflict across their later relationship.",
+      "event_ids": [
+        "GR5_E07"
+      ],
+      "scope": "Ghost Rider (1990) early issues; reconciliation and brotherhood revealed later",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Johnny’s relationship with Danny changes from violent suspicion to brotherly cooperation."
+    },
+    {
+      "id": "GR5_C08",
+      "pair_id": "barbara_ketch-danny_ketch",
+      "from_id": "danny_ketch",
+      "to_id": "barbara_ketch",
+      "dimension": "family",
+      "assessment": "Barbara’s injury is a decisive event in her brother Danny’s origin as Ghost Rider.",
+      "epistemic": "interpretive",
+      "interpretation_or_limit": "The source does not establish that Danny intentionally transformed to rescue her.",
+      "event_ids": [
+        "GR5_E08"
+      ],
+      "scope": "Ghost Rider (1990) #1 origin era",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Barbara’s injury is a decisive event in her brother Danny’s origin as Ghost Rider."
+    },
+    {
+      "id": "GR5_C09",
+      "pair_id": "blackheart-noble_kale",
+      "from_id": "blackheart",
+      "to_id": "noble_kale",
+      "dimension": "authority",
+      "assessment": "Blackheart attempts to secure Noble’s service through a conditional bargain.",
+      "epistemic": "interpretive",
+      "interpretation_or_limit": "A bargain does not establish permanent loyalty or affection.",
+      "event_ids": [
+        "GR5_E09"
+      ],
+      "scope": "Noble Kale / Blackheart King of Hell arc; exact issues pending",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Blackheart attempts to secure Noble’s service through a conditional bargain."
+    },
+    {
+      "id": "GR5_C10",
+      "pair_id": "noble_kale-roxanne_simpson",
+      "from_id": "noble_kale",
+      "to_id": "roxanne_simpson",
+      "dimension": "protection",
+      "assessment": "Noble facilitates Roxanne’s release and reunion with Johnny.",
+      "epistemic": "interpretive",
+      "interpretation_or_limit": "Black Rose’s reincarnation identity and the chronology require primary-issue verification.",
+      "event_ids": [
+        "GR5_E10"
+      ],
+      "scope": "Noble Kale / Black Rose and King of Hell arc; exact issues pending",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Noble facilitates Roxanne’s release and reunion with Johnny."
+    },
+    {
+      "id": "GR5_C11",
+      "pair_id": "johnny_blaze-michael_badilino",
+      "from_id": "michael_badilino",
+      "to_id": "johnny_blaze",
+      "dimension": "conflict",
+      "assessment": "Michael’s hostility toward Johnny’s Ghost Rider identity later gives way to cooperation.",
+      "epistemic": "direct",
+      "interpretation_or_limit": "His grievance is rooted in Mephisto’s manipulation; blame is not equivalent to actual culpability.",
+      "event_ids": [
+        "GR5_E11"
+      ],
+      "scope": "Vengeance origin / early 1990s Ghost Rider era",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Michael’s hostility toward Johnny’s Ghost Rider identity later gives way to cooperation."
+    },
+    {
+      "id": "GR5_C12",
+      "pair_id": "mephisto-michael_badilino",
+      "from_id": "mephisto",
+      "to_id": "michael_badilino",
+      "dimension": "influence",
+      "assessment": "Mephisto gives Michael supernatural power through a bargain.",
+      "epistemic": "direct",
+      "interpretation_or_limit": "The source does not specify every term or the extent of Mephisto’s subsequent control.",
+      "event_ids": [
+        "GR5_E12"
+      ],
+      "scope": "Vengeance origin / early 1990s Ghost Rider era",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Mephisto gives Michael supernatural power through a bargain."
+    },
+    {
+      "id": "GR5_C13",
+      "pair_id": "danny_ketch-mary_lebow",
+      "from_id": "mary_lebow",
+      "to_id": "danny_ketch",
+      "dimension": "friendship",
+      "assessment": "Mary repeatedly helps Danny as a friend, including when he is vulnerable.",
+      "epistemic": "direct",
+      "interpretation_or_limit": "The Marvel-hosted biography explicitly warns that its crowd-sourced content is not editorially verified.",
+      "event_ids": [
+        "GR5_E13"
+      ],
+      "scope": "Ghost Rider: Danny Ketch (2008) era; exact issues unverified",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Mary repeatedly helps Danny as a friend, including when he is vulnerable."
+    },
+    {
+      "id": "GR5_C14",
+      "pair_id": "danny_ketch-noble_kale",
+      "from_id": "danny_ketch",
+      "to_id": "noble_kale",
+      "dimension": "influence",
+      "assessment": "Danny materially changes Noble’s supernatural identity by restoring his memories.",
+      "epistemic": "interpretive",
+      "interpretation_or_limit": "The relationship involves host and spirit identities; they are distinct characters in Marvel’s account.",
+      "event_ids": [
+        "GR5_E14"
+      ],
+      "scope": "Noble Kale / Angel of Death transformation arc; exact issues pending",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Danny materially changes Noble’s supernatural identity by restoring his memories."
+    },
+    {
+      "id": "GR5_C15",
+      "pair_id": "johnny_blaze-zadkiel",
+      "from_id": "johnny_blaze",
+      "to_id": "zadkiel",
+      "dimension": "conflict",
+      "assessment": "Johnny directly resists Zadkiel’s supernatural authority and agenda.",
+      "epistemic": "direct",
+      "interpretation_or_limit": "The cited collection supports the broad arc, not individual scene-by-scene claims.",
+      "event_ids": [
+        "GR5_E15"
+      ],
+      "scope": "Ghost Rider (2006) #20–35 and Ghost Riders: Heaven’s on Fire (2009) #1–6",
+      "continuity": "Earth-616",
+      "review_status": "Publisher secondary; original panels not independently reviewed",
+      "summary": "Johnny directly resists Zadkiel’s supernatural authority and agenda."
     }
   ],
   "research_backlog": [
