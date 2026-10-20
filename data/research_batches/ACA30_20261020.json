@@ -1,0 +1,717 @@
+{
+  "batch_id": "ACA30_20261020",
+  "status": "UNCOMMITTED / awaiting periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "community": "Avengers Academy / institutional accountability / adolescent agency",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "2623b6cecc2f60f2c843cebd515ccaaf2b4565f6",
+    "people": 238,
+    "events": 352,
+    "claims": 422,
+    "crosswalk_sha": "21d602a707e0dae4da64bedea1e129f57f3e561c"
+  },
+  "people": [
+    {
+      "id": "hazmat",
+      "name": "Jennifer Takeda",
+      "alias": "Hazmat",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "mettle",
+      "name": "Ken Mack",
+      "alias": "Mettle",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "veil",
+      "name": "Madeline Berry",
+      "alias": "Veil",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "striker",
+      "name": "Brandon Sharpe",
+      "alias": "Striker",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "finesse",
+      "name": "Jeanne Foucault",
+      "alias": "Finesse",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "taskmaster",
+      "name": "Taskmaster",
+      "alias": "Taskmaster",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "tigra",
+      "name": "Greer Nelson",
+      "alias": "Tigra",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "hood",
+      "name": "Parker Robbins",
+      "alias": "The Hood",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jeremy_briggs",
+      "name": "Jeremy Briggs",
+      "alias": "Alchemist",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "reptil",
+      "name": "Humberto Lopez",
+      "alias": "Reptil",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "mentallo",
+      "name": "Marvin Flumm",
+      "alias": "Mentallo",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "moon_girl",
+      "name": "Lunella Lafayette",
+      "alias": "Moon Girl",
+      "continuity": "Earth-616"
+    }
+  ],
+  "reused_canonical_ids": [
+    "pietro",
+    "jocasta",
+    "norman",
+    "carol"
+  ],
+  "sources": [
+    {
+      "id": "ACA30_20261020_S01",
+      "title": "Avengers Academy — official history",
+      "url": "https://www.marvel.com/teams-and-groups/avengers-academy",
+      "kind": "publisher_history",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S02",
+      "title": "Avengers Academy (2010) #8",
+      "url": "https://www.marvel.com/comics/issue/29223/avengers_academy_2010_8",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S03",
+      "title": "Avengers Academy Vol. 2: Will We Use This in the Real World? (#7–14)",
+      "url": "https://www.marvel.com/comics/collection/29325/",
+      "kind": "publisher_collection",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S04",
+      "title": "Avengers Academy (2010) #2",
+      "url": "https://www.marvel.com/comics/issue/29217/ajax/aggregate",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S05",
+      "title": "Avengers Academy (2010) #35",
+      "url": "https://www.marvel.com/comics/issue/40257/avengers_academy_2010_35",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S06",
+      "title": "Avengers Academy Complete Collection Vol. 3 (#21–39)",
+      "url": "https://www.marvel.com/comics/collection/82339/avengers_academy_the_complete_collection_vol_3_trade_paperback",
+      "kind": "publisher_collection",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S07",
+      "title": "Avengers Academy: Assemble (2025) #1",
+      "url": "https://www.marvel.com/comics/issue/129213/avengers_academy_assemble_2025_1",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S08",
+      "title": "Avengers Academy: Marvel’s Voices Infinity Comic (2024)",
+      "url": "https://www.marvel.com/comics/issue/122784/avengers_academy_marvels_voices_infinity_comic_2024",
+      "kind": "publisher_series_index",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    }
+  ],
+  "events": [
+    {
+      "id": "ACA30_20261020_E01",
+      "a": "hazmat",
+      "b": "mettle",
+      "issue": "Avengers Academy (2010), pre-#39 and #35–39",
+      "observation": "Hazmat and Mettle become romantic partners; when Briggs offers a way to lose their unwanted powers, they ultimately choose to regain powers to help their friends.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S06"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ACA30_20261020_E02",
+      "a": "mettle",
+      "b": "hazmat",
+      "issue": "Avengers Academy (2010) #15–19, Fear Itself",
+      "observation": "Mettle volunteers to remain with Hazmat when the Academy faces a possible self-destruct plan, rather than leave her alone in danger.",
+      "source_ids": [
+        "ACA30_20261020_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Exact issue within #15–19 not established from official history."
+    },
+    {
+      "id": "ACA30_20261020_E03",
+      "a": "veil",
+      "b": "striker",
+      "issue": "Avengers Academy (2010), initial class through #39",
+      "observation": "Marvel explicitly identifies Veil and Striker as best friends.",
+      "source_ids": [
+        "ACA30_20261020_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Publisher retrospective, not a specific scene."
+    },
+    {
+      "id": "ACA30_20261020_E04",
+      "a": "finesse",
+      "b": "taskmaster",
+      "issue": "Avengers Academy (2010) #9",
+      "observation": "Finesse seeks and fights Taskmaster to investigate possible parentage; his damaged memory prevents him from confirming whether he is her father.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Biological parentage remains unconfirmed."
+    },
+    {
+      "id": "ACA30_20261020_E05",
+      "a": "finesse",
+      "b": "pietro",
+      "issue": "Avengers Academy (2010), early academy through #39",
+      "observation": "Finesse leverages knowledge of Quicksilver’s concealed past to compel him to teach her; later she tells him she wants to emulate him rather than Magneto.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Early blackmail and later admiration are separate phases."
+    },
+    {
+      "id": "ACA30_20261020_E06",
+      "a": "hood",
+      "b": "tigra",
+      "issue": "Before Avengers Academy (2010) #8; retaliation in #8",
+      "observation": "The Hood previously beats and humiliates Tigra, and footage of the attack later circulates.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "The original beating is earlier than issue #8."
+    },
+    {
+      "id": "ACA30_20261020_E07",
+      "a": "striker",
+      "b": "hood",
+      "issue": "Avengers Academy (2010) #8–9",
+      "observation": "Striker joins Hazmat and Veil in tracking down and assaulting the now-powerless Hood in revenge for his abuse of Tigra.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ACA30_20261020_E08",
+      "a": "veil",
+      "b": "hood",
+      "issue": "Avengers Academy (2010) #8–9",
+      "observation": "Veil joins Striker and Hazmat in retaliating against the Hood; the students’ assault is recorded and shown to Tigra.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ACA30_20261020_E09",
+      "a": "hazmat",
+      "b": "hood",
+      "issue": "Avengers Academy (2010) #8–9",
+      "observation": "Hazmat joins Striker and Veil in the revenge assault on the Hood.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ACA30_20261020_E10",
+      "a": "tigra",
+      "b": "striker",
+      "issue": "Avengers Academy (2010) #8–9",
+      "observation": "After viewing the students’ assault video, Tigra expels Striker and the other two attackers; Quicksilver later persuades her to relent.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Discipline is a response to violence, not evidence of permanent hostility."
+    },
+    {
+      "id": "ACA30_20261020_E11",
+      "a": "jeremy_briggs",
+      "b": "jocasta",
+      "issue": "Avengers Academy (2010) #21–39, Final Exam",
+      "observation": "Jocasta secretly allies with Briggs because she regards the Academy as unsafe; she later helps prevent his worldwide depowering missile launch.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S06"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "The alliance changes; do not treat it as permanent endorsement."
+    },
+    {
+      "id": "ACA30_20261020_E12",
+      "a": "hazmat",
+      "b": "norman",
+      "issue": "Avengers Academy (2010) #3–4, Raft visit",
+      "observation": "Hazmat disrupts the Raft security system and confronts Norman Osborn with Mettle and Veil over his experimentation, but they decide not to injure him.",
+      "source_ids": [
+        "ACA30_20261020_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Specific division of individual intent among three students is not documented."
+    },
+    {
+      "id": "ACA30_20261020_E13",
+      "a": "reptil",
+      "b": "mentallo",
+      "issue": "Avengers Academy (2010), first Academy mission",
+      "observation": "Mentallo controls the students against each other; Reptil’s complete dinosaur transformation resists control and severely injures Mentallo.",
+      "source_ids": [
+        "ACA30_20261020_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Exact issue not confirmed."
+    },
+    {
+      "id": "ACA30_20261020_E14",
+      "a": "carol",
+      "b": "mettle",
+      "issue": "Avengers Academy: Marvel’s Voices Infinity Comic (2024–25), later school era",
+      "observation": "After Mettle panics and sinks while surfing, Carol consoles him, emphasizes safety and healing, and offers him a resident-advisor position.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S08"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Exact digital installment not confirmed."
+    },
+    {
+      "id": "ACA30_20261020_E15",
+      "a": "hazmat",
+      "b": "moon_girl",
+      "issue": "Avengers Academy: Marvel’s Voices Infinity Comic (2024–25), later school era",
+      "observation": "Moon Girl’s Arcade robot triggers Mettle’s distress; Hazmat confronts her, then reconciles and joins her in offering to dismantle the robot.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S08"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Exact digital installment not confirmed."
+    },
+    {
+      "id": "ACA30_20261020_E16",
+      "a": "finesse",
+      "b": "jeremy_briggs",
+      "issue": "Avengers Academy (2010) #35–39, Final Exam",
+      "observation": "Finesse wounds Briggs using the unconscious X-23’s claws, initially treats the injury, then removes his bandages after he threatens to repeat his plan.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S05",
+        "ACA30_20261020_S06"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Lethal outcome is implied by secondary summaries; original panels not reviewed."
+    }
+  ],
+  "claims": [
+    {
+      "id": "ACA30_20261020_C01",
+      "pair_id": "hazmat-mettle",
+      "from_id": "hazmat",
+      "to_id": "mettle",
+      "dimension": "romance",
+      "assessment": "romantic attachment",
+      "epistemic": "direct",
+      "fact": "Hazmat and Mettle enter a romantic relationship.",
+      "interpretation": "Do not assume their commitment or circumstances stay unchanged throughout the series.",
+      "event_ids": [
+        "ACA30_20261020_E01"
+      ],
+      "scope": "Avengers Academy (2010), pre-#39 and #35–39",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C02",
+      "pair_id": "hazmat-mettle",
+      "from_id": "mettle",
+      "to_id": "hazmat",
+      "dimension": "protection",
+      "assessment": "voluntary risk sharing",
+      "epistemic": "qualified",
+      "fact": "Mettle chooses to remain beside Hazmat during the proposed self-destruct operation.",
+      "interpretation": "A specific protective choice; not proof of permanent self-sacrificial conduct.",
+      "event_ids": [
+        "ACA30_20261020_E02"
+      ],
+      "scope": "Avengers Academy (2010) #15–19, Fear Itself",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C03",
+      "pair_id": "striker-veil",
+      "from_id": "veil",
+      "to_id": "striker",
+      "dimension": "friendship",
+      "assessment": "established close friendship",
+      "epistemic": "direct",
+      "fact": "Marvel explicitly identifies Veil and Striker as best friends.",
+      "interpretation": "A retrospective relationship label, without an issue-specific private exchange.",
+      "event_ids": [
+        "ACA30_20261020_E03"
+      ],
+      "scope": "Avengers Academy (2010), initial class through #39",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C04",
+      "pair_id": "striker-veil",
+      "from_id": "striker",
+      "to_id": "veil",
+      "dimension": "friendship",
+      "assessment": "established close friendship",
+      "epistemic": "direct",
+      "fact": "Marvel explicitly identifies the pair as best friends.",
+      "interpretation": "Reciprocal friendship is explicitly described; no claim about permanence.",
+      "event_ids": [
+        "ACA30_20261020_E03"
+      ],
+      "scope": "Avengers Academy (2010), initial class through #39",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C05",
+      "pair_id": "finesse-taskmaster",
+      "from_id": "finesse",
+      "to_id": "taskmaster",
+      "dimension": "conflict",
+      "assessment": "direct confrontation",
+      "epistemic": "direct",
+      "fact": "Finesse fights Taskmaster while investigating whether he is her father.",
+      "interpretation": "The fight does not establish that he is her father.",
+      "event_ids": [
+        "ACA30_20261020_E04"
+      ],
+      "scope": "Avengers Academy (2010) #9",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C06",
+      "pair_id": "finesse-pietro",
+      "from_id": "finesse",
+      "to_id": "pietro",
+      "dimension": "coercion",
+      "assessment": "blackmail for training",
+      "epistemic": "direct",
+      "fact": "Finesse uses Quicksilver’s concealed past to compel him to teach her.",
+      "interpretation": "Initial training consent is compromised; later relationship must be separately evaluated.",
+      "event_ids": [
+        "ACA30_20261020_E05"
+      ],
+      "scope": "Avengers Academy (2010), early academy through #39",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C07",
+      "pair_id": "finesse-pietro",
+      "from_id": "pietro",
+      "to_id": "finesse",
+      "dimension": "mentorship",
+      "assessment": "later voluntary instruction",
+      "epistemic": "qualified",
+      "fact": "Quicksilver instructs Finesse, and she later says she wants to emulate him.",
+      "interpretation": "The subsequent mentor role is distinct from its coercive beginning.",
+      "event_ids": [
+        "ACA30_20261020_E05"
+      ],
+      "scope": "Avengers Academy (2010), early academy through #39",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C08",
+      "pair_id": "hood-tigra",
+      "from_id": "hood",
+      "to_id": "tigra",
+      "dimension": "conflict",
+      "assessment": "violent victimization",
+      "epistemic": "direct",
+      "fact": "The Hood beats and humiliates Tigra; the recording is later circulated.",
+      "interpretation": "A specific attack; no inference of mutual personal hatred.",
+      "event_ids": [
+        "ACA30_20261020_E06"
+      ],
+      "scope": "Before Avengers Academy (2010) #8; retaliation in #8",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C09",
+      "pair_id": "hood-striker",
+      "from_id": "striker",
+      "to_id": "hood",
+      "dimension": "conflict",
+      "assessment": "retaliatory assault",
+      "epistemic": "direct",
+      "fact": "Striker participates in beating the Hood after the video of Tigra’s abuse appears.",
+      "interpretation": "Retaliation does not establish lawful justice or enduring enmity.",
+      "event_ids": [
+        "ACA30_20261020_E07"
+      ],
+      "scope": "Avengers Academy (2010) #8–9",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C10",
+      "pair_id": "hood-veil",
+      "from_id": "veil",
+      "to_id": "hood",
+      "dimension": "conflict",
+      "assessment": "retaliatory assault",
+      "epistemic": "direct",
+      "fact": "Veil participates in the attack on the Hood.",
+      "interpretation": "One coordinated assault, not an independently proven longstanding feud.",
+      "event_ids": [
+        "ACA30_20261020_E08"
+      ],
+      "scope": "Avengers Academy (2010) #8–9",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C11",
+      "pair_id": "hazmat-hood",
+      "from_id": "hazmat",
+      "to_id": "hood",
+      "dimension": "conflict",
+      "assessment": "retaliatory assault",
+      "epistemic": "direct",
+      "fact": "Hazmat participates in the attack on the Hood.",
+      "interpretation": "Her action does not prove Tigra authorized it.",
+      "event_ids": [
+        "ACA30_20261020_E09"
+      ],
+      "scope": "Avengers Academy (2010) #8–9",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C12",
+      "pair_id": "striker-tigra",
+      "from_id": "tigra",
+      "to_id": "striker",
+      "dimension": "authority",
+      "assessment": "disciplinary expulsion",
+      "epistemic": "direct",
+      "fact": "Tigra expels Striker after the attack; the decision is subsequently softened.",
+      "interpretation": "Institutional discipline, not a permanent personal break.",
+      "event_ids": [
+        "ACA30_20261020_E10"
+      ],
+      "scope": "Avengers Academy (2010) #8–9",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C13",
+      "pair_id": "jeremy_briggs-jocasta",
+      "from_id": "jeremy_briggs",
+      "to_id": "jocasta",
+      "dimension": "cooperation",
+      "assessment": "temporary covert alliance",
+      "epistemic": "direct",
+      "fact": "Briggs gains Jocasta’s secret cooperation in opposing the Academy’s continuation.",
+      "interpretation": "Jocasta’s later action against his missile plan limits any inference of durable loyalty.",
+      "event_ids": [
+        "ACA30_20261020_E11"
+      ],
+      "scope": "Avengers Academy (2010) #21–39, Final Exam",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C14",
+      "pair_id": "hazmat-norman",
+      "from_id": "hazmat",
+      "to_id": "norman",
+      "dimension": "conflict",
+      "assessment": "confrontation without revenge attack",
+      "epistemic": "direct",
+      "fact": "Hazmat confronts Osborn about past experimentation but declines to hurt him.",
+      "interpretation": "Her participation in the group confrontation is established; private forgiveness is not.",
+      "event_ids": [
+        "ACA30_20261020_E12"
+      ],
+      "scope": "Avengers Academy (2010) #3–4, Raft visit",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C15",
+      "pair_id": "mentallo-reptil",
+      "from_id": "reptil",
+      "to_id": "mentallo",
+      "dimension": "conflict",
+      "assessment": "event-scoped physical combat",
+      "epistemic": "direct",
+      "fact": "Reptil injures Mentallo after the latter mind-controls other students.",
+      "interpretation": "The dinosaur form was also beyond Reptil’s own full control.",
+      "event_ids": [
+        "ACA30_20261020_E13"
+      ],
+      "scope": "Avengers Academy (2010), first Academy mission",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C16",
+      "pair_id": "carol-mettle",
+      "from_id": "carol",
+      "to_id": "mettle",
+      "dimension": "protection",
+      "assessment": "trauma-sensitive support",
+      "epistemic": "qualified",
+      "fact": "Carol consoles Mettle and offers him a resident-advisor role after a distressing incident.",
+      "interpretation": "Support is documented; do not infer a lifelong personal mentorship.",
+      "event_ids": [
+        "ACA30_20261020_E14"
+      ],
+      "scope": "Avengers Academy: Marvel’s Voices Infinity Comic (2024–25), later school era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C17",
+      "pair_id": "hazmat-moon_girl",
+      "from_id": "hazmat",
+      "to_id": "moon_girl",
+      "dimension": "cooperation",
+      "assessment": "reconciliation after conflict",
+      "epistemic": "direct",
+      "fact": "Hazmat reconciles with Moon Girl and joins her in offering to destroy the robot that upset Mettle.",
+      "interpretation": "The reconciliation is event-scoped; the offered destruction is not carried out.",
+      "event_ids": [
+        "ACA30_20261020_E15"
+      ],
+      "scope": "Avengers Academy: Marvel’s Voices Infinity Comic (2024–25), later school era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "ACA30_20261020_C18",
+      "pair_id": "finesse-jeremy_briggs",
+      "from_id": "finesse",
+      "to_id": "jeremy_briggs",
+      "dimension": "conflict",
+      "assessment": "potentially lethal violence",
+      "epistemic": "direct",
+      "fact": "Finesse wounds Briggs and subsequently removes treatment after his threat.",
+      "interpretation": "Avoid a definitive death claim without reviewing original panels.",
+      "event_ids": [
+        "ACA30_20261020_E16"
+      ],
+      "scope": "Avengers Academy (2010) #35–39, Final Exam",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    }
+  ],
+  "review": {
+    "proposed_new_people": 12,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 18,
+    "events": 16,
+    "official_marvel_sources": 8,
+    "canonical_person_id_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "crosswalk_person_id_collisions": 0,
+    "local_cross_references_validated": true,
+    "original_panels_reviewed": false,
+    "unmerged_batch_deduplication": "pending",
+    "uncertainties": [
+      "Taskmaster-Finesse biological parentage remains unconfirmed.",
+      "Finesse-Quicksilver coercion and later mentoring are chronologically separate.",
+      "Reptil-Mentallo issue number remains unresolved.",
+      "Current-era Moon Girl/Hazmat and Carol/Mettle scenes are from a 2024–25 Infinity Comic run; precise installment pending.",
+      "No cross-batch deduplication against unmerged drafts was possible."
+    ],
+    "committed": 0
+  }
+}
