@@ -1434,6 +1434,403 @@
       "name": "Dane Whitman",
       "continuity": "Earth-616",
       "alias": "Dane Whitman"
+    },
+    {
+      "id": "galactus",
+      "name": "Galan",
+      "alias": "Galactus",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "norrin_radd",
+      "name": "Norrin Radd",
+      "alias": "Silver Surfer",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "shalla_bal",
+      "name": "Shalla-Bal",
+      "alias": "Empress of Zenn-La",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gabriel_lan",
+      "name": "Gabriel Lan",
+      "alias": "Air-Walker",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "pyreus_kril",
+      "name": "Pyreus Kril",
+      "alias": "Firelord",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "tyros",
+      "name": "Tyros",
+      "alias": "Terrax",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "frankie_raye",
+      "name": "Frankie Raye",
+      "alias": "Nova (Frankie Raye)",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "morg",
+      "name": "Morg",
+      "alias": "Morg the Executioner",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "stardust_lambda_zero",
+      "name": "Lambda-Zero",
+      "alias": "Stardust",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jubilee",
+      "name": "Jubilation Lee",
+      "alias": "Jubilee",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "chamber",
+      "name": "Jonothon Starsmore",
+      "alias": "Chamber",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "husk",
+      "name": "Paige Guthrie",
+      "alias": "Husk",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "monet",
+      "name": "Monet St. Croix",
+      "alias": "M",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "emplate",
+      "name": "Marius St. Croix",
+      "alias": "Emplate",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "synch",
+      "name": "Everett Thomas",
+      "alias": "Synch",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "shogo",
+      "name": "Shogo Lee",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "theresa_cassidy",
+      "name": "Theresa Rourke Cassidy",
+      "alias": "Siryn",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "black_tom",
+      "name": "Thomas Cassidy",
+      "alias": "Black Tom Cassidy",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "maeve_rourke",
+      "name": "Maeve Rourke Cassidy",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "adrienne_frost",
+      "name": "Adrienne Frost",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "alex_wilder",
+      "name": "Alex Wilder",
+      "alias": "Alex Wilder",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "nico_minoru",
+      "name": "Nico Minoru",
+      "alias": "Sister Grimm",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gert_yorkes",
+      "name": "Gertrude Yorkes",
+      "alias": "Arsenic",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "chase_stein",
+      "name": "Chase Stein",
+      "alias": "Talkback",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "karolina_dean",
+      "name": "Karolina Dean",
+      "alias": "Lucy in the Sky",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "molly_hayes",
+      "name": "Molly Hayes",
+      "alias": "Princess Powerful",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "geoffrey_wilder",
+      "name": "Geoffrey Wilder",
+      "alias": "Geoffrey Wilder",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "catherine_wilder",
+      "name": "Catherine Wilder",
+      "alias": "Catherine Wilder",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "victor_mancha",
+      "name": "Victor Mancha",
+      "alias": "Victor Mancha",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "xavin",
+      "name": "Xavin",
+      "alias": "Xavin",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "marianella_mancha",
+      "name": "Marianella Mancha",
+      "alias": "Marianella Mancha",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "julie_power",
+      "name": "Julie Power",
+      "alias": "Lightspeed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "hazmat",
+      "name": "Jennifer Takeda",
+      "alias": "Hazmat",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "mettle",
+      "name": "Ken Mack",
+      "alias": "Mettle",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "veil",
+      "name": "Madeline Berry",
+      "alias": "Veil",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "striker",
+      "name": "Brandon Sharpe",
+      "alias": "Striker",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "finesse",
+      "name": "Jeanne Foucault",
+      "alias": "Finesse",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "taskmaster",
+      "name": "Taskmaster",
+      "alias": "Taskmaster",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "tigra",
+      "name": "Greer Nelson",
+      "alias": "Tigra",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "hood",
+      "name": "Parker Robbins",
+      "alias": "The Hood",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jeremy_briggs",
+      "name": "Jeremy Briggs",
+      "alias": "Alchemist",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "reptil",
+      "name": "Humberto Lopez",
+      "alias": "Reptil",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "mentallo",
+      "name": "Marvin Flumm",
+      "alias": "Mentallo",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "moon_girl",
+      "name": "Lunella Lafayette",
+      "alias": "Moon Girl",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "victoria_montesi",
+      "name": "Victoria Montesi",
+      "alias": "Darkhold Redeemer",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "louise_hastings",
+      "name": "Louise Hastings",
+      "alias": "Professor / Darkhold Redeemer",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jinx_hastings",
+      "name": "Jinx (William Hastings; name provisional)",
+      "alias": "Jinx",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "modred_mystic",
+      "name": "Modred",
+      "alias": "Modred the Mystic",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "morbius",
+      "name": "Michael Morbius",
+      "alias": "Morbius the Living Vampire",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "emil_nikos",
+      "name": "Emil Nikos",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "martine_bancroft",
+      "name": "Martine Bancroft",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "baron_blood_falsworth",
+      "name": "John Falsworth",
+      "alias": "Baron Blood",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jack_russell",
+      "name": "Jack Russell",
+      "alias": "Werewolf by Night",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "marie_laveau",
+      "name": "Marie Laveau",
+      "alias": "Voodoo Queen",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "victor_strange",
+      "name": "Victor Strange",
+      "alias": "Khiron / Baron Blood (Victor Strange)",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "fen",
+      "name": "Fen",
+      "alias": "Princess Fen",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "leonard_mckenzie",
+      "name": "Leonard Stuart McKenzie",
+      "alias": "Captain Leonard McKenzie",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "thakorr",
+      "name": "Thakorr",
+      "alias": "Emperor Thakorr",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "namora",
+      "name": "Aquaria Nautica Neptunia",
+      "alias": "Namora",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "namorita",
+      "name": "Namorita Prentiss",
+      "alias": "Namorita",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "dorma",
+      "name": "Dorma",
+      "alias": "Lady Dorma",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "llyra",
+      "name": "Llyra Morris",
+      "alias": "Llyra",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "krang",
+      "name": "Krang",
+      "alias": "Warlord Krang",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "byrrah",
+      "name": "Byrrah",
+      "alias": "Prince Byrrah",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "attuma",
+      "name": "Attuma",
+      "alias": "Attuma",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "andromeda",
+      "name": "Andromeda Attumasen",
+      "alias": "Andromeda",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "marrina",
+      "name": "Marrina Smallwood",
+      "alias": "Marrina",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -2719,6 +3116,454 @@
       "title": "ETERNALS_3",
       "kind": "Official Marvel publisher summary",
       "level": "Secondary publisher evidence; no primary panels reviewed"
+    },
+    {
+      "id": "GAL27_S01",
+      "title": "Heralds of Galactus: Marvel history",
+      "url": "https://www.marvel.com/teams-and-groups/heralds-of-galactus",
+      "tier": "publisher_history",
+      "kind": "publisher_history",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_S02",
+      "title": "Fantastic Four: Marvel in-comics history",
+      "url": "https://www.marvel.com/teams-and-groups/fantastic-four/in-comics",
+      "tier": "publisher_history",
+      "kind": "publisher_history",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_S03",
+      "title": "Silver Surfer Omnibus Vol. 1",
+      "url": "https://www.marvel.com/comics/collection/13534/silver_surfer_omnibus_trade_paperback",
+      "tier": "publisher_collection",
+      "kind": "publisher_collection",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_S04",
+      "title": "Silver Surfer (1987) #2",
+      "url": "https://www.marvel.com/comics/issue/15153/silver_surfer_1987_2",
+      "tier": "publisher_issue_synopsis",
+      "kind": "publisher_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_S05",
+      "title": "Heralds of Galactus: reading guide",
+      "url": "https://share.marvel.com/comics/discover/2511/the-heralds-of-galactus",
+      "tier": "publisher_reading_guide",
+      "kind": "publisher_reading_guide",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_S06",
+      "title": "Silver Surfer (1987) #70",
+      "url": "https://www.marvel.com/comics/issue/15209/silver_surfer_1987_70",
+      "tier": "publisher_issue_synopsis",
+      "kind": "publisher_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_S07",
+      "title": "Silver Surfer (1987) #75",
+      "url": "https://www.marvel.com/comics/issue/15214/silver_surfer_1987_75",
+      "tier": "publisher_issue_synopsis",
+      "kind": "publisher_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_S08",
+      "title": "Human Torch: Marvel in-comics history",
+      "url": "https://www.marvel.com/characters/human-torch-johnny-storm/in-comics/",
+      "tier": "publisher_history",
+      "kind": "publisher_history",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_S01",
+      "title": "Banshee — Marvel in-comics biography",
+      "url": "https://www.marvel.com/characters/banshee",
+      "tier": "publisher_biography",
+      "kind": "publisher_biography",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_S02",
+      "title": "Emma Frost — Marvel in-comics biography",
+      "url": "https://www.marvel.com/characters/emma-frost",
+      "tier": "publisher_biography",
+      "kind": "publisher_biography",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_S03",
+      "title": "Generation X (1994) #10",
+      "url": "https://www.marvel.com/comics/issue/22736/generation_x_1994_10",
+      "tier": "publisher_issue_synopsis",
+      "kind": "publisher_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_S04",
+      "title": "Generation X (1994) #23",
+      "url": "https://www.marvel.com/comics/issue/22750/read",
+      "tier": "publisher_issue_synopsis",
+      "kind": "publisher_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_S05",
+      "title": "Generation X Vol. 2: Survival of the Fittest",
+      "url": "https://www.marvel.com/comics/collection/66565/generation_x_vol_2_survival_of_the_fittest_trade_paperback",
+      "tier": "publisher_collection",
+      "kind": "publisher_collection",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_S06",
+      "title": "Jubilee — Marvel reading guide",
+      "url": "https://www.marvel.com/comics/discover/740/jubilee",
+      "tier": "publisher_editorial",
+      "kind": "publisher_editorial",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_S07",
+      "title": "Gambit — Marvel in-comics biography",
+      "url": "https://www.marvel.com/characters/gambit",
+      "tier": "publisher_biography",
+      "kind": "publisher_biography",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_S08",
+      "title": "Generation X Epic Collection: Back to School",
+      "url": "https://www.marvel.com/comics/collection/93799/generation_x_epic_collection_back_to_school_trade_paperback",
+      "tier": "publisher_collection",
+      "kind": "publisher_collection",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_S09",
+      "title": "Generation X Epic Collection: Pride and Penance",
+      "url": "https://www.marvel.com/comics/collection/111612/generation_x_epic_collection_pride_and_penance_2024_1",
+      "tier": "publisher_collection",
+      "kind": "publisher_collection",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_S01",
+      "title": "Alex Wilder — In Comics",
+      "url": "https://www.marvel.com/characters/alex-wilder/in-comics/",
+      "tier": "publisher_character_history",
+      "kind": "publisher_character_history",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_S02",
+      "title": "Get Ready to Run: Pride & Joy",
+      "url": "https://www.marvel.com/articles/comics/get-ready-to-run-pride-joy",
+      "tier": "publisher_editorial",
+      "kind": "publisher_editorial",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_S03",
+      "title": "Get Ready to Run: The Good Die Young",
+      "url": "https://www.marvel.com/articles/comics/get-ready-to-run-the-good-die-young",
+      "tier": "publisher_editorial",
+      "kind": "publisher_editorial",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_S04",
+      "title": "Get Ready to Run: True Believers",
+      "url": "https://www.marvel.com/amp/articles/comics/get-ready-to-run-true-believers",
+      "tier": "publisher_editorial",
+      "kind": "publisher_editorial",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_S05",
+      "title": "Get Ready to Run: Parental Guidance",
+      "url": "https://www.marvel.com/articles/comics/get-ready-to-run-parental-guidance",
+      "tier": "publisher_editorial",
+      "kind": "publisher_editorial",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_S06",
+      "title": "Get Ready to Run: Dead Means Dead",
+      "url": "https://www.marvel.com/articles/comics/get-ready-to-run-dead-means-dead",
+      "tier": "publisher_editorial",
+      "kind": "publisher_editorial",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_S07",
+      "title": "Runaways by Rainbow Rowell Vol. 1: Find Your Way Home",
+      "url": "https://www.marvel.com/comics/collection/66858/runaways_by_rainbow_rowell_vol_1_find_your_way_home_2018",
+      "tier": "publisher_collection",
+      "kind": "publisher_collection",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_S08",
+      "title": "Runaways (2017) #4",
+      "url": "https://www.marvel.com/comics/issue/65298/runaways_2017_4",
+      "tier": "publisher_issue_synopsis",
+      "kind": "publisher_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_S09",
+      "title": "Runaways: Get Ready for Molly’s Return",
+      "url": "https://www.marvel.com/articles/comics/runaways-get-ready-for-molly-s-return",
+      "tier": "publisher_creator_interview",
+      "kind": "publisher_creator_interview",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_S10",
+      "title": "Runaways (2017) #8",
+      "url": "https://www.marvel.com/comics/issue/66744/runaways_2017_8",
+      "tier": "publisher_issue_synopsis",
+      "kind": "publisher_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_S11",
+      "title": "Runaways (2025) #1",
+      "url": "https://www.marvel.com/comics/issue/128827/runaways_2025_1_variant/variant",
+      "tier": "publisher_issue_synopsis",
+      "kind": "publisher_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_S12",
+      "title": "Runaways (2005) #15",
+      "url": "https://www.marvel.com/comics/issue/4058/runaways_2005_15",
+      "tier": "publisher_issue_synopsis",
+      "kind": "publisher_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S01",
+      "title": "Avengers Academy — official history",
+      "url": "https://www.marvel.com/teams-and-groups/avengers-academy",
+      "kind": "publisher_history",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S02",
+      "title": "Avengers Academy (2010) #8",
+      "url": "https://www.marvel.com/comics/issue/29223/avengers_academy_2010_8",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S03",
+      "title": "Avengers Academy Vol. 2: Will We Use This in the Real World? (#7–14)",
+      "url": "https://www.marvel.com/comics/collection/29325/",
+      "kind": "publisher_collection",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S04",
+      "title": "Avengers Academy (2010) #2",
+      "url": "https://www.marvel.com/comics/issue/29217/ajax/aggregate",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S05",
+      "title": "Avengers Academy (2010) #35",
+      "url": "https://www.marvel.com/comics/issue/40257/avengers_academy_2010_35",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S06",
+      "title": "Avengers Academy Complete Collection Vol. 3 (#21–39)",
+      "url": "https://www.marvel.com/comics/collection/82339/avengers_academy_the_complete_collection_vol_3_trade_paperback",
+      "kind": "publisher_collection",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S07",
+      "title": "Avengers Academy: Assemble (2025) #1",
+      "url": "https://www.marvel.com/comics/issue/129213/avengers_academy_assemble_2025_1",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_S08",
+      "title": "Avengers Academy: Marvel’s Voices Infinity Comic (2024)",
+      "url": "https://www.marvel.com/comics/issue/122784/avengers_academy_marvels_voices_infinity_comic_2024",
+      "kind": "publisher_series_index",
+      "level": "Marvel publisher summary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_S01",
+      "title": "Darkhold: Pages from the Book of Sins (1992) #9",
+      "url": "https://www.marvel.com/comics/issue/73581/darkhold_pages_from_the_book_of_sins_1992_9",
+      "tier": "official_issue_synopsis",
+      "kind": "official_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_S02",
+      "title": "Darkhold: Pages from the Book of Sins (1992) #6",
+      "url": "https://www.marvel.com/comics/issue/73578/darkhold_pages_from_the_book_of_sins_1992_6",
+      "tier": "official_issue_synopsis",
+      "kind": "official_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_S03",
+      "title": "Darkhold: Pages from the Book of Sins Complete Collection",
+      "url": "https://www.marvel.com/comics/issue/70406/metrics/aggregate",
+      "tier": "official_collection_synopsis",
+      "kind": "official_collection_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_S04",
+      "title": "Morbius in Comics History",
+      "url": "https://www.marvel.com/characters/morbius/in-comics",
+      "tier": "official_publisher_character_history",
+      "kind": "official_publisher_character_history",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_S05",
+      "title": "Werewolf by Night Character History",
+      "url": "https://www.marvel.com/characters/werewolf-by-night",
+      "tier": "official_publisher_character_history",
+      "kind": "official_publisher_character_history",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_S06",
+      "title": "Clea in Comics History",
+      "url": "https://www.marvel.com/characters/clea/in-comics",
+      "tier": "official_publisher_character_history",
+      "kind": "official_publisher_character_history",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_S07",
+      "title": "Morbius: Bond of Blood (2021) #1",
+      "url": "https://www.marvel.com/comics/issue/92987/MORBIUS_BOND_OF_BLOOD_1",
+      "tier": "official_issue_synopsis",
+      "kind": "official_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_S08",
+      "title": "Rise of the Midnight Sons Collection",
+      "url": "https://www.marvel.com/comics/collection/57981/spirits_of_vengeance_rise_of_the_midnight_sons_2016",
+      "tier": "official_collection_synopsis",
+      "kind": "official_collection_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_S09",
+      "title": "The Darkhold Official Reading Guide",
+      "url": "https://www.marvel.com/comics/guides/593/the-darkhold",
+      "tier": "official_reading_guide",
+      "kind": "official_reading_guide",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_S10",
+      "title": "Marvel Monsters Official Reading Guide",
+      "url": "https://www.marvel.com/comics/discover/309/monster-metropolis",
+      "tier": "official_reading_guide",
+      "kind": "official_reading_guide",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_S11",
+      "title": "Morbius Bond of Blood preview",
+      "url": "https://www.marvel.com/articles/comics/look-inside-ralph-macchio-and-tom-reilly-s-morbius-bond-of-blood-1",
+      "tier": "official_publisher_editorial",
+      "kind": "official_publisher_editorial",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_S01",
+      "title": "Atlanteans — official history",
+      "url": "https://www.marvel.com/teams-and-groups/atlanteans",
+      "tier": "publisher_history",
+      "kind": "publisher_history",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_S02",
+      "title": "Thakorr — official biography",
+      "url": "https://www.marvel.com/characters/thakorr",
+      "tier": "publisher_biography",
+      "kind": "publisher_biography",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_S03",
+      "title": "Meet Namora, Namor's Super Hero Cousin (2022)",
+      "url": "https://www.marvel.com/articles/comics/namora-explainer-namor-cousin-agents-of-atlas",
+      "tier": "publisher_editorial",
+      "kind": "publisher_editorial",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_S04",
+      "title": "Agents of Atlas (2009) #6",
+      "url": "https://www.marvel.com/comics/issue/24360/agents_of_atlas_2009_6",
+      "tier": "publisher_issue_synopsis",
+      "kind": "publisher_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_S05",
+      "title": "Namor — in-comics history",
+      "url": "https://www.marvel.com/characters/namor/in-comics",
+      "tier": "publisher_biography",
+      "kind": "publisher_biography",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_S06",
+      "title": "Marvel Masterworks: The Sub-Mariner (2014; collects #25-38)",
+      "url": "https://www.marvel.com/comics/collection/46275/marvel_masterworks_the_sub-mariner_hardcover",
+      "tier": "publisher_collection",
+      "kind": "publisher_collection",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_S07",
+      "title": "King in Black: Namor (2020) #5",
+      "url": "https://www.marvel.com/comics/issue/92259/king-in-black-namor-2020-5",
+      "tier": "publisher_issue_synopsis",
+      "kind": "publisher_issue_synopsis",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_S08",
+      "title": "Alpha Flight by Mantlo & Lee Omnibus (2026)",
+      "url": "https://www.marvel.com/comics/collection/127466/alpha_flight_by_mantlo_lee_omnibus_jim_lee_cover_hardcover",
+      "tier": "publisher_collection",
+      "kind": "publisher_collection",
+      "level": "Publisher secondary evidence; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_S09",
+      "title": "Namor the Sub-Mariner Epic Collection: Titans Three (2024)",
+      "url": "https://www.marvel.com/comics/issue/110460/namor_the_sub-mariner_epic_collection_titans_three_tpb_trade_paperback",
+      "tier": "publisher_collection",
+      "kind": "publisher_collection",
+      "level": "Publisher secondary evidence; original panels not reviewed"
     }
   ],
   "events": [
@@ -7019,6 +7864,1448 @@
       "continuity": "Earth-616",
       "review_status": "Provisional publisher secondary evidence; exact issue where pending requires review",
       "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "GAL27_E01",
+      "a": "norrin_radd",
+      "b": "shalla_bal",
+      "scope": "Silver Surfer (1968) #1; Zenn-La origin",
+      "observation": "Norrin offers himself to Galactus to spare Zenn-La and his beloved Shalla-Bal.",
+      "source_id": "GAL27_S03",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Silver Surfer (1968) #1; Zenn-La origin",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E02",
+      "a": "norrin_radd",
+      "b": "galactus",
+      "scope": "Fantastic Four (1961) #48-50",
+      "observation": "Norrin serves Galactus as his herald, then sides with Earth after encountering its people.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Fantastic Four (1961) #48-50",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E03",
+      "a": "alicia",
+      "b": "norrin_radd",
+      "scope": "Fantastic Four (1961) #48-50",
+      "observation": "Alicia befriends the recovering Surfer and helps him recognize the value of human life.",
+      "source_id": "GAL27_S02",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Fantastic Four (1961) #48-50",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E04",
+      "a": "galactus",
+      "b": "gabriel_lan",
+      "scope": "Fantastic Four (1961) #120-123; Air-Walker backstory",
+      "observation": "Galactus accepts Gabriel as herald; after his near-death he recreates him as an android, but cannot restore his personality.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "qualification": "Android Air-Walker is a recreation of Gabriel, not proof of continuous personality.",
+      "issue": "Fantastic Four (1961) #120-123; Air-Walker backstory",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E05",
+      "a": "gabriel_lan",
+      "b": "pyreus_kril",
+      "scope": "Thor (1966) #225; Xandarian expedition backstory",
+      "observation": "Pyreus pursues the ship that took his friend and commander Gabriel and demands to know his fate.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Thor (1966) #225; Xandarian expedition backstory",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E06",
+      "a": "galactus",
+      "b": "pyreus_kril",
+      "scope": "Thor (1966) #225-228",
+      "observation": "Galactus transforms Pyreus into Firelord in exchange for information about Gabriel, then erases his memory.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Thor (1966) #225-228",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E07",
+      "a": "galactus",
+      "b": "tyros",
+      "scope": "Fantastic Four (1961) #211; #242-244",
+      "observation": "Galactus converts Tyros into Terrax without asking and later strips his power after Terrax tries to force a confrontation.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Fantastic Four (1961) #211; #242-244",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E08",
+      "a": "frankie_raye",
+      "b": "johnny",
+      "scope": "Fantastic Four (1961) #244 and preceding Frankie Raye arc",
+      "observation": "Frankie is Johnny’s girlfriend; her choice to leave Earth as a herald breaks his heart.",
+      "source_id": "GAL27_S02",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Fantastic Four (1961) #244 and preceding Frankie Raye arc",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E09",
+      "a": "frankie_raye",
+      "b": "galactus",
+      "scope": "Fantastic Four (1961) #244",
+      "observation": "Frankie volunteers to become Galactus’s herald to save Earth.",
+      "source_id": "GAL27_S05",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Fantastic Four (1961) #244",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E10",
+      "a": "norrin_radd",
+      "b": "frankie_raye",
+      "scope": "Silver Surfer (1987) pre-#70; Nova herald era",
+      "observation": "Norrin and Frankie have a romantic relationship; he urges her to seek uninhabited worlds for Galactus.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "qualification": "Exact romance issue requires primary review.",
+      "issue": "Silver Surfer (1987) pre-#70; Nova herald era",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E11",
+      "a": "galactus",
+      "b": "morg",
+      "scope": "Silver Surfer (1987) #70-75, Herald Ordeal",
+      "observation": "Galactus selects the ruthless Morg as a replacement herald when Nova begins to resist his demands.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Silver Surfer (1987) #70-75, Herald Ordeal",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E12",
+      "a": "morg",
+      "b": "frankie_raye",
+      "scope": "Silver Surfer (1987) #69-75, Herald Ordeal",
+      "observation": "Morg kills Nova during the former heralds’ confrontation with him.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "qualification": "Exact death issue needs primary-panel confirmation.",
+      "issue": "Silver Surfer (1987) #69-75, Herald Ordeal",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E13",
+      "a": "tyros",
+      "b": "morg",
+      "scope": "Silver Surfer (1987) #75, Herald Ordeal",
+      "observation": "After Galactus removes Morg’s Power Cosmic, Terrax kills him.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "qualification": "Publisher history identifies the act; #75 synopsis only broadly describes the climax.",
+      "issue": "Silver Surfer (1987) #75, Herald Ordeal",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E14",
+      "a": "stardust_lambda_zero",
+      "b": "beta_ray_bill",
+      "scope": "Stormbreaker: The Saga of Beta Ray Bill (2005) #1-6",
+      "observation": "Stardust leads Galactus toward New Korbin; Beta Ray Bill battles Stardust in defense of his people.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "qualification": "Precise encounter issue within miniseries not verified.",
+      "issue": "Stormbreaker: The Saga of Beta Ray Bill (2005) #1-6",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E15",
+      "a": "stardust_lambda_zero",
+      "b": "galactus",
+      "scope": "Annihilation: Silver Surfer (2006) #1-4; Annihilation (2006) era",
+      "observation": "Stardust serves Galactus, regards the doomed as blessed, and later seeks Norrin on Galactus’s orders.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "qualification": "Publisher history; issue-level scene requires review.",
+      "issue": "Annihilation: Silver Surfer (2006) #1-4; Annihilation (2006) era",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E16",
+      "a": "frankie_raye",
+      "b": "galactus",
+      "scope": "Silver Surfer (1987) #70",
+      "observation": "Nova turns away from Galactus and tries to conceal suitable inhabited worlds; he punishes her and replaces her.",
+      "source_id": "GAL27_S06",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Silver Surfer (1987) #70",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_E17",
+      "a": "galactus",
+      "b": "norrin_radd",
+      "scope": "Fantastic Four (1961) #50",
+      "observation": "After Norrin defends Earth, Galactus confines him to Earth with a barrier.",
+      "source_id": "GAL27_S02",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Fantastic Four (1961) #50",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_E01",
+      "a": "banshee",
+      "b": "jubilee",
+      "scope": "Phalanx Covenant; Generation X formation (1994)",
+      "observation": "Sean worries about Jubilee being unsupervised and helps rescue young mutants from the Phalanx.",
+      "source_id": "GENX28_20261020_S01",
+      "issue": "Phalanx Covenant; Generation X formation (1994)",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E02",
+      "a": "banshee",
+      "b": "black_tom",
+      "scope": "Cassidy family backstory; early X-Men encounters",
+      "observation": "Tom contests Sean over Cassidy Keep and later fights him with Juggernaut.",
+      "source_id": "GENX28_20261020_S01",
+      "issue": "Cassidy family backstory; early X-Men encounters",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E03",
+      "a": "maeve_rourke",
+      "b": "banshee",
+      "scope": "Cassidy family pre-X-Men backstory",
+      "observation": "Maeve stops to help Sean escape police harassment on her motorcycle; Sean saves them both after the chase drives them off a cliff. They later marry.",
+      "source_id": "GENX28_20261020_S01",
+      "issue": "Cassidy family pre-X-Men backstory",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E04",
+      "a": "black_tom",
+      "b": "maeve_rourke",
+      "scope": "Cassidy family courtship backstory",
+      "observation": "Tom courts Maeve, but after she chooses Sean he tells her the truth about Sean’s injury and steps aside; Maeve calls him her dear friend.",
+      "source_id": "GENX28_20261020_S01",
+      "issue": "Cassidy family courtship backstory",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E05",
+      "a": "black_tom",
+      "b": "theresa_cassidy",
+      "scope": "Theresa’s infancy through early Siryn stories",
+      "observation": "Tom raises Theresa after Maeve’s death and conceals her survival and parentage from Sean.",
+      "source_id": "GENX28_20261020_S01",
+      "issue": "Theresa’s infancy through early Siryn stories",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E06",
+      "a": "banshee",
+      "b": "theresa_cassidy",
+      "scope": "Uncanny X-Men (1981) #148 reunion era; later testament",
+      "observation": "Sean and Theresa discover their parent-child relationship after Tom reveals it. Sean later leaves her Cassidy Keep in his will.",
+      "source_id": "GENX28_20261020_S01",
+      "issue": "Uncanny X-Men (1981) #148 reunion era; later testament",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E07",
+      "a": "chamber",
+      "b": "husk",
+      "scope": "Generation X (1994) #23",
+      "observation": "The publisher synopsis describes Chamber as troubled by his relationship with Paige during a Thanksgiving story.",
+      "source_id": "GENX28_20261020_S04",
+      "issue": "Generation X (1994) #23",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E08",
+      "a": "emplate",
+      "b": "monet",
+      "scope": "Generation X (1994) #33–47 backstory; Generation X (2017) #85–87",
+      "observation": "Monet’s brother Emplate is linked to her Penance ordeal; in the later series she merges with him and suffers his vampiric hunger.",
+      "source_id": "GENX28_20261020_S05",
+      "additional_source_ids": [
+        "GENX28_20261020_S09"
+      ],
+      "issue": "Generation X (1994) #33–47 backstory; Generation X (2017) #85–87",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E09",
+      "a": "jubilee",
+      "b": "monet",
+      "scope": "Generation X (2017) #85–87",
+      "observation": "Jubilee, Chamber and Husk seek to save Monet from the consequences of her merger with Emplate; the collection synopsis asks whether they can succeed.",
+      "source_id": "GENX28_20261020_S05",
+      "issue": "Generation X (2017) #85–87",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E10",
+      "a": "husk",
+      "b": "monet",
+      "scope": "Generation X (2017) #85–87",
+      "observation": "Husk returns for a reunion and joins Jubilee and Chamber in the effort to save Monet.",
+      "source_id": "GENX28_20261020_S05",
+      "issue": "Generation X (2017) #85–87",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E11",
+      "a": "adrienne_frost",
+      "b": "synch",
+      "scope": "Generation X (1994), late school-bombing arc; exact issue to verify",
+      "observation": "Adrienne incites a riot and plants bombs at the Massachusetts Academy; Synch dies in the bombing.",
+      "source_id": "GENX28_20261020_S02",
+      "issue": "Generation X (1994), late school-bombing arc; exact issue to verify",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E12",
+      "a": "emma",
+      "b": "adrienne_frost",
+      "scope": "Generation X (1994), aftermath of Synch’s death",
+      "observation": "After Adrienne’s bombing kills Synch, Emma shoots and kills her sister.",
+      "source_id": "GENX28_20261020_S02",
+      "issue": "Generation X (1994), aftermath of Synch’s death",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E13",
+      "a": "jubilee",
+      "b": "shogo",
+      "scope": "X-Men (2013) #1 and subsequent adoption",
+      "observation": "Jubilee rescues the infant Shogo amid Arkea-related devastation and subsequently adopts him.",
+      "source_id": "GENX28_20261020_S06",
+      "issue": "X-Men (2013) #1 and subsequent adoption",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E14",
+      "a": "emplate",
+      "b": "rogue",
+      "scope": "X-Men Legacy (2008) / Utopia-era Emplate encounter; exact issue pending",
+      "observation": "Emplate takes Rogue captive when she attempts to rescue Roxanne Washington (Bling!).",
+      "source_id": "GENX28_20261020_S07",
+      "issue": "X-Men Legacy (2008) / Utopia-era Emplate encounter; exact issue pending",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E15",
+      "a": "banshee",
+      "b": "synch",
+      "scope": "Uncanny X-Men (1981) #316–318; X-Men (1991) #36–37, Phalanx Covenant",
+      "observation": "Banshee, Jubilee and Emma undertake the rescue of Synch and other mutant teenagers targeted by the Phalanx.",
+      "source_id": "GENX28_20261020_S08",
+      "issue": "Uncanny X-Men (1981) #316–318; X-Men (1991) #36–37, Phalanx Covenant",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E16",
+      "a": "emma",
+      "b": "banshee",
+      "scope": "Generation X (1994) #10",
+      "observation": "With Banshee near death, Emma tries to save him.",
+      "source_id": "GENX28_20261020_S03",
+      "issue": "Generation X (1994) #10",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GENX28_20261020_E17",
+      "a": "emma",
+      "b": "banshee",
+      "scope": "Generation X (1994) co-headmaster years",
+      "observation": "Sean and Emma initially work uneasily, have serious disputes, and gradually establish mutual professional respect.",
+      "source_id": "GENX28_20261020_S01",
+      "issue": "Generation X (1994) co-headmaster years",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E01",
+      "a": "alex_wilder",
+      "b": "geoffrey_wilder",
+      "scope": "Runaways (2003) #17-18",
+      "observation": "Alex reveals he secretly organized the escape partly to protect Geoffrey from the Pride’s internal conspiracy.",
+      "source_id": "RUN29_20261020_S01",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "additional_source_ids": [
+        "RUN29_20261020_S02"
+      ],
+      "issue": "Runaways (2003) #17-18",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E02",
+      "a": "alex_wilder",
+      "b": "catherine_wilder",
+      "scope": "Runaways (2003) #17-18",
+      "observation": "Alex reveals his plan to preserve Catherine and Geoffrey’s lives and secure their places in the Gibborim’s promised paradise.",
+      "source_id": "RUN29_20261020_S03",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2003) #17-18",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E03",
+      "a": "alex_wilder",
+      "b": "nico_minoru",
+      "scope": "Runaways (2003) #7-12; early romance",
+      "observation": "Alex and Nico develop a romantic relationship while Alex secretly pursues his parents’ interests.",
+      "source_id": "RUN29_20261020_S01",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2003) #7-12; early romance",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E04",
+      "a": "alex_wilder",
+      "b": "nico_minoru",
+      "scope": "Runaways (2003) #17-18",
+      "observation": "Alex seizes Nico’s Staff of One and reveals his secret allegiance; Nico rejects his proposed place for her in paradise.",
+      "source_id": "RUN29_20261020_S01",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2003) #17-18",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E05",
+      "a": "gert_yorkes",
+      "b": "chase_stein",
+      "scope": "Runaways (2003) #13-18",
+      "observation": "Gert uses mouth-to-mouth resuscitation to save Chase during the underwater mission.",
+      "source_id": "RUN29_20261020_S03",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2003) #13-18",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E06",
+      "a": "chase_stein",
+      "b": "gert_yorkes",
+      "scope": "Runaways (2005) #19-24",
+      "observation": "After Gert’s death, Chase seeks a bargain with the Gibborim to restore her, offering himself as the sacrifice.",
+      "source_id": "RUN29_20261020_S06",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2005) #19-24",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E07",
+      "a": "geoffrey_wilder",
+      "b": "gert_yorkes",
+      "scope": "Runaways (2005) #18; time-displaced Geoffrey",
+      "observation": "Geoffrey attempts to sacrifice Gert and fatally wounds her during the confrontation at Griffith Observatory.",
+      "source_id": "RUN29_20261020_S05",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2005) #18; time-displaced Geoffrey",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E08",
+      "a": "chase_stein",
+      "b": "geoffrey_wilder",
+      "scope": "Runaways (2005) #18; time-displaced Geoffrey",
+      "observation": "Chase fights Geoffrey with a knife during the rescue attempt at Griffith Observatory.",
+      "source_id": "RUN29_20261020_S05",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2005) #18; time-displaced Geoffrey",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E09",
+      "a": "geoffrey_wilder",
+      "b": "molly_hayes",
+      "scope": "Runaways (2005) #13-18; time-displaced Geoffrey",
+      "observation": "Geoffrey’s revived Pride abducts Molly and plans to use a sacrifice in a bargain with the Gibborim.",
+      "source_id": "RUN29_20261020_S05",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2005) #13-18; time-displaced Geoffrey",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E10",
+      "a": "chase_stein",
+      "b": "nico_minoru",
+      "scope": "Runaways (2005) #13-18",
+      "observation": "Chase and Nico kiss; both later feel guilty when the kiss is exposed to Gert.",
+      "source_id": "RUN29_20261020_S05",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2005) #13-18",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E11",
+      "a": "nico_minoru",
+      "b": "victor_mancha",
+      "scope": "Runaways (2005) #19-24",
+      "observation": "Nico and Victor begin a romantic relationship as the team deals with Gert’s death.",
+      "source_id": "RUN29_20261020_S06",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2005) #19-24",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E12",
+      "a": "ultron",
+      "b": "victor_mancha",
+      "scope": "Runaways (2005) #1-6; revisited #15",
+      "observation": "Ultron reveals he created Victor, takes control of his programming, and uses him to attack the Runaways.",
+      "source_id": "RUN29_20261020_S04",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "additional_source_ids": [
+        "RUN29_20261020_S12"
+      ],
+      "issue": "Runaways (2005) #1-6; revisited #15",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E13",
+      "a": "victor_mancha",
+      "b": "marianella_mancha",
+      "scope": "Runaways (2005) #1-6",
+      "observation": "Victor and the Runaways attempt to rescue Marianella from a purported Doctor Doom, then Ultron reveals the deception and kills her.",
+      "source_id": "RUN29_20261020_S04",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2005) #1-6",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E14",
+      "a": "karolina_dean",
+      "b": "xavin",
+      "scope": "Runaways (2005) #13-18",
+      "observation": "Karolina and Xavin return after their attempted wedding becomes entangled in renewed interplanetary conflict.",
+      "source_id": "RUN29_20261020_S05",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2005) #13-18",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E15",
+      "a": "karolina_dean",
+      "b": "nico_minoru",
+      "scope": "Runaways (2017) #1-6",
+      "observation": "The official collection explicitly raises unresolved feelings between Karolina and Nico as a strain on their friendship.",
+      "source_id": "RUN29_20261020_S07",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "additional_source_ids": [
+        "RUN29_20261020_S11"
+      ],
+      "qualification": "The 2025 synopsis does not name Nico’s lost girlfriend; it is not used to establish the identity of that partner.",
+      "issue": "Runaways (2017) #1-6",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E16",
+      "a": "gert_yorkes",
+      "b": "molly_hayes",
+      "scope": "Runaways (2017) #4",
+      "observation": "Gert reunites with Molly, who had not made peace with Gert’s earlier death, and they rebuild their friendship.",
+      "source_id": "RUN29_20261020_S09",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "additional_source_ids": [
+        "RUN29_20261020_S08"
+      ],
+      "issue": "Runaways (2017) #4",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_E17",
+      "a": "karolina_dean",
+      "b": "julie_power",
+      "scope": "Runaways (2017) #8",
+      "observation": "Julie Power visits the Hostel as Karolina’s girlfriend.",
+      "source_id": "RUN29_20261020_S10",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Runaways (2017) #8",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_E01",
+      "a": "hazmat",
+      "b": "mettle",
+      "issue": "Avengers Academy (2010), pre-#39 and #35–39",
+      "observation": "Hazmat and Mettle become romantic partners; when Briggs offers a way to lose their unwanted powers, they ultimately choose to regain powers to help their friends.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S06"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E02",
+      "a": "mettle",
+      "b": "hazmat",
+      "issue": "Avengers Academy (2010) #15–19, Fear Itself",
+      "observation": "Mettle volunteers to remain with Hazmat when the Academy faces a possible self-destruct plan, rather than leave her alone in danger.",
+      "source_ids": [
+        "ACA30_20261020_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Exact issue within #15–19 not established from official history.",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E03",
+      "a": "veil",
+      "b": "striker",
+      "issue": "Avengers Academy (2010), initial class through #39",
+      "observation": "Marvel explicitly identifies Veil and Striker as best friends.",
+      "source_ids": [
+        "ACA30_20261020_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Publisher retrospective, not a specific scene.",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E04",
+      "a": "finesse",
+      "b": "taskmaster",
+      "issue": "Avengers Academy (2010) #9",
+      "observation": "Finesse seeks and fights Taskmaster to investigate possible parentage; his damaged memory prevents him from confirming whether he is her father.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Biological parentage remains unconfirmed.",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E05",
+      "a": "finesse",
+      "b": "pietro",
+      "issue": "Avengers Academy (2010), early academy through #39",
+      "observation": "Finesse leverages knowledge of Quicksilver’s concealed past to compel him to teach her; later she tells him she wants to emulate him rather than Magneto.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Early blackmail and later admiration are separate phases.",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E06",
+      "a": "hood",
+      "b": "tigra",
+      "issue": "Before Avengers Academy (2010) #8; retaliation in #8",
+      "observation": "The Hood previously beats and humiliates Tigra, and footage of the attack later circulates.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "The original beating is earlier than issue #8.",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E07",
+      "a": "striker",
+      "b": "hood",
+      "issue": "Avengers Academy (2010) #8–9",
+      "observation": "Striker joins Hazmat and Veil in tracking down and assaulting the now-powerless Hood in revenge for his abuse of Tigra.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E08",
+      "a": "veil",
+      "b": "hood",
+      "issue": "Avengers Academy (2010) #8–9",
+      "observation": "Veil joins Striker and Hazmat in retaliating against the Hood; the students’ assault is recorded and shown to Tigra.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E09",
+      "a": "hazmat",
+      "b": "hood",
+      "issue": "Avengers Academy (2010) #8–9",
+      "observation": "Hazmat joins Striker and Veil in the revenge assault on the Hood.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E10",
+      "a": "tigra",
+      "b": "striker",
+      "issue": "Avengers Academy (2010) #8–9",
+      "observation": "After viewing the students’ assault video, Tigra expels Striker and the other two attackers; Quicksilver later persuades her to relent.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Discipline is a response to violence, not evidence of permanent hostility.",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E11",
+      "a": "jeremy_briggs",
+      "b": "jocasta",
+      "issue": "Avengers Academy (2010) #21–39, Final Exam",
+      "observation": "Jocasta secretly allies with Briggs because she regards the Academy as unsafe; she later helps prevent his worldwide depowering missile launch.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S06"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "The alliance changes; do not treat it as permanent endorsement.",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E12",
+      "a": "hazmat",
+      "b": "norman",
+      "issue": "Avengers Academy (2010) #3–4, Raft visit",
+      "observation": "Hazmat disrupts the Raft security system and confronts Norman Osborn with Mettle and Veil over his experimentation, but they decide not to injure him.",
+      "source_ids": [
+        "ACA30_20261020_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Specific division of individual intent among three students is not documented.",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E13",
+      "a": "reptil",
+      "b": "mentallo",
+      "issue": "Avengers Academy (2010), first Academy mission",
+      "observation": "Mentallo controls the students against each other; Reptil’s complete dinosaur transformation resists control and severely injures Mentallo.",
+      "source_ids": [
+        "ACA30_20261020_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Exact issue not confirmed.",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E14",
+      "a": "carol",
+      "b": "mettle",
+      "issue": "Avengers Academy: Marvel’s Voices Infinity Comic (2024–25), later school era",
+      "observation": "After Mettle panics and sinks while surfing, Carol consoles him, emphasizes safety and healing, and offers him a resident-advisor position.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S08"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Exact digital installment not confirmed.",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E15",
+      "a": "hazmat",
+      "b": "moon_girl",
+      "issue": "Avengers Academy: Marvel’s Voices Infinity Comic (2024–25), later school era",
+      "observation": "Moon Girl’s Arcade robot triggers Mettle’s distress; Hazmat confronts her, then reconciles and joins her in offering to dismantle the robot.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S08"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Exact digital installment not confirmed.",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "ACA30_20261020_E16",
+      "a": "finesse",
+      "b": "jeremy_briggs",
+      "issue": "Avengers Academy (2010) #35–39, Final Exam",
+      "observation": "Finesse wounds Briggs using the unconscious X-23’s claws, initially treats the injury, then removes his bandages after he threatens to repeat his plan.",
+      "source_ids": [
+        "ACA30_20261020_S01",
+        "ACA30_20261020_S05",
+        "ACA30_20261020_S06"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "review_status": "original panels not reviewed",
+      "continuity": "Earth-616",
+      "uncertainty": "Lethal outcome is implied by secondary summaries; original panels not reviewed.",
+      "source_id": "ACA30_20261020_S01"
+    },
+    {
+      "id": "DARK31_20261020_E01",
+      "a": "louise_hastings",
+      "b": "jinx_hastings",
+      "scope": "Darkhold: Pages from the Book of Sins (1992) #9",
+      "observation": "Marvel identifies Jinx as Louise Hastings’ grandson.",
+      "source_ids": [
+        "DARK31_20261020_S01"
+      ],
+      "qualification": "Family identification; no caregiving behavior inferred.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Darkhold: Pages from the Book of Sins (1992) #9",
+      "source_id": "DARK31_20261020_S01",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E02",
+      "a": "jinx_hastings",
+      "b": "victoria_montesi",
+      "scope": "Darkhold: Pages from the Book of Sins (1992) #9",
+      "observation": "Jinx lends occult expertise to Victoria Montesi’s cause.",
+      "source_ids": [
+        "DARK31_20261020_S01"
+      ],
+      "qualification": "Concrete assistance; no claim of enduring loyalty.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Darkhold: Pages from the Book of Sins (1992) #9",
+      "source_id": "DARK31_20261020_S01",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E03",
+      "a": "modred_mystic",
+      "b": "strange",
+      "scope": "Darkhold: Pages from the Book of Sins (1992) #6",
+      "observation": "Doctor Strange and Modred engage in a magical duel extending to Maui.",
+      "source_ids": [
+        "DARK31_20261020_S02"
+      ],
+      "qualification": "Combat, not proof of a permanent feud.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Darkhold: Pages from the Book of Sins (1992) #6",
+      "source_id": "DARK31_20261020_S02",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E04",
+      "a": "morbius",
+      "b": "louise_hastings",
+      "scope": "Siege of Darkness / Midnight Sons Lilin conflict (1993–1994); exact issue unresolved",
+      "observation": "Morbius, infected and controlled by Lilin bloodlust, kills Louise Hastings.",
+      "source_ids": [
+        "DARK31_20261020_S04"
+      ],
+      "qualification": "The supernatural possession limits inferences about voluntary intent.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Siege of Darkness / Midnight Sons Lilin conflict (1993–1994); exact issue unresolved",
+      "source_id": "DARK31_20261020_S04",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E05",
+      "a": "emil_nikos",
+      "b": "morbius",
+      "scope": "Pre-transformation scientific partnership; retold in Morbius: Bond of Blood (2021) #1",
+      "observation": "Emil and Michael are childhood friends and scientific research partners seeking a cure for Michael’s disease.",
+      "source_ids": [
+        "DARK31_20261020_S04",
+        "DARK31_20261020_S07"
+      ],
+      "qualification": "The 2021 issue revisits an earlier Earth-616 event.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Pre-transformation scientific partnership; retold in Morbius: Bond of Blood (2021) #1",
+      "source_id": "DARK31_20261020_S04",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E06",
+      "a": "morbius",
+      "b": "emil_nikos",
+      "scope": "Amazing Spider-Man (1963) #101–102 origin era; retold in Morbius: Bond of Blood (2021) #1",
+      "observation": "Michael’s initial vampiric bloodlust kills his research partner Emil.",
+      "source_ids": [
+        "DARK31_20261020_S04",
+        "DARK31_20261020_S07"
+      ],
+      "qualification": "No evidence of deliberate pre-transformation hostility.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Amazing Spider-Man (1963) #101–102 origin era; retold in Morbius: Bond of Blood (2021) #1",
+      "source_id": "DARK31_20261020_S04",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E07",
+      "a": "baron_blood_falsworth",
+      "b": "emil_nikos",
+      "scope": "After Emil’s initial death; pre-Midnight Sons era (exact issue unverified)",
+      "observation": "John Falsworth, the original Baron Blood, vampirizes Emil, who later confronts Morbius.",
+      "source_ids": [
+        "DARK31_20261020_S04"
+      ],
+      "qualification": "John Falsworth is not Victor Strange, who also uses the Baron Blood alias.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "After Emil’s initial death; pre-Midnight Sons era (exact issue unverified)",
+      "source_id": "DARK31_20261020_S04",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E08",
+      "a": "morbius",
+      "b": "martine_bancroft",
+      "scope": "Pre-transformation origin through early Morbius era",
+      "observation": "Michael and Martine are engaged; after the experiment he flees rather than risk attacking her.",
+      "source_ids": [
+        "DARK31_20261020_S04"
+      ],
+      "qualification": "Protective motive is publisher-described; later status changes.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Pre-transformation origin through early Morbius era",
+      "source_id": "DARK31_20261020_S04",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E09",
+      "a": "jack_russell",
+      "b": "martine_bancroft",
+      "scope": "Post-Midnight Sons / undead Martine period; exact issue unresolved",
+      "observation": "Jack Russell has an affair with Morbius’ undead former girlfriend Martine.",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "qualification": "Do not infer current relationship or lasting attachment.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Post-Midnight Sons / undead Martine period; exact issue unresolved",
+      "source_id": "DARK31_20261020_S05",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E10",
+      "a": "morbius",
+      "b": "jack_russell",
+      "scope": "Werewolf by Night / Legion of Monsters early encounters, pre-Midnight Sons",
+      "observation": "Morbius hunts and fights Jack Russell after an earlier confrontation.",
+      "source_ids": [
+        "DARK31_20261020_S04",
+        "DARK31_20261020_S05"
+      ],
+      "qualification": "Historical conflict only.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Werewolf by Night / Legion of Monsters early encounters, pre-Midnight Sons",
+      "source_id": "DARK31_20261020_S04",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E11",
+      "a": "jack_russell",
+      "b": "morbius",
+      "scope": "Midnight Sons / post-Switchblade era (1990s)",
+      "observation": "Marvel identifies Jack as befriending the demon-possessed Morbius.",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "qualification": "Later friendship does not erase earlier attacks.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Midnight Sons / post-Switchblade era (1990s)",
+      "source_id": "DARK31_20261020_S05",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E12",
+      "a": "marie_laveau",
+      "b": "morbius",
+      "scope": "Doctor Strange / Marie Laveau vampire-resurrection storyline, pre-Midnight Sons (exact issue unverified)",
+      "observation": "Marie Laveau attempts to exploit Morbius’ altered blood to maintain her youth, but it proves unsuitable.",
+      "source_ids": [
+        "DARK31_20261020_S04"
+      ],
+      "qualification": "Instrumental motive documented; no reciprocal consent established.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Doctor Strange / Marie Laveau vampire-resurrection storyline, pre-Midnight Sons (exact issue unverified)",
+      "source_id": "DARK31_20261020_S04",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E13",
+      "a": "marie_laveau",
+      "b": "victor_strange",
+      "scope": "Doctor Strange / Marie Laveau vampire-resurrection storyline (exact issue unverified)",
+      "observation": "Marie Laveau’s machinations transform Victor Strange into a vampire.",
+      "source_ids": [
+        "DARK31_20261020_S04",
+        "DARK31_20261020_S06"
+      ],
+      "qualification": "Mechanism and degree of Victor’s consent need original-issue review.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Doctor Strange / Marie Laveau vampire-resurrection storyline (exact issue unverified)",
+      "source_id": "DARK31_20261020_S04",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E14",
+      "a": "strange",
+      "b": "victor_strange",
+      "scope": "Doctor Strange / Marie Laveau vampire-resurrection storyline",
+      "observation": "Stephen Strange is shocked to discover that the vampire encountered by Morbius is his brother Victor.",
+      "source_ids": [
+        "DARK31_20261020_S04",
+        "DARK31_20261020_S06"
+      ],
+      "qualification": "Family link and discovery; do not infer reconciliation.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Doctor Strange / Marie Laveau vampire-resurrection storyline",
+      "source_id": "DARK31_20261020_S04",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E15",
+      "a": "strange",
+      "b": "morbius",
+      "scope": "Siege of Darkness / Midnight Sons Lilin conflict (1993–1994)",
+      "observation": "Doctor Strange helps Morbius overcome a Lilin infestation after Morbius had let Lilin into the Sanctum.",
+      "source_ids": [
+        "DARK31_20261020_S04"
+      ],
+      "qualification": "Aid despite prior damage; no permanent trust claim.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Siege of Darkness / Midnight Sons Lilin conflict (1993–1994)",
+      "source_id": "DARK31_20261020_S04",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E16",
+      "a": "louise_hastings",
+      "b": "jack_russell",
+      "scope": "Midnight Sons / Switchblade Darkhold spell incident (1990s)",
+      "observation": "Louise breaks Switchblade’s spell, reviving Jack after he was slain.",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "qualification": "A specific rescue, not a sustained guardianship.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Midnight Sons / Switchblade Darkhold spell incident (1990s)",
+      "source_id": "DARK31_20261020_S05",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_E17",
+      "a": "morbius",
+      "b": "frank",
+      "scope": "Punisher (2009) #11 onward / Franken-Castle storyline",
+      "observation": "Morbius reassembles Frank after Daken attack; Frank later assaults Hellsgaard compound to free Morbius, who then uses the Bloodstone to restore Frank after further injury.",
+      "source_ids": [
+        "DARK31_20261020_S04",
+        "DARK31_20261020_S10"
+      ],
+      "qualification": "Medical intervention and resurrection-like repair; not proof Frank welcomed either transformation.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "issue": "Punisher (2009) #11 onward / Franken-Castle storyline",
+      "source_id": "DARK31_20261020_S04",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E01",
+      "a": "fen",
+      "b": "leonard_mckenzie",
+      "scope": "Namor origin; in-universe 1920; later retellings",
+      "observation": "Fen investigates surface explosions, falls in love with the Oracle's captain Leonard McKenzie, and marries him.",
+      "source_ids": [
+        "ATL32_S01",
+        "ATL32_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Namor origin; in-universe 1920; later retellings",
+      "source_id": "ATL32_S01",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E02",
+      "a": "fen",
+      "b": "namor",
+      "scope": "World War II / Invaders era, in-universe 1942",
+      "observation": "Fen briefly renews Atlantean ties with Nazi Germany; Namor and his surface allies expel the would-be allies.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "World War II / Invaders era, in-universe 1942",
+      "source_id": "ATL32_S01",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E03",
+      "a": "thakorr",
+      "b": "fen",
+      "scope": "Namor origin; in-universe 1920",
+      "observation": "Thakorr intends an expedition to investigate surface explosions; his daughter Fen instead undertakes the investigation at Tulem's urging.",
+      "source_ids": [
+        "ATL32_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Namor origin; in-universe 1920",
+      "source_id": "ATL32_S02",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E04",
+      "a": "namora",
+      "b": "namor",
+      "scope": "Marvel Mystery Comics (1939) #82; 1947 debut",
+      "observation": "After an attack on a royal gathering, Namora joins Namor against Stomp Richards's gang; the two subsequently operate as partners.",
+      "source_ids": [
+        "ATL32_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Marvel Mystery Comics (1939) #82; 1947 debut",
+      "source_id": "ATL32_S03",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E05",
+      "a": "namora",
+      "b": "namor",
+      "scope": "Agents of Atlas (2009) #6",
+      "observation": "Namora and Namor quarrel, then embrace and acknowledge attraction; after learning of Tulem's breeding scheme, they abandon plans to marry.",
+      "source_ids": [
+        "ATL32_S03",
+        "ATL32_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Agents of Atlas (2009) #6",
+      "source_id": "ATL32_S03",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E06",
+      "a": "namora",
+      "b": "namor",
+      "scope": "Secret Empire: Brave New World (2017) #2; Secret Empire era",
+      "observation": "Namora leads an undersea resistance against Namor's authoritarian neutrality; he captures and nearly executes her before relenting.",
+      "source_ids": [
+        "ATL32_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Secret Empire: Brave New World (2017) #2; Secret Empire era",
+      "source_id": "ATL32_S03",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E07",
+      "a": "namora",
+      "b": "namorita",
+      "scope": "Sub-Mariner (1968) #50; earlier Lemurian refuge",
+      "observation": "Namorita is introduced as Namora's clone-daughter; Namora had taken her into refuge in Lemuria.",
+      "source_ids": [
+        "ATL32_S03",
+        "ATL32_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Sub-Mariner (1968) #50; earlier Lemurian refuge",
+      "source_id": "ATL32_S03",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E08",
+      "a": "llyra",
+      "b": "namora",
+      "scope": "Sub-Mariner (1968) #50, retrospective",
+      "observation": "Llyra poisons Namora amid rivalry for Prince Merro; the apparent death is later revealed as suspended animation.",
+      "source_ids": [
+        "ATL32_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Sub-Mariner (1968) #50, retrospective",
+      "source_id": "ATL32_S03",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E09",
+      "a": "namor",
+      "b": "dorma",
+      "scope": "Sub-Mariner (1968) #36-37; 1971 wedding story",
+      "observation": "Namor's planned marriage to Dorma is disrupted by Llyra's impersonation, and Dorma dies shortly afterward; Marvel summaries differ on marriage status.",
+      "source_ids": [
+        "ATL32_S01",
+        "ATL32_S06",
+        "ATL32_S09",
+        "ATL32_S05"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Sub-Mariner (1968) #36-37; 1971 wedding story",
+      "source_id": "ATL32_S01",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E10",
+      "a": "llyra",
+      "b": "dorma",
+      "scope": "Sub-Mariner (1968) #36-37",
+      "observation": "Llyra impersonates Dorma during the wedding plot and kills Dorma.",
+      "source_ids": [
+        "ATL32_S01",
+        "ATL32_S06",
+        "ATL32_S09"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Sub-Mariner (1968) #36-37",
+      "source_id": "ATL32_S01",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E11",
+      "a": "krang",
+      "b": "dorma",
+      "scope": "Early Silver Age / pre-1971 Atlantean court era",
+      "observation": "While Namor is presumed missing, Krang and Dorma begin a relationship; it ends on Namor's return.",
+      "source_ids": [
+        "ATL32_S05"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Early Silver Age / pre-1971 Atlantean court era",
+      "source_id": "ATL32_S05",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E12",
+      "a": "krang",
+      "b": "namor",
+      "scope": "Early Silver Age, before Sub-Mariner (1968) #36",
+      "observation": "Krang attempts to overthrow Namor, then conspires with Byrrah and Attuma after Namor defeats him.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Early Silver Age, before Sub-Mariner (1968) #36",
+      "source_id": "ATL32_S01",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E13",
+      "a": "byrrah",
+      "b": "namor",
+      "scope": "1953-55 in-universe; Silver Age restoration of Atlantis",
+      "observation": "Byrrah agitates for war with the surface, then rules rebuilt Atlantis during Namor's amnesia; Namor later reclaims the throne.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "1953-55 in-universe; Silver Age restoration of Atlantis",
+      "source_id": "ATL32_S01",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E14",
+      "a": "attuma",
+      "b": "namor",
+      "scope": "Early Avengers/Sub-Mariner era; repeated coups",
+      "observation": "Attuma seizes Atlantis from Namor and is driven out; their contest for the throne recurs.",
+      "source_ids": [
+        "ATL32_S01",
+        "ATL32_S05"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Early Avengers/Sub-Mariner era; repeated coups",
+      "source_id": "ATL32_S01",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E15",
+      "a": "namor",
+      "b": "attuma",
+      "scope": "King in Black: Namor (2020) #5; 2021 publication",
+      "observation": "Namor, Attuma and Dorma undertake a dangerous attempt to save Atlantis from the Dark Tide.",
+      "source_ids": [
+        "ATL32_S07"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "King in Black: Namor (2020) #5; 2021 publication",
+      "source_id": "ATL32_S07",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E16",
+      "a": "attuma",
+      "b": "andromeda",
+      "scope": "Defenders and later Atlantean council era",
+      "observation": "Marvel identifies Andromeda as Attuma's daughter; she joins the Defenders and is later appointed to a ruling council by Namor.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Defenders and later Atlantean council era",
+      "source_id": "ATL32_S01",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E17",
+      "a": "namor",
+      "b": "marrina",
+      "scope": "1980s Avengers/Alpha Flight crossover; later Leviathan crisis",
+      "observation": "Namor and Marrina are married; when Marrina transforms into the destructive Leviathan, Namor strikes her down.",
+      "source_ids": [
+        "ATL32_S01",
+        "ATL32_S05"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "1980s Avengers/Alpha Flight crossover; later Leviathan crisis",
+      "source_id": "ATL32_S01",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_E18",
+      "a": "attuma",
+      "b": "marrina",
+      "scope": "Alpha Flight (1983) #30-70 / Avengers (1963) #272 crossover era",
+      "observation": "Attuma abducts Marrina, Namor's wife, prompting Alpha Flight and Avengers to intervene.",
+      "source_ids": [
+        "ATL32_S01",
+        "ATL32_S08"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "issue": "Alpha Flight (1983) #30-70 / Avengers (1963) #272 crossover era",
+      "source_id": "ATL32_S01",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
     }
   ],
   "claims": [
@@ -14297,6 +16584,2153 @@
       "review_status": "Provisional; primary issue panels not reviewed",
       "summary": "Zuras assigns Gilgamesh reciprocal guardianship duties with Sprite.",
       "qualification": "Institutional assignment does not prove affection."
+    },
+    {
+      "id": "GAL27_C01",
+      "pair_id": "norrin_radd-shalla_bal",
+      "from_id": "norrin_radd",
+      "to_id": "shalla_bal",
+      "dimension": "protection",
+      "scope": "Silver Surfer (1968) #1; Zenn-La origin",
+      "fact": "Norrin sacrifices his freedom to save Shalla-Bal and Zenn-La.",
+      "interpretation": "An act of protection does not establish Shalla-Bal’s preferences about his sacrifice.",
+      "event_ids": [
+        "GAL27_E01"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Norrin sacrifices his freedom to save Shalla-Bal and Zenn-La.",
+      "summary": "Norrin sacrifices his freedom to save Shalla-Bal and Zenn-La.",
+      "qualification": "An act of protection does not establish Shalla-Bal’s preferences about his sacrifice.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C02",
+      "pair_id": "galactus-norrin_radd",
+      "from_id": "norrin_radd",
+      "to_id": "galactus",
+      "dimension": "cooperation",
+      "scope": "Fantastic Four (1961) #48-50",
+      "fact": "Norrin serves as Galactus’s herald before their rupture.",
+      "interpretation": "Service begins as a bargain under existential threat, not uncomplicated allegiance.",
+      "event_ids": [
+        "GAL27_E02"
+      ],
+      "epistemic": "qualified",
+      "continuity": "Earth-616",
+      "assessment": "Norrin serves as Galactus’s herald before their rupture.",
+      "summary": "Norrin serves as Galactus’s herald before their rupture.",
+      "qualification": "Service begins as a bargain under existential threat, not uncomplicated allegiance.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C03",
+      "pair_id": "galactus-norrin_radd",
+      "from_id": "galactus",
+      "to_id": "norrin_radd",
+      "dimension": "coercion",
+      "scope": "Fantastic Four (1961) #50",
+      "fact": "Galactus exiles the Surfer to Earth after he defends the planet.",
+      "interpretation": "A punitive use of superior power; not a mutual decision.",
+      "event_ids": [
+        "GAL27_E17"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Galactus exiles the Surfer to Earth after he defends the planet.",
+      "summary": "Galactus exiles the Surfer to Earth after he defends the planet.",
+      "qualification": "A punitive use of superior power; not a mutual decision.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C04",
+      "pair_id": "alicia-norrin_radd",
+      "from_id": "alicia",
+      "to_id": "norrin_radd",
+      "dimension": "influence",
+      "scope": "Fantastic Four (1961) #48-50",
+      "fact": "Alicia’s kindness helps the Surfer reconsider his treatment of Earth.",
+      "interpretation": "A direct moral influence, not romantic involvement.",
+      "event_ids": [
+        "GAL27_E03"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Alicia’s kindness helps the Surfer reconsider his treatment of Earth.",
+      "summary": "Alicia’s kindness helps the Surfer reconsider his treatment of Earth.",
+      "qualification": "A direct moral influence, not romantic involvement.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C05",
+      "pair_id": "gabriel_lan-galactus",
+      "from_id": "galactus",
+      "to_id": "gabriel_lan",
+      "dimension": "affection",
+      "scope": "Fantastic Four (1961) #120-123; Air-Walker backstory",
+      "fact": "Galactus values Gabriel enough to recreate him as an android after his near-death.",
+      "interpretation": "Attachment is inferred from exceptional effort; the original personality was not recovered.",
+      "event_ids": [
+        "GAL27_E04"
+      ],
+      "epistemic": "interpretive",
+      "continuity": "Earth-616",
+      "assessment": "Galactus values Gabriel enough to recreate him as an android after his near-death.",
+      "summary": "Galactus values Gabriel enough to recreate him as an android after his near-death.",
+      "qualification": "Attachment is inferred from exceptional effort; the original personality was not recovered.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C06",
+      "pair_id": "gabriel_lan-pyreus_kril",
+      "from_id": "pyreus_kril",
+      "to_id": "gabriel_lan",
+      "dimension": "friendship",
+      "scope": "Thor (1966) #225; Xandarian expedition backstory",
+      "fact": "Pyreus searches for his missing friend and commander Gabriel.",
+      "interpretation": "A personal commitment distinct from shared military service.",
+      "event_ids": [
+        "GAL27_E05"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Pyreus searches for his missing friend and commander Gabriel.",
+      "summary": "Pyreus searches for his missing friend and commander Gabriel.",
+      "qualification": "A personal commitment distinct from shared military service.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C07",
+      "pair_id": "galactus-pyreus_kril",
+      "from_id": "galactus",
+      "to_id": "pyreus_kril",
+      "dimension": "coercion",
+      "scope": "Thor (1966) #225-228",
+      "fact": "Galactus erases Pyreus’s memory after making him Firelord.",
+      "interpretation": "An alteration of autonomy beyond the initial bargain.",
+      "event_ids": [
+        "GAL27_E06"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Galactus erases Pyreus’s memory after making him Firelord.",
+      "summary": "Galactus erases Pyreus’s memory after making him Firelord.",
+      "qualification": "An alteration of autonomy beyond the initial bargain.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C08",
+      "pair_id": "galactus-tyros",
+      "from_id": "galactus",
+      "to_id": "tyros",
+      "dimension": "coercion",
+      "scope": "Fantastic Four (1961) #211; #242-244",
+      "fact": "Galactus transforms Tyros into Terrax without consent.",
+      "interpretation": "Recruitment by force; later rebellion should be treated separately.",
+      "event_ids": [
+        "GAL27_E07"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Galactus transforms Tyros into Terrax without consent.",
+      "summary": "Galactus transforms Tyros into Terrax without consent.",
+      "qualification": "Recruitment by force; later rebellion should be treated separately.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C09",
+      "pair_id": "frankie_raye-johnny",
+      "from_id": "frankie_raye",
+      "to_id": "johnny",
+      "dimension": "romance",
+      "scope": "Fantastic Four (1961) #244 and preceding Frankie Raye arc",
+      "fact": "Frankie and Johnny are romantic partners when she leaves Earth.",
+      "interpretation": "Her decision is autonomous in the cited account, and his heartbreak does not make her choice a betrayal.",
+      "event_ids": [
+        "GAL27_E08"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Frankie and Johnny are romantic partners when she leaves Earth.",
+      "summary": "Frankie and Johnny are romantic partners when she leaves Earth.",
+      "qualification": "Her decision is autonomous in the cited account, and his heartbreak does not make her choice a betrayal.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C10",
+      "pair_id": "frankie_raye-galactus",
+      "from_id": "frankie_raye",
+      "to_id": "galactus",
+      "dimension": "cooperation",
+      "scope": "Fantastic Four (1961) #244",
+      "fact": "Frankie offers to become a herald to save Earth.",
+      "interpretation": "Initial cooperation is conditional and does not establish enduring moral alignment.",
+      "event_ids": [
+        "GAL27_E09"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Frankie offers to become a herald to save Earth.",
+      "summary": "Frankie offers to become a herald to save Earth.",
+      "qualification": "Initial cooperation is conditional and does not establish enduring moral alignment.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C11",
+      "pair_id": "frankie_raye-galactus",
+      "from_id": "frankie_raye",
+      "to_id": "galactus",
+      "dimension": "conflict",
+      "scope": "Silver Surfer (1987) #70",
+      "fact": "Nova later defies Galactus by attempting to conceal inhabited worlds.",
+      "interpretation": "An event-scoped ethical rupture rather than retroactive cancellation of her earlier service.",
+      "event_ids": [
+        "GAL27_E16"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Nova later defies Galactus by attempting to conceal inhabited worlds.",
+      "summary": "Nova later defies Galactus by attempting to conceal inhabited worlds.",
+      "qualification": "An event-scoped ethical rupture rather than retroactive cancellation of her earlier service.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C12",
+      "pair_id": "frankie_raye-norrin_radd",
+      "from_id": "norrin_radd",
+      "to_id": "frankie_raye",
+      "dimension": "influence",
+      "scope": "Silver Surfer (1987) pre-#70; Nova herald era",
+      "fact": "Norrin urges Frankie to direct Galactus toward lifeless planets.",
+      "interpretation": "A moral appeal within a romantic relationship; exact issue placement pending.",
+      "event_ids": [
+        "GAL27_E10"
+      ],
+      "epistemic": "qualified",
+      "continuity": "Earth-616",
+      "assessment": "Norrin urges Frankie to direct Galactus toward lifeless planets.",
+      "summary": "Norrin urges Frankie to direct Galactus toward lifeless planets.",
+      "qualification": "A moral appeal within a romantic relationship; exact issue placement pending.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C13",
+      "pair_id": "galactus-morg",
+      "from_id": "galactus",
+      "to_id": "morg",
+      "dimension": "authority",
+      "scope": "Silver Surfer (1987) #70-75, Herald Ordeal",
+      "fact": "Galactus selects Morg to replace the resistant Nova.",
+      "interpretation": "Formal master–herald authority, not evidence of moral trust.",
+      "event_ids": [
+        "GAL27_E11"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Galactus selects Morg to replace the resistant Nova.",
+      "summary": "Galactus selects Morg to replace the resistant Nova.",
+      "qualification": "Formal master–herald authority, not evidence of moral trust.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C14",
+      "pair_id": "frankie_raye-morg",
+      "from_id": "morg",
+      "to_id": "frankie_raye",
+      "dimension": "conflict",
+      "scope": "Silver Surfer (1987) #69-75, Herald Ordeal",
+      "fact": "Morg kills Nova in the Herald Ordeal.",
+      "interpretation": "A lethal act; do not infer that Nova sought personal enmity.",
+      "event_ids": [
+        "GAL27_E12"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Morg kills Nova in the Herald Ordeal.",
+      "summary": "Morg kills Nova in the Herald Ordeal.",
+      "qualification": "A lethal act; do not infer that Nova sought personal enmity.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C15",
+      "pair_id": "morg-tyros",
+      "from_id": "tyros",
+      "to_id": "morg",
+      "dimension": "conflict",
+      "scope": "Silver Surfer (1987) #75, Herald Ordeal",
+      "fact": "Terrax kills Morg after Galactus removes Morg’s cosmic power.",
+      "interpretation": "A moment of lethal hostility, not an enduring relationship label.",
+      "event_ids": [
+        "GAL27_E13"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Terrax kills Morg after Galactus removes Morg’s cosmic power.",
+      "summary": "Terrax kills Morg after Galactus removes Morg’s cosmic power.",
+      "qualification": "A moment of lethal hostility, not an enduring relationship label.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C16",
+      "pair_id": "beta_ray_bill-stardust_lambda_zero",
+      "from_id": "stardust_lambda_zero",
+      "to_id": "beta_ray_bill",
+      "dimension": "conflict",
+      "scope": "Stormbreaker: The Saga of Beta Ray Bill (2005) #1-6",
+      "fact": "Stardust battles Beta Ray Bill while Galactus approaches New Korbin.",
+      "interpretation": "The confrontation arises from Bill’s protection of his people.",
+      "event_ids": [
+        "GAL27_E14"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Stardust battles Beta Ray Bill while Galactus approaches New Korbin.",
+      "summary": "Stardust battles Beta Ray Bill while Galactus approaches New Korbin.",
+      "qualification": "The confrontation arises from Bill’s protection of his people.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C17",
+      "pair_id": "galactus-stardust_lambda_zero",
+      "from_id": "stardust_lambda_zero",
+      "to_id": "galactus",
+      "dimension": "cooperation",
+      "scope": "Annihilation: Silver Surfer (2006) #1-4; Annihilation (2006) era",
+      "fact": "Stardust locates worlds for Galactus and delivers his summons to Norrin.",
+      "interpretation": "Willing participation in his mission, not automatically shared views on every action.",
+      "event_ids": [
+        "GAL27_E15"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Stardust locates worlds for Galactus and delivers his summons to Norrin.",
+      "summary": "Stardust locates worlds for Galactus and delivers his summons to Norrin.",
+      "qualification": "Willing participation in his mission, not automatically shared views on every action.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GAL27_C18",
+      "pair_id": "galactus-stardust_lambda_zero",
+      "from_id": "galactus",
+      "to_id": "stardust_lambda_zero",
+      "dimension": "authority",
+      "scope": "Annihilation: Silver Surfer (2006) #1-4; Annihilation (2006) era",
+      "fact": "Galactus sends Stardust to summon the Silver Surfer.",
+      "interpretation": "An explicit tasking relationship, distinct from Stardust’s personal devotion.",
+      "event_ids": [
+        "GAL27_E15"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616",
+      "assessment": "Galactus sends Stardust to summon the Silver Surfer.",
+      "summary": "Galactus sends Stardust to summon the Silver Surfer.",
+      "qualification": "An explicit tasking relationship, distinct from Stardust’s personal devotion.",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C01",
+      "from_id": "banshee",
+      "to_id": "jubilee",
+      "dimension": "protection",
+      "fact": "Sean acts on concern for Jubilee and helps organize a rescue of young mutants.",
+      "interpretation": "The individual protective motive is supported; the Phalanx rescue is a collective effort.",
+      "event_ids": [
+        "GENX28_20261020_E01"
+      ],
+      "epistemic": "qualified",
+      "pair_id": "banshee-jubilee",
+      "assessment": "Sean acts on concern for Jubilee and helps organize a rescue of young mutants.",
+      "summary": "Sean acts on concern for Jubilee and helps organize a rescue of young mutants.",
+      "qualification": "The individual protective motive is supported; the Phalanx rescue is a collective effort.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C02",
+      "from_id": "banshee",
+      "to_id": "black_tom",
+      "dimension": "conflict",
+      "fact": "Sean and Tom are rivals and directly oppose each other in fights over the estate and with the X-Men.",
+      "interpretation": "The feud has family, property and criminal dimensions; do not treat all periods identically.",
+      "event_ids": [
+        "GENX28_20261020_E02"
+      ],
+      "epistemic": "documented",
+      "pair_id": "banshee-black_tom",
+      "assessment": "Sean and Tom are rivals and directly oppose each other in fights over the estate and with the X-Men.",
+      "summary": "Sean and Tom are rivals and directly oppose each other in fights over the estate and with the X-Men.",
+      "qualification": "The feud has family, property and criminal dimensions; do not treat all periods identically.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C03",
+      "from_id": "black_tom",
+      "to_id": "banshee",
+      "dimension": "conflict",
+      "fact": "Tom competes with Sean for the estate and later fights him.",
+      "interpretation": "Reciprocal hostility is independently documented, not inferred from Sean’s feelings.",
+      "event_ids": [
+        "GENX28_20261020_E02"
+      ],
+      "epistemic": "documented",
+      "pair_id": "banshee-black_tom",
+      "assessment": "Tom competes with Sean for the estate and later fights him.",
+      "summary": "Tom competes with Sean for the estate and later fights him.",
+      "qualification": "Reciprocal hostility is independently documented, not inferred from Sean’s feelings.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C04",
+      "from_id": "maeve_rourke",
+      "to_id": "banshee",
+      "dimension": "protection",
+      "fact": "Maeve intervenes to help Sean escape harassment by a police officer.",
+      "interpretation": "A concrete act of assistance before their marriage.",
+      "event_ids": [
+        "GENX28_20261020_E03"
+      ],
+      "epistemic": "documented",
+      "pair_id": "banshee-maeve_rourke",
+      "assessment": "Maeve intervenes to help Sean escape harassment by a police officer.",
+      "summary": "Maeve intervenes to help Sean escape harassment by a police officer.",
+      "qualification": "A concrete act of assistance before their marriage.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C05",
+      "from_id": "banshee",
+      "to_id": "maeve_rourke",
+      "dimension": "romance",
+      "fact": "Sean and Maeve marry after a courtship.",
+      "interpretation": "A historical marriage; Maeve later dies.",
+      "event_ids": [
+        "GENX28_20261020_E03"
+      ],
+      "epistemic": "documented",
+      "pair_id": "banshee-maeve_rourke",
+      "assessment": "Sean and Maeve marry after a courtship.",
+      "summary": "Sean and Maeve marry after a courtship.",
+      "qualification": "A historical marriage; Maeve later dies.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C06",
+      "from_id": "black_tom",
+      "to_id": "maeve_rourke",
+      "dimension": "affection",
+      "fact": "Tom dates Maeve, then steps aside and tells her the truth about Sean’s injury.",
+      "interpretation": "Maeve ultimately chooses Sean; Tom’s continued affection should not be mistaken for an enduring mutual romance.",
+      "event_ids": [
+        "GENX28_20261020_E04"
+      ],
+      "epistemic": "documented",
+      "pair_id": "black_tom-maeve_rourke",
+      "assessment": "Tom dates Maeve, then steps aside and tells her the truth about Sean’s injury.",
+      "summary": "Tom dates Maeve, then steps aside and tells her the truth about Sean’s injury.",
+      "qualification": "Maeve ultimately chooses Sean; Tom’s continued affection should not be mistaken for an enduring mutual romance.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C07",
+      "from_id": "black_tom",
+      "to_id": "theresa_cassidy",
+      "dimension": "family",
+      "fact": "Tom raises Theresa after Maeve’s death and hides her survival from Sean.",
+      "interpretation": "Caregiving and concealment coexist; adoption is reported by the publisher biography.",
+      "event_ids": [
+        "GENX28_20261020_E05"
+      ],
+      "epistemic": "documented",
+      "pair_id": "black_tom-theresa_cassidy",
+      "assessment": "Tom raises Theresa after Maeve’s death and hides her survival from Sean.",
+      "summary": "Tom raises Theresa after Maeve’s death and hides her survival from Sean.",
+      "qualification": "Caregiving and concealment coexist; adoption is reported by the publisher biography.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C08",
+      "from_id": "banshee",
+      "to_id": "theresa_cassidy",
+      "dimension": "family",
+      "fact": "Sean reunites with Theresa and eventually leaves her Cassidy Keep.",
+      "interpretation": "A relationship rediscovered after years of involuntary separation.",
+      "event_ids": [
+        "GENX28_20261020_E06"
+      ],
+      "epistemic": "documented",
+      "pair_id": "banshee-theresa_cassidy",
+      "assessment": "Sean reunites with Theresa and eventually leaves her Cassidy Keep.",
+      "summary": "Sean reunites with Theresa and eventually leaves her Cassidy Keep.",
+      "qualification": "A relationship rediscovered after years of involuntary separation.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C09",
+      "from_id": "chamber",
+      "to_id": "husk",
+      "dimension": "affection",
+      "fact": "Marvel describes Chamber as troubled by his relationship with Paige.",
+      "interpretation": "Emotional attachment is plausible but the issue synopsis alone does not establish reciprocal romantic commitment.",
+      "event_ids": [
+        "GENX28_20261020_E07"
+      ],
+      "epistemic": "interpretive",
+      "pair_id": "chamber-husk",
+      "assessment": "Marvel describes Chamber as troubled by his relationship with Paige.",
+      "summary": "Marvel describes Chamber as troubled by his relationship with Paige.",
+      "qualification": "Emotional attachment is plausible but the issue synopsis alone does not establish reciprocal romantic commitment.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C10",
+      "from_id": "emplate",
+      "to_id": "monet",
+      "dimension": "conflict",
+      "fact": "Monet’s brother is involved in her Penance history and later becomes merged with her, bringing vampiric hunger.",
+      "interpretation": "The 2017 threat is documented; exact responsibility for every earlier transformation requires original-issue review.",
+      "event_ids": [
+        "GENX28_20261020_E08"
+      ],
+      "epistemic": "qualified",
+      "pair_id": "emplate-monet",
+      "assessment": "Monet’s brother is involved in her Penance history and later becomes merged with her, bringing vampiric hunger.",
+      "summary": "Monet’s brother is involved in her Penance history and later becomes merged with her, bringing vampiric hunger.",
+      "qualification": "The 2017 threat is documented; exact responsibility for every earlier transformation requires original-issue review.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C11",
+      "from_id": "jubilee",
+      "to_id": "monet",
+      "dimension": "protection",
+      "fact": "Jubilee participates in an effort to save Monet from Emplate’s curse.",
+      "interpretation": "The collection asks whether the rescue succeeds; record the effort, not an unverified successful rescue.",
+      "event_ids": [
+        "GENX28_20261020_E09"
+      ],
+      "epistemic": "qualified",
+      "pair_id": "jubilee-monet",
+      "assessment": "Jubilee participates in an effort to save Monet from Emplate’s curse.",
+      "summary": "Jubilee participates in an effort to save Monet from Emplate’s curse.",
+      "qualification": "The collection asks whether the rescue succeeds; record the effort, not an unverified successful rescue.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C12",
+      "from_id": "husk",
+      "to_id": "monet",
+      "dimension": "protection",
+      "fact": "Paige returns and joins an effort to save Monet.",
+      "interpretation": "Event-scoped rescue effort, not proof of permanent intimacy.",
+      "event_ids": [
+        "GENX28_20261020_E10"
+      ],
+      "epistemic": "qualified",
+      "pair_id": "husk-monet",
+      "assessment": "Paige returns and joins an effort to save Monet.",
+      "summary": "Paige returns and joins an effort to save Monet.",
+      "qualification": "Event-scoped rescue effort, not proof of permanent intimacy.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C13",
+      "from_id": "adrienne_frost",
+      "to_id": "synch",
+      "dimension": "conflict",
+      "fact": "Adrienne plants bombs that cause Synch’s death.",
+      "interpretation": "Lethal harm is documented; Synch need not have been individually targeted.",
+      "event_ids": [
+        "GENX28_20261020_E11"
+      ],
+      "epistemic": "documented",
+      "pair_id": "adrienne_frost-synch",
+      "assessment": "Adrienne plants bombs that cause Synch’s death.",
+      "summary": "Adrienne plants bombs that cause Synch’s death.",
+      "qualification": "Lethal harm is documented; Synch need not have been individually targeted.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C14",
+      "from_id": "emma",
+      "to_id": "adrienne_frost",
+      "dimension": "conflict",
+      "fact": "Emma shoots Adrienne after the bombing kills Synch.",
+      "interpretation": "Direct retaliatory violence between sisters; avoid treating the killing as a legal judgment.",
+      "event_ids": [
+        "GENX28_20261020_E12"
+      ],
+      "epistemic": "documented",
+      "pair_id": "adrienne_frost-emma",
+      "assessment": "Emma shoots Adrienne after the bombing kills Synch.",
+      "summary": "Emma shoots Adrienne after the bombing kills Synch.",
+      "qualification": "Direct retaliatory violence between sisters; avoid treating the killing as a legal judgment.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C15",
+      "from_id": "jubilee",
+      "to_id": "shogo",
+      "dimension": "family",
+      "fact": "Jubilee rescues and adopts Shogo.",
+      "interpretation": "Documented adoptive motherhood, not merely an incidental rescue.",
+      "event_ids": [
+        "GENX28_20261020_E13"
+      ],
+      "epistemic": "documented",
+      "pair_id": "jubilee-shogo",
+      "assessment": "Jubilee rescues and adopts Shogo.",
+      "summary": "Jubilee rescues and adopts Shogo.",
+      "qualification": "Documented adoptive motherhood, not merely an incidental rescue.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C16",
+      "from_id": "emplate",
+      "to_id": "rogue",
+      "dimension": "coercion",
+      "fact": "Emplate takes Rogue captive during her attempt to rescue Bling!.",
+      "interpretation": "A specific abduction; its exact issue number needs checking.",
+      "event_ids": [
+        "GENX28_20261020_E14"
+      ],
+      "epistemic": "documented",
+      "pair_id": "emplate-rogue",
+      "assessment": "Emplate takes Rogue captive during her attempt to rescue Bling!.",
+      "summary": "Emplate takes Rogue captive during her attempt to rescue Bling!.",
+      "qualification": "A specific abduction; its exact issue number needs checking.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C17",
+      "from_id": "banshee",
+      "to_id": "synch",
+      "dimension": "protection",
+      "fact": "Banshee helps rescue Synch from the Phalanx.",
+      "interpretation": "Group rescue supported by Marvel’s collection, not evidence of a unique one-on-one bond.",
+      "event_ids": [
+        "GENX28_20261020_E15"
+      ],
+      "epistemic": "qualified",
+      "pair_id": "banshee-synch",
+      "assessment": "Banshee helps rescue Synch from the Phalanx.",
+      "summary": "Banshee helps rescue Synch from the Phalanx.",
+      "qualification": "Group rescue supported by Marvel’s collection, not evidence of a unique one-on-one bond.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C18",
+      "from_id": "emma",
+      "to_id": "banshee",
+      "dimension": "protection",
+      "fact": "Emma attempts to save the gravely injured Sean.",
+      "interpretation": "A specific rescue attempt despite their often difficult professional relationship.",
+      "event_ids": [
+        "GENX28_20261020_E16"
+      ],
+      "epistemic": "documented",
+      "pair_id": "banshee-emma",
+      "assessment": "Emma attempts to save the gravely injured Sean.",
+      "summary": "Emma attempts to save the gravely injured Sean.",
+      "qualification": "A specific rescue attempt despite their often difficult professional relationship.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "GENX28_20261020_C19",
+      "from_id": "emma",
+      "to_id": "banshee",
+      "dimension": "conflict",
+      "fact": "Sean and Emma have serious disagreements while jointly running Generation X.",
+      "interpretation": "Their documented disputes coexist with the professional respect they gradually develop; this is a new dimension on an existing canonical pair.",
+      "event_ids": [
+        "GENX28_20261020_E17"
+      ],
+      "epistemic": "documented",
+      "pair_id": "banshee-emma",
+      "assessment": "Sean and Emma have serious disagreements while jointly running Generation X.",
+      "summary": "Sean and Emma have serious disagreements while jointly running Generation X.",
+      "qualification": "Their documented disputes coexist with the professional respect they gradually develop; this is a new dimension on an existing canonical pair.",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C01",
+      "from_id": "alex_wilder",
+      "to_id": "geoffrey_wilder",
+      "dimension": "protection",
+      "scope": "Runaways (2003) #17-18",
+      "fact": "Alex acts to preserve his father’s life.",
+      "interpretation": "Protective intent does not excuse his manipulation of other children.",
+      "event_ids": [
+        "RUN29_20261020_E01"
+      ],
+      "epistemic": "direct",
+      "pair_id": "alex_wilder-geoffrey_wilder",
+      "assessment": "Alex acts to preserve his father’s life.",
+      "summary": "Alex acts to preserve his father’s life.",
+      "qualification": "Protective intent does not excuse his manipulation of other children.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C02",
+      "from_id": "alex_wilder",
+      "to_id": "catherine_wilder",
+      "dimension": "protection",
+      "scope": "Runaways (2003) #17-18",
+      "fact": "Alex includes his mother in his scheme to protect his parents.",
+      "interpretation": "The plan is not evidence that Catherine approves every tactic.",
+      "event_ids": [
+        "RUN29_20261020_E02"
+      ],
+      "epistemic": "direct",
+      "pair_id": "alex_wilder-catherine_wilder",
+      "assessment": "Alex includes his mother in his scheme to protect his parents.",
+      "summary": "Alex includes his mother in his scheme to protect his parents.",
+      "qualification": "The plan is not evidence that Catherine approves every tactic.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C03",
+      "from_id": "alex_wilder",
+      "to_id": "nico_minoru",
+      "dimension": "romance",
+      "scope": "Runaways (2003) #7-12; early romance",
+      "fact": "Alex and Nico date in the original series.",
+      "interpretation": "Romantic involvement does not imply knowledge of Alex’s concealed allegiance.",
+      "event_ids": [
+        "RUN29_20261020_E03"
+      ],
+      "epistemic": "direct",
+      "pair_id": "alex_wilder-nico_minoru",
+      "assessment": "Alex and Nico date in the original series.",
+      "summary": "Alex and Nico date in the original series.",
+      "qualification": "Romantic involvement does not imply knowledge of Alex’s concealed allegiance.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C04",
+      "from_id": "alex_wilder",
+      "to_id": "nico_minoru",
+      "dimension": "betrayal",
+      "scope": "Runaways (2003) #17-18",
+      "fact": "Alex steals Nico’s staff while revealing he was working for the Pride.",
+      "interpretation": "Violation of personal and operational trust, scoped to the reveal.",
+      "event_ids": [
+        "RUN29_20261020_E04"
+      ],
+      "epistemic": "direct",
+      "pair_id": "alex_wilder-nico_minoru",
+      "assessment": "Alex steals Nico’s staff while revealing he was working for the Pride.",
+      "summary": "Alex steals Nico’s staff while revealing he was working for the Pride.",
+      "qualification": "Violation of personal and operational trust, scoped to the reveal.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C05",
+      "from_id": "gert_yorkes",
+      "to_id": "chase_stein",
+      "dimension": "protection",
+      "scope": "Runaways (2003) #13-18",
+      "fact": "Gert resuscitates Chase after he nearly dies.",
+      "interpretation": "One lifesaving act is not a permanent protective role.",
+      "event_ids": [
+        "RUN29_20261020_E05"
+      ],
+      "epistemic": "event_scoped",
+      "pair_id": "chase_stein-gert_yorkes",
+      "assessment": "Gert resuscitates Chase after he nearly dies.",
+      "summary": "Gert resuscitates Chase after he nearly dies.",
+      "qualification": "One lifesaving act is not a permanent protective role.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C06",
+      "from_id": "chase_stein",
+      "to_id": "gert_yorkes",
+      "dimension": "affection",
+      "scope": "Runaways (2005) #19-24",
+      "fact": "Chase seeks to sacrifice himself to resurrect Gert.",
+      "interpretation": "Evidence of grief and attachment, not of a successful resurrection.",
+      "event_ids": [
+        "RUN29_20261020_E06"
+      ],
+      "epistemic": "direct",
+      "pair_id": "chase_stein-gert_yorkes",
+      "assessment": "Chase seeks to sacrifice himself to resurrect Gert.",
+      "summary": "Chase seeks to sacrifice himself to resurrect Gert.",
+      "qualification": "Evidence of grief and attachment, not of a successful resurrection.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C07",
+      "from_id": "geoffrey_wilder",
+      "to_id": "gert_yorkes",
+      "dimension": "conflict",
+      "scope": "Runaways (2005) #18; time-displaced Geoffrey",
+      "fact": "Time-displaced Geoffrey fatally wounds Gert.",
+      "interpretation": "Distinguish the displaced younger Geoffrey from a separate person or alternate-universe duplicate.",
+      "event_ids": [
+        "RUN29_20261020_E07"
+      ],
+      "epistemic": "direct",
+      "pair_id": "geoffrey_wilder-gert_yorkes",
+      "assessment": "Time-displaced Geoffrey fatally wounds Gert.",
+      "summary": "Time-displaced Geoffrey fatally wounds Gert.",
+      "qualification": "Distinguish the displaced younger Geoffrey from a separate person or alternate-universe duplicate.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C08",
+      "from_id": "chase_stein",
+      "to_id": "geoffrey_wilder",
+      "dimension": "conflict",
+      "scope": "Runaways (2005) #18; time-displaced Geoffrey",
+      "fact": "Chase fights Geoffrey during the attempted sacrifice.",
+      "interpretation": "A direct confrontation, not proof of all later relations.",
+      "event_ids": [
+        "RUN29_20261020_E08"
+      ],
+      "epistemic": "event_scoped",
+      "pair_id": "chase_stein-geoffrey_wilder",
+      "assessment": "Chase fights Geoffrey during the attempted sacrifice.",
+      "summary": "Chase fights Geoffrey during the attempted sacrifice.",
+      "qualification": "A direct confrontation, not proof of all later relations.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C09",
+      "from_id": "geoffrey_wilder",
+      "to_id": "molly_hayes",
+      "dimension": "coercion",
+      "scope": "Runaways (2005) #13-18; time-displaced Geoffrey",
+      "fact": "Geoffrey’s faction abducts Molly to use her in its plan.",
+      "interpretation": "Responsibility for the abduction is shared by his faction; no consent.",
+      "event_ids": [
+        "RUN29_20261020_E09"
+      ],
+      "epistemic": "direct",
+      "pair_id": "geoffrey_wilder-molly_hayes",
+      "assessment": "Geoffrey’s faction abducts Molly to use her in its plan.",
+      "summary": "Geoffrey’s faction abducts Molly to use her in its plan.",
+      "qualification": "Responsibility for the abduction is shared by his faction; no consent.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C10",
+      "from_id": "chase_stein",
+      "to_id": "nico_minoru",
+      "dimension": "romance",
+      "scope": "Runaways (2005) #13-18",
+      "fact": "Chase and Nico share a kiss they later regret.",
+      "interpretation": "Event-scoped attraction or intimacy, not an established ongoing partnership.",
+      "event_ids": [
+        "RUN29_20261020_E10"
+      ],
+      "epistemic": "qualified",
+      "pair_id": "chase_stein-nico_minoru",
+      "assessment": "Chase and Nico share a kiss they later regret.",
+      "summary": "Chase and Nico share a kiss they later regret.",
+      "qualification": "Event-scoped attraction or intimacy, not an established ongoing partnership.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C11",
+      "from_id": "nico_minoru",
+      "to_id": "victor_mancha",
+      "dimension": "romance",
+      "scope": "Runaways (2005) #19-24",
+      "fact": "Nico and Victor begin a relationship following Gert’s death.",
+      "interpretation": "Do not infer permanence from this early period.",
+      "event_ids": [
+        "RUN29_20261020_E11"
+      ],
+      "epistemic": "qualified",
+      "pair_id": "nico_minoru-victor_mancha",
+      "assessment": "Nico and Victor begin a relationship following Gert’s death.",
+      "summary": "Nico and Victor begin a relationship following Gert’s death.",
+      "qualification": "Do not infer permanence from this early period.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C12",
+      "from_id": "ultron",
+      "to_id": "victor_mancha",
+      "dimension": "coercion",
+      "scope": "Runaways (2005) #1-6; revisited #15",
+      "fact": "Ultron overrides Victor’s programming and makes him attack the Runaways.",
+      "interpretation": "Technological control is distinct from willing ideological loyalty.",
+      "event_ids": [
+        "RUN29_20261020_E12"
+      ],
+      "epistemic": "direct",
+      "pair_id": "ultron-victor_mancha",
+      "assessment": "Ultron overrides Victor’s programming and makes him attack the Runaways.",
+      "summary": "Ultron overrides Victor’s programming and makes him attack the Runaways.",
+      "qualification": "Technological control is distinct from willing ideological loyalty.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C13",
+      "from_id": "victor_mancha",
+      "to_id": "marianella_mancha",
+      "dimension": "protection",
+      "scope": "Runaways (2005) #1-6",
+      "fact": "Victor participates in an attempt to rescue Marianella.",
+      "interpretation": "A rescue attempt, not proof he succeeded; Ultron kills her.",
+      "event_ids": [
+        "RUN29_20261020_E13"
+      ],
+      "epistemic": "event_scoped",
+      "pair_id": "marianella_mancha-victor_mancha",
+      "assessment": "Victor participates in an attempt to rescue Marianella.",
+      "summary": "Victor participates in an attempt to rescue Marianella.",
+      "qualification": "A rescue attempt, not proof he succeeded; Ultron kills her.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C14",
+      "from_id": "victor_mancha",
+      "to_id": "marianella_mancha",
+      "dimension": "family",
+      "scope": "Runaways (2005) #1-6",
+      "fact": "Marianella is Victor’s mother in his constructed family history.",
+      "interpretation": "Their family bond is real to Victor; his artificial creation and implanted memories complicate the biology.",
+      "event_ids": [
+        "RUN29_20261020_E13"
+      ],
+      "epistemic": "qualified",
+      "pair_id": "marianella_mancha-victor_mancha",
+      "assessment": "Marianella is Victor’s mother in his constructed family history.",
+      "summary": "Marianella is Victor’s mother in his constructed family history.",
+      "qualification": "Their family bond is real to Victor; his artificial creation and implanted memories complicate the biology.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C15",
+      "from_id": "karolina_dean",
+      "to_id": "xavin",
+      "dimension": "romance",
+      "scope": "Runaways (2005) #13-18",
+      "fact": "Karolina and Xavin attempt a wedding ceremony.",
+      "interpretation": "The ceremony is interrupted; do not record a completed marriage.",
+      "event_ids": [
+        "RUN29_20261020_E14"
+      ],
+      "epistemic": "qualified",
+      "pair_id": "karolina_dean-xavin",
+      "assessment": "Karolina and Xavin attempt a wedding ceremony.",
+      "summary": "Karolina and Xavin attempt a wedding ceremony.",
+      "qualification": "The ceremony is interrupted; do not record a completed marriage.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C16",
+      "from_id": "karolina_dean",
+      "to_id": "nico_minoru",
+      "dimension": "affection",
+      "scope": "Runaways (2017) #1-6",
+      "fact": "Marvel’s 2017 collection identifies emotionally consequential feelings between the two.",
+      "interpretation": "The synopsis does not alone establish reciprocal romance at this point.",
+      "event_ids": [
+        "RUN29_20261020_E15"
+      ],
+      "epistemic": "qualified",
+      "pair_id": "karolina_dean-nico_minoru",
+      "assessment": "Marvel’s 2017 collection identifies emotionally consequential feelings between the two.",
+      "summary": "Marvel’s 2017 collection identifies emotionally consequential feelings between the two.",
+      "qualification": "The synopsis does not alone establish reciprocal romance at this point.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C17",
+      "from_id": "gert_yorkes",
+      "to_id": "molly_hayes",
+      "dimension": "friendship",
+      "scope": "Runaways (2017) #4",
+      "fact": "Gert and Molly reunite after Gert’s return from death.",
+      "interpretation": "The creator describes a changed friendship rather than biological sisterhood.",
+      "event_ids": [
+        "RUN29_20261020_E16"
+      ],
+      "epistemic": "direct",
+      "pair_id": "gert_yorkes-molly_hayes",
+      "assessment": "Gert and Molly reunite after Gert’s return from death.",
+      "summary": "Gert and Molly reunite after Gert’s return from death.",
+      "qualification": "The creator describes a changed friendship rather than biological sisterhood.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C18",
+      "from_id": "karolina_dean",
+      "to_id": "julie_power",
+      "dimension": "romance",
+      "scope": "Runaways (2017) #8",
+      "fact": "Julie visits Karolina as her girlfriend.",
+      "interpretation": "Historical relationship; do not assume it continues after this era.",
+      "event_ids": [
+        "RUN29_20261020_E17"
+      ],
+      "epistemic": "direct",
+      "pair_id": "julie_power-karolina_dean",
+      "assessment": "Julie visits Karolina as her girlfriend.",
+      "summary": "Julie visits Karolina as her girlfriend.",
+      "qualification": "Historical relationship; do not assume it continues after this era.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "RUN29_20261020_C19",
+      "from_id": "julie_power",
+      "to_id": "karolina_dean",
+      "dimension": "romance",
+      "scope": "Runaways (2017) #8",
+      "fact": "Julie is identified as Karolina’s girlfriend and visits her.",
+      "interpretation": "Reciprocal relationship label documented; individual feelings not inferred beyond that.",
+      "event_ids": [
+        "RUN29_20261020_E17"
+      ],
+      "epistemic": "direct",
+      "pair_id": "julie_power-karolina_dean",
+      "assessment": "Julie is identified as Karolina’s girlfriend and visits her.",
+      "summary": "Julie is identified as Karolina’s girlfriend and visits her.",
+      "qualification": "Reciprocal relationship label documented; individual feelings not inferred beyond that.",
+      "continuity": "Earth-616",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ACA30_20261020_C01",
+      "pair_id": "hazmat-mettle",
+      "from_id": "hazmat",
+      "to_id": "mettle",
+      "dimension": "romance",
+      "assessment": "romantic attachment",
+      "epistemic": "direct",
+      "fact": "Hazmat and Mettle enter a romantic relationship.",
+      "interpretation": "Do not assume their commitment or circumstances stay unchanged throughout the series.",
+      "event_ids": [
+        "ACA30_20261020_E01"
+      ],
+      "scope": "Avengers Academy (2010), pre-#39 and #35–39",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Hazmat and Mettle enter a romantic relationship.",
+      "qualification": "Do not assume their commitment or circumstances stay unchanged throughout the series."
+    },
+    {
+      "id": "ACA30_20261020_C02",
+      "pair_id": "hazmat-mettle",
+      "from_id": "mettle",
+      "to_id": "hazmat",
+      "dimension": "protection",
+      "assessment": "voluntary risk sharing",
+      "epistemic": "qualified",
+      "fact": "Mettle chooses to remain beside Hazmat during the proposed self-destruct operation.",
+      "interpretation": "A specific protective choice; not proof of permanent self-sacrificial conduct.",
+      "event_ids": [
+        "ACA30_20261020_E02"
+      ],
+      "scope": "Avengers Academy (2010) #15–19, Fear Itself",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Mettle chooses to remain beside Hazmat during the proposed self-destruct operation.",
+      "qualification": "A specific protective choice; not proof of permanent self-sacrificial conduct."
+    },
+    {
+      "id": "ACA30_20261020_C03",
+      "pair_id": "striker-veil",
+      "from_id": "veil",
+      "to_id": "striker",
+      "dimension": "friendship",
+      "assessment": "established close friendship",
+      "epistemic": "direct",
+      "fact": "Marvel explicitly identifies Veil and Striker as best friends.",
+      "interpretation": "A retrospective relationship label, without an issue-specific private exchange.",
+      "event_ids": [
+        "ACA30_20261020_E03"
+      ],
+      "scope": "Avengers Academy (2010), initial class through #39",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Marvel explicitly identifies Veil and Striker as best friends.",
+      "qualification": "A retrospective relationship label, without an issue-specific private exchange."
+    },
+    {
+      "id": "ACA30_20261020_C04",
+      "pair_id": "striker-veil",
+      "from_id": "striker",
+      "to_id": "veil",
+      "dimension": "friendship",
+      "assessment": "established close friendship",
+      "epistemic": "direct",
+      "fact": "Marvel explicitly identifies the pair as best friends.",
+      "interpretation": "Reciprocal friendship is explicitly described; no claim about permanence.",
+      "event_ids": [
+        "ACA30_20261020_E03"
+      ],
+      "scope": "Avengers Academy (2010), initial class through #39",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Marvel explicitly identifies the pair as best friends.",
+      "qualification": "Reciprocal friendship is explicitly described; no claim about permanence."
+    },
+    {
+      "id": "ACA30_20261020_C05",
+      "pair_id": "finesse-taskmaster",
+      "from_id": "finesse",
+      "to_id": "taskmaster",
+      "dimension": "conflict",
+      "assessment": "direct confrontation",
+      "epistemic": "direct",
+      "fact": "Finesse fights Taskmaster while investigating whether he is her father.",
+      "interpretation": "The fight does not establish that he is her father.",
+      "event_ids": [
+        "ACA30_20261020_E04"
+      ],
+      "scope": "Avengers Academy (2010) #9",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Finesse fights Taskmaster while investigating whether he is her father.",
+      "qualification": "The fight does not establish that he is her father."
+    },
+    {
+      "id": "ACA30_20261020_C06",
+      "pair_id": "finesse-pietro",
+      "from_id": "finesse",
+      "to_id": "pietro",
+      "dimension": "coercion",
+      "assessment": "blackmail for training",
+      "epistemic": "direct",
+      "fact": "Finesse uses Quicksilver’s concealed past to compel him to teach her.",
+      "interpretation": "Initial training consent is compromised; later relationship must be separately evaluated.",
+      "event_ids": [
+        "ACA30_20261020_E05"
+      ],
+      "scope": "Avengers Academy (2010), early academy through #39",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Finesse uses Quicksilver’s concealed past to compel him to teach her.",
+      "qualification": "Initial training consent is compromised; later relationship must be separately evaluated."
+    },
+    {
+      "id": "ACA30_20261020_C07",
+      "pair_id": "finesse-pietro",
+      "from_id": "pietro",
+      "to_id": "finesse",
+      "dimension": "mentorship",
+      "assessment": "later voluntary instruction",
+      "epistemic": "qualified",
+      "fact": "Quicksilver instructs Finesse, and she later says she wants to emulate him.",
+      "interpretation": "The subsequent mentor role is distinct from its coercive beginning.",
+      "event_ids": [
+        "ACA30_20261020_E05"
+      ],
+      "scope": "Avengers Academy (2010), early academy through #39",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Quicksilver instructs Finesse, and she later says she wants to emulate him.",
+      "qualification": "The subsequent mentor role is distinct from its coercive beginning."
+    },
+    {
+      "id": "ACA30_20261020_C08",
+      "pair_id": "hood-tigra",
+      "from_id": "hood",
+      "to_id": "tigra",
+      "dimension": "conflict",
+      "assessment": "violent victimization",
+      "epistemic": "direct",
+      "fact": "The Hood beats and humiliates Tigra; the recording is later circulated.",
+      "interpretation": "A specific attack; no inference of mutual personal hatred.",
+      "event_ids": [
+        "ACA30_20261020_E06"
+      ],
+      "scope": "Before Avengers Academy (2010) #8; retaliation in #8",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "The Hood beats and humiliates Tigra; the recording is later circulated.",
+      "qualification": "A specific attack; no inference of mutual personal hatred."
+    },
+    {
+      "id": "ACA30_20261020_C09",
+      "pair_id": "hood-striker",
+      "from_id": "striker",
+      "to_id": "hood",
+      "dimension": "conflict",
+      "assessment": "retaliatory assault",
+      "epistemic": "direct",
+      "fact": "Striker participates in beating the Hood after the video of Tigra’s abuse appears.",
+      "interpretation": "Retaliation does not establish lawful justice or enduring enmity.",
+      "event_ids": [
+        "ACA30_20261020_E07"
+      ],
+      "scope": "Avengers Academy (2010) #8–9",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Striker participates in beating the Hood after the video of Tigra’s abuse appears.",
+      "qualification": "Retaliation does not establish lawful justice or enduring enmity."
+    },
+    {
+      "id": "ACA30_20261020_C10",
+      "pair_id": "hood-veil",
+      "from_id": "veil",
+      "to_id": "hood",
+      "dimension": "conflict",
+      "assessment": "retaliatory assault",
+      "epistemic": "direct",
+      "fact": "Veil participates in the attack on the Hood.",
+      "interpretation": "One coordinated assault, not an independently proven longstanding feud.",
+      "event_ids": [
+        "ACA30_20261020_E08"
+      ],
+      "scope": "Avengers Academy (2010) #8–9",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Veil participates in the attack on the Hood.",
+      "qualification": "One coordinated assault, not an independently proven longstanding feud."
+    },
+    {
+      "id": "ACA30_20261020_C11",
+      "pair_id": "hazmat-hood",
+      "from_id": "hazmat",
+      "to_id": "hood",
+      "dimension": "conflict",
+      "assessment": "retaliatory assault",
+      "epistemic": "direct",
+      "fact": "Hazmat participates in the attack on the Hood.",
+      "interpretation": "Her action does not prove Tigra authorized it.",
+      "event_ids": [
+        "ACA30_20261020_E09"
+      ],
+      "scope": "Avengers Academy (2010) #8–9",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Hazmat participates in the attack on the Hood.",
+      "qualification": "Her action does not prove Tigra authorized it."
+    },
+    {
+      "id": "ACA30_20261020_C12",
+      "pair_id": "striker-tigra",
+      "from_id": "tigra",
+      "to_id": "striker",
+      "dimension": "authority",
+      "assessment": "disciplinary expulsion",
+      "epistemic": "direct",
+      "fact": "Tigra expels Striker after the attack; the decision is subsequently softened.",
+      "interpretation": "Institutional discipline, not a permanent personal break.",
+      "event_ids": [
+        "ACA30_20261020_E10"
+      ],
+      "scope": "Avengers Academy (2010) #8–9",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Tigra expels Striker after the attack; the decision is subsequently softened.",
+      "qualification": "Institutional discipline, not a permanent personal break."
+    },
+    {
+      "id": "ACA30_20261020_C13",
+      "pair_id": "jeremy_briggs-jocasta",
+      "from_id": "jeremy_briggs",
+      "to_id": "jocasta",
+      "dimension": "cooperation",
+      "assessment": "temporary covert alliance",
+      "epistemic": "direct",
+      "fact": "Briggs gains Jocasta’s secret cooperation in opposing the Academy’s continuation.",
+      "interpretation": "Jocasta’s later action against his missile plan limits any inference of durable loyalty.",
+      "event_ids": [
+        "ACA30_20261020_E11"
+      ],
+      "scope": "Avengers Academy (2010) #21–39, Final Exam",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Briggs gains Jocasta’s secret cooperation in opposing the Academy’s continuation.",
+      "qualification": "Jocasta’s later action against his missile plan limits any inference of durable loyalty."
+    },
+    {
+      "id": "ACA30_20261020_C14",
+      "pair_id": "hazmat-norman",
+      "from_id": "hazmat",
+      "to_id": "norman",
+      "dimension": "conflict",
+      "assessment": "confrontation without revenge attack",
+      "epistemic": "direct",
+      "fact": "Hazmat confronts Osborn about past experimentation but declines to hurt him.",
+      "interpretation": "Her participation in the group confrontation is established; private forgiveness is not.",
+      "event_ids": [
+        "ACA30_20261020_E12"
+      ],
+      "scope": "Avengers Academy (2010) #3–4, Raft visit",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Hazmat confronts Osborn about past experimentation but declines to hurt him.",
+      "qualification": "Her participation in the group confrontation is established; private forgiveness is not."
+    },
+    {
+      "id": "ACA30_20261020_C15",
+      "pair_id": "mentallo-reptil",
+      "from_id": "reptil",
+      "to_id": "mentallo",
+      "dimension": "conflict",
+      "assessment": "event-scoped physical combat",
+      "epistemic": "direct",
+      "fact": "Reptil injures Mentallo after the latter mind-controls other students.",
+      "interpretation": "The dinosaur form was also beyond Reptil’s own full control.",
+      "event_ids": [
+        "ACA30_20261020_E13"
+      ],
+      "scope": "Avengers Academy (2010), first Academy mission",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Reptil injures Mentallo after the latter mind-controls other students.",
+      "qualification": "The dinosaur form was also beyond Reptil’s own full control."
+    },
+    {
+      "id": "ACA30_20261020_C16",
+      "pair_id": "carol-mettle",
+      "from_id": "carol",
+      "to_id": "mettle",
+      "dimension": "protection",
+      "assessment": "trauma-sensitive support",
+      "epistemic": "qualified",
+      "fact": "Carol consoles Mettle and offers him a resident-advisor role after a distressing incident.",
+      "interpretation": "Support is documented; do not infer a lifelong personal mentorship.",
+      "event_ids": [
+        "ACA30_20261020_E14"
+      ],
+      "scope": "Avengers Academy: Marvel’s Voices Infinity Comic (2024–25), later school era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Carol consoles Mettle and offers him a resident-advisor role after a distressing incident.",
+      "qualification": "Support is documented; do not infer a lifelong personal mentorship."
+    },
+    {
+      "id": "ACA30_20261020_C17",
+      "pair_id": "hazmat-moon_girl",
+      "from_id": "hazmat",
+      "to_id": "moon_girl",
+      "dimension": "cooperation",
+      "assessment": "reconciliation after conflict",
+      "epistemic": "direct",
+      "fact": "Hazmat reconciles with Moon Girl and joins her in offering to destroy the robot that upset Mettle.",
+      "interpretation": "The reconciliation is event-scoped; the offered destruction is not carried out.",
+      "event_ids": [
+        "ACA30_20261020_E15"
+      ],
+      "scope": "Avengers Academy: Marvel’s Voices Infinity Comic (2024–25), later school era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Hazmat reconciles with Moon Girl and joins her in offering to destroy the robot that upset Mettle.",
+      "qualification": "The reconciliation is event-scoped; the offered destruction is not carried out."
+    },
+    {
+      "id": "ACA30_20261020_C18",
+      "pair_id": "finesse-jeremy_briggs",
+      "from_id": "finesse",
+      "to_id": "jeremy_briggs",
+      "dimension": "conflict",
+      "assessment": "potentially lethal violence",
+      "epistemic": "direct",
+      "fact": "Finesse wounds Briggs and subsequently removes treatment after his threat.",
+      "interpretation": "Avoid a definitive death claim without reviewing original panels.",
+      "event_ids": [
+        "ACA30_20261020_E16"
+      ],
+      "scope": "Avengers Academy (2010) #35–39, Final Exam",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review",
+      "summary": "Finesse wounds Briggs and subsequently removes treatment after his threat.",
+      "qualification": "Avoid a definitive death claim without reviewing original panels."
+    },
+    {
+      "id": "DARK31_20261020_C01",
+      "from_id": "louise_hastings",
+      "to_id": "jinx_hastings",
+      "dimension": "family",
+      "scope": "Darkhold: Pages from the Book of Sins (1992) #9",
+      "fact": "Louise is Jinx’s grandmother.",
+      "interpretation": "The issue synopsis gives kinship, not emotional closeness.",
+      "event_ids": [
+        "DARK31_20261020_E01"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "jinx_hastings-louise_hastings",
+      "assessment": "Louise is Jinx’s grandmother.",
+      "summary": "Louise is Jinx’s grandmother.",
+      "qualification": "The issue synopsis gives kinship, not emotional closeness.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C02",
+      "from_id": "jinx_hastings",
+      "to_id": "victoria_montesi",
+      "dimension": "cooperation",
+      "scope": "Darkhold: Pages from the Book of Sins (1992) #9",
+      "fact": "Jinx lends occult expertise to Victoria.",
+      "interpretation": "Event-scoped practical help.",
+      "event_ids": [
+        "DARK31_20261020_E02"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "jinx_hastings-victoria_montesi",
+      "assessment": "Jinx lends occult expertise to Victoria.",
+      "summary": "Jinx lends occult expertise to Victoria.",
+      "qualification": "Event-scoped practical help.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C03",
+      "from_id": "modred_mystic",
+      "to_id": "strange",
+      "dimension": "conflict",
+      "scope": "Darkhold: Pages from the Book of Sins (1992) #6",
+      "fact": "Modred duels Doctor Strange.",
+      "interpretation": "The duel does not establish an enduring enemy status.",
+      "event_ids": [
+        "DARK31_20261020_E03"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "modred_mystic-strange",
+      "assessment": "Modred duels Doctor Strange.",
+      "summary": "Modred duels Doctor Strange.",
+      "qualification": "The duel does not establish an enduring enemy status.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C04",
+      "from_id": "morbius",
+      "to_id": "louise_hastings",
+      "dimension": "conflict",
+      "scope": "Siege of Darkness / Midnight Sons Lilin conflict (1993–1994); exact issue unresolved",
+      "fact": "Morbius kills Louise while under Lilin influence.",
+      "interpretation": "A lethal act with compromised agency, not proof of chosen hostility.",
+      "event_ids": [
+        "DARK31_20261020_E04"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "louise_hastings-morbius",
+      "assessment": "Morbius kills Louise while under Lilin influence.",
+      "summary": "Morbius kills Louise while under Lilin influence.",
+      "qualification": "A lethal act with compromised agency, not proof of chosen hostility.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C05",
+      "from_id": "emil_nikos",
+      "to_id": "morbius",
+      "dimension": "friendship",
+      "scope": "Pre-transformation scientific partnership; retold in Morbius: Bond of Blood (2021) #1",
+      "fact": "Emil and Michael are childhood friends and research partners.",
+      "interpretation": "Shared work supplements, rather than substitutes for, the documented friendship.",
+      "event_ids": [
+        "DARK31_20261020_E05"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "emil_nikos-morbius",
+      "assessment": "Emil and Michael are childhood friends and research partners.",
+      "summary": "Emil and Michael are childhood friends and research partners.",
+      "qualification": "Shared work supplements, rather than substitutes for, the documented friendship.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C06",
+      "from_id": "morbius",
+      "to_id": "emil_nikos",
+      "dimension": "conflict",
+      "scope": "Amazing Spider-Man (1963) #101–102 origin era; retold in Morbius: Bond of Blood (2021) #1",
+      "fact": "Michael kills Emil in his first uncontrolled vampiric attack.",
+      "interpretation": "Not evidence of intentional betrayal before the transformation.",
+      "event_ids": [
+        "DARK31_20261020_E06"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "emil_nikos-morbius",
+      "assessment": "Michael kills Emil in his first uncontrolled vampiric attack.",
+      "summary": "Michael kills Emil in his first uncontrolled vampiric attack.",
+      "qualification": "Not evidence of intentional betrayal before the transformation.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C07",
+      "from_id": "baron_blood_falsworth",
+      "to_id": "emil_nikos",
+      "dimension": "coercion",
+      "scope": "After Emil’s initial death; pre-Midnight Sons era (exact issue unverified)",
+      "fact": "John Falsworth vampirizes Emil.",
+      "interpretation": "The transformation is documented, but consent is not established.",
+      "event_ids": [
+        "DARK31_20261020_E07"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "baron_blood_falsworth-emil_nikos",
+      "assessment": "John Falsworth vampirizes Emil.",
+      "summary": "John Falsworth vampirizes Emil.",
+      "qualification": "The transformation is documented, but consent is not established.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C08",
+      "from_id": "morbius",
+      "to_id": "martine_bancroft",
+      "dimension": "romance",
+      "scope": "Pre-transformation origin through early Morbius era",
+      "fact": "Michael and Martine are engaged before the transformation.",
+      "interpretation": "Historical relationship, not perpetual engagement.",
+      "event_ids": [
+        "DARK31_20261020_E08"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "martine_bancroft-morbius",
+      "assessment": "Michael and Martine are engaged before the transformation.",
+      "summary": "Michael and Martine are engaged before the transformation.",
+      "qualification": "Historical relationship, not perpetual engagement.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C09",
+      "from_id": "morbius",
+      "to_id": "martine_bancroft",
+      "dimension": "protection",
+      "scope": "Pre-transformation origin through early Morbius era",
+      "fact": "Michael leaves Martine because he fears attacking her.",
+      "interpretation": "Protective intention is documented; abandonment may still harm her.",
+      "event_ids": [
+        "DARK31_20261020_E08"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "martine_bancroft-morbius",
+      "assessment": "Michael leaves Martine because he fears attacking her.",
+      "summary": "Michael leaves Martine because he fears attacking her.",
+      "qualification": "Protective intention is documented; abandonment may still harm her.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C10",
+      "from_id": "jack_russell",
+      "to_id": "martine_bancroft",
+      "dimension": "romance",
+      "scope": "Post-Midnight Sons / undead Martine period; exact issue unresolved",
+      "fact": "Jack and undead Martine have an affair.",
+      "interpretation": "Later intimacy does not establish an ongoing partnership.",
+      "event_ids": [
+        "DARK31_20261020_E09"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "jack_russell-martine_bancroft",
+      "assessment": "Jack and undead Martine have an affair.",
+      "summary": "Jack and undead Martine have an affair.",
+      "qualification": "Later intimacy does not establish an ongoing partnership.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C11",
+      "from_id": "morbius",
+      "to_id": "jack_russell",
+      "dimension": "conflict",
+      "scope": "Werewolf by Night / Legion of Monsters early encounters, pre-Midnight Sons",
+      "fact": "Morbius hunts and fights Jack.",
+      "interpretation": "Early hostile conduct; later relationship changes.",
+      "event_ids": [
+        "DARK31_20261020_E10"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "jack_russell-morbius",
+      "assessment": "Morbius hunts and fights Jack.",
+      "summary": "Morbius hunts and fights Jack.",
+      "qualification": "Early hostile conduct; later relationship changes.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C12",
+      "from_id": "jack_russell",
+      "to_id": "morbius",
+      "dimension": "friendship",
+      "scope": "Midnight Sons / post-Switchblade era (1990s)",
+      "fact": "Jack later befriends Morbius.",
+      "interpretation": "Later bond; no inference of forgiveness for each earlier incident.",
+      "event_ids": [
+        "DARK31_20261020_E11"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "jack_russell-morbius",
+      "assessment": "Jack later befriends Morbius.",
+      "summary": "Jack later befriends Morbius.",
+      "qualification": "Later bond; no inference of forgiveness for each earlier incident.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C13",
+      "from_id": "marie_laveau",
+      "to_id": "morbius",
+      "dimension": "conflict",
+      "scope": "Doctor Strange / Marie Laveau vampire-resurrection storyline, pre-Midnight Sons (exact issue unverified)",
+      "fact": "Marie seeks to exploit Morbius’ blood for her own longevity.",
+      "interpretation": "Instrumental exploitation; no threat or physical coercion is independently established.",
+      "event_ids": [
+        "DARK31_20261020_E12"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "marie_laveau-morbius",
+      "assessment": "Marie seeks to exploit Morbius’ blood for her own longevity.",
+      "summary": "Marie seeks to exploit Morbius’ blood for her own longevity.",
+      "qualification": "Instrumental exploitation; no threat or physical coercion is independently established.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C14",
+      "from_id": "marie_laveau",
+      "to_id": "victor_strange",
+      "dimension": "influence",
+      "scope": "Doctor Strange / Marie Laveau vampire-resurrection storyline (exact issue unverified)",
+      "fact": "Marie brings about Victor’s vampiric transformation.",
+      "interpretation": "Causation documented; Victor’s agency remains unclear.",
+      "event_ids": [
+        "DARK31_20261020_E13"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "marie_laveau-victor_strange",
+      "assessment": "Marie brings about Victor’s vampiric transformation.",
+      "summary": "Marie brings about Victor’s vampiric transformation.",
+      "qualification": "Causation documented; Victor’s agency remains unclear.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C15",
+      "from_id": "strange",
+      "to_id": "victor_strange",
+      "dimension": "family",
+      "scope": "Doctor Strange / Marie Laveau vampire-resurrection storyline",
+      "fact": "Stephen discovers his long-lost brother Victor is a vampire.",
+      "interpretation": "Biological relationship does not imply current closeness.",
+      "event_ids": [
+        "DARK31_20261020_E14"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "strange-victor_strange",
+      "assessment": "Stephen discovers his long-lost brother Victor is a vampire.",
+      "summary": "Stephen discovers his long-lost brother Victor is a vampire.",
+      "qualification": "Biological relationship does not imply current closeness.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C16",
+      "from_id": "strange",
+      "to_id": "morbius",
+      "dimension": "protection",
+      "scope": "Siege of Darkness / Midnight Sons Lilin conflict (1993–1994)",
+      "fact": "Strange helps Morbius fight Lilin possession.",
+      "interpretation": "Event-scoped rescue, not blanket endorsement.",
+      "event_ids": [
+        "DARK31_20261020_E15"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "morbius-strange",
+      "assessment": "Strange helps Morbius fight Lilin possession.",
+      "summary": "Strange helps Morbius fight Lilin possession.",
+      "qualification": "Event-scoped rescue, not blanket endorsement.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C17",
+      "from_id": "louise_hastings",
+      "to_id": "jack_russell",
+      "dimension": "protection",
+      "scope": "Midnight Sons / Switchblade Darkhold spell incident (1990s)",
+      "fact": "Louise breaks the spell and revives Jack.",
+      "interpretation": "A specific intervention rather than ongoing obligation.",
+      "event_ids": [
+        "DARK31_20261020_E16"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "jack_russell-louise_hastings",
+      "assessment": "Louise breaks the spell and revives Jack.",
+      "summary": "Louise breaks the spell and revives Jack.",
+      "qualification": "A specific intervention rather than ongoing obligation.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C18",
+      "from_id": "morbius",
+      "to_id": "frank",
+      "dimension": "protection",
+      "scope": "Punisher (2009) #11 onward / Franken-Castle storyline",
+      "fact": "Morbius restores Frank’s body after Daken’s attack and later uses the Bloodstone.",
+      "interpretation": "Life-saving action, not evidence of trust or consent.",
+      "event_ids": [
+        "DARK31_20261020_E17"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "frank-morbius",
+      "assessment": "Morbius restores Frank’s body after Daken’s attack and later uses the Bloodstone.",
+      "summary": "Morbius restores Frank’s body after Daken’s attack and later uses the Bloodstone.",
+      "qualification": "Life-saving action, not evidence of trust or consent.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "DARK31_20261020_C19",
+      "from_id": "frank",
+      "to_id": "morbius",
+      "dimension": "protection",
+      "scope": "Punisher (2009) #11 onward / Franken-Castle storyline",
+      "fact": "Frank attacks Hellsgaard’s compound to rescue Morbius.",
+      "interpretation": "Reciprocal protection in a separate encounter, not proof of friendship.",
+      "event_ids": [
+        "DARK31_20261020_E17"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed",
+      "pair_id": "frank-morbius",
+      "assessment": "Frank attacks Hellsgaard’s compound to rescue Morbius.",
+      "summary": "Frank attacks Hellsgaard’s compound to rescue Morbius.",
+      "qualification": "Reciprocal protection in a separate encounter, not proof of friendship.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C01",
+      "from_id": "fen",
+      "to_id": "leonard_mckenzie",
+      "dimension": "romance",
+      "event_ids": [
+        "ATL32_E01"
+      ],
+      "fact": "Fen falls in love with and marries Leonard.",
+      "interpretation": "The marriage crosses the undersea/surface political divide.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "fen-leonard_mckenzie",
+      "assessment": "Fen falls in love with and marries Leonard.",
+      "summary": "Fen falls in love with and marries Leonard.",
+      "qualification": "The marriage crosses the undersea/surface political divide.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C02",
+      "from_id": "leonard_mckenzie",
+      "to_id": "fen",
+      "dimension": "romance",
+      "event_ids": [
+        "ATL32_E01"
+      ],
+      "fact": "Leonard and Fen marry and become Namor's parents.",
+      "interpretation": "Reciprocal marital status is documented; private motivations are not.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "fen-leonard_mckenzie",
+      "assessment": "Leonard and Fen marry and become Namor's parents.",
+      "summary": "Leonard and Fen marry and become Namor's parents.",
+      "qualification": "Reciprocal marital status is documented; private motivations are not.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C03",
+      "from_id": "fen",
+      "to_id": "namor",
+      "dimension": "family",
+      "event_ids": [
+        "ATL32_E02"
+      ],
+      "fact": "Fen is Namor's mother; they take opposing sides concerning a wartime Nazi alliance.",
+      "interpretation": "Kinship does not establish political agreement; no private argument is documented.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "fen-namor",
+      "assessment": "Fen is Namor's mother; they take opposing sides concerning a wartime Nazi alliance.",
+      "summary": "Fen is Namor's mother; they take opposing sides concerning a wartime Nazi alliance.",
+      "qualification": "Kinship does not establish political agreement; no private argument is documented.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C04",
+      "from_id": "thakorr",
+      "to_id": "fen",
+      "dimension": "family",
+      "event_ids": [
+        "ATL32_E03"
+      ],
+      "fact": "Thakorr is Fen's father and intended to investigate the surface crisis before she went herself.",
+      "interpretation": "Different actions do not prove a personal rupture.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "fen-thakorr",
+      "assessment": "Thakorr is Fen's father and intended to investigate the surface crisis before she went herself.",
+      "summary": "Thakorr is Fen's father and intended to investigate the surface crisis before she went herself.",
+      "qualification": "Different actions do not prove a personal rupture.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C05",
+      "from_id": "namora",
+      "to_id": "namor",
+      "dimension": "cooperation",
+      "event_ids": [
+        "ATL32_E04"
+      ],
+      "fact": "Namora joins Namor against Stomp Richards's gang and subsequently partners with him.",
+      "interpretation": "Their later political disagreement does not erase this earlier cooperation.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "namor-namora",
+      "assessment": "Namora joins Namor against Stomp Richards's gang and subsequently partners with him.",
+      "summary": "Namora joins Namor against Stomp Richards's gang and subsequently partners with him.",
+      "qualification": "Their later political disagreement does not erase this earlier cooperation.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C06",
+      "from_id": "namora",
+      "to_id": "namor",
+      "dimension": "romance",
+      "event_ids": [
+        "ATL32_E05"
+      ],
+      "fact": "Namora and Namor acknowledge attraction and consider marriage, then abandon the plan.",
+      "interpretation": "Tulem's manipulation creates uncertainty about how freely their attraction developed.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "namor-namora",
+      "assessment": "Namora and Namor acknowledge attraction and consider marriage, then abandon the plan.",
+      "summary": "Namora and Namor acknowledge attraction and consider marriage, then abandon the plan.",
+      "qualification": "Tulem's manipulation creates uncertainty about how freely their attraction developed.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C07",
+      "from_id": "namora",
+      "to_id": "namor",
+      "dimension": "conflict",
+      "event_ids": [
+        "ATL32_E06"
+      ],
+      "fact": "Namora leads resistance against Namor's authoritarian course during Secret Empire.",
+      "interpretation": "Event-scoped political opposition; not permanent hatred.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "namor-namora",
+      "assessment": "Namora leads resistance against Namor's authoritarian course during Secret Empire.",
+      "summary": "Namora leads resistance against Namor's authoritarian course during Secret Empire.",
+      "qualification": "Event-scoped political opposition; not permanent hatred.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C08",
+      "from_id": "namor",
+      "to_id": "namora",
+      "dimension": "coercion",
+      "event_ids": [
+        "ATL32_E06"
+      ],
+      "fact": "Namor captures Namora and nearly executes her before relenting.",
+      "interpretation": "The coercive act coexists with their prior partnership and attraction.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "namor-namora",
+      "assessment": "Namor captures Namora and nearly executes her before relenting.",
+      "summary": "Namor captures Namora and nearly executes her before relenting.",
+      "qualification": "The coercive act coexists with their prior partnership and attraction.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C09",
+      "from_id": "namora",
+      "to_id": "namorita",
+      "dimension": "family",
+      "event_ids": [
+        "ATL32_E07"
+      ],
+      "fact": "Namorita is Namora's clone-daughter and was raised under her care.",
+      "interpretation": "Clone-derived kinship is not ordinary biological parentage; do not merge identities.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "namora-namorita",
+      "assessment": "Namorita is Namora's clone-daughter and was raised under her care.",
+      "summary": "Namorita is Namora's clone-daughter and was raised under her care.",
+      "qualification": "Clone-derived kinship is not ordinary biological parentage; do not merge identities.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C10",
+      "from_id": "llyra",
+      "to_id": "namora",
+      "dimension": "conflict",
+      "event_ids": [
+        "ATL32_E08"
+      ],
+      "fact": "Llyra poisons Namora during rivalry over Prince Merro.",
+      "interpretation": "The attack produces suspended animation rather than confirmed permanent death.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "llyra-namora",
+      "assessment": "Llyra poisons Namora during rivalry over Prince Merro.",
+      "summary": "Llyra poisons Namora during rivalry over Prince Merro.",
+      "qualification": "The attack produces suspended animation rather than confirmed permanent death.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C11",
+      "from_id": "namor",
+      "to_id": "dorma",
+      "dimension": "romance",
+      "event_ids": [
+        "ATL32_E09"
+      ],
+      "fact": "Namor and Dorma are long-standing lovers and intend to marry.",
+      "interpretation": "Legal status of the interrupted wedding is inconsistently summarized by Marvel.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "dorma-namor",
+      "assessment": "Namor and Dorma are long-standing lovers and intend to marry.",
+      "summary": "Namor and Dorma are long-standing lovers and intend to marry.",
+      "qualification": "Legal status of the interrupted wedding is inconsistently summarized by Marvel.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C12",
+      "from_id": "llyra",
+      "to_id": "dorma",
+      "dimension": "conflict",
+      "event_ids": [
+        "ATL32_E10"
+      ],
+      "fact": "Llyra impersonates Dorma and subsequently kills her.",
+      "interpretation": "A documented lethal act; specific internal motives need original panels.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "dorma-llyra",
+      "assessment": "Llyra impersonates Dorma and subsequently kills her.",
+      "summary": "Llyra impersonates Dorma and subsequently kills her.",
+      "qualification": "A documented lethal act; specific internal motives need original panels.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C13",
+      "from_id": "krang",
+      "to_id": "dorma",
+      "dimension": "romance",
+      "event_ids": [
+        "ATL32_E11"
+      ],
+      "fact": "Krang and Dorma begin a relationship while Namor is absent; it ends when he returns.",
+      "interpretation": "Historical relationship; not evidence of ongoing affection or coercion.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "dorma-krang",
+      "assessment": "Krang and Dorma begin a relationship while Namor is absent; it ends when he returns.",
+      "summary": "Krang and Dorma begin a relationship while Namor is absent; it ends when he returns.",
+      "qualification": "Historical relationship; not evidence of ongoing affection or coercion.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C14",
+      "from_id": "krang",
+      "to_id": "namor",
+      "dimension": "conflict",
+      "event_ids": [
+        "ATL32_E12"
+      ],
+      "fact": "Krang attempts to depose Namor and later conspires with other challengers.",
+      "interpretation": "Political competition is documented; personal hatred is not required.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "krang-namor",
+      "assessment": "Krang attempts to depose Namor and later conspires with other challengers.",
+      "summary": "Krang attempts to depose Namor and later conspires with other challengers.",
+      "qualification": "Political competition is documented; personal hatred is not required.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C15",
+      "from_id": "byrrah",
+      "to_id": "namor",
+      "dimension": "conflict",
+      "event_ids": [
+        "ATL32_E13"
+      ],
+      "fact": "Byrrah agitates against Namor's restraint and seeks/occupies the Atlantean throne.",
+      "interpretation": "Cousinship and succession rivalry coexist; precise historical retellings vary.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "byrrah-namor",
+      "assessment": "Byrrah agitates against Namor's restraint and seeks/occupies the Atlantean throne.",
+      "summary": "Byrrah agitates against Namor's restraint and seeks/occupies the Atlantean throne.",
+      "qualification": "Cousinship and succession rivalry coexist; precise historical retellings vary.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C16",
+      "from_id": "attuma",
+      "to_id": "namor",
+      "dimension": "conflict",
+      "event_ids": [
+        "ATL32_E14"
+      ],
+      "fact": "Attuma repeatedly seizes or attempts to seize Namor's throne.",
+      "interpretation": "An enduring political rivalry, not evidence every encounter is hostile.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "attuma-namor",
+      "assessment": "Attuma repeatedly seizes or attempts to seize Namor's throne.",
+      "summary": "Attuma repeatedly seizes or attempts to seize Namor's throne.",
+      "qualification": "An enduring political rivalry, not evidence every encounter is hostile.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C17",
+      "from_id": "namor",
+      "to_id": "attuma",
+      "dimension": "cooperation",
+      "event_ids": [
+        "ATL32_E15"
+      ],
+      "fact": "Namor and Attuma join Dorma in an attempt to save Atlantis from the Dark Tide.",
+      "interpretation": "Specific cooperation despite previous and later rivalry.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "attuma-namor",
+      "assessment": "Namor and Attuma join Dorma in an attempt to save Atlantis from the Dark Tide.",
+      "summary": "Namor and Attuma join Dorma in an attempt to save Atlantis from the Dark Tide.",
+      "qualification": "Specific cooperation despite previous and later rivalry.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C18",
+      "from_id": "attuma",
+      "to_id": "andromeda",
+      "dimension": "family",
+      "event_ids": [
+        "ATL32_E16"
+      ],
+      "fact": "Andromeda is Attuma's daughter and later serves with the Defenders and Namor's council.",
+      "interpretation": "Different affiliations do not by themselves prove a father-daughter feud.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "andromeda-attuma",
+      "assessment": "Andromeda is Attuma's daughter and later serves with the Defenders and Namor's council.",
+      "summary": "Andromeda is Attuma's daughter and later serves with the Defenders and Namor's council.",
+      "qualification": "Different affiliations do not by themselves prove a father-daughter feud.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C19",
+      "from_id": "namor",
+      "to_id": "marrina",
+      "dimension": "romance",
+      "event_ids": [
+        "ATL32_E17"
+      ],
+      "fact": "Namor and Marrina marry; he later strikes her down when she transforms into Leviathan.",
+      "interpretation": "Marriage and later lethal force must be chronologically distinguished; survival status is unsettled.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "marrina-namor",
+      "assessment": "Namor and Marrina marry; he later strikes her down when she transforms into Leviathan.",
+      "summary": "Namor and Marrina marry; he later strikes her down when she transforms into Leviathan.",
+      "qualification": "Marriage and later lethal force must be chronologically distinguished; survival status is unsettled.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
+    },
+    {
+      "id": "ATL32_C20",
+      "from_id": "attuma",
+      "to_id": "marrina",
+      "dimension": "coercion",
+      "event_ids": [
+        "ATL32_E18"
+      ],
+      "fact": "Attuma abducts Marrina, prompting a rescue by Alpha Flight and Avengers.",
+      "interpretation": "Abduction is a direct coercive act, not a voluntary alliance.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "pair_id": "attuma-marrina",
+      "assessment": "Attuma abducts Marrina, prompting a rescue by Alpha Flight and Avengers.",
+      "summary": "Attuma abducts Marrina, prompting a rescue by Alpha Flight and Avengers.",
+      "qualification": "Abduction is a direct coercive act, not a voluntary alliance.",
+      "scope": "See linked event",
+      "review_status": "Provisional publisher-secondary; original panels not reviewed"
     }
   ],
   "research_backlog": [
