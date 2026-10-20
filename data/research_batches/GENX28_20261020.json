@@ -1,0 +1,525 @@
+{
+  "batch_id": "GENX28_20261020",
+  "status": "UNCOMMITTED / awaiting periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "community": "Generation X / Cassidy family / youth education / mutant rescue",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "people": 238,
+    "events": 352,
+    "claims": 422,
+    "checked": "2026-10-20"
+  },
+  "people": [
+    {
+      "id": "jubilee",
+      "name": "Jubilation Lee",
+      "alias": "Jubilee"
+    },
+    {
+      "id": "chamber",
+      "name": "Jonothon Starsmore",
+      "alias": "Chamber"
+    },
+    {
+      "id": "husk",
+      "name": "Paige Guthrie",
+      "alias": "Husk"
+    },
+    {
+      "id": "monet",
+      "name": "Monet St. Croix",
+      "alias": "M"
+    },
+    {
+      "id": "emplate",
+      "name": "Marius St. Croix",
+      "alias": "Emplate"
+    },
+    {
+      "id": "synch",
+      "name": "Everett Thomas",
+      "alias": "Synch"
+    },
+    {
+      "id": "shogo",
+      "name": "Shogo Lee"
+    },
+    {
+      "id": "theresa_cassidy",
+      "name": "Theresa Rourke Cassidy",
+      "alias": "Siryn"
+    },
+    {
+      "id": "black_tom",
+      "name": "Thomas Cassidy",
+      "alias": "Black Tom Cassidy"
+    },
+    {
+      "id": "maeve_rourke",
+      "name": "Maeve Rourke Cassidy"
+    },
+    {
+      "id": "adrienne_frost",
+      "name": "Adrienne Frost"
+    }
+  ],
+  "reused_canonical_ids": [
+    "banshee",
+    "emma",
+    "rogue"
+  ],
+  "sources": [
+    {
+      "id": "GENX28_20261020_S01",
+      "title": "Banshee — Marvel in-comics biography",
+      "url": "https://www.marvel.com/characters/banshee",
+      "tier": "publisher_biography"
+    },
+    {
+      "id": "GENX28_20261020_S02",
+      "title": "Emma Frost — Marvel in-comics biography",
+      "url": "https://www.marvel.com/characters/emma-frost",
+      "tier": "publisher_biography"
+    },
+    {
+      "id": "GENX28_20261020_S03",
+      "title": "Generation X (1994) #10",
+      "url": "https://www.marvel.com/comics/issue/22736/generation_x_1994_10",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "GENX28_20261020_S04",
+      "title": "Generation X (1994) #23",
+      "url": "https://www.marvel.com/comics/issue/22750/read",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "GENX28_20261020_S05",
+      "title": "Generation X Vol. 2: Survival of the Fittest",
+      "url": "https://www.marvel.com/comics/collection/66565/generation_x_vol_2_survival_of_the_fittest_trade_paperback",
+      "tier": "publisher_collection"
+    },
+    {
+      "id": "GENX28_20261020_S06",
+      "title": "Jubilee — Marvel reading guide",
+      "url": "https://www.marvel.com/comics/discover/740/jubilee",
+      "tier": "publisher_editorial"
+    },
+    {
+      "id": "GENX28_20261020_S07",
+      "title": "Gambit — Marvel in-comics biography",
+      "url": "https://www.marvel.com/characters/gambit",
+      "tier": "publisher_biography"
+    },
+    {
+      "id": "GENX28_20261020_S08",
+      "title": "Generation X Epic Collection: Back to School",
+      "url": "https://www.marvel.com/comics/collection/93799/generation_x_epic_collection_back_to_school_trade_paperback",
+      "tier": "publisher_collection"
+    },
+    {
+      "id": "GENX28_20261020_S09",
+      "title": "Generation X Epic Collection: Pride and Penance",
+      "url": "https://www.marvel.com/comics/collection/111612/generation_x_epic_collection_pride_and_penance_2024_1",
+      "tier": "publisher_collection"
+    }
+  ],
+  "events": [
+    {
+      "id": "GENX28_20261020_E01",
+      "a": "banshee",
+      "b": "jubilee",
+      "scope": "Phalanx Covenant; Generation X formation (1994)",
+      "observation": "Sean worries about Jubilee being unsupervised and helps rescue young mutants from the Phalanx.",
+      "source_id": "GENX28_20261020_S01"
+    },
+    {
+      "id": "GENX28_20261020_E02",
+      "a": "banshee",
+      "b": "black_tom",
+      "scope": "Cassidy family backstory; early X-Men encounters",
+      "observation": "Tom contests Sean over Cassidy Keep and later fights him with Juggernaut.",
+      "source_id": "GENX28_20261020_S01"
+    },
+    {
+      "id": "GENX28_20261020_E03",
+      "a": "maeve_rourke",
+      "b": "banshee",
+      "scope": "Cassidy family pre-X-Men backstory",
+      "observation": "Maeve stops to help Sean escape police harassment on her motorcycle; Sean saves them both after the chase drives them off a cliff. They later marry.",
+      "source_id": "GENX28_20261020_S01"
+    },
+    {
+      "id": "GENX28_20261020_E04",
+      "a": "black_tom",
+      "b": "maeve_rourke",
+      "scope": "Cassidy family courtship backstory",
+      "observation": "Tom courts Maeve, but after she chooses Sean he tells her the truth about Sean’s injury and steps aside; Maeve calls him her dear friend.",
+      "source_id": "GENX28_20261020_S01"
+    },
+    {
+      "id": "GENX28_20261020_E05",
+      "a": "black_tom",
+      "b": "theresa_cassidy",
+      "scope": "Theresa’s infancy through early Siryn stories",
+      "observation": "Tom raises Theresa after Maeve’s death and conceals her survival and parentage from Sean.",
+      "source_id": "GENX28_20261020_S01"
+    },
+    {
+      "id": "GENX28_20261020_E06",
+      "a": "banshee",
+      "b": "theresa_cassidy",
+      "scope": "Uncanny X-Men (1981) #148 reunion era; later testament",
+      "observation": "Sean and Theresa discover their parent-child relationship after Tom reveals it. Sean later leaves her Cassidy Keep in his will.",
+      "source_id": "GENX28_20261020_S01"
+    },
+    {
+      "id": "GENX28_20261020_E07",
+      "a": "chamber",
+      "b": "husk",
+      "scope": "Generation X (1994) #23",
+      "observation": "The publisher synopsis describes Chamber as troubled by his relationship with Paige during a Thanksgiving story.",
+      "source_id": "GENX28_20261020_S04"
+    },
+    {
+      "id": "GENX28_20261020_E08",
+      "a": "emplate",
+      "b": "monet",
+      "scope": "Generation X (1994) #33–47 backstory; Generation X (2017) #85–87",
+      "observation": "Monet’s brother Emplate is linked to her Penance ordeal; in the later series she merges with him and suffers his vampiric hunger.",
+      "source_id": "GENX28_20261020_S05",
+      "additional_source_ids": [
+        "GENX28_20261020_S09"
+      ]
+    },
+    {
+      "id": "GENX28_20261020_E09",
+      "a": "jubilee",
+      "b": "monet",
+      "scope": "Generation X (2017) #85–87",
+      "observation": "Jubilee, Chamber and Husk seek to save Monet from the consequences of her merger with Emplate; the collection synopsis asks whether they can succeed.",
+      "source_id": "GENX28_20261020_S05"
+    },
+    {
+      "id": "GENX28_20261020_E10",
+      "a": "husk",
+      "b": "monet",
+      "scope": "Generation X (2017) #85–87",
+      "observation": "Husk returns for a reunion and joins Jubilee and Chamber in the effort to save Monet.",
+      "source_id": "GENX28_20261020_S05"
+    },
+    {
+      "id": "GENX28_20261020_E11",
+      "a": "adrienne_frost",
+      "b": "synch",
+      "scope": "Generation X (1994), late school-bombing arc; exact issue to verify",
+      "observation": "Adrienne incites a riot and plants bombs at the Massachusetts Academy; Synch dies in the bombing.",
+      "source_id": "GENX28_20261020_S02"
+    },
+    {
+      "id": "GENX28_20261020_E12",
+      "a": "emma",
+      "b": "adrienne_frost",
+      "scope": "Generation X (1994), aftermath of Synch’s death",
+      "observation": "After Adrienne’s bombing kills Synch, Emma shoots and kills her sister.",
+      "source_id": "GENX28_20261020_S02"
+    },
+    {
+      "id": "GENX28_20261020_E13",
+      "a": "jubilee",
+      "b": "shogo",
+      "scope": "X-Men (2013) #1 and subsequent adoption",
+      "observation": "Jubilee rescues the infant Shogo amid Arkea-related devastation and subsequently adopts him.",
+      "source_id": "GENX28_20261020_S06"
+    },
+    {
+      "id": "GENX28_20261020_E14",
+      "a": "emplate",
+      "b": "rogue",
+      "scope": "X-Men Legacy (2008) / Utopia-era Emplate encounter; exact issue pending",
+      "observation": "Emplate takes Rogue captive when she attempts to rescue Roxanne Washington (Bling!).",
+      "source_id": "GENX28_20261020_S07"
+    },
+    {
+      "id": "GENX28_20261020_E15",
+      "a": "banshee",
+      "b": "synch",
+      "scope": "Uncanny X-Men (1981) #316–318; X-Men (1991) #36–37, Phalanx Covenant",
+      "observation": "Banshee, Jubilee and Emma undertake the rescue of Synch and other mutant teenagers targeted by the Phalanx.",
+      "source_id": "GENX28_20261020_S08"
+    },
+    {
+      "id": "GENX28_20261020_E16",
+      "a": "emma",
+      "b": "banshee",
+      "scope": "Generation X (1994) #10",
+      "observation": "With Banshee near death, Emma tries to save him.",
+      "source_id": "GENX28_20261020_S03"
+    },
+    {
+      "id": "GENX28_20261020_E17",
+      "a": "emma",
+      "b": "banshee",
+      "scope": "Generation X (1994) co-headmaster years",
+      "observation": "Sean and Emma initially work uneasily, have serious disputes, and gradually establish mutual professional respect.",
+      "source_id": "GENX28_20261020_S01"
+    }
+  ],
+  "claims": [
+    {
+      "id": "GENX28_20261020_C01",
+      "from_id": "banshee",
+      "to_id": "jubilee",
+      "dimension": "protection",
+      "fact": "Sean acts on concern for Jubilee and helps organize a rescue of young mutants.",
+      "interpretation": "The individual protective motive is supported; the Phalanx rescue is a collective effort.",
+      "event_ids": [
+        "GENX28_20261020_E01"
+      ],
+      "epistemic": "qualified"
+    },
+    {
+      "id": "GENX28_20261020_C02",
+      "from_id": "banshee",
+      "to_id": "black_tom",
+      "dimension": "conflict",
+      "fact": "Sean and Tom are rivals and directly oppose each other in fights over the estate and with the X-Men.",
+      "interpretation": "The feud has family, property and criminal dimensions; do not treat all periods identically.",
+      "event_ids": [
+        "GENX28_20261020_E02"
+      ],
+      "epistemic": "documented"
+    },
+    {
+      "id": "GENX28_20261020_C03",
+      "from_id": "black_tom",
+      "to_id": "banshee",
+      "dimension": "conflict",
+      "fact": "Tom competes with Sean for the estate and later fights him.",
+      "interpretation": "Reciprocal hostility is independently documented, not inferred from Sean’s feelings.",
+      "event_ids": [
+        "GENX28_20261020_E02"
+      ],
+      "epistemic": "documented"
+    },
+    {
+      "id": "GENX28_20261020_C04",
+      "from_id": "maeve_rourke",
+      "to_id": "banshee",
+      "dimension": "protection",
+      "fact": "Maeve intervenes to help Sean escape harassment by a police officer.",
+      "interpretation": "A concrete act of assistance before their marriage.",
+      "event_ids": [
+        "GENX28_20261020_E03"
+      ],
+      "epistemic": "documented"
+    },
+    {
+      "id": "GENX28_20261020_C05",
+      "from_id": "banshee",
+      "to_id": "maeve_rourke",
+      "dimension": "romance",
+      "fact": "Sean and Maeve marry after a courtship.",
+      "interpretation": "A historical marriage; Maeve later dies.",
+      "event_ids": [
+        "GENX28_20261020_E03"
+      ],
+      "epistemic": "documented"
+    },
+    {
+      "id": "GENX28_20261020_C06",
+      "from_id": "black_tom",
+      "to_id": "maeve_rourke",
+      "dimension": "affection",
+      "fact": "Tom dates Maeve, then steps aside and tells her the truth about Sean’s injury.",
+      "interpretation": "Maeve ultimately chooses Sean; Tom’s continued affection should not be mistaken for an enduring mutual romance.",
+      "event_ids": [
+        "GENX28_20261020_E04"
+      ],
+      "epistemic": "documented"
+    },
+    {
+      "id": "GENX28_20261020_C07",
+      "from_id": "black_tom",
+      "to_id": "theresa_cassidy",
+      "dimension": "family",
+      "fact": "Tom raises Theresa after Maeve’s death and hides her survival from Sean.",
+      "interpretation": "Caregiving and concealment coexist; adoption is reported by the publisher biography.",
+      "event_ids": [
+        "GENX28_20261020_E05"
+      ],
+      "epistemic": "documented"
+    },
+    {
+      "id": "GENX28_20261020_C08",
+      "from_id": "banshee",
+      "to_id": "theresa_cassidy",
+      "dimension": "family",
+      "fact": "Sean reunites with Theresa and eventually leaves her Cassidy Keep.",
+      "interpretation": "A relationship rediscovered after years of involuntary separation.",
+      "event_ids": [
+        "GENX28_20261020_E06"
+      ],
+      "epistemic": "documented"
+    },
+    {
+      "id": "GENX28_20261020_C09",
+      "from_id": "chamber",
+      "to_id": "husk",
+      "dimension": "affection",
+      "fact": "Marvel describes Chamber as troubled by his relationship with Paige.",
+      "interpretation": "Emotional attachment is plausible but the issue synopsis alone does not establish reciprocal romantic commitment.",
+      "event_ids": [
+        "GENX28_20261020_E07"
+      ],
+      "epistemic": "interpretive"
+    },
+    {
+      "id": "GENX28_20261020_C10",
+      "from_id": "emplate",
+      "to_id": "monet",
+      "dimension": "conflict",
+      "fact": "Monet’s brother is involved in her Penance history and later becomes merged with her, bringing vampiric hunger.",
+      "interpretation": "The 2017 threat is documented; exact responsibility for every earlier transformation requires original-issue review.",
+      "event_ids": [
+        "GENX28_20261020_E08"
+      ],
+      "epistemic": "qualified"
+    },
+    {
+      "id": "GENX28_20261020_C11",
+      "from_id": "jubilee",
+      "to_id": "monet",
+      "dimension": "protection",
+      "fact": "Jubilee participates in an effort to save Monet from Emplate’s curse.",
+      "interpretation": "The collection asks whether the rescue succeeds; record the effort, not an unverified successful rescue.",
+      "event_ids": [
+        "GENX28_20261020_E09"
+      ],
+      "epistemic": "qualified"
+    },
+    {
+      "id": "GENX28_20261020_C12",
+      "from_id": "husk",
+      "to_id": "monet",
+      "dimension": "protection",
+      "fact": "Paige returns and joins an effort to save Monet.",
+      "interpretation": "Event-scoped rescue effort, not proof of permanent intimacy.",
+      "event_ids": [
+        "GENX28_20261020_E10"
+      ],
+      "epistemic": "qualified"
+    },
+    {
+      "id": "GENX28_20261020_C13",
+      "from_id": "adrienne_frost",
+      "to_id": "synch",
+      "dimension": "conflict",
+      "fact": "Adrienne plants bombs that cause Synch’s death.",
+      "interpretation": "Lethal harm is documented; Synch need not have been individually targeted.",
+      "event_ids": [
+        "GENX28_20261020_E11"
+      ],
+      "epistemic": "documented"
+    },
+    {
+      "id": "GENX28_20261020_C14",
+      "from_id": "emma",
+      "to_id": "adrienne_frost",
+      "dimension": "conflict",
+      "fact": "Emma shoots Adrienne after the bombing kills Synch.",
+      "interpretation": "Direct retaliatory violence between sisters; avoid treating the killing as a legal judgment.",
+      "event_ids": [
+        "GENX28_20261020_E12"
+      ],
+      "epistemic": "documented"
+    },
+    {
+      "id": "GENX28_20261020_C15",
+      "from_id": "jubilee",
+      "to_id": "shogo",
+      "dimension": "family",
+      "fact": "Jubilee rescues and adopts Shogo.",
+      "interpretation": "Documented adoptive motherhood, not merely an incidental rescue.",
+      "event_ids": [
+        "GENX28_20261020_E13"
+      ],
+      "epistemic": "documented"
+    },
+    {
+      "id": "GENX28_20261020_C16",
+      "from_id": "emplate",
+      "to_id": "rogue",
+      "dimension": "coercion",
+      "fact": "Emplate takes Rogue captive during her attempt to rescue Bling!.",
+      "interpretation": "A specific abduction; its exact issue number needs checking.",
+      "event_ids": [
+        "GENX28_20261020_E14"
+      ],
+      "epistemic": "documented"
+    },
+    {
+      "id": "GENX28_20261020_C17",
+      "from_id": "banshee",
+      "to_id": "synch",
+      "dimension": "protection",
+      "fact": "Banshee helps rescue Synch from the Phalanx.",
+      "interpretation": "Group rescue supported by Marvel’s collection, not evidence of a unique one-on-one bond.",
+      "event_ids": [
+        "GENX28_20261020_E15"
+      ],
+      "epistemic": "qualified"
+    },
+    {
+      "id": "GENX28_20261020_C18",
+      "from_id": "emma",
+      "to_id": "banshee",
+      "dimension": "protection",
+      "fact": "Emma attempts to save the gravely injured Sean.",
+      "interpretation": "A specific rescue attempt despite their often difficult professional relationship.",
+      "event_ids": [
+        "GENX28_20261020_E16"
+      ],
+      "epistemic": "documented"
+    },
+    {
+      "id": "GENX28_20261020_C19",
+      "from_id": "emma",
+      "to_id": "banshee",
+      "dimension": "conflict",
+      "fact": "Sean and Emma have serious disagreements while jointly running Generation X.",
+      "interpretation": "Their documented disputes coexist with the professional respect they gradually develop; this is a new dimension on an existing canonical pair.",
+      "event_ids": [
+        "GENX28_20261020_E17"
+      ],
+      "epistemic": "documented"
+    }
+  ],
+  "review": {
+    "primary_panels_reviewed": false,
+    "uncertainties": [
+      "Several observations rely on publisher biographies or collection synopses rather than original issue panels.",
+      "Chamber–Husk affection is interpretive; the #23 synopsis confirms relationship tension but not the full romantic chronology.",
+      "The rescue of Monet in 2017 is a documented rescue attempt; outcome not established by the collection synopsis.",
+      "The earlier Monet/Penance/M-Twins identity retcons require a separate primary-source identity audit.",
+      "Adrienne’s bombing and Synch’s death are documented by Marvel but the exact issue number needs confirmation.",
+      "Emplate’s abduction of Rogue needs exact issue placement.",
+      "Cross-batch deduplication against unmerged batches remains pending."
+    ],
+    "committed": 0,
+    "proposed_new_people": 11,
+    "unique_unordered_pairs_including_existing": 16,
+    "new_unordered_pairs_vs_canonical": 15,
+    "directed_assessments": 19,
+    "events": 17,
+    "official_marvel_sources": 9,
+    "canonical_pair_already_present": [
+      "banshee|emma"
+    ],
+    "local_cross_references_validated": true,
+    "canonical_person_collisions": 0,
+    "canonical_existing_dimension_avoided": "emma→banshee professional already present as HFC7_C08; this batch instead proposes event-scoped conflict and protection."
+  }
+}
