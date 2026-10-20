@@ -1,0 +1,618 @@
+{
+  "batch_id": "RUN29_20261020",
+  "status": "UNCOMMITTED / awaiting periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "community": "Runaways / found family / inherited criminal power / youth / cosmic and AI bridges",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "2623b6cecc2f60f2c843cebd515ccaaf2b4565f6",
+    "people": 238,
+    "events": 352,
+    "claims": 422
+  },
+  "people": [
+    {
+      "id": "alex_wilder",
+      "name": "Alex Wilder",
+      "alias": "Alex Wilder",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "nico_minoru",
+      "name": "Nico Minoru",
+      "alias": "Sister Grimm",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gert_yorkes",
+      "name": "Gertrude Yorkes",
+      "alias": "Arsenic",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "chase_stein",
+      "name": "Chase Stein",
+      "alias": "Talkback",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "karolina_dean",
+      "name": "Karolina Dean",
+      "alias": "Lucy in the Sky",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "molly_hayes",
+      "name": "Molly Hayes",
+      "alias": "Princess Powerful",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "geoffrey_wilder",
+      "name": "Geoffrey Wilder",
+      "alias": "Geoffrey Wilder",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "catherine_wilder",
+      "name": "Catherine Wilder",
+      "alias": "Catherine Wilder",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "victor_mancha",
+      "name": "Victor Mancha",
+      "alias": "Victor Mancha",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "xavin",
+      "name": "Xavin",
+      "alias": "Xavin",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "marianella_mancha",
+      "name": "Marianella Mancha",
+      "alias": "Marianella Mancha",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "julie_power",
+      "name": "Julie Power",
+      "alias": "Lightspeed",
+      "continuity": "Earth-616"
+    }
+  ],
+  "reused_canonical_ids": [
+    "ultron"
+  ],
+  "sources": [
+    {
+      "id": "RUN29_20261020_S01",
+      "title": "Alex Wilder — In Comics",
+      "url": "https://www.marvel.com/characters/alex-wilder/in-comics/",
+      "tier": "publisher_character_history"
+    },
+    {
+      "id": "RUN29_20261020_S02",
+      "title": "Get Ready to Run: Pride & Joy",
+      "url": "https://www.marvel.com/articles/comics/get-ready-to-run-pride-joy",
+      "tier": "publisher_editorial"
+    },
+    {
+      "id": "RUN29_20261020_S03",
+      "title": "Get Ready to Run: The Good Die Young",
+      "url": "https://www.marvel.com/articles/comics/get-ready-to-run-the-good-die-young",
+      "tier": "publisher_editorial"
+    },
+    {
+      "id": "RUN29_20261020_S04",
+      "title": "Get Ready to Run: True Believers",
+      "url": "https://www.marvel.com/amp/articles/comics/get-ready-to-run-true-believers",
+      "tier": "publisher_editorial"
+    },
+    {
+      "id": "RUN29_20261020_S05",
+      "title": "Get Ready to Run: Parental Guidance",
+      "url": "https://www.marvel.com/articles/comics/get-ready-to-run-parental-guidance",
+      "tier": "publisher_editorial"
+    },
+    {
+      "id": "RUN29_20261020_S06",
+      "title": "Get Ready to Run: Dead Means Dead",
+      "url": "https://www.marvel.com/articles/comics/get-ready-to-run-dead-means-dead",
+      "tier": "publisher_editorial"
+    },
+    {
+      "id": "RUN29_20261020_S07",
+      "title": "Runaways by Rainbow Rowell Vol. 1: Find Your Way Home",
+      "url": "https://www.marvel.com/comics/collection/66858/runaways_by_rainbow_rowell_vol_1_find_your_way_home_2018",
+      "tier": "publisher_collection"
+    },
+    {
+      "id": "RUN29_20261020_S08",
+      "title": "Runaways (2017) #4",
+      "url": "https://www.marvel.com/comics/issue/65298/runaways_2017_4",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "RUN29_20261020_S09",
+      "title": "Runaways: Get Ready for Molly’s Return",
+      "url": "https://www.marvel.com/articles/comics/runaways-get-ready-for-molly-s-return",
+      "tier": "publisher_creator_interview"
+    },
+    {
+      "id": "RUN29_20261020_S10",
+      "title": "Runaways (2017) #8",
+      "url": "https://www.marvel.com/comics/issue/66744/runaways_2017_8",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "RUN29_20261020_S11",
+      "title": "Runaways (2025) #1",
+      "url": "https://www.marvel.com/comics/issue/128827/runaways_2025_1_variant/variant",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "RUN29_20261020_S12",
+      "title": "Runaways (2005) #15",
+      "url": "https://www.marvel.com/comics/issue/4058/runaways_2005_15",
+      "tier": "publisher_issue_synopsis"
+    }
+  ],
+  "events": [
+    {
+      "id": "RUN29_20261020_E01",
+      "a": "alex_wilder",
+      "b": "geoffrey_wilder",
+      "scope": "Runaways (2003) #17-18",
+      "observation": "Alex reveals he secretly organized the escape partly to protect Geoffrey from the Pride’s internal conspiracy.",
+      "source_id": "RUN29_20261020_S01",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "additional_source_ids": [
+        "RUN29_20261020_S02"
+      ]
+    },
+    {
+      "id": "RUN29_20261020_E02",
+      "a": "alex_wilder",
+      "b": "catherine_wilder",
+      "scope": "Runaways (2003) #17-18",
+      "observation": "Alex reveals his plan to preserve Catherine and Geoffrey’s lives and secure their places in the Gibborim’s promised paradise.",
+      "source_id": "RUN29_20261020_S03",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E03",
+      "a": "alex_wilder",
+      "b": "nico_minoru",
+      "scope": "Runaways (2003) #7-12; early romance",
+      "observation": "Alex and Nico develop a romantic relationship while Alex secretly pursues his parents’ interests.",
+      "source_id": "RUN29_20261020_S01",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E04",
+      "a": "alex_wilder",
+      "b": "nico_minoru",
+      "scope": "Runaways (2003) #17-18",
+      "observation": "Alex seizes Nico’s Staff of One and reveals his secret allegiance; Nico rejects his proposed place for her in paradise.",
+      "source_id": "RUN29_20261020_S01",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E05",
+      "a": "gert_yorkes",
+      "b": "chase_stein",
+      "scope": "Runaways (2003) #13-18",
+      "observation": "Gert uses mouth-to-mouth resuscitation to save Chase during the underwater mission.",
+      "source_id": "RUN29_20261020_S03",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E06",
+      "a": "chase_stein",
+      "b": "gert_yorkes",
+      "scope": "Runaways (2005) #19-24",
+      "observation": "After Gert’s death, Chase seeks a bargain with the Gibborim to restore her, offering himself as the sacrifice.",
+      "source_id": "RUN29_20261020_S06",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E07",
+      "a": "geoffrey_wilder",
+      "b": "gert_yorkes",
+      "scope": "Runaways (2005) #18; time-displaced Geoffrey",
+      "observation": "Geoffrey attempts to sacrifice Gert and fatally wounds her during the confrontation at Griffith Observatory.",
+      "source_id": "RUN29_20261020_S05",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E08",
+      "a": "chase_stein",
+      "b": "geoffrey_wilder",
+      "scope": "Runaways (2005) #18; time-displaced Geoffrey",
+      "observation": "Chase fights Geoffrey with a knife during the rescue attempt at Griffith Observatory.",
+      "source_id": "RUN29_20261020_S05",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E09",
+      "a": "geoffrey_wilder",
+      "b": "molly_hayes",
+      "scope": "Runaways (2005) #13-18; time-displaced Geoffrey",
+      "observation": "Geoffrey’s revived Pride abducts Molly and plans to use a sacrifice in a bargain with the Gibborim.",
+      "source_id": "RUN29_20261020_S05",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E10",
+      "a": "chase_stein",
+      "b": "nico_minoru",
+      "scope": "Runaways (2005) #13-18",
+      "observation": "Chase and Nico kiss; both later feel guilty when the kiss is exposed to Gert.",
+      "source_id": "RUN29_20261020_S05",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E11",
+      "a": "nico_minoru",
+      "b": "victor_mancha",
+      "scope": "Runaways (2005) #19-24",
+      "observation": "Nico and Victor begin a romantic relationship as the team deals with Gert’s death.",
+      "source_id": "RUN29_20261020_S06",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E12",
+      "a": "ultron",
+      "b": "victor_mancha",
+      "scope": "Runaways (2005) #1-6; revisited #15",
+      "observation": "Ultron reveals he created Victor, takes control of his programming, and uses him to attack the Runaways.",
+      "source_id": "RUN29_20261020_S04",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "additional_source_ids": [
+        "RUN29_20261020_S12"
+      ]
+    },
+    {
+      "id": "RUN29_20261020_E13",
+      "a": "victor_mancha",
+      "b": "marianella_mancha",
+      "scope": "Runaways (2005) #1-6",
+      "observation": "Victor and the Runaways attempt to rescue Marianella from a purported Doctor Doom, then Ultron reveals the deception and kills her.",
+      "source_id": "RUN29_20261020_S04",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E14",
+      "a": "karolina_dean",
+      "b": "xavin",
+      "scope": "Runaways (2005) #13-18",
+      "observation": "Karolina and Xavin return after their attempted wedding becomes entangled in renewed interplanetary conflict.",
+      "source_id": "RUN29_20261020_S05",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "RUN29_20261020_E15",
+      "a": "karolina_dean",
+      "b": "nico_minoru",
+      "scope": "Runaways (2017) #1-6",
+      "observation": "The official collection explicitly raises unresolved feelings between Karolina and Nico as a strain on their friendship.",
+      "source_id": "RUN29_20261020_S07",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "additional_source_ids": [
+        "RUN29_20261020_S11"
+      ],
+      "qualification": "The 2025 synopsis does not name Nico’s lost girlfriend; it is not used to establish the identity of that partner."
+    },
+    {
+      "id": "RUN29_20261020_E16",
+      "a": "gert_yorkes",
+      "b": "molly_hayes",
+      "scope": "Runaways (2017) #4",
+      "observation": "Gert reunites with Molly, who had not made peace with Gert’s earlier death, and they rebuild their friendship.",
+      "source_id": "RUN29_20261020_S09",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "additional_source_ids": [
+        "RUN29_20261020_S08"
+      ]
+    },
+    {
+      "id": "RUN29_20261020_E17",
+      "a": "karolina_dean",
+      "b": "julie_power",
+      "scope": "Runaways (2017) #8",
+      "observation": "Julie Power visits the Hostel as Karolina’s girlfriend.",
+      "source_id": "RUN29_20261020_S10",
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    }
+  ],
+  "claims": [
+    {
+      "id": "RUN29_20261020_C01",
+      "from_id": "alex_wilder",
+      "to_id": "geoffrey_wilder",
+      "dimension": "protection",
+      "scope": "Runaways (2003) #17-18",
+      "fact": "Alex acts to preserve his father’s life.",
+      "interpretation": "Protective intent does not excuse his manipulation of other children.",
+      "event_ids": [
+        "RUN29_20261020_E01"
+      ],
+      "epistemic": "direct"
+    },
+    {
+      "id": "RUN29_20261020_C02",
+      "from_id": "alex_wilder",
+      "to_id": "catherine_wilder",
+      "dimension": "protection",
+      "scope": "Runaways (2003) #17-18",
+      "fact": "Alex includes his mother in his scheme to protect his parents.",
+      "interpretation": "The plan is not evidence that Catherine approves every tactic.",
+      "event_ids": [
+        "RUN29_20261020_E02"
+      ],
+      "epistemic": "direct"
+    },
+    {
+      "id": "RUN29_20261020_C03",
+      "from_id": "alex_wilder",
+      "to_id": "nico_minoru",
+      "dimension": "romance",
+      "scope": "Runaways (2003) #7-12; early romance",
+      "fact": "Alex and Nico date in the original series.",
+      "interpretation": "Romantic involvement does not imply knowledge of Alex’s concealed allegiance.",
+      "event_ids": [
+        "RUN29_20261020_E03"
+      ],
+      "epistemic": "direct"
+    },
+    {
+      "id": "RUN29_20261020_C04",
+      "from_id": "alex_wilder",
+      "to_id": "nico_minoru",
+      "dimension": "betrayal",
+      "scope": "Runaways (2003) #17-18",
+      "fact": "Alex steals Nico’s staff while revealing he was working for the Pride.",
+      "interpretation": "Violation of personal and operational trust, scoped to the reveal.",
+      "event_ids": [
+        "RUN29_20261020_E04"
+      ],
+      "epistemic": "direct"
+    },
+    {
+      "id": "RUN29_20261020_C05",
+      "from_id": "gert_yorkes",
+      "to_id": "chase_stein",
+      "dimension": "protection",
+      "scope": "Runaways (2003) #13-18",
+      "fact": "Gert resuscitates Chase after he nearly dies.",
+      "interpretation": "One lifesaving act is not a permanent protective role.",
+      "event_ids": [
+        "RUN29_20261020_E05"
+      ],
+      "epistemic": "event_scoped"
+    },
+    {
+      "id": "RUN29_20261020_C06",
+      "from_id": "chase_stein",
+      "to_id": "gert_yorkes",
+      "dimension": "affection",
+      "scope": "Runaways (2005) #19-24",
+      "fact": "Chase seeks to sacrifice himself to resurrect Gert.",
+      "interpretation": "Evidence of grief and attachment, not of a successful resurrection.",
+      "event_ids": [
+        "RUN29_20261020_E06"
+      ],
+      "epistemic": "direct"
+    },
+    {
+      "id": "RUN29_20261020_C07",
+      "from_id": "geoffrey_wilder",
+      "to_id": "gert_yorkes",
+      "dimension": "conflict",
+      "scope": "Runaways (2005) #18; time-displaced Geoffrey",
+      "fact": "Time-displaced Geoffrey fatally wounds Gert.",
+      "interpretation": "Distinguish the displaced younger Geoffrey from a separate person or alternate-universe duplicate.",
+      "event_ids": [
+        "RUN29_20261020_E07"
+      ],
+      "epistemic": "direct"
+    },
+    {
+      "id": "RUN29_20261020_C08",
+      "from_id": "chase_stein",
+      "to_id": "geoffrey_wilder",
+      "dimension": "conflict",
+      "scope": "Runaways (2005) #18; time-displaced Geoffrey",
+      "fact": "Chase fights Geoffrey during the attempted sacrifice.",
+      "interpretation": "A direct confrontation, not proof of all later relations.",
+      "event_ids": [
+        "RUN29_20261020_E08"
+      ],
+      "epistemic": "event_scoped"
+    },
+    {
+      "id": "RUN29_20261020_C09",
+      "from_id": "geoffrey_wilder",
+      "to_id": "molly_hayes",
+      "dimension": "coercion",
+      "scope": "Runaways (2005) #13-18; time-displaced Geoffrey",
+      "fact": "Geoffrey’s faction abducts Molly to use her in its plan.",
+      "interpretation": "Responsibility for the abduction is shared by his faction; no consent.",
+      "event_ids": [
+        "RUN29_20261020_E09"
+      ],
+      "epistemic": "direct"
+    },
+    {
+      "id": "RUN29_20261020_C10",
+      "from_id": "chase_stein",
+      "to_id": "nico_minoru",
+      "dimension": "romance",
+      "scope": "Runaways (2005) #13-18",
+      "fact": "Chase and Nico share a kiss they later regret.",
+      "interpretation": "Event-scoped attraction or intimacy, not an established ongoing partnership.",
+      "event_ids": [
+        "RUN29_20261020_E10"
+      ],
+      "epistemic": "qualified"
+    },
+    {
+      "id": "RUN29_20261020_C11",
+      "from_id": "nico_minoru",
+      "to_id": "victor_mancha",
+      "dimension": "romance",
+      "scope": "Runaways (2005) #19-24",
+      "fact": "Nico and Victor begin a relationship following Gert’s death.",
+      "interpretation": "Do not infer permanence from this early period.",
+      "event_ids": [
+        "RUN29_20261020_E11"
+      ],
+      "epistemic": "qualified"
+    },
+    {
+      "id": "RUN29_20261020_C12",
+      "from_id": "ultron",
+      "to_id": "victor_mancha",
+      "dimension": "coercion",
+      "scope": "Runaways (2005) #1-6; revisited #15",
+      "fact": "Ultron overrides Victor’s programming and makes him attack the Runaways.",
+      "interpretation": "Technological control is distinct from willing ideological loyalty.",
+      "event_ids": [
+        "RUN29_20261020_E12"
+      ],
+      "epistemic": "direct"
+    },
+    {
+      "id": "RUN29_20261020_C13",
+      "from_id": "victor_mancha",
+      "to_id": "marianella_mancha",
+      "dimension": "protection",
+      "scope": "Runaways (2005) #1-6",
+      "fact": "Victor participates in an attempt to rescue Marianella.",
+      "interpretation": "A rescue attempt, not proof he succeeded; Ultron kills her.",
+      "event_ids": [
+        "RUN29_20261020_E13"
+      ],
+      "epistemic": "event_scoped"
+    },
+    {
+      "id": "RUN29_20261020_C14",
+      "from_id": "victor_mancha",
+      "to_id": "marianella_mancha",
+      "dimension": "family",
+      "scope": "Runaways (2005) #1-6",
+      "fact": "Marianella is Victor’s mother in his constructed family history.",
+      "interpretation": "Their family bond is real to Victor; his artificial creation and implanted memories complicate the biology.",
+      "event_ids": [
+        "RUN29_20261020_E13"
+      ],
+      "epistemic": "qualified"
+    },
+    {
+      "id": "RUN29_20261020_C15",
+      "from_id": "karolina_dean",
+      "to_id": "xavin",
+      "dimension": "romance",
+      "scope": "Runaways (2005) #13-18",
+      "fact": "Karolina and Xavin attempt a wedding ceremony.",
+      "interpretation": "The ceremony is interrupted; do not record a completed marriage.",
+      "event_ids": [
+        "RUN29_20261020_E14"
+      ],
+      "epistemic": "qualified"
+    },
+    {
+      "id": "RUN29_20261020_C16",
+      "from_id": "karolina_dean",
+      "to_id": "nico_minoru",
+      "dimension": "affection",
+      "scope": "Runaways (2017) #1-6",
+      "fact": "Marvel’s 2017 collection identifies emotionally consequential feelings between the two.",
+      "interpretation": "The synopsis does not alone establish reciprocal romance at this point.",
+      "event_ids": [
+        "RUN29_20261020_E15"
+      ],
+      "epistemic": "qualified"
+    },
+    {
+      "id": "RUN29_20261020_C17",
+      "from_id": "gert_yorkes",
+      "to_id": "molly_hayes",
+      "dimension": "friendship",
+      "scope": "Runaways (2017) #4",
+      "fact": "Gert and Molly reunite after Gert’s return from death.",
+      "interpretation": "The creator describes a changed friendship rather than biological sisterhood.",
+      "event_ids": [
+        "RUN29_20261020_E16"
+      ],
+      "epistemic": "direct"
+    },
+    {
+      "id": "RUN29_20261020_C18",
+      "from_id": "karolina_dean",
+      "to_id": "julie_power",
+      "dimension": "romance",
+      "scope": "Runaways (2017) #8",
+      "fact": "Julie visits Karolina as her girlfriend.",
+      "interpretation": "Historical relationship; do not assume it continues after this era.",
+      "event_ids": [
+        "RUN29_20261020_E17"
+      ],
+      "epistemic": "direct"
+    },
+    {
+      "id": "RUN29_20261020_C19",
+      "from_id": "julie_power",
+      "to_id": "karolina_dean",
+      "dimension": "romance",
+      "scope": "Runaways (2017) #8",
+      "fact": "Julie is identified as Karolina’s girlfriend and visits her.",
+      "interpretation": "Reciprocal relationship label documented; individual feelings not inferred beyond that.",
+      "event_ids": [
+        "RUN29_20261020_E17"
+      ],
+      "epistemic": "direct"
+    }
+  ],
+  "review": {
+    "proposed_people": 12,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 19,
+    "events": 17,
+    "official_marvel_sources": 12,
+    "primary_panels_reviewed": false,
+    "canonical_person_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "unmerged_batch_deduplication": "not fully verified",
+    "uncertainties": [
+      "The 2017 Karolina-Nico source establishes feelings but not a completed relationship; do not import a 2017 reciprocal romance.",
+      "Karolina and Xavin’s ceremony is interrupted; marriage completion is not established.",
+      "Geoffrey in the 2005 confrontation is a time-displaced earlier version of the same Earth-616 man.",
+      "Marianella and Victor’s familial relationship includes Ultron-created memories.",
+      "Marvel editorial recaps and issue descriptions were reviewed; original panels were not."
+    ],
+    "committed": 0
+  }
+}
