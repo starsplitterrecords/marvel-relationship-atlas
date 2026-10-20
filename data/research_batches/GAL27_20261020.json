@@ -1,0 +1,586 @@
+{
+  "batch_id": "GAL27_20261020",
+  "status": "UNCOMMITTED / awaiting manual GitHub merge",
+  "continuity": "Earth-616",
+  "community": "Cosmic / Heralds of Galactus / Fantastic Four / Asgard / Xandar",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "2623b6cecc2f60f2c843cebd515ccaaf2b4565f6",
+    "people": 238,
+    "events": 352,
+    "claims": 422
+  },
+  "people": [
+    {
+      "id": "galactus",
+      "name": "Galan",
+      "alias": "Galactus"
+    },
+    {
+      "id": "norrin_radd",
+      "name": "Norrin Radd",
+      "alias": "Silver Surfer"
+    },
+    {
+      "id": "shalla_bal",
+      "name": "Shalla-Bal",
+      "alias": "Empress of Zenn-La"
+    },
+    {
+      "id": "gabriel_lan",
+      "name": "Gabriel Lan",
+      "alias": "Air-Walker"
+    },
+    {
+      "id": "pyreus_kril",
+      "name": "Pyreus Kril",
+      "alias": "Firelord"
+    },
+    {
+      "id": "tyros",
+      "name": "Tyros",
+      "alias": "Terrax"
+    },
+    {
+      "id": "frankie_raye",
+      "name": "Frankie Raye",
+      "alias": "Nova (Frankie Raye)"
+    },
+    {
+      "id": "morg",
+      "name": "Morg",
+      "alias": "Morg the Executioner"
+    },
+    {
+      "id": "stardust_lambda_zero",
+      "name": "Lambda-Zero",
+      "alias": "Stardust"
+    }
+  ],
+  "reused_canonical_ids": [
+    "alicia",
+    "beta_ray_bill",
+    "johnny"
+  ],
+  "sources": [
+    {
+      "id": "GAL27_S01",
+      "title": "Heralds of Galactus: Marvel history",
+      "url": "https://www.marvel.com/teams-and-groups/heralds-of-galactus",
+      "tier": "publisher_history"
+    },
+    {
+      "id": "GAL27_S02",
+      "title": "Fantastic Four: Marvel in-comics history",
+      "url": "https://www.marvel.com/teams-and-groups/fantastic-four/in-comics",
+      "tier": "publisher_history"
+    },
+    {
+      "id": "GAL27_S03",
+      "title": "Silver Surfer Omnibus Vol. 1",
+      "url": "https://www.marvel.com/comics/collection/13534/silver_surfer_omnibus_trade_paperback",
+      "tier": "publisher_collection"
+    },
+    {
+      "id": "GAL27_S04",
+      "title": "Silver Surfer (1987) #2",
+      "url": "https://www.marvel.com/comics/issue/15153/silver_surfer_1987_2",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "GAL27_S05",
+      "title": "Heralds of Galactus: reading guide",
+      "url": "https://share.marvel.com/comics/discover/2511/the-heralds-of-galactus",
+      "tier": "publisher_reading_guide"
+    },
+    {
+      "id": "GAL27_S06",
+      "title": "Silver Surfer (1987) #70",
+      "url": "https://www.marvel.com/comics/issue/15209/silver_surfer_1987_70",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "GAL27_S07",
+      "title": "Silver Surfer (1987) #75",
+      "url": "https://www.marvel.com/comics/issue/15214/silver_surfer_1987_75",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "GAL27_S08",
+      "title": "Human Torch: Marvel in-comics history",
+      "url": "https://www.marvel.com/characters/human-torch-johnny-storm/in-comics/",
+      "tier": "publisher_history"
+    }
+  ],
+  "events": [
+    {
+      "id": "GAL27_E01",
+      "a": "norrin_radd",
+      "b": "shalla_bal",
+      "scope": "Silver Surfer (1968) #1; Zenn-La origin",
+      "observation": "Norrin offers himself to Galactus to spare Zenn-La and his beloved Shalla-Bal.",
+      "source_id": "GAL27_S03",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "GAL27_E02",
+      "a": "norrin_radd",
+      "b": "galactus",
+      "scope": "Fantastic Four (1961) #48-50",
+      "observation": "Norrin serves Galactus as his herald, then sides with Earth after encountering its people.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "GAL27_E03",
+      "a": "alicia",
+      "b": "norrin_radd",
+      "scope": "Fantastic Four (1961) #48-50",
+      "observation": "Alicia befriends the recovering Surfer and helps him recognize the value of human life.",
+      "source_id": "GAL27_S02",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "GAL27_E04",
+      "a": "galactus",
+      "b": "gabriel_lan",
+      "scope": "Fantastic Four (1961) #120-123; Air-Walker backstory",
+      "observation": "Galactus accepts Gabriel as herald; after his near-death he recreates him as an android, but cannot restore his personality.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "qualification": "Android Air-Walker is a recreation of Gabriel, not proof of continuous personality."
+    },
+    {
+      "id": "GAL27_E05",
+      "a": "gabriel_lan",
+      "b": "pyreus_kril",
+      "scope": "Thor (1966) #225; Xandarian expedition backstory",
+      "observation": "Pyreus pursues the ship that took his friend and commander Gabriel and demands to know his fate.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "GAL27_E06",
+      "a": "galactus",
+      "b": "pyreus_kril",
+      "scope": "Thor (1966) #225-228",
+      "observation": "Galactus transforms Pyreus into Firelord in exchange for information about Gabriel, then erases his memory.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "GAL27_E07",
+      "a": "galactus",
+      "b": "tyros",
+      "scope": "Fantastic Four (1961) #211; #242-244",
+      "observation": "Galactus converts Tyros into Terrax without asking and later strips his power after Terrax tries to force a confrontation.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "GAL27_E08",
+      "a": "frankie_raye",
+      "b": "johnny",
+      "scope": "Fantastic Four (1961) #244 and preceding Frankie Raye arc",
+      "observation": "Frankie is Johnny’s girlfriend; her choice to leave Earth as a herald breaks his heart.",
+      "source_id": "GAL27_S02",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "GAL27_E09",
+      "a": "frankie_raye",
+      "b": "galactus",
+      "scope": "Fantastic Four (1961) #244",
+      "observation": "Frankie volunteers to become Galactus’s herald to save Earth.",
+      "source_id": "GAL27_S05",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "GAL27_E10",
+      "a": "norrin_radd",
+      "b": "frankie_raye",
+      "scope": "Silver Surfer (1987) pre-#70; Nova herald era",
+      "observation": "Norrin and Frankie have a romantic relationship; he urges her to seek uninhabited worlds for Galactus.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "qualification": "Exact romance issue requires primary review."
+    },
+    {
+      "id": "GAL27_E11",
+      "a": "galactus",
+      "b": "morg",
+      "scope": "Silver Surfer (1987) #70-75, Herald Ordeal",
+      "observation": "Galactus selects the ruthless Morg as a replacement herald when Nova begins to resist his demands.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "GAL27_E12",
+      "a": "morg",
+      "b": "frankie_raye",
+      "scope": "Silver Surfer (1987) #69-75, Herald Ordeal",
+      "observation": "Morg kills Nova during the former heralds’ confrontation with him.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "qualification": "Exact death issue needs primary-panel confirmation."
+    },
+    {
+      "id": "GAL27_E13",
+      "a": "tyros",
+      "b": "morg",
+      "scope": "Silver Surfer (1987) #75, Herald Ordeal",
+      "observation": "After Galactus removes Morg’s Power Cosmic, Terrax kills him.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "qualification": "Publisher history identifies the act; #75 synopsis only broadly describes the climax."
+    },
+    {
+      "id": "GAL27_E14",
+      "a": "stardust_lambda_zero",
+      "b": "beta_ray_bill",
+      "scope": "Stormbreaker: The Saga of Beta Ray Bill (2005) #1-6",
+      "observation": "Stardust leads Galactus toward New Korbin; Beta Ray Bill battles Stardust in defense of his people.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "qualification": "Precise encounter issue within miniseries not verified."
+    },
+    {
+      "id": "GAL27_E15",
+      "a": "stardust_lambda_zero",
+      "b": "galactus",
+      "scope": "Annihilation: Silver Surfer (2006) #1-4; Annihilation (2006) era",
+      "observation": "Stardust serves Galactus, regards the doomed as blessed, and later seeks Norrin on Galactus’s orders.",
+      "source_id": "GAL27_S01",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary",
+      "qualification": "Publisher history; issue-level scene requires review."
+    },
+    {
+      "id": "GAL27_E16",
+      "a": "frankie_raye",
+      "b": "galactus",
+      "scope": "Silver Surfer (1987) #70",
+      "observation": "Nova turns away from Galactus and tries to conceal suitable inhabited worlds; he punishes her and replaces her.",
+      "source_id": "GAL27_S06",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "GAL27_E17",
+      "a": "galactus",
+      "b": "norrin_radd",
+      "scope": "Fantastic Four (1961) #50",
+      "observation": "After Norrin defends Earth, Galactus confines him to Earth with a barrier.",
+      "source_id": "GAL27_S02",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    }
+  ],
+  "claims": [
+    {
+      "id": "GAL27_C01",
+      "pair_id": "norrin_radd-shalla_bal",
+      "from_id": "norrin_radd",
+      "to_id": "shalla_bal",
+      "dimension": "protection",
+      "scope": "Silver Surfer (1968) #1; Zenn-La origin",
+      "fact": "Norrin sacrifices his freedom to save Shalla-Bal and Zenn-La.",
+      "interpretation": "An act of protection does not establish Shalla-Bal’s preferences about his sacrifice.",
+      "event_ids": [
+        "GAL27_E01"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C02",
+      "pair_id": "galactus-norrin_radd",
+      "from_id": "norrin_radd",
+      "to_id": "galactus",
+      "dimension": "cooperation",
+      "scope": "Fantastic Four (1961) #48-50",
+      "fact": "Norrin serves as Galactus’s herald before their rupture.",
+      "interpretation": "Service begins as a bargain under existential threat, not uncomplicated allegiance.",
+      "event_ids": [
+        "GAL27_E02"
+      ],
+      "epistemic": "qualified",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C03",
+      "pair_id": "galactus-norrin_radd",
+      "from_id": "galactus",
+      "to_id": "norrin_radd",
+      "dimension": "coercion",
+      "scope": "Fantastic Four (1961) #50",
+      "fact": "Galactus exiles the Surfer to Earth after he defends the planet.",
+      "interpretation": "A punitive use of superior power; not a mutual decision.",
+      "event_ids": [
+        "GAL27_E17"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C04",
+      "pair_id": "alicia-norrin_radd",
+      "from_id": "alicia",
+      "to_id": "norrin_radd",
+      "dimension": "influence",
+      "scope": "Fantastic Four (1961) #48-50",
+      "fact": "Alicia’s kindness helps the Surfer reconsider his treatment of Earth.",
+      "interpretation": "A direct moral influence, not romantic involvement.",
+      "event_ids": [
+        "GAL27_E03"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C05",
+      "pair_id": "gabriel_lan-galactus",
+      "from_id": "galactus",
+      "to_id": "gabriel_lan",
+      "dimension": "affection",
+      "scope": "Fantastic Four (1961) #120-123; Air-Walker backstory",
+      "fact": "Galactus values Gabriel enough to recreate him as an android after his near-death.",
+      "interpretation": "Attachment is inferred from exceptional effort; the original personality was not recovered.",
+      "event_ids": [
+        "GAL27_E04"
+      ],
+      "epistemic": "interpretive",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C06",
+      "pair_id": "gabriel_lan-pyreus_kril",
+      "from_id": "pyreus_kril",
+      "to_id": "gabriel_lan",
+      "dimension": "friendship",
+      "scope": "Thor (1966) #225; Xandarian expedition backstory",
+      "fact": "Pyreus searches for his missing friend and commander Gabriel.",
+      "interpretation": "A personal commitment distinct from shared military service.",
+      "event_ids": [
+        "GAL27_E05"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C07",
+      "pair_id": "galactus-pyreus_kril",
+      "from_id": "galactus",
+      "to_id": "pyreus_kril",
+      "dimension": "coercion",
+      "scope": "Thor (1966) #225-228",
+      "fact": "Galactus erases Pyreus’s memory after making him Firelord.",
+      "interpretation": "An alteration of autonomy beyond the initial bargain.",
+      "event_ids": [
+        "GAL27_E06"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C08",
+      "pair_id": "galactus-tyros",
+      "from_id": "galactus",
+      "to_id": "tyros",
+      "dimension": "coercion",
+      "scope": "Fantastic Four (1961) #211; #242-244",
+      "fact": "Galactus transforms Tyros into Terrax without consent.",
+      "interpretation": "Recruitment by force; later rebellion should be treated separately.",
+      "event_ids": [
+        "GAL27_E07"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C09",
+      "pair_id": "frankie_raye-johnny",
+      "from_id": "frankie_raye",
+      "to_id": "johnny",
+      "dimension": "romance",
+      "scope": "Fantastic Four (1961) #244 and preceding Frankie Raye arc",
+      "fact": "Frankie and Johnny are romantic partners when she leaves Earth.",
+      "interpretation": "Her decision is autonomous in the cited account, and his heartbreak does not make her choice a betrayal.",
+      "event_ids": [
+        "GAL27_E08"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C10",
+      "pair_id": "frankie_raye-galactus",
+      "from_id": "frankie_raye",
+      "to_id": "galactus",
+      "dimension": "cooperation",
+      "scope": "Fantastic Four (1961) #244",
+      "fact": "Frankie offers to become a herald to save Earth.",
+      "interpretation": "Initial cooperation is conditional and does not establish enduring moral alignment.",
+      "event_ids": [
+        "GAL27_E09"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C11",
+      "pair_id": "frankie_raye-galactus",
+      "from_id": "frankie_raye",
+      "to_id": "galactus",
+      "dimension": "conflict",
+      "scope": "Silver Surfer (1987) #70",
+      "fact": "Nova later defies Galactus by attempting to conceal inhabited worlds.",
+      "interpretation": "An event-scoped ethical rupture rather than retroactive cancellation of her earlier service.",
+      "event_ids": [
+        "GAL27_E16"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C12",
+      "pair_id": "frankie_raye-norrin_radd",
+      "from_id": "norrin_radd",
+      "to_id": "frankie_raye",
+      "dimension": "influence",
+      "scope": "Silver Surfer (1987) pre-#70; Nova herald era",
+      "fact": "Norrin urges Frankie to direct Galactus toward lifeless planets.",
+      "interpretation": "A moral appeal within a romantic relationship; exact issue placement pending.",
+      "event_ids": [
+        "GAL27_E10"
+      ],
+      "epistemic": "qualified",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C13",
+      "pair_id": "galactus-morg",
+      "from_id": "galactus",
+      "to_id": "morg",
+      "dimension": "authority",
+      "scope": "Silver Surfer (1987) #70-75, Herald Ordeal",
+      "fact": "Galactus selects Morg to replace the resistant Nova.",
+      "interpretation": "Formal master–herald authority, not evidence of moral trust.",
+      "event_ids": [
+        "GAL27_E11"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C14",
+      "pair_id": "frankie_raye-morg",
+      "from_id": "morg",
+      "to_id": "frankie_raye",
+      "dimension": "conflict",
+      "scope": "Silver Surfer (1987) #69-75, Herald Ordeal",
+      "fact": "Morg kills Nova in the Herald Ordeal.",
+      "interpretation": "A lethal act; do not infer that Nova sought personal enmity.",
+      "event_ids": [
+        "GAL27_E12"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C15",
+      "pair_id": "morg-tyros",
+      "from_id": "tyros",
+      "to_id": "morg",
+      "dimension": "conflict",
+      "scope": "Silver Surfer (1987) #75, Herald Ordeal",
+      "fact": "Terrax kills Morg after Galactus removes Morg’s cosmic power.",
+      "interpretation": "A moment of lethal hostility, not an enduring relationship label.",
+      "event_ids": [
+        "GAL27_E13"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C16",
+      "pair_id": "beta_ray_bill-stardust_lambda_zero",
+      "from_id": "stardust_lambda_zero",
+      "to_id": "beta_ray_bill",
+      "dimension": "conflict",
+      "scope": "Stormbreaker: The Saga of Beta Ray Bill (2005) #1-6",
+      "fact": "Stardust battles Beta Ray Bill while Galactus approaches New Korbin.",
+      "interpretation": "The confrontation arises from Bill’s protection of his people.",
+      "event_ids": [
+        "GAL27_E14"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C17",
+      "pair_id": "galactus-stardust_lambda_zero",
+      "from_id": "stardust_lambda_zero",
+      "to_id": "galactus",
+      "dimension": "cooperation",
+      "scope": "Annihilation: Silver Surfer (2006) #1-4; Annihilation (2006) era",
+      "fact": "Stardust locates worlds for Galactus and delivers his summons to Norrin.",
+      "interpretation": "Willing participation in his mission, not automatically shared views on every action.",
+      "event_ids": [
+        "GAL27_E15"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GAL27_C18",
+      "pair_id": "galactus-stardust_lambda_zero",
+      "from_id": "galactus",
+      "to_id": "stardust_lambda_zero",
+      "dimension": "authority",
+      "scope": "Annihilation: Silver Surfer (2006) #1-4; Annihilation (2006) era",
+      "fact": "Galactus sends Stardust to summon the Silver Surfer.",
+      "interpretation": "An explicit tasking relationship, distinct from Stardust’s personal devotion.",
+      "event_ids": [
+        "GAL27_E15"
+      ],
+      "epistemic": "direct",
+      "continuity": "Earth-616"
+    }
+  ],
+  "review": {
+    "proposed_new_people": 9,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 18,
+    "events": 17,
+    "official_marvel_sources": 8,
+    "canonical_person_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "local_cross_references_validated": true,
+    "primary_panels_reviewed": false,
+    "uncertainties": [
+      "Marvel publisher summaries are secondary evidence; primary panels have not been reviewed.",
+      "Exact issue within Stormbreaker miniseries and exact Surfer–Nova romance issue remain to be checked.",
+      "Gabriel Lan and the android Air-Walker should not automatically be modeled as identical uninterrupted consciousness.",
+      "Nova (Frankie Raye) is distinct from Nova (Richard Rider).",
+      "The herald history spans multiple eras; assessments are event-scoped.",
+      "Cross-batch deduplication against unmerged proposals remains pending."
+    ],
+    "committed": 0
+  }
+}
