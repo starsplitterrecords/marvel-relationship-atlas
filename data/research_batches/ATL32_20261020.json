@@ -1,0 +1,660 @@
+{
+  "batch_id": "ATL32_20261020",
+  "status": "UNCOMMITTED / awaiting user's periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "community": "Atlantis / monarchy / royal family / inter-kingdom and Avengers bridges",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "2623b6cecc2f60f2c843cebd515ccaaf2b4565f6",
+    "people": 238,
+    "events": 352,
+    "claims": 422
+  },
+  "people": [
+    {
+      "id": "fen",
+      "name": "Fen",
+      "alias": "Princess Fen",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "leonard_mckenzie",
+      "name": "Leonard Stuart McKenzie",
+      "alias": "Captain Leonard McKenzie",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "thakorr",
+      "name": "Thakorr",
+      "alias": "Emperor Thakorr",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "namora",
+      "name": "Aquaria Nautica Neptunia",
+      "alias": "Namora",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "namorita",
+      "name": "Namorita Prentiss",
+      "alias": "Namorita",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "dorma",
+      "name": "Dorma",
+      "alias": "Lady Dorma",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "llyra",
+      "name": "Llyra Morris",
+      "alias": "Llyra",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "krang",
+      "name": "Krang",
+      "alias": "Warlord Krang",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "byrrah",
+      "name": "Byrrah",
+      "alias": "Prince Byrrah",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "attuma",
+      "name": "Attuma",
+      "alias": "Attuma",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "andromeda",
+      "name": "Andromeda Attumasen",
+      "alias": "Andromeda",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "marrina",
+      "name": "Marrina Smallwood",
+      "alias": "Marrina",
+      "continuity": "Earth-616"
+    }
+  ],
+  "reused_canonical_ids": [
+    "namor"
+  ],
+  "sources": [
+    {
+      "id": "ATL32_S01",
+      "title": "Atlanteans — official history",
+      "url": "https://www.marvel.com/teams-and-groups/atlanteans",
+      "tier": "publisher_history"
+    },
+    {
+      "id": "ATL32_S02",
+      "title": "Thakorr — official biography",
+      "url": "https://www.marvel.com/characters/thakorr",
+      "tier": "publisher_biography"
+    },
+    {
+      "id": "ATL32_S03",
+      "title": "Meet Namora, Namor's Super Hero Cousin (2022)",
+      "url": "https://www.marvel.com/articles/comics/namora-explainer-namor-cousin-agents-of-atlas",
+      "tier": "publisher_editorial"
+    },
+    {
+      "id": "ATL32_S04",
+      "title": "Agents of Atlas (2009) #6",
+      "url": "https://www.marvel.com/comics/issue/24360/agents_of_atlas_2009_6",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "ATL32_S05",
+      "title": "Namor — in-comics history",
+      "url": "https://www.marvel.com/characters/namor/in-comics",
+      "tier": "publisher_biography"
+    },
+    {
+      "id": "ATL32_S06",
+      "title": "Marvel Masterworks: The Sub-Mariner (2014; collects #25-38)",
+      "url": "https://www.marvel.com/comics/collection/46275/marvel_masterworks_the_sub-mariner_hardcover",
+      "tier": "publisher_collection"
+    },
+    {
+      "id": "ATL32_S07",
+      "title": "King in Black: Namor (2020) #5",
+      "url": "https://www.marvel.com/comics/issue/92259/king-in-black-namor-2020-5",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "ATL32_S08",
+      "title": "Alpha Flight by Mantlo & Lee Omnibus (2026)",
+      "url": "https://www.marvel.com/comics/collection/127466/alpha_flight_by_mantlo_lee_omnibus_jim_lee_cover_hardcover",
+      "tier": "publisher_collection"
+    },
+    {
+      "id": "ATL32_S09",
+      "title": "Namor the Sub-Mariner Epic Collection: Titans Three (2024)",
+      "url": "https://www.marvel.com/comics/issue/110460/namor_the_sub-mariner_epic_collection_titans_three_tpb_trade_paperback",
+      "tier": "publisher_collection"
+    }
+  ],
+  "events": [
+    {
+      "id": "ATL32_E01",
+      "a": "fen",
+      "b": "leonard_mckenzie",
+      "scope": "Namor origin; in-universe 1920; later retellings",
+      "observation": "Fen investigates surface explosions, falls in love with the Oracle's captain Leonard McKenzie, and marries him.",
+      "source_ids": [
+        "ATL32_S01",
+        "ATL32_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E02",
+      "a": "fen",
+      "b": "namor",
+      "scope": "World War II / Invaders era, in-universe 1942",
+      "observation": "Fen briefly renews Atlantean ties with Nazi Germany; Namor and his surface allies expel the would-be allies.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E03",
+      "a": "thakorr",
+      "b": "fen",
+      "scope": "Namor origin; in-universe 1920",
+      "observation": "Thakorr intends an expedition to investigate surface explosions; his daughter Fen instead undertakes the investigation at Tulem's urging.",
+      "source_ids": [
+        "ATL32_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E04",
+      "a": "namora",
+      "b": "namor",
+      "scope": "Marvel Mystery Comics (1939) #82; 1947 debut",
+      "observation": "After an attack on a royal gathering, Namora joins Namor against Stomp Richards's gang; the two subsequently operate as partners.",
+      "source_ids": [
+        "ATL32_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E05",
+      "a": "namora",
+      "b": "namor",
+      "scope": "Agents of Atlas (2009) #6",
+      "observation": "Namora and Namor quarrel, then embrace and acknowledge attraction; after learning of Tulem's breeding scheme, they abandon plans to marry.",
+      "source_ids": [
+        "ATL32_S03",
+        "ATL32_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E06",
+      "a": "namora",
+      "b": "namor",
+      "scope": "Secret Empire: Brave New World (2017) #2; Secret Empire era",
+      "observation": "Namora leads an undersea resistance against Namor's authoritarian neutrality; he captures and nearly executes her before relenting.",
+      "source_ids": [
+        "ATL32_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E07",
+      "a": "namora",
+      "b": "namorita",
+      "scope": "Sub-Mariner (1968) #50; earlier Lemurian refuge",
+      "observation": "Namorita is introduced as Namora's clone-daughter; Namora had taken her into refuge in Lemuria.",
+      "source_ids": [
+        "ATL32_S03",
+        "ATL32_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E08",
+      "a": "llyra",
+      "b": "namora",
+      "scope": "Sub-Mariner (1968) #50, retrospective",
+      "observation": "Llyra poisons Namora amid rivalry for Prince Merro; the apparent death is later revealed as suspended animation.",
+      "source_ids": [
+        "ATL32_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E09",
+      "a": "namor",
+      "b": "dorma",
+      "scope": "Sub-Mariner (1968) #36-37; 1971 wedding story",
+      "observation": "Namor's planned marriage to Dorma is disrupted by Llyra's impersonation, and Dorma dies shortly afterward; Marvel summaries differ on marriage status.",
+      "source_ids": [
+        "ATL32_S01",
+        "ATL32_S06",
+        "ATL32_S09",
+        "ATL32_S05"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E10",
+      "a": "llyra",
+      "b": "dorma",
+      "scope": "Sub-Mariner (1968) #36-37",
+      "observation": "Llyra impersonates Dorma during the wedding plot and kills Dorma.",
+      "source_ids": [
+        "ATL32_S01",
+        "ATL32_S06",
+        "ATL32_S09"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E11",
+      "a": "krang",
+      "b": "dorma",
+      "scope": "Early Silver Age / pre-1971 Atlantean court era",
+      "observation": "While Namor is presumed missing, Krang and Dorma begin a relationship; it ends on Namor's return.",
+      "source_ids": [
+        "ATL32_S05"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E12",
+      "a": "krang",
+      "b": "namor",
+      "scope": "Early Silver Age, before Sub-Mariner (1968) #36",
+      "observation": "Krang attempts to overthrow Namor, then conspires with Byrrah and Attuma after Namor defeats him.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E13",
+      "a": "byrrah",
+      "b": "namor",
+      "scope": "1953-55 in-universe; Silver Age restoration of Atlantis",
+      "observation": "Byrrah agitates for war with the surface, then rules rebuilt Atlantis during Namor's amnesia; Namor later reclaims the throne.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E14",
+      "a": "attuma",
+      "b": "namor",
+      "scope": "Early Avengers/Sub-Mariner era; repeated coups",
+      "observation": "Attuma seizes Atlantis from Namor and is driven out; their contest for the throne recurs.",
+      "source_ids": [
+        "ATL32_S01",
+        "ATL32_S05"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E15",
+      "a": "namor",
+      "b": "attuma",
+      "scope": "King in Black: Namor (2020) #5; 2021 publication",
+      "observation": "Namor, Attuma and Dorma undertake a dangerous attempt to save Atlantis from the Dark Tide.",
+      "source_ids": [
+        "ATL32_S07"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E16",
+      "a": "attuma",
+      "b": "andromeda",
+      "scope": "Defenders and later Atlantean council era",
+      "observation": "Marvel identifies Andromeda as Attuma's daughter; she joins the Defenders and is later appointed to a ruling council by Namor.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E17",
+      "a": "namor",
+      "b": "marrina",
+      "scope": "1980s Avengers/Alpha Flight crossover; later Leviathan crisis",
+      "observation": "Namor and Marrina are married; when Marrina transforms into the destructive Leviathan, Namor strikes her down.",
+      "source_ids": [
+        "ATL32_S01",
+        "ATL32_S05"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_E18",
+      "a": "attuma",
+      "b": "marrina",
+      "scope": "Alpha Flight (1983) #30-70 / Avengers (1963) #272 crossover era",
+      "observation": "Attuma abducts Marrina, Namor's wife, prompting Alpha Flight and Avengers to intervene.",
+      "source_ids": [
+        "ATL32_S01",
+        "ATL32_S08"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616"
+    }
+  ],
+  "claims": [
+    {
+      "id": "ATL32_C01",
+      "from_id": "fen",
+      "to_id": "leonard_mckenzie",
+      "dimension": "romance",
+      "event_ids": [
+        "ATL32_E01"
+      ],
+      "fact": "Fen falls in love with and marries Leonard.",
+      "interpretation": "The marriage crosses the undersea/surface political divide.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C02",
+      "from_id": "leonard_mckenzie",
+      "to_id": "fen",
+      "dimension": "romance",
+      "event_ids": [
+        "ATL32_E01"
+      ],
+      "fact": "Leonard and Fen marry and become Namor's parents.",
+      "interpretation": "Reciprocal marital status is documented; private motivations are not.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C03",
+      "from_id": "fen",
+      "to_id": "namor",
+      "dimension": "family",
+      "event_ids": [
+        "ATL32_E02"
+      ],
+      "fact": "Fen is Namor's mother; they take opposing sides concerning a wartime Nazi alliance.",
+      "interpretation": "Kinship does not establish political agreement; no private argument is documented.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C04",
+      "from_id": "thakorr",
+      "to_id": "fen",
+      "dimension": "family",
+      "event_ids": [
+        "ATL32_E03"
+      ],
+      "fact": "Thakorr is Fen's father and intended to investigate the surface crisis before she went herself.",
+      "interpretation": "Different actions do not prove a personal rupture.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C05",
+      "from_id": "namora",
+      "to_id": "namor",
+      "dimension": "cooperation",
+      "event_ids": [
+        "ATL32_E04"
+      ],
+      "fact": "Namora joins Namor against Stomp Richards's gang and subsequently partners with him.",
+      "interpretation": "Their later political disagreement does not erase this earlier cooperation.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C06",
+      "from_id": "namora",
+      "to_id": "namor",
+      "dimension": "romance",
+      "event_ids": [
+        "ATL32_E05"
+      ],
+      "fact": "Namora and Namor acknowledge attraction and consider marriage, then abandon the plan.",
+      "interpretation": "Tulem's manipulation creates uncertainty about how freely their attraction developed.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C07",
+      "from_id": "namora",
+      "to_id": "namor",
+      "dimension": "conflict",
+      "event_ids": [
+        "ATL32_E06"
+      ],
+      "fact": "Namora leads resistance against Namor's authoritarian course during Secret Empire.",
+      "interpretation": "Event-scoped political opposition; not permanent hatred.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C08",
+      "from_id": "namor",
+      "to_id": "namora",
+      "dimension": "coercion",
+      "event_ids": [
+        "ATL32_E06"
+      ],
+      "fact": "Namor captures Namora and nearly executes her before relenting.",
+      "interpretation": "The coercive act coexists with their prior partnership and attraction.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C09",
+      "from_id": "namora",
+      "to_id": "namorita",
+      "dimension": "family",
+      "event_ids": [
+        "ATL32_E07"
+      ],
+      "fact": "Namorita is Namora's clone-daughter and was raised under her care.",
+      "interpretation": "Clone-derived kinship is not ordinary biological parentage; do not merge identities.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C10",
+      "from_id": "llyra",
+      "to_id": "namora",
+      "dimension": "conflict",
+      "event_ids": [
+        "ATL32_E08"
+      ],
+      "fact": "Llyra poisons Namora during rivalry over Prince Merro.",
+      "interpretation": "The attack produces suspended animation rather than confirmed permanent death.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C11",
+      "from_id": "namor",
+      "to_id": "dorma",
+      "dimension": "romance",
+      "event_ids": [
+        "ATL32_E09"
+      ],
+      "fact": "Namor and Dorma are long-standing lovers and intend to marry.",
+      "interpretation": "Legal status of the interrupted wedding is inconsistently summarized by Marvel.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C12",
+      "from_id": "llyra",
+      "to_id": "dorma",
+      "dimension": "conflict",
+      "event_ids": [
+        "ATL32_E10"
+      ],
+      "fact": "Llyra impersonates Dorma and subsequently kills her.",
+      "interpretation": "A documented lethal act; specific internal motives need original panels.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C13",
+      "from_id": "krang",
+      "to_id": "dorma",
+      "dimension": "romance",
+      "event_ids": [
+        "ATL32_E11"
+      ],
+      "fact": "Krang and Dorma begin a relationship while Namor is absent; it ends when he returns.",
+      "interpretation": "Historical relationship; not evidence of ongoing affection or coercion.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C14",
+      "from_id": "krang",
+      "to_id": "namor",
+      "dimension": "conflict",
+      "event_ids": [
+        "ATL32_E12"
+      ],
+      "fact": "Krang attempts to depose Namor and later conspires with other challengers.",
+      "interpretation": "Political competition is documented; personal hatred is not required.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C15",
+      "from_id": "byrrah",
+      "to_id": "namor",
+      "dimension": "conflict",
+      "event_ids": [
+        "ATL32_E13"
+      ],
+      "fact": "Byrrah agitates against Namor's restraint and seeks/occupies the Atlantean throne.",
+      "interpretation": "Cousinship and succession rivalry coexist; precise historical retellings vary.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C16",
+      "from_id": "attuma",
+      "to_id": "namor",
+      "dimension": "conflict",
+      "event_ids": [
+        "ATL32_E14"
+      ],
+      "fact": "Attuma repeatedly seizes or attempts to seize Namor's throne.",
+      "interpretation": "An enduring political rivalry, not evidence every encounter is hostile.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C17",
+      "from_id": "namor",
+      "to_id": "attuma",
+      "dimension": "cooperation",
+      "event_ids": [
+        "ATL32_E15"
+      ],
+      "fact": "Namor and Attuma join Dorma in an attempt to save Atlantis from the Dark Tide.",
+      "interpretation": "Specific cooperation despite previous and later rivalry.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C18",
+      "from_id": "attuma",
+      "to_id": "andromeda",
+      "dimension": "family",
+      "event_ids": [
+        "ATL32_E16"
+      ],
+      "fact": "Andromeda is Attuma's daughter and later serves with the Defenders and Namor's council.",
+      "interpretation": "Different affiliations do not by themselves prove a father-daughter feud.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C19",
+      "from_id": "namor",
+      "to_id": "marrina",
+      "dimension": "romance",
+      "event_ids": [
+        "ATL32_E17"
+      ],
+      "fact": "Namor and Marrina marry; he later strikes her down when she transforms into Leviathan.",
+      "interpretation": "Marriage and later lethal force must be chronologically distinguished; survival status is unsettled.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ATL32_C20",
+      "from_id": "attuma",
+      "to_id": "marrina",
+      "dimension": "coercion",
+      "event_ids": [
+        "ATL32_E18"
+      ],
+      "fact": "Attuma abducts Marrina, prompting a rescue by Alpha Flight and Avengers.",
+      "interpretation": "Abduction is a direct coercive act, not a voluntary alliance.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    }
+  ],
+  "review": {
+    "primary_panels_reviewed": false,
+    "identity_check": "GitHub canonical snapshot verified",
+    "unmerged_batch_deduplication": "pending",
+    "uncertainties": [
+      "Namora and Namorita are separate people; Namorita is a clone-daughter, not an alias.",
+      "Marvel publisher summaries conflict over whether Namor and Dorma's disrupted 1971 wedding legally constituted marriage.",
+      "Marvel's 1950s and 1970s Atlantean histories use retrospective chronology; individual panel verification pending.",
+      "Andromeda's membership in the Defenders and service on Namor's council do not independently establish hostility toward her father.",
+      "Marrina's apparent death and subsequent survival are retcon-sensitive; do not encode permanent death.",
+      "The 2020-21 King in Black: Namor story includes earlier-life material; exact in-universe time of the Dark Tide event needs panel review."
+    ],
+    "committed": 0,
+    "proposed_new_people": 12,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 20,
+    "events": 18,
+    "official_marvel_sources": 9,
+    "canonical_person_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "local_cross_references_validated": true
+  }
+}
