@@ -1,0 +1,672 @@
+{
+  "batch_id": "DARK31_20261020",
+  "status": "UNCOMMITTED / awaiting periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "community": "Mystical / Darkhold Redeemers / Midnight Sons / supernatural science",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "2623b6cecc2f60f2c843cebd515ccaaf2b4565f6",
+    "people": 238,
+    "events": 352,
+    "claims": 422
+  },
+  "people": [
+    {
+      "id": "victoria_montesi",
+      "name": "Victoria Montesi",
+      "alias": "Darkhold Redeemer",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "louise_hastings",
+      "name": "Louise Hastings",
+      "alias": "Professor / Darkhold Redeemer",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jinx_hastings",
+      "name": "Jinx (William Hastings; name provisional)",
+      "alias": "Jinx",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "modred_mystic",
+      "name": "Modred",
+      "alias": "Modred the Mystic",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "morbius",
+      "name": "Michael Morbius",
+      "alias": "Morbius the Living Vampire",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "emil_nikos",
+      "name": "Emil Nikos",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "martine_bancroft",
+      "name": "Martine Bancroft",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "baron_blood_falsworth",
+      "name": "John Falsworth",
+      "alias": "Baron Blood",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jack_russell",
+      "name": "Jack Russell",
+      "alias": "Werewolf by Night",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "marie_laveau",
+      "name": "Marie Laveau",
+      "alias": "Voodoo Queen",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "victor_strange",
+      "name": "Victor Strange",
+      "alias": "Khiron / Baron Blood (Victor Strange)",
+      "continuity": "Earth-616"
+    }
+  ],
+  "reused_canonical_ids": [
+    "strange",
+    "frank"
+  ],
+  "sources": [
+    {
+      "id": "DARK31_20261020_S01",
+      "title": "Darkhold: Pages from the Book of Sins (1992) #9",
+      "url": "https://www.marvel.com/comics/issue/73581/darkhold_pages_from_the_book_of_sins_1992_9",
+      "tier": "official_issue_synopsis"
+    },
+    {
+      "id": "DARK31_20261020_S02",
+      "title": "Darkhold: Pages from the Book of Sins (1992) #6",
+      "url": "https://www.marvel.com/comics/issue/73578/darkhold_pages_from_the_book_of_sins_1992_6",
+      "tier": "official_issue_synopsis"
+    },
+    {
+      "id": "DARK31_20261020_S03",
+      "title": "Darkhold: Pages from the Book of Sins Complete Collection",
+      "url": "https://www.marvel.com/comics/issue/70406/metrics/aggregate",
+      "tier": "official_collection_synopsis"
+    },
+    {
+      "id": "DARK31_20261020_S04",
+      "title": "Morbius in Comics History",
+      "url": "https://www.marvel.com/characters/morbius/in-comics",
+      "tier": "official_publisher_character_history"
+    },
+    {
+      "id": "DARK31_20261020_S05",
+      "title": "Werewolf by Night Character History",
+      "url": "https://www.marvel.com/characters/werewolf-by-night",
+      "tier": "official_publisher_character_history"
+    },
+    {
+      "id": "DARK31_20261020_S06",
+      "title": "Clea in Comics History",
+      "url": "https://www.marvel.com/characters/clea/in-comics",
+      "tier": "official_publisher_character_history"
+    },
+    {
+      "id": "DARK31_20261020_S07",
+      "title": "Morbius: Bond of Blood (2021) #1",
+      "url": "https://www.marvel.com/comics/issue/92987/MORBIUS_BOND_OF_BLOOD_1",
+      "tier": "official_issue_synopsis"
+    },
+    {
+      "id": "DARK31_20261020_S08",
+      "title": "Rise of the Midnight Sons Collection",
+      "url": "https://www.marvel.com/comics/collection/57981/spirits_of_vengeance_rise_of_the_midnight_sons_2016",
+      "tier": "official_collection_synopsis"
+    },
+    {
+      "id": "DARK31_20261020_S09",
+      "title": "The Darkhold Official Reading Guide",
+      "url": "https://www.marvel.com/comics/guides/593/the-darkhold",
+      "tier": "official_reading_guide"
+    },
+    {
+      "id": "DARK31_20261020_S10",
+      "title": "Marvel Monsters Official Reading Guide",
+      "url": "https://www.marvel.com/comics/discover/309/monster-metropolis",
+      "tier": "official_reading_guide"
+    },
+    {
+      "id": "DARK31_20261020_S11",
+      "title": "Morbius Bond of Blood preview",
+      "url": "https://www.marvel.com/articles/comics/look-inside-ralph-macchio-and-tom-reilly-s-morbius-bond-of-blood-1",
+      "tier": "official_publisher_editorial"
+    }
+  ],
+  "events": [
+    {
+      "id": "DARK31_20261020_E01",
+      "a": "louise_hastings",
+      "b": "jinx_hastings",
+      "scope": "Darkhold: Pages from the Book of Sins (1992) #9",
+      "observation": "Marvel identifies Jinx as Louise Hastings’ grandson.",
+      "source_ids": [
+        "DARK31_20261020_S01"
+      ],
+      "qualification": "Family identification; no caregiving behavior inferred.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E02",
+      "a": "jinx_hastings",
+      "b": "victoria_montesi",
+      "scope": "Darkhold: Pages from the Book of Sins (1992) #9",
+      "observation": "Jinx lends occult expertise to Victoria Montesi’s cause.",
+      "source_ids": [
+        "DARK31_20261020_S01"
+      ],
+      "qualification": "Concrete assistance; no claim of enduring loyalty.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E03",
+      "a": "modred_mystic",
+      "b": "strange",
+      "scope": "Darkhold: Pages from the Book of Sins (1992) #6",
+      "observation": "Doctor Strange and Modred engage in a magical duel extending to Maui.",
+      "source_ids": [
+        "DARK31_20261020_S02"
+      ],
+      "qualification": "Combat, not proof of a permanent feud.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E04",
+      "a": "morbius",
+      "b": "louise_hastings",
+      "scope": "Siege of Darkness / Midnight Sons Lilin conflict (1993–1994); exact issue unresolved",
+      "observation": "Morbius, infected and controlled by Lilin bloodlust, kills Louise Hastings.",
+      "source_ids": [
+        "DARK31_20261020_S04"
+      ],
+      "qualification": "The supernatural possession limits inferences about voluntary intent.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E05",
+      "a": "emil_nikos",
+      "b": "morbius",
+      "scope": "Pre-transformation scientific partnership; retold in Morbius: Bond of Blood (2021) #1",
+      "observation": "Emil and Michael are childhood friends and scientific research partners seeking a cure for Michael’s disease.",
+      "source_ids": [
+        "DARK31_20261020_S04",
+        "DARK31_20261020_S07"
+      ],
+      "qualification": "The 2021 issue revisits an earlier Earth-616 event.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E06",
+      "a": "morbius",
+      "b": "emil_nikos",
+      "scope": "Amazing Spider-Man (1963) #101–102 origin era; retold in Morbius: Bond of Blood (2021) #1",
+      "observation": "Michael’s initial vampiric bloodlust kills his research partner Emil.",
+      "source_ids": [
+        "DARK31_20261020_S04",
+        "DARK31_20261020_S07"
+      ],
+      "qualification": "No evidence of deliberate pre-transformation hostility.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E07",
+      "a": "baron_blood_falsworth",
+      "b": "emil_nikos",
+      "scope": "After Emil’s initial death; pre-Midnight Sons era (exact issue unverified)",
+      "observation": "John Falsworth, the original Baron Blood, vampirizes Emil, who later confronts Morbius.",
+      "source_ids": [
+        "DARK31_20261020_S04"
+      ],
+      "qualification": "John Falsworth is not Victor Strange, who also uses the Baron Blood alias.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E08",
+      "a": "morbius",
+      "b": "martine_bancroft",
+      "scope": "Pre-transformation origin through early Morbius era",
+      "observation": "Michael and Martine are engaged; after the experiment he flees rather than risk attacking her.",
+      "source_ids": [
+        "DARK31_20261020_S04"
+      ],
+      "qualification": "Protective motive is publisher-described; later status changes.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E09",
+      "a": "jack_russell",
+      "b": "martine_bancroft",
+      "scope": "Post-Midnight Sons / undead Martine period; exact issue unresolved",
+      "observation": "Jack Russell has an affair with Morbius’ undead former girlfriend Martine.",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "qualification": "Do not infer current relationship or lasting attachment.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E10",
+      "a": "morbius",
+      "b": "jack_russell",
+      "scope": "Werewolf by Night / Legion of Monsters early encounters, pre-Midnight Sons",
+      "observation": "Morbius hunts and fights Jack Russell after an earlier confrontation.",
+      "source_ids": [
+        "DARK31_20261020_S04",
+        "DARK31_20261020_S05"
+      ],
+      "qualification": "Historical conflict only.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E11",
+      "a": "jack_russell",
+      "b": "morbius",
+      "scope": "Midnight Sons / post-Switchblade era (1990s)",
+      "observation": "Marvel identifies Jack as befriending the demon-possessed Morbius.",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "qualification": "Later friendship does not erase earlier attacks.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E12",
+      "a": "marie_laveau",
+      "b": "morbius",
+      "scope": "Doctor Strange / Marie Laveau vampire-resurrection storyline, pre-Midnight Sons (exact issue unverified)",
+      "observation": "Marie Laveau attempts to exploit Morbius’ altered blood to maintain her youth, but it proves unsuitable.",
+      "source_ids": [
+        "DARK31_20261020_S04"
+      ],
+      "qualification": "Instrumental motive documented; no reciprocal consent established.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E13",
+      "a": "marie_laveau",
+      "b": "victor_strange",
+      "scope": "Doctor Strange / Marie Laveau vampire-resurrection storyline (exact issue unverified)",
+      "observation": "Marie Laveau’s machinations transform Victor Strange into a vampire.",
+      "source_ids": [
+        "DARK31_20261020_S04",
+        "DARK31_20261020_S06"
+      ],
+      "qualification": "Mechanism and degree of Victor’s consent need original-issue review.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E14",
+      "a": "strange",
+      "b": "victor_strange",
+      "scope": "Doctor Strange / Marie Laveau vampire-resurrection storyline",
+      "observation": "Stephen Strange is shocked to discover that the vampire encountered by Morbius is his brother Victor.",
+      "source_ids": [
+        "DARK31_20261020_S04",
+        "DARK31_20261020_S06"
+      ],
+      "qualification": "Family link and discovery; do not infer reconciliation.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E15",
+      "a": "strange",
+      "b": "morbius",
+      "scope": "Siege of Darkness / Midnight Sons Lilin conflict (1993–1994)",
+      "observation": "Doctor Strange helps Morbius overcome a Lilin infestation after Morbius had let Lilin into the Sanctum.",
+      "source_ids": [
+        "DARK31_20261020_S04"
+      ],
+      "qualification": "Aid despite prior damage; no permanent trust claim.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E16",
+      "a": "louise_hastings",
+      "b": "jack_russell",
+      "scope": "Midnight Sons / Switchblade Darkhold spell incident (1990s)",
+      "observation": "Louise breaks Switchblade’s spell, reviving Jack after he was slain.",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "qualification": "A specific rescue, not a sustained guardianship.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "DARK31_20261020_E17",
+      "a": "morbius",
+      "b": "frank",
+      "scope": "Punisher (2009) #11 onward / Franken-Castle storyline",
+      "observation": "Morbius reassembles Frank after Daken attack; Frank later assaults Hellsgaard compound to free Morbius, who then uses the Bloodstone to restore Frank after further injury.",
+      "source_ids": [
+        "DARK31_20261020_S04",
+        "DARK31_20261020_S10"
+      ],
+      "qualification": "Medical intervention and resurrection-like repair; not proof Frank welcomed either transformation.",
+      "continuity": "Earth-616",
+      "evidence_tier": "publisher_secondary"
+    }
+  ],
+  "claims": [
+    {
+      "id": "DARK31_20261020_C01",
+      "from_id": "louise_hastings",
+      "to_id": "jinx_hastings",
+      "dimension": "family",
+      "scope": "Darkhold: Pages from the Book of Sins (1992) #9",
+      "fact": "Louise is Jinx’s grandmother.",
+      "interpretation": "The issue synopsis gives kinship, not emotional closeness.",
+      "event_ids": [
+        "DARK31_20261020_E01"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C02",
+      "from_id": "jinx_hastings",
+      "to_id": "victoria_montesi",
+      "dimension": "cooperation",
+      "scope": "Darkhold: Pages from the Book of Sins (1992) #9",
+      "fact": "Jinx lends occult expertise to Victoria.",
+      "interpretation": "Event-scoped practical help.",
+      "event_ids": [
+        "DARK31_20261020_E02"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C03",
+      "from_id": "modred_mystic",
+      "to_id": "strange",
+      "dimension": "conflict",
+      "scope": "Darkhold: Pages from the Book of Sins (1992) #6",
+      "fact": "Modred duels Doctor Strange.",
+      "interpretation": "The duel does not establish an enduring enemy status.",
+      "event_ids": [
+        "DARK31_20261020_E03"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C04",
+      "from_id": "morbius",
+      "to_id": "louise_hastings",
+      "dimension": "conflict",
+      "scope": "Siege of Darkness / Midnight Sons Lilin conflict (1993–1994); exact issue unresolved",
+      "fact": "Morbius kills Louise while under Lilin influence.",
+      "interpretation": "A lethal act with compromised agency, not proof of chosen hostility.",
+      "event_ids": [
+        "DARK31_20261020_E04"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C05",
+      "from_id": "emil_nikos",
+      "to_id": "morbius",
+      "dimension": "friendship",
+      "scope": "Pre-transformation scientific partnership; retold in Morbius: Bond of Blood (2021) #1",
+      "fact": "Emil and Michael are childhood friends and research partners.",
+      "interpretation": "Shared work supplements, rather than substitutes for, the documented friendship.",
+      "event_ids": [
+        "DARK31_20261020_E05"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C06",
+      "from_id": "morbius",
+      "to_id": "emil_nikos",
+      "dimension": "conflict",
+      "scope": "Amazing Spider-Man (1963) #101–102 origin era; retold in Morbius: Bond of Blood (2021) #1",
+      "fact": "Michael kills Emil in his first uncontrolled vampiric attack.",
+      "interpretation": "Not evidence of intentional betrayal before the transformation.",
+      "event_ids": [
+        "DARK31_20261020_E06"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C07",
+      "from_id": "baron_blood_falsworth",
+      "to_id": "emil_nikos",
+      "dimension": "coercion",
+      "scope": "After Emil’s initial death; pre-Midnight Sons era (exact issue unverified)",
+      "fact": "John Falsworth vampirizes Emil.",
+      "interpretation": "The transformation is documented, but consent is not established.",
+      "event_ids": [
+        "DARK31_20261020_E07"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C08",
+      "from_id": "morbius",
+      "to_id": "martine_bancroft",
+      "dimension": "romance",
+      "scope": "Pre-transformation origin through early Morbius era",
+      "fact": "Michael and Martine are engaged before the transformation.",
+      "interpretation": "Historical relationship, not perpetual engagement.",
+      "event_ids": [
+        "DARK31_20261020_E08"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C09",
+      "from_id": "morbius",
+      "to_id": "martine_bancroft",
+      "dimension": "protection",
+      "scope": "Pre-transformation origin through early Morbius era",
+      "fact": "Michael leaves Martine because he fears attacking her.",
+      "interpretation": "Protective intention is documented; abandonment may still harm her.",
+      "event_ids": [
+        "DARK31_20261020_E08"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C10",
+      "from_id": "jack_russell",
+      "to_id": "martine_bancroft",
+      "dimension": "romance",
+      "scope": "Post-Midnight Sons / undead Martine period; exact issue unresolved",
+      "fact": "Jack and undead Martine have an affair.",
+      "interpretation": "Later intimacy does not establish an ongoing partnership.",
+      "event_ids": [
+        "DARK31_20261020_E09"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C11",
+      "from_id": "morbius",
+      "to_id": "jack_russell",
+      "dimension": "conflict",
+      "scope": "Werewolf by Night / Legion of Monsters early encounters, pre-Midnight Sons",
+      "fact": "Morbius hunts and fights Jack.",
+      "interpretation": "Early hostile conduct; later relationship changes.",
+      "event_ids": [
+        "DARK31_20261020_E10"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C12",
+      "from_id": "jack_russell",
+      "to_id": "morbius",
+      "dimension": "friendship",
+      "scope": "Midnight Sons / post-Switchblade era (1990s)",
+      "fact": "Jack later befriends Morbius.",
+      "interpretation": "Later bond; no inference of forgiveness for each earlier incident.",
+      "event_ids": [
+        "DARK31_20261020_E11"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C13",
+      "from_id": "marie_laveau",
+      "to_id": "morbius",
+      "dimension": "conflict",
+      "scope": "Doctor Strange / Marie Laveau vampire-resurrection storyline, pre-Midnight Sons (exact issue unverified)",
+      "fact": "Marie seeks to exploit Morbius’ blood for her own longevity.",
+      "interpretation": "Instrumental exploitation; no threat or physical coercion is independently established.",
+      "event_ids": [
+        "DARK31_20261020_E12"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C14",
+      "from_id": "marie_laveau",
+      "to_id": "victor_strange",
+      "dimension": "influence",
+      "scope": "Doctor Strange / Marie Laveau vampire-resurrection storyline (exact issue unverified)",
+      "fact": "Marie brings about Victor’s vampiric transformation.",
+      "interpretation": "Causation documented; Victor’s agency remains unclear.",
+      "event_ids": [
+        "DARK31_20261020_E13"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C15",
+      "from_id": "strange",
+      "to_id": "victor_strange",
+      "dimension": "family",
+      "scope": "Doctor Strange / Marie Laveau vampire-resurrection storyline",
+      "fact": "Stephen discovers his long-lost brother Victor is a vampire.",
+      "interpretation": "Biological relationship does not imply current closeness.",
+      "event_ids": [
+        "DARK31_20261020_E14"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C16",
+      "from_id": "strange",
+      "to_id": "morbius",
+      "dimension": "protection",
+      "scope": "Siege of Darkness / Midnight Sons Lilin conflict (1993–1994)",
+      "fact": "Strange helps Morbius fight Lilin possession.",
+      "interpretation": "Event-scoped rescue, not blanket endorsement.",
+      "event_ids": [
+        "DARK31_20261020_E15"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C17",
+      "from_id": "louise_hastings",
+      "to_id": "jack_russell",
+      "dimension": "protection",
+      "scope": "Midnight Sons / Switchblade Darkhold spell incident (1990s)",
+      "fact": "Louise breaks the spell and revives Jack.",
+      "interpretation": "A specific intervention rather than ongoing obligation.",
+      "event_ids": [
+        "DARK31_20261020_E16"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C18",
+      "from_id": "morbius",
+      "to_id": "frank",
+      "dimension": "protection",
+      "scope": "Punisher (2009) #11 onward / Franken-Castle storyline",
+      "fact": "Morbius restores Frank’s body after Daken’s attack and later uses the Bloodstone.",
+      "interpretation": "Life-saving action, not evidence of trust or consent.",
+      "event_ids": [
+        "DARK31_20261020_E17"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    },
+    {
+      "id": "DARK31_20261020_C19",
+      "from_id": "frank",
+      "to_id": "morbius",
+      "dimension": "protection",
+      "scope": "Punisher (2009) #11 onward / Franken-Castle storyline",
+      "fact": "Frank attacks Hellsgaard’s compound to rescue Morbius.",
+      "interpretation": "Reciprocal protection in a separate encounter, not proof of friendship.",
+      "event_ids": [
+        "DARK31_20261020_E17"
+      ],
+      "epistemic": "publisher_documented_fact_with_separate_interpretation",
+      "review_status": "Provisional; original panels not reviewed"
+    }
+  ],
+  "identity_warnings": [
+    "John Falsworth (original Baron Blood) and Victor Strange (also called Baron Blood) are distinct Earth-616 individuals; do not merge.",
+    "Jack Russell (Werewolf by Night) is distinct from other Werewolf by Night identities.",
+    "Emil Nikos returns after his original death; do not create separate person IDs for vampiric Emil."
+  ],
+  "research_backlog": [
+    "Confirm precise issues for Louise Hastings’ death and Jack Russell’s resurrection during the Midnight Sons/Siege of Darkness era.",
+    "Confirm original issue placements for Marie Laveau / Victor Strange events and Emil Nikos’ later vampirism.",
+    "Check unmerged batches for identity/pair duplication before manual merge."
+  ],
+  "review": {
+    "primary_panels_reviewed": false,
+    "unmerged_batch_deduplication": "pending",
+    "committed": 0,
+    "proposed_new_people": 11,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 19,
+    "events": 17,
+    "official_marvel_sources": 11,
+    "local_cross_references_validated": true,
+    "canonical_person_collisions": 0,
+    "canonical_pair_collisions": 0
+  }
+}
