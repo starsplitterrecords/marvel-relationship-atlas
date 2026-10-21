@@ -1,0 +1,640 @@
+{
+  "batch_id": "SER59_20261021",
+  "status": "UNCOMMITTED / awaiting user periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+    "people": 305,
+    "events": 454,
+    "claims": 535
+  },
+  "reused_canonical_ids": [
+    "diamondback",
+    "steve"
+  ],
+  "people": [
+    {
+      "id": "sidewinder_seth_voelker",
+      "name": "Seth Voelker",
+      "alias_or_note": "Sidewinder; Roxxon executive",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "black_mamba_tanya_sealy",
+      "name": "Tanya Sealy",
+      "alias_or_note": "Black Mamba",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "asp_cleo_nefertiti",
+      "name": "Cleopatra Nefertiti",
+      "alias_or_note": "Asp",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "bushmaster_quincy_mciver",
+      "name": "Quincy McIver",
+      "alias_or_note": "Bushmaster; younger brother",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "bushmaster_john_mciver",
+      "name": "John McIver",
+      "alias_or_note": "Bushmaster; elder brother; broad atlas c_bushmaster",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "viper_ophelia_sarkissian",
+      "name": "Ophelia Sarkissian",
+      "alias_or_note": "Viper / Madame Hydra",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "king_cobra_klaus_voorhees",
+      "name": "Klaus Voorhees",
+      "alias_or_note": "King Cobra",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "rattler_gustav_krueger",
+      "name": "Gustav Krueger",
+      "alias_or_note": "Rattler",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "paladin_unidentified",
+      "name": "Unidentified",
+      "alias_or_note": "Paladin; civilian identity not established",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "modok_george_tarleton",
+      "name": "George Tarleton",
+      "alias_or_note": "M.O.D.O.K.; A.I.M.",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "death_adder_roland_burroughs",
+      "name": "Roland Burroughs",
+      "alias_or_note": "Death Adder",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "boomslang_serpent",
+      "name": "Unrevealed",
+      "alias_or_note": "Boomslang; distinct from other snake-themed villains",
+      "continuity": "Earth-616"
+    }
+  ],
+  "sources": [
+    {
+      "id": "SER59_20261021_S01",
+      "url": "https://www.marvel.com/characters/black-mamba",
+      "quality": "Marvel-hosted unverified biography"
+    },
+    {
+      "id": "SER59_20261021_S02",
+      "url": "https://www.marvel.com/characters/bushmaster-quincy-mciver",
+      "quality": "Marvel-hosted unverified biography"
+    },
+    {
+      "id": "SER59_20261021_S03",
+      "url": "https://www.marvel.com/characters/rattler",
+      "quality": "Marvel-hosted unverified biography"
+    },
+    {
+      "id": "SER59_20261021_S04",
+      "url": "https://www.marvel.com/characters/boomslang",
+      "quality": "Marvel-hosted unverified biography"
+    },
+    {
+      "id": "SER59_20261021_S05",
+      "url": "https://www.marvel.com/comics/issue/7691/read",
+      "quality": "Marvel issue synopsis; Captain America #310"
+    },
+    {
+      "id": "SER59_20261021_S06",
+      "url": "https://www.marvel.com/comics/issue/60202/captain_america_serpents_unite_2016_1",
+      "quality": "Marvel collection description"
+    },
+    {
+      "id": "SER59_20261021_S07",
+      "url": "https://www.marvel.com/comics/discover/261/m-o-d-o-k",
+      "quality": "Marvel editorial reading guide; Captain America #313"
+    },
+    {
+      "id": "SER59_20261021_S08",
+      "url": "https://www.marvel.com/comics/collection/51561/captain_america_epic_collection_streets_of_poison_trade_paperback",
+      "quality": "Marvel collection description; #372-386"
+    },
+    {
+      "id": "SER59_20261021_S09",
+      "url": "https://my.comics.org/issue/40988/",
+      "quality": "Independent issue index; Captain America #313"
+    },
+    {
+      "id": "SER59_20261021_S10",
+      "url": "https://www.comics.org/issue/922721/",
+      "quality": "Independent issue index; Captain America #342"
+    },
+    {
+      "id": "SER59_20261021_S11",
+      "url": "https://www.comics.org/issue/1309966/?issue_detail=2",
+      "quality": "Independent issue index; Captain America #380"
+    },
+    {
+      "id": "SER59_20261021_S12",
+      "url": "https://www.comics.org/issue/49120/",
+      "quality": "Independent issue index; Captain America #381"
+    },
+    {
+      "id": "SER59_20261021_S13",
+      "url": "https://www.comics.org/issue/49234/",
+      "quality": "Independent issue index; Captain America #382"
+    },
+    {
+      "id": "SER59_20261021_S14",
+      "url": "https://thevirtuesofcaptainamerica.com/2022/03/14/captain-america-381-382-january-february-1991/",
+      "quality": "Independent panel commentary; #381-382"
+    },
+    {
+      "id": "SER59_20261021_S15",
+      "url": "https://nickperon.squarespace.com/captain-america-1980s/captain-america-313",
+      "quality": "Independent detailed issue recap; #313"
+    },
+    {
+      "id": "SER59_20261021_S16",
+      "url": "https://nickperon.squarespace.com/captain-america-1980s/captain-america-342",
+      "quality": "Independent detailed issue recap; #342"
+    },
+    {
+      "id": "SER59_20261021_S17",
+      "url": "https://comicvine.gamespot.com/captain-america-381-this-guns-for-hire/4000-33772/",
+      "quality": "Independent issue recap; #381"
+    }
+  ],
+  "events": [
+    {
+      "id": "SER59_20261021_E01",
+      "a": "black_mamba_tanya_sealy",
+      "b": "asp_cleo_nefertiti",
+      "scope": "Serpent Society; later B.A.D. Girls, Inc. (1980s-1990s)",
+      "documented_observation": "Marvel-hosted biography explicitly calls Black Mamba and Asp friends; they later establish B.A.D. Girls with Diamondback.",
+      "source_ids": [
+        "SER59_20261021_S01"
+      ],
+      "evidence_quality": "publisher_hosted_unverified_biography"
+    },
+    {
+      "id": "SER59_20261021_E02",
+      "a": "black_mamba_tanya_sealy",
+      "b": "diamondback",
+      "scope": "Serpent Society; B.A.D. Girls, Inc. (1980s-1990s)",
+      "documented_observation": "Marvel-hosted biography calls Black Mamba and Diamondback friends and later partners in B.A.D. Girls.",
+      "source_ids": [
+        "SER59_20261021_S01"
+      ],
+      "evidence_quality": "publisher_hosted_unverified_biography"
+    },
+    {
+      "id": "SER59_20261021_E03",
+      "a": "asp_cleo_nefertiti",
+      "b": "diamondback",
+      "scope": "Serpent Society; B.A.D. Girls, Inc. (1990-1991)",
+      "documented_observation": "Asp and Diamondback are among Black Mamba’s stated friends; Diamondback seeks to spare Asp from capture during the #381-382 rescue.",
+      "source_ids": [
+        "SER59_20261021_S01",
+        "SER59_20261021_S14"
+      ],
+      "evidence_quality": "publisher_biography_plus_independent_issue_commentary"
+    },
+    {
+      "id": "SER59_20261021_E04",
+      "a": "black_mamba_tanya_sealy",
+      "b": "sidewinder_seth_voelker",
+      "scope": "Serpent Society founding period, Captain America #310 onward",
+      "documented_observation": "Marvel-hosted Black Mamba biography identifies her as Sidewinder’s lover.",
+      "source_ids": [
+        "SER59_20261021_S01",
+        "SER59_20261021_S05"
+      ],
+      "evidence_quality": "publisher_hosted_unverified_biography"
+    },
+    {
+      "id": "SER59_20261021_E05",
+      "a": "sidewinder_seth_voelker",
+      "b": "bushmaster_quincy_mciver",
+      "scope": "Serpent Society recruitment, before Captain America #310",
+      "documented_observation": "Sidewinder recruits Quincy to the Serpent Society; Quincy accepts, hoping to belong among similarly altered people.",
+      "source_ids": [
+        "SER59_20261021_S02",
+        "SER59_20261021_S05",
+        "SER59_20261021_S06"
+      ],
+      "evidence_quality": "publisher_hosted_unverified_biography"
+    },
+    {
+      "id": "SER59_20261021_E06",
+      "a": "bushmaster_john_mciver",
+      "b": "bushmaster_quincy_mciver",
+      "scope": "Bushmaster family background, before Captain America #310",
+      "documented_observation": "John is Quincy’s elder brother and harshly trains and intimidates him; Quincy later takes his brother’s criminal name.",
+      "source_ids": [
+        "SER59_20261021_S02"
+      ],
+      "evidence_quality": "publisher_hosted_unverified_biography"
+    },
+    {
+      "id": "SER59_20261021_E07",
+      "a": "modok_george_tarleton",
+      "b": "bushmaster_quincy_mciver",
+      "scope": "Captain America (1968) #313 (1986 cover date)",
+      "documented_observation": "During the Serpent Society pursuit, M.O.D.O.K. destroys Quincy’s cybernetic limbs, gravely injuring him.",
+      "source_ids": [
+        "SER59_20261021_S02",
+        "SER59_20261021_S07",
+        "SER59_20261021_S09",
+        "SER59_20261021_S15"
+      ],
+      "evidence_quality": "publisher_biography_plus_independent_issue_recap"
+    },
+    {
+      "id": "SER59_20261021_E08",
+      "a": "diamondback",
+      "b": "bushmaster_quincy_mciver",
+      "scope": "Captain America (1968) #313 and aftermath",
+      "documented_observation": "Diamondback pulls the badly injured Quincy to safety; Marvel-hosted biography states he subsequently respects her and regards her as almost a friend.",
+      "source_ids": [
+        "SER59_20261021_S02",
+        "SER59_20261021_S15"
+      ],
+      "evidence_quality": "publisher_biography_plus_independent_issue_recap"
+    },
+    {
+      "id": "SER59_20261021_E09",
+      "a": "viper_ophelia_sarkissian",
+      "b": "sidewinder_seth_voelker",
+      "scope": "Captain America (1968) #341-342 (1988)",
+      "documented_observation": "Viper launches a takeover of Sidewinder’s organization, poisons him and coerces members to change allegiance.",
+      "source_ids": [
+        "SER59_20261021_S02",
+        "SER59_20261021_S10",
+        "SER59_20261021_S16"
+      ],
+      "evidence_quality": "publisher_biography_plus_independent_issue_recap"
+    },
+    {
+      "id": "SER59_20261021_E10",
+      "a": "rattler_gustav_krueger",
+      "b": "viper_ophelia_sarkissian",
+      "scope": "Captain America (1968) #341-344 (1988)",
+      "documented_observation": "Rattler changes sides during Viper’s coup, then regrets supporting her after her defeat.",
+      "source_ids": [
+        "SER59_20261021_S03",
+        "SER59_20261021_S10"
+      ],
+      "evidence_quality": "publisher_hosted_unverified_biography"
+    },
+    {
+      "id": "SER59_20261021_E11",
+      "a": "king_cobra_klaus_voorhees",
+      "b": "diamondback",
+      "scope": "Captain America (1968) #380-382 (1990-1991)",
+      "documented_observation": "Under King Cobra’s leadership the Society tries Diamondback for her involvement with Steve Rogers, condemns her, and pursues her escape.",
+      "source_ids": [
+        "SER59_20261021_S02",
+        "SER59_20261021_S08",
+        "SER59_20261021_S11",
+        "SER59_20261021_S12",
+        "SER59_20261021_S14"
+      ],
+      "evidence_quality": "publisher_biography_plus_independent_issue_index_and_commentary"
+    },
+    {
+      "id": "SER59_20261021_E12",
+      "a": "sidewinder_seth_voelker",
+      "b": "diamondback",
+      "scope": "Captain America (1968) #380-381 (1990-1991)",
+      "documented_observation": "Former leader Sidewinder teleports Diamondback away before her planned execution.",
+      "source_ids": [
+        "SER59_20261021_S11",
+        "SER59_20261021_S14"
+      ],
+      "evidence_quality": "independent_issue_commentary"
+    },
+    {
+      "id": "SER59_20261021_E13",
+      "a": "death_adder_roland_burroughs",
+      "b": "modok_george_tarleton",
+      "scope": "Captain America (1968) #313 (1986 cover date)",
+      "documented_observation": "Death Adder and Cottonmouth assault M.O.D.O.K.; their attack contributes to his death.",
+      "source_ids": [
+        "SER59_20261021_S06",
+        "SER59_20261021_S07",
+        "SER59_20261021_S09",
+        "SER59_20261021_S15"
+      ],
+      "evidence_quality": "official_guide_confirms_target_independent_recap_identifies_killers"
+    },
+    {
+      "id": "SER59_20261021_E14",
+      "a": "paladin_unidentified",
+      "b": "diamondback",
+      "scope": "Captain America (1968) #381-382 (1991)",
+      "documented_observation": "Diamondback hires Paladin to help retrieve Asp and Black Mamba from the Serpent Society; he participates in the rescue.",
+      "source_ids": [
+        "SER59_20261021_S12",
+        "SER59_20261021_S13",
+        "SER59_20261021_S14",
+        "SER59_20261021_S17"
+      ],
+      "evidence_quality": "independent_issue_index_and_commentary"
+    },
+    {
+      "id": "SER59_20261021_E15",
+      "a": "steve",
+      "b": "boomslang_serpent",
+      "scope": "Serpent Society period after Viper coup; exact issue unresolved",
+      "documented_observation": "After Boomslang flees Captain America and is shot by a group of teenagers, Captain America transports the wounded criminal to a hospital.",
+      "source_ids": [
+        "SER59_20261021_S04"
+      ],
+      "evidence_quality": "publisher_hosted_unverified_biography_issue_unresolved"
+    }
+  ],
+  "claims": [
+    {
+      "id": "SER59_20261021_C01",
+      "from_id": "black_mamba_tanya_sealy",
+      "to_id": "asp_cleo_nefertiti",
+      "dimension": "friendship",
+      "event_ids": [
+        "SER59_20261021_E01"
+      ],
+      "assessment": "historical friendship",
+      "interpretation_or_limit": "Publisher-hosted biography names friendship; durability beyond B.A.D. Girls not assumed.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C02",
+      "from_id": "asp_cleo_nefertiti",
+      "to_id": "black_mamba_tanya_sealy",
+      "dimension": "friendship",
+      "event_ids": [
+        "SER59_20261021_E01"
+      ],
+      "assessment": "historical friendship",
+      "interpretation_or_limit": "Reciprocal friendship is explicitly described, not inferred from co-membership.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C03",
+      "from_id": "black_mamba_tanya_sealy",
+      "to_id": "diamondback",
+      "dimension": "friendship",
+      "event_ids": [
+        "SER59_20261021_E02"
+      ],
+      "assessment": "historical friendship",
+      "interpretation_or_limit": "Historical friendship does not prove agreement with Rachel’s later choices.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C04",
+      "from_id": "diamondback",
+      "to_id": "black_mamba_tanya_sealy",
+      "dimension": "friendship",
+      "event_ids": [
+        "SER59_20261021_E02"
+      ],
+      "assessment": "historical friendship",
+      "interpretation_or_limit": "Reciprocity follows explicit publisher-hosted description, not mere collaboration.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C05",
+      "from_id": "asp_cleo_nefertiti",
+      "to_id": "diamondback",
+      "dimension": "friendship",
+      "event_ids": [
+        "SER59_20261021_E03"
+      ],
+      "assessment": "historical friendship",
+      "interpretation_or_limit": "Friendship described collectively and supported by the later rescue; original panels unreviewed.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C06",
+      "from_id": "diamondback",
+      "to_id": "asp_cleo_nefertiti",
+      "dimension": "protection",
+      "event_ids": [
+        "SER59_20261021_E03"
+      ],
+      "assessment": "event-scoped",
+      "interpretation_or_limit": "Rachel’s rescue request is a protective action, not permanent guardianship.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C07",
+      "from_id": "black_mamba_tanya_sealy",
+      "to_id": "sidewinder_seth_voelker",
+      "dimension": "romance",
+      "event_ids": [
+        "SER59_20261021_E04"
+      ],
+      "assessment": "historical romance",
+      "interpretation_or_limit": "Historical lovers; no present-day romantic status inferred.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C08",
+      "from_id": "sidewinder_seth_voelker",
+      "to_id": "black_mamba_tanya_sealy",
+      "dimension": "romance",
+      "event_ids": [
+        "SER59_20261021_E04"
+      ],
+      "assessment": "historical romance",
+      "interpretation_or_limit": "Lover relationship described by Marvel-hosted biography; personal feelings not separately documented.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C09",
+      "from_id": "sidewinder_seth_voelker",
+      "to_id": "bushmaster_quincy_mciver",
+      "dimension": "professional",
+      "event_ids": [
+        "SER59_20261021_E05"
+      ],
+      "assessment": "historical recruitment",
+      "interpretation_or_limit": "Recruitment into a criminal employer organization; not evidence of personal affection.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C10",
+      "from_id": "bushmaster_john_mciver",
+      "to_id": "bushmaster_quincy_mciver",
+      "dimension": "coercion",
+      "event_ids": [
+        "SER59_20261021_E06"
+      ],
+      "assessment": "historical coercion",
+      "interpretation_or_limit": "Abusive intimidation by older brother; Quincy’s later adoption of name does not establish admiration.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C11",
+      "from_id": "bushmaster_quincy_mciver",
+      "to_id": "bushmaster_john_mciver",
+      "dimension": "family",
+      "event_ids": [
+        "SER59_20261021_E06"
+      ],
+      "assessment": "biological siblings",
+      "interpretation_or_limit": "Younger-brother kinship documented; emotional attitude remains uncertain.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C12",
+      "from_id": "modok_george_tarleton",
+      "to_id": "bushmaster_quincy_mciver",
+      "dimension": "conflict",
+      "event_ids": [
+        "SER59_20261021_E07"
+      ],
+      "assessment": "event-scoped",
+      "interpretation_or_limit": "Lethal-force defense during pursuit, not proof of pre-existing personal vendetta.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C13",
+      "from_id": "diamondback",
+      "to_id": "bushmaster_quincy_mciver",
+      "dimension": "protection",
+      "event_ids": [
+        "SER59_20261021_E08"
+      ],
+      "assessment": "event-scoped",
+      "interpretation_or_limit": "A rescue with subsequent documented gratitude; no permanent protection duty inferred.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C14",
+      "from_id": "viper_ophelia_sarkissian",
+      "to_id": "sidewinder_seth_voelker",
+      "dimension": "coercion",
+      "event_ids": [
+        "SER59_20261021_E09"
+      ],
+      "assessment": "event-scoped",
+      "interpretation_or_limit": "Coup and poisoning are direct hostile acts; their earlier relationship is not inferred.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C15",
+      "from_id": "rattler_gustav_krueger",
+      "to_id": "viper_ophelia_sarkissian",
+      "dimension": "cooperation",
+      "event_ids": [
+        "SER59_20261021_E10"
+      ],
+      "assessment": "event-scoped",
+      "interpretation_or_limit": "Temporary support for coup followed by regret, not durable ideological alignment.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C16",
+      "from_id": "king_cobra_klaus_voorhees",
+      "to_id": "diamondback",
+      "dimension": "coercion",
+      "event_ids": [
+        "SER59_20261021_E11"
+      ],
+      "assessment": "event-scoped",
+      "interpretation_or_limit": "Criminal trial and threatened execution; does not imply legitimate legal jurisdiction.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C17",
+      "from_id": "sidewinder_seth_voelker",
+      "to_id": "diamondback",
+      "dimension": "protection",
+      "event_ids": [
+        "SER59_20261021_E12"
+      ],
+      "assessment": "event-scoped",
+      "interpretation_or_limit": "Intervention before execution; no inference that he approves of her romance with Steve.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C18",
+      "from_id": "death_adder_roland_burroughs",
+      "to_id": "modok_george_tarleton",
+      "dimension": "conflict",
+      "event_ids": [
+        "SER59_20261021_E13"
+      ],
+      "assessment": "event-scoped",
+      "interpretation_or_limit": "Direct lethal attack, with Cottonmouth also involved; do not credit Death Adder alone.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C19",
+      "from_id": "diamondback",
+      "to_id": "paladin_unidentified",
+      "dimension": "professional",
+      "event_ids": [
+        "SER59_20261021_E14"
+      ],
+      "assessment": "event-scoped",
+      "interpretation_or_limit": "Mercenary engagement for a defined rescue, not ongoing employment.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C20",
+      "from_id": "paladin_unidentified",
+      "to_id": "diamondback",
+      "dimension": "protection",
+      "event_ids": [
+        "SER59_20261021_E14"
+      ],
+      "assessment": "event-scoped",
+      "interpretation_or_limit": "Participation in a paid rescue; does not prove personal affection.",
+      "epistemic": "inference_separated_from_observation"
+    },
+    {
+      "id": "SER59_20261021_C21",
+      "from_id": "steve",
+      "to_id": "boomslang_serpent",
+      "dimension": "protection",
+      "event_ids": [
+        "SER59_20261021_E15"
+      ],
+      "assessment": "event-scoped",
+      "interpretation_or_limit": "One rescue of a fleeing opponent; not proof of friendship or reform. Exact issue unresolved.",
+      "epistemic": "inference_separated_from_observation"
+    }
+  ],
+  "identity_warnings": [
+    "Broad atlas c_bushmaster is John McIver; Quincy McIver is a distinct later Bushmaster. Do not merge.",
+    "Broad atlas c_viper matches Ophelia Sarkissian; c_paladin has an unidentified civilian identity.",
+    "All new identities are absent from relationship_pilot as of cited SHA; some already exist in broad atlas."
+  ],
+  "evidence_limits": [
+    "Marvel-hosted biographies S01-S04 explicitly carry a crowd-sourced/unverified disclaimer.",
+    "Issue listings and independent recaps are not direct panel review.",
+    "Boomslang rescue issue number not independently resolved; retain tentative status.",
+    "Deduplication against all uncommitted batches is not independently verified."
+  ],
+  "validation": {
+    "new_people": 12,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 21,
+    "events": 15,
+    "official_marvel_sources": 8,
+    "committed": 0
+  }
+}
