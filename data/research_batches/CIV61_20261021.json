@@ -1,0 +1,739 @@
+{
+  "batch_id": "CIV61_20261021",
+  "status": "UNCOMMITTED / awaiting manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_repository": "starsplitterrecords/marvel-relationship-atlas",
+  "canonical_blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+  "reused_canonical_ids": [
+    "hank_pym",
+    "janet",
+    "peter",
+    "steve"
+  ],
+  "people": [
+    {
+      "id": "tony_stark",
+      "name": "Tony Stark",
+      "alias": "Iron Man",
+      "sector": "Avengers / industry",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "maria_hill",
+      "name": "Maria Hill",
+      "alias": "S.H.I.E.L.D. director and deputy",
+      "sector": "Espionage / government",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "henry_peter_gyrich",
+      "name": "Henry Peter Gyrich",
+      "alias": "Federal Avengers liaison",
+      "sector": "Government",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "edwin_jarvis",
+      "name": "Edwin Jarvis",
+      "alias": "Stark and Avengers household steward",
+      "sector": "Civilian / Avengers",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "bill_foster",
+      "name": "Bill Foster",
+      "alias": "Goliath / Giant-Man; biochemist",
+      "sector": "Science / Avengers",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "john_walker",
+      "name": "John F. Walker",
+      "alias": "U.S.Agent; former Captain America",
+      "sector": "Government / Avengers",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "lemar_hoskins",
+      "name": "Lemar Hoskins",
+      "alias": "Battlestar",
+      "sector": "Government / supporting",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "valerie_cooper",
+      "name": "Valerie Cooper",
+      "alias": "Commission on Superhuman Activities official",
+      "sector": "Government / mutant affairs",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "curtiss_jackson",
+      "name": "Curtiss Jackson",
+      "alias": "Power Broker",
+      "sector": "Villains / industry",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "sam_wilson",
+      "name": "Sam Wilson",
+      "alias": "Falcon / Captain America; not Samuel Chung",
+      "sector": "Avengers / civic",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "james_rhodes",
+      "name": "James Rhodes",
+      "alias": "War Machine",
+      "sector": "Avengers / military",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ethan_thurm",
+      "name": "Ethan Thurm",
+      "alias": "Talent agent to John Walker",
+      "sector": "Civilian / political media",
+      "continuity": "Earth-616"
+    }
+  ],
+  "sources": [
+    {
+      "id": "CIV61_20261021_S01",
+      "title": "Civil War #3 facsimile synopsis",
+      "url": "https://www.marvel.com/comics/issue/132024/civil_war_facsimile_edition_2025_3_variant/variant",
+      "evidence_tier": "official_issue"
+    },
+    {
+      "id": "CIV61_20261021_S02",
+      "title": "Five Biggest Betrayals in Marvel History",
+      "url": "https://www.marvel.com/articles/comics/secret-empire-stabbed-in-the-back",
+      "evidence_tier": "official_editorial"
+    },
+    {
+      "id": "CIV61_20261021_S03",
+      "title": "Maria Hill comics history",
+      "url": "https://www.marvel.com/articles/comics/maria-hill-shield-history-in-the-comics",
+      "evidence_tier": "official_editorial"
+    },
+    {
+      "id": "CIV61_20261021_S04",
+      "title": "S.H.I.E.L.D. reading guide",
+      "url": "https://www.marvel.com/comics/discover/315/shield",
+      "evidence_tier": "official_reading_guide"
+    },
+    {
+      "id": "CIV61_20261021_S05",
+      "title": "Avengers comics history",
+      "url": "https://www.marvel.com/teams-and-groups/avengers/in-comics",
+      "evidence_tier": "official_biography"
+    },
+    {
+      "id": "CIV61_20261021_S06",
+      "title": "Marvel Masterworks Avengers Vol. 18",
+      "url": "https://www.marvel.com/comics/collection/66777/marvel_masterworks_the_avengers_vol_18_trade_paperback",
+      "evidence_tier": "official_collection"
+    },
+    {
+      "id": "CIV61_20261021_S07",
+      "title": "Scott and Cassie Lang reading guide, Avengers #181 entry",
+      "url": "https://share.marvel.com/comics/discover/2359/scott-and-cassie-lang",
+      "evidence_tier": "official_reading_guide"
+    },
+    {
+      "id": "CIV61_20261021_S08",
+      "title": "Bill Foster / Giant-Man reading guide",
+      "url": "https://www.marvel.com/comics/discover/973/bill-foster-giant-man",
+      "evidence_tier": "official_reading_guide"
+    },
+    {
+      "id": "CIV61_20261021_S09",
+      "title": "U.S.Agent comics biography",
+      "url": "https://www.marvel.com/characters/u-s-agent/in-comics",
+      "evidence_tier": "official_biography"
+    },
+    {
+      "id": "CIV61_20261021_S10",
+      "title": "Captain America: Sam Wilson #13",
+      "url": "https://www.marvel.com/comics/issue/56567/captain_america_sam_wilson_2015_13",
+      "evidence_tier": "official_issue"
+    },
+    {
+      "id": "CIV61_20261021_S11",
+      "title": "Iron Man: War Machine collection",
+      "url": "https://www.marvel.com/comics/collection/21309/iron_man_war_machine_tpb_trade_paperback",
+      "evidence_tier": "official_collection"
+    },
+    {
+      "id": "CIV61_20261021_S12",
+      "title": "Avengers #181 recap / roster selection",
+      "url": "https://www.keycollectorcomics.com/issue/avengers-1-181%2C27039/",
+      "evidence_tier": "independent_issue_summary"
+    },
+    {
+      "id": "CIV61_20261021_S13",
+      "title": "Captain America: Sam Wilson Civil War II collection",
+      "url": "https://www.marvel.com/comics/collection/60201/captain_america_sam_wilson_vol_3_-_civil_war_ii_trade_paperback",
+      "evidence_tier": "official_collection"
+    }
+  ],
+  "events": [
+    {
+      "id": "CIV61_20261021_E01",
+      "a": "tony_stark",
+      "b": "steve",
+      "issue": "Civil War (2006) #1-7",
+      "observation": "Tony supports the Superhuman Registration Act while Steve opposes it and leads anti-registration resistance.",
+      "source_ids": [
+        "CIV61_20261021_S01",
+        "CIV61_20261021_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E02",
+      "a": "tony_stark",
+      "b": "peter",
+      "issue": "Civil War (2006) #2-5 and tie-ins",
+      "observation": "Peter publicly unmasks in support of Tony, then objects after discovering the Negative Zone prison; Tony responds by pursuing Peter through villainous agents.",
+      "source_ids": [
+        "CIV61_20261021_S02",
+        "CIV61_20261021_S01"
+      ],
+      "evidence_tier": "publisher_editorial",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E03",
+      "a": "maria_hill",
+      "b": "tony_stark",
+      "issue": "Civil War (2006) #7; Invincible Iron Man (2004) #15",
+      "observation": "Maria supports Tony becoming S.H.I.E.L.D. director and serves as his deputy after Civil War.",
+      "source_ids": [
+        "CIV61_20261021_S03",
+        "CIV61_20261021_S04"
+      ],
+      "evidence_tier": "publisher_editorial",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E04",
+      "a": "tony_stark",
+      "b": "edwin_jarvis",
+      "issue": "Avengers (1963) founding era and continuing mansion service",
+      "observation": "Jarvis, who had served the Stark household since Tony was young, remains steward when Tony gives the mansion to the Avengers.",
+      "source_ids": [
+        "CIV61_20261021_S05"
+      ],
+      "evidence_tier": "publisher_biography",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E05",
+      "a": "james_rhodes",
+      "b": "tony_stark",
+      "issue": "Iron Man (1968) #280-291, 1992-1993",
+      "observation": "Rhodes, described by Marvel as Tony’s friend and employee, takes up the War Machine armor after Tony apparently dies.",
+      "source_ids": [
+        "CIV61_20261021_S11"
+      ],
+      "evidence_tier": "publisher_collection",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E06",
+      "a": "maria_hill",
+      "b": "steve",
+      "issue": "Civil War (2006) #1",
+      "observation": "Maria Hill orders S.H.I.E.L.D. force against Steve Rogers when he rejects registration.",
+      "source_ids": [
+        "CIV61_20261021_S04"
+      ],
+      "evidence_tier": "publisher_reading_guide",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E07",
+      "a": "maria_hill",
+      "b": "john_walker",
+      "issue": "2020 Force Works (2020) #1-3",
+      "observation": "Maria disbands Force Works after the team fails to retrieve Deathlok data; John retains data capable of wiping the cache.",
+      "source_ids": [
+        "CIV61_20261021_S09"
+      ],
+      "evidence_tier": "publisher_biography",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E08",
+      "a": "henry_peter_gyrich",
+      "b": "janet",
+      "issue": "Avengers (1963) #181 (1979)",
+      "observation": "Federal liaison Gyrich imposes a seven-member limit and selects Wasp as one of the retained members.",
+      "source_ids": [
+        "CIV61_20261021_S06",
+        "CIV61_20261021_S07",
+        "CIV61_20261021_S12"
+      ],
+      "evidence_tier": "publisher_plus_independent",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E09",
+      "a": "hank_pym",
+      "b": "bill_foster",
+      "issue": "Avengers (1963) #32 (1966)",
+      "observation": "Hank asks fellow scientist Bill Foster for help when he cannot shrink below ten feet.",
+      "source_ids": [
+        "CIV61_20261021_S08"
+      ],
+      "evidence_tier": "publisher_reading_guide",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E10",
+      "a": "john_walker",
+      "b": "lemar_hoskins",
+      "issue": "Captain America (1968) #323-333, 1986-1987",
+      "observation": "Walker and Hoskins are army bunkmates and close friends; Hoskins remains his partner when he assumes the Captain America mantle.",
+      "source_ids": [
+        "CIV61_20261021_S09"
+      ],
+      "evidence_tier": "publisher_biography",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E11",
+      "a": "valerie_cooper",
+      "b": "john_walker",
+      "issue": "Captain America (1968) #333-350 era, 1987-1989",
+      "observation": "Val Cooper recommends Walker as Rogers’s replacement and directly supervises Walker and Hoskins during training.",
+      "source_ids": [
+        "CIV61_20261021_S09"
+      ],
+      "evidence_tier": "publisher_biography",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E12",
+      "a": "curtiss_jackson",
+      "b": "john_walker",
+      "issue": "Captain America (1968) #323-333 backstory",
+      "observation": "Power Broker Curtiss Jackson offers Walker and his companions paid enhancement treatments, which they accept.",
+      "source_ids": [
+        "CIV61_20261021_S09"
+      ],
+      "evidence_tier": "publisher_biography",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E13",
+      "a": "john_walker",
+      "b": "sam_wilson",
+      "issue": "Captain America: Sam Wilson (2015) #12-13 (2016)",
+      "observation": "Walker challenges Sam Wilson’s right to retain the Captain America shield and fights him; Sam wins.",
+      "source_ids": [
+        "CIV61_20261021_S09",
+        "CIV61_20261021_S10",
+        "CIV61_20261021_S13"
+      ],
+      "evidence_tier": "publisher_issue_plus_biography",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E14",
+      "a": "john_walker",
+      "b": "steve",
+      "issue": "Captain America (1968) #323-327 (1986-1987)",
+      "observation": "As Super-Patriot, Walker stages publicity confrontations, challenges Steve, and later attacks him during a concert dispute.",
+      "source_ids": [
+        "CIV61_20261021_S09"
+      ],
+      "evidence_tier": "publisher_biography",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E15",
+      "a": "john_walker",
+      "b": "steve",
+      "issue": "Captain America (1968) #350 (1989)",
+      "observation": "After confronting Steve and the Red Skull, Walker urges Rogers to take back the Captain America identity.",
+      "source_ids": [
+        "CIV61_20261021_S09"
+      ],
+      "evidence_tier": "publisher_biography",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    },
+    {
+      "id": "CIV61_20261021_E16",
+      "a": "ethan_thurm",
+      "b": "john_walker",
+      "issue": "Captain America (1968) #323-333 era",
+      "observation": "Walker hires talent agent Thurm, who promotes staged heroics; after Walker becomes Captain America, Thurm attempts to blackmail him over his secret identity.",
+      "source_ids": [
+        "CIV61_20261021_S09"
+      ],
+      "evidence_tier": "publisher_biography",
+      "continuity": "Earth-616",
+      "review_status": "publisher secondary / original panels not reviewed"
+    }
+  ],
+  "claims": [
+    {
+      "id": "CIV61_20261021_C01",
+      "pair_id": "steve-tony_stark",
+      "from_id": "tony_stark",
+      "to_id": "steve",
+      "dimension": "ideology",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Tony publicly supports registration against Steve’s position.",
+      "interpretation_or_limit": "Disagreement over state oversight; not evidence that Tony hates Steve.",
+      "event_ids": [
+        "CIV61_20261021_E01"
+      ],
+      "scope": "Civil War (2006) #1-7",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C02",
+      "pair_id": "steve-tony_stark",
+      "from_id": "steve",
+      "to_id": "tony_stark",
+      "dimension": "ideology",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Steve leads resistance to the registration policy Tony champions.",
+      "interpretation_or_limit": "A political fracture does not erase their prior cooperation.",
+      "event_ids": [
+        "CIV61_20261021_E01"
+      ],
+      "scope": "Civil War (2006) #1-7",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C03",
+      "pair_id": "peter-tony_stark",
+      "from_id": "tony_stark",
+      "to_id": "peter",
+      "dimension": "betrayal",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Tony pursues Peter through dangerous agents after Peter repudiates his side.",
+      "interpretation_or_limit": "Marvel editorial calls it betrayal; the precise intermediary agents need panel verification.",
+      "event_ids": [
+        "CIV61_20261021_E02"
+      ],
+      "scope": "Civil War (2006) #2-5 and tie-ins",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C04",
+      "pair_id": "maria_hill-tony_stark",
+      "from_id": "maria_hill",
+      "to_id": "tony_stark",
+      "dimension": "professional",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Maria advocates Tony’s directorship and becomes deputy under him.",
+      "interpretation_or_limit": "Institutional confidence at this time, not lifelong personal trust.",
+      "event_ids": [
+        "CIV61_20261021_E03"
+      ],
+      "scope": "Civil War (2006) #7; Invincible Iron Man (2004) #15",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C05",
+      "pair_id": "edwin_jarvis-tony_stark",
+      "from_id": "tony_stark",
+      "to_id": "edwin_jarvis",
+      "dimension": "professional",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Tony retains Jarvis’s services as steward of Avengers Mansion.",
+      "interpretation_or_limit": "Employment continuity does not alone establish familial affection.",
+      "event_ids": [
+        "CIV61_20261021_E04"
+      ],
+      "scope": "Avengers (1963) founding era and continuing mansion service",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C06",
+      "pair_id": "james_rhodes-tony_stark",
+      "from_id": "james_rhodes",
+      "to_id": "tony_stark",
+      "dimension": "friendship",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Marvel explicitly calls Rhodes Tony’s friend; Rhodes assumes War Machine duties during Tony’s apparent death.",
+      "interpretation_or_limit": "Rhodes’s independent action is not evidence of agreement with every Stark decision.",
+      "event_ids": [
+        "CIV61_20261021_E05"
+      ],
+      "scope": "Iron Man (1968) #280-291, 1992-1993",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C07",
+      "pair_id": "james_rhodes-tony_stark",
+      "from_id": "tony_stark",
+      "to_id": "james_rhodes",
+      "dimension": "friendship",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Marvel describes Tony and Rhodey as friends and long-time employer/employee.",
+      "interpretation_or_limit": "Reciprocity of the stated friendship is editorial, not inferred from co-appearance.",
+      "event_ids": [
+        "CIV61_20261021_E05"
+      ],
+      "scope": "Iron Man (1968) #280-291, 1992-1993",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C08",
+      "pair_id": "maria_hill-steve",
+      "from_id": "maria_hill",
+      "to_id": "steve",
+      "dimension": "coercion",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Maria uses S.H.I.E.L.D. force to apprehend Steve over his refusal to comply.",
+      "interpretation_or_limit": "A Civil War enforcement incident, not permanent hatred.",
+      "event_ids": [
+        "CIV61_20261021_E06"
+      ],
+      "scope": "Civil War (2006) #1",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C09",
+      "pair_id": "john_walker-maria_hill",
+      "from_id": "maria_hill",
+      "to_id": "john_walker",
+      "dimension": "authority",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Maria exercises command by dissolving Walker’s Force Works team.",
+      "interpretation_or_limit": "The exact administrative chain and John’s exception should be panel-checked.",
+      "event_ids": [
+        "CIV61_20261021_E07"
+      ],
+      "scope": "2020 Force Works (2020) #1-3",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C10",
+      "pair_id": "henry_peter_gyrich-janet",
+      "from_id": "henry_peter_gyrich",
+      "to_id": "janet",
+      "dimension": "authority",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Gyrich determines the roster and retains Janet as one of seven Avengers.",
+      "interpretation_or_limit": "Formal federal leverage; not a personal judgment of Janet’s merit.",
+      "event_ids": [
+        "CIV61_20261021_E08"
+      ],
+      "scope": "Avengers (1963) #181 (1979)",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C11",
+      "pair_id": "bill_foster-hank_pym",
+      "from_id": "hank_pym",
+      "to_id": "bill_foster",
+      "dimension": "professional",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Hank asks biochemist Bill for technical assistance with his size-change problem.",
+      "interpretation_or_limit": "One scientific consultation, not automatically lifelong mentorship.",
+      "event_ids": [
+        "CIV61_20261021_E09"
+      ],
+      "scope": "Avengers (1963) #32 (1966)",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C12",
+      "pair_id": "john_walker-lemar_hoskins",
+      "from_id": "john_walker",
+      "to_id": "lemar_hoskins",
+      "dimension": "friendship",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Marvel identifies Lemar as Walker’s closest friend and continuing partner.",
+      "interpretation_or_limit": "Friendship is directly stated, separate from the formal partner role.",
+      "event_ids": [
+        "CIV61_20261021_E10"
+      ],
+      "scope": "Captain America (1968) #323-333, 1986-1987",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C13",
+      "pair_id": "john_walker-lemar_hoskins",
+      "from_id": "lemar_hoskins",
+      "to_id": "john_walker",
+      "dimension": "friendship",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Lemar remains with Walker as his government-approved partner.",
+      "interpretation_or_limit": "Reciprocal friendship is expressly reported in the publisher biography.",
+      "event_ids": [
+        "CIV61_20261021_E10"
+      ],
+      "scope": "Captain America (1968) #323-333, 1986-1987",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C14",
+      "pair_id": "john_walker-valerie_cooper",
+      "from_id": "valerie_cooper",
+      "to_id": "john_walker",
+      "dimension": "authority",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Val recommends Walker for the Captain America job and supervises his training.",
+      "interpretation_or_limit": "Government sponsorship does not mean endorsement of later violence.",
+      "event_ids": [
+        "CIV61_20261021_E11"
+      ],
+      "scope": "Captain America (1968) #333-350 era, 1987-1989",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C15",
+      "pair_id": "curtiss_jackson-john_walker",
+      "from_id": "curtiss_jackson",
+      "to_id": "john_walker",
+      "dimension": "professional",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Jackson provides a paid superhuman enhancement service to Walker.",
+      "interpretation_or_limit": "Transactional patronage, not a personal friendship; indebtedness was financial.",
+      "event_ids": [
+        "CIV61_20261021_E12"
+      ],
+      "scope": "Captain America (1968) #323-333 backstory",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C16",
+      "pair_id": "john_walker-sam_wilson",
+      "from_id": "john_walker",
+      "to_id": "sam_wilson",
+      "dimension": "conflict",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Walker confronts and fights Sam over possession of the Captain America shield.",
+      "interpretation_or_limit": "One 2016 political conflict, not a permanent verdict on Sam’s legitimacy.",
+      "event_ids": [
+        "CIV61_20261021_E13"
+      ],
+      "scope": "Captain America: Sam Wilson (2015) #12-13 (2016)",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C17",
+      "pair_id": "john_walker-steve",
+      "from_id": "john_walker",
+      "to_id": "steve",
+      "dimension": "conflict",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Walker challenges and physically fights Rogers while promoting Super-Patriot.",
+      "interpretation_or_limit": "Publicity-seeking antagonism, historically scoped.",
+      "event_ids": [
+        "CIV61_20261021_E14"
+      ],
+      "scope": "Captain America (1968) #323-327 (1986-1987)",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C18",
+      "pair_id": "john_walker-steve",
+      "from_id": "john_walker",
+      "to_id": "steve",
+      "dimension": "influence",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Walker persuades Steve to reclaim the Captain America mantle.",
+      "interpretation_or_limit": "Change in stance after earlier hostility; cannot infer a permanent moral conversion.",
+      "event_ids": [
+        "CIV61_20261021_E15"
+      ],
+      "scope": "Captain America (1968) #350 (1989)",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C19",
+      "pair_id": "ethan_thurm-john_walker",
+      "from_id": "ethan_thurm",
+      "to_id": "john_walker",
+      "dimension": "professional",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Thurm acts as Walker’s talent agent and organizes promotional performances.",
+      "interpretation_or_limit": "Paid image management, not ideological loyalty.",
+      "event_ids": [
+        "CIV61_20261021_E16"
+      ],
+      "scope": "Captain America (1968) #323-333 era",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "CIV61_20261021_C20",
+      "pair_id": "ethan_thurm-john_walker",
+      "from_id": "ethan_thurm",
+      "to_id": "john_walker",
+      "dimension": "coercion",
+      "assessment": "event-scoped",
+      "epistemic": "direct observation plus bounded interpretation",
+      "documented_fact": "Thurm later threatens to disclose Walker’s civilian identity.",
+      "interpretation_or_limit": "Blackmail after their working relationship changes; no current control inferred.",
+      "event_ids": [
+        "CIV61_20261021_E16"
+      ],
+      "scope": "Captain America (1968) #323-333 era",
+      "continuity": "Earth-616"
+    }
+  ],
+  "warnings": [
+    "Source evidence is publisher editorial, biography, and issue synopses, not independently reviewed original comic panels.",
+    "The 2016 Steve Rogers depicted in the Sam Wilson story has a significant Kobik/Hydra continuity complication; do not infer the original Steve’s motivations from that manipulation.",
+    "The 2020 Force Works disbandment detail is publisher biography based; confirm the administrative scope in the original issue.",
+    "Maria Hill, Tony Stark, John Walker, and Sam Wilson are Earth-616 comics identities, not their MCU analogues.",
+    "Deduplication confirmed against canonical pilot snapshot; other uncommitted batches not exhaustively checked."
+  ],
+  "validation": {
+    "new_people_proposed": 12,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 20,
+    "events": 16,
+    "official_marvel_sources": 12,
+    "independent_sources": 1,
+    "internal_references_valid": true,
+    "canonical_person_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "original_panels_reviewed": false,
+    "full_application_import_test": "pending",
+    "committed": 0
+  }
+}
