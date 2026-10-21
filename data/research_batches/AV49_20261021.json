@@ -1,0 +1,622 @@
+{
+  "batch_id": "AV49_20261021",
+  "status": "UNCOMMITTED / awaiting user periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_reference": {
+    "repo": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+    "people": 305,
+    "events": 454,
+    "claims": 535
+  },
+  "person_fields": [
+    "id",
+    "name",
+    "identity_note"
+  ],
+  "people": [
+    [
+      "henry_peter_gyrich",
+      "Henry Peter Gyrich",
+      "U.S. government liaison and Initiative administrator"
+    ],
+    [
+      "gauntlet_joe_green",
+      "Joseph Green",
+      "Gauntlet; Camp Hammond drill instructor"
+    ],
+    [
+      "justice_vance_astrovik",
+      "Vance Astrovik",
+      "Justice; New Warriors veteran and Initiative instructor"
+    ],
+    [
+      "hardball_roger_brokeridge",
+      "Roger Brokeridge",
+      "Hardball; Initiative graduate with covert HYDRA ties"
+    ],
+    [
+      "komodo_melati_kusuma",
+      "Melati Kusuma",
+      "Komodo; Initiative graduate"
+    ],
+    [
+      "cloud9_abigail_boylen",
+      "Abigail Boylen",
+      "Cloud 9; Initiative trainee"
+    ],
+    [
+      "mvp_michael_van_patrick",
+      "Michael Van Patrick",
+      "MVP; original trainee, distinct from his clones"
+    ],
+    [
+      "armory_violet_lightner",
+      "Violet Lightner",
+      "Armory; former Initiative trainee and Tactigon wielder"
+    ],
+    [
+      "trauma_terrance_ward",
+      "Terrance Ward",
+      "Trauma; fear-shapeshifting Initiative trainee and counselor"
+    ],
+    [
+      "speedball_robert_baldwin",
+      "Robert Baldwin",
+      "Speedball / Penance; New Warriors veteran"
+    ],
+    [
+      "war_machine_james_rhodes",
+      "James Rhodes",
+      "War Machine; Initiative field commander"
+    ],
+    [
+      "criti_noll",
+      "Criti Noll",
+      "Skrull infiltrator impersonating Hank Pym / Yellowjacket"
+    ]
+  ],
+  "reused_canonical_ids": [
+    "taskmaster",
+    "peter",
+    "janet",
+    "reed",
+    "dani",
+    "nightmare"
+  ],
+  "source_fields": [
+    "id",
+    "url",
+    "tier"
+  ],
+  "sources": [
+    [
+      "AV49_S01",
+      "https://www.marvel.com/comics/collection/20920/avengers_the_initiative_vol_1_-_basic_training_trade_paperback",
+      "official_marvel_collection"
+    ],
+    [
+      "AV49_S02",
+      "https://www.marvel.com/comics/issue/13489/read",
+      "official_marvel_issue_2"
+    ],
+    [
+      "AV49_S03",
+      "https://www.marvel.com/comics/issue/15869/read",
+      "official_marvel_issue_3"
+    ],
+    [
+      "AV49_S05",
+      "https://www.marvel.com/comics/issue/22562/avengers_the_initiative_special_2008_1/",
+      "official_marvel_special"
+    ],
+    [
+      "AV49_S06",
+      "https://www.marvel.com/comics/issue/27544",
+      "official_marvel_issue_27"
+    ],
+    [
+      "AV49_S08",
+      "https://www.marvel.com/articles/comics/secret-invasion-the-most-shocking-reveals-from-the-skrull-takeover?cid=EML_Newsletter_202377_WeeklyPulse_Story8",
+      "official_marvel_editorial"
+    ],
+    [
+      "AV49_S09",
+      "https://www.marvel.com/teams-and-groups/skrulls",
+      "official_marvel_history"
+    ],
+    [
+      "AV49_S12",
+      "https://www.comics.org/issue/351331/",
+      "independent_comics_index"
+    ],
+    [
+      "AV49_S13",
+      "https://marvel.fandom.com/wiki/Avengers:_The_Initiative_Vol_1_1",
+      "fan_edited_issue_synopsis"
+    ],
+    [
+      "AV49_S14",
+      "https://www.nickperon.com/avengers-the-initiative-2000s/avengers-the-initiative-30",
+      "independent_issue_recap"
+    ],
+    [
+      "AV49_S15",
+      "https://www.spiderfan.org/review/comics/avengers_the_initiative/011.html",
+      "independent_issue_review"
+    ],
+    [
+      "AV49_S16",
+      "https://marvel.fandom.com/wiki/Avengers:_The_Initiative_Vol_1_30",
+      "fan_edited_issue_synopsis"
+    ]
+  ],
+  "event_fields": [
+    "id",
+    "a",
+    "b",
+    "scope",
+    "documented_observation",
+    "source_ids",
+    "evidence_limit"
+  ],
+  "events": [
+    [
+      "AV49_E01",
+      "hardball_roger_brokeridge",
+      "komodo_melati_kusuma",
+      "Avengers: The Initiative Special (2008) #1",
+      "Marvel identifies Komodo as Hardball's true love; she discovers he has secretly served HYDRA.",
+      [
+        "AV49_S05"
+      ],
+      "official_issue_synopsis"
+    ],
+    [
+      "AV49_E02",
+      "taskmaster",
+      "komodo_melati_kusuma",
+      "Avengers: The Initiative (2007) #27",
+      "Taskmaster assembles a team including Komodo to retake Negative Zone prison 42; she questions whether the operation is suicidal.",
+      [
+        "AV49_S06"
+      ],
+      "official_issue_synopsis"
+    ],
+    [
+      "AV49_E03",
+      "war_machine_james_rhodes",
+      "gauntlet_joe_green",
+      "Avengers: The Initiative (2007) #2",
+      "Marvel explicitly describes War Machine and Gauntlet jointly leading recruits against HYDRA forces.",
+      [
+        "AV49_S02"
+      ],
+      "official_issue_synopsis"
+    ],
+    [
+      "AV49_E04",
+      "war_machine_james_rhodes",
+      "peter",
+      "Avengers: The Initiative (2007) #3",
+      "War Machine and his assault team pursue the unregistered Spider-Man.",
+      [
+        "AV49_S03"
+      ],
+      "official_issue_synopsis"
+    ],
+    [
+      "AV49_E05",
+      "mvp_michael_van_patrick",
+      "cloud9_abigail_boylen",
+      "Avengers: The Initiative (2007) #1",
+      "During a training mishap, MVP pushes Cloud 9 out of the path of Armory's blast and is killed.",
+      [
+        "AV49_S12",
+        "AV49_S13",
+        "AV49_S01"
+      ],
+      "independent_issue_synopses; official_collection_context_only"
+    ],
+    [
+      "AV49_E06",
+      "armory_violet_lightner",
+      "mvp_michael_van_patrick",
+      "Avengers: The Initiative (2007) #1",
+      "Armory accidentally shoots and kills the original MVP during a training exercise.",
+      [
+        "AV49_S12",
+        "AV49_S13"
+      ],
+      "independent_issue_synopses; accident_not_hostility"
+    ],
+    [
+      "AV49_E07",
+      "trauma_terrance_ward",
+      "armory_violet_lightner",
+      "Avengers: The Initiative (2007) #1",
+      "Trauma assumes a frightening form, triggering Armory's panic and uncontrolled discharge.",
+      [
+        "AV49_S13"
+      ],
+      "fan_edited_issue_synopsis; panel_review_pending"
+    ],
+    [
+      "AV49_E08",
+      "henry_peter_gyrich",
+      "armory_violet_lightner",
+      "Avengers: The Initiative (2007) #1",
+      "Gyrich supervises the response to MVP's death; Armory is expelled and deprived of her alien weapon.",
+      [
+        "AV49_S13",
+        "AV49_S12"
+      ],
+      "fan_edited_issue_synopsis; precise_decision_chain_pending"
+    ],
+    [
+      "AV49_E09",
+      "henry_peter_gyrich",
+      "criti_noll",
+      "Avengers: The Initiative (2007) #1; Secret Invasion (2008) revelation",
+      "The administrator and the person presenting as Yellowjacket participate in concealing MVP's death; Marvel later identifies the Yellowjacket serving in the Initiative as Skrull Criti Noll.",
+      [
+        "AV49_S13",
+        "AV49_S08",
+        "AV49_S09"
+      ],
+      "combined_secondary_and_publisher; impersonator_attribution_requires_issue_review"
+    ],
+    [
+      "AV49_E10",
+      "criti_noll",
+      "janet",
+      "Secret Invasion (2008) #8 era",
+      "Marvel says the Skrull Pym impersonator weaponizes Janet Van Dyne as a biological threat during the invasion.",
+      [
+        "AV49_S08",
+        "AV49_S09"
+      ],
+      "official_marvel_editorial"
+    ],
+    [
+      "AV49_E11",
+      "criti_noll",
+      "reed",
+      "Secret Invasion (2008) #1 onward",
+      "Marvel says Criti Noll nearly kills Reed Richards while posing as Hank Pym.",
+      [
+        "AV49_S08"
+      ],
+      "official_marvel_editorial; precise_issue_pending"
+    ],
+    [
+      "AV49_E12",
+      "dani",
+      "trauma_terrance_ward",
+      "Avengers: The Initiative (2007) #3",
+      "Marvel says Beast recruits a former mutant to train Trauma; independent character histories identify the instructor as Dani Moonstar.",
+      [
+        "AV49_S03"
+      ],
+      "publisher_synopsis_does_not_name_instructor; identity_independently_supported"
+    ],
+    [
+      "AV49_E13",
+      "nightmare",
+      "trauma_terrance_ward",
+      "Avengers: The Initiative Special (2008) #1; Avengers: The Initiative (2007) #30",
+      "The special promises a revelation about Trauma's ancestry; a detailed recap of #30 identifies Nightmare as his biological father and describes possession of Trauma.",
+      [
+        "AV49_S05",
+        "AV49_S14",
+        "AV49_S16"
+      ],
+      "ancestry_and_possession_secondary_only"
+    ],
+    [
+      "AV49_E14",
+      "trauma_terrance_ward",
+      "speedball_robert_baldwin",
+      "Avengers: The Initiative (2007) #29-30",
+      "Trauma counsels Penance (Robert Baldwin) and tries to help him confront his suppressed memories of Stamford.",
+      [
+        "AV49_S14",
+        "AV49_S16"
+      ],
+      "independent_issue_recap; original_panels_unreviewed"
+    ],
+    [
+      "AV49_E15",
+      "justice_vance_astrovik",
+      "speedball_robert_baldwin",
+      "Avengers: The Initiative (2007) #30",
+      "After the Nightmare confrontation, Justice offers Penance and Trauma an opportunity to join the Avengers Resistance; they decline.",
+      [
+        "AV49_S14",
+        "AV49_S16"
+      ],
+      "independent_issue_recap; invitation_not_acceptance"
+    ],
+    [
+      "AV49_E16",
+      "hardball_roger_brokeridge",
+      "komodo_melati_kusuma",
+      "Avengers: The Initiative (2007) #11",
+      "A detailed issue review describes Hardball amputating Komodo's poisoned legs to prevent toxin spread during KIA's attack.",
+      [
+        "AV49_S15"
+      ],
+      "independent_issue_review; exact_action_not_publisher_confirmed"
+    ]
+  ],
+  "claim_fields": [
+    "id",
+    "from_id",
+    "to_id",
+    "dimension",
+    "event_ids",
+    "documented_fact",
+    "interpretation_or_limitation",
+    "epistemic"
+  ],
+  "claims": [
+    [
+      "AV49_C01",
+      "hardball_roger_brokeridge",
+      "komodo_melati_kusuma",
+      "romance",
+      [
+        "AV49_E01"
+      ],
+      "Marvel calls Komodo Hardball's true love.",
+      "Historical relationship; does not establish continued partnership after his HYDRA exposure.",
+      "official"
+    ],
+    [
+      "AV49_C02",
+      "komodo_melati_kusuma",
+      "hardball_roger_brokeridge",
+      "trust",
+      [
+        "AV49_E01"
+      ],
+      "Komodo discovers Hardball has concealed his HYDRA affiliation.",
+      "Breach of trust inferred from the revelation; her precise feelings require panels.",
+      "official_fact_inference_qualified"
+    ],
+    [
+      "AV49_C03",
+      "hardball_roger_brokeridge",
+      "komodo_melati_kusuma",
+      "protection",
+      [
+        "AV49_E16"
+      ],
+      "An independent issue review reports Hardball amputating poisoned tissue to save Komodo.",
+      "A drastic rescue in one incident; not a standing power over her body.",
+      "independent_provisional"
+    ],
+    [
+      "AV49_C04",
+      "taskmaster",
+      "komodo_melati_kusuma",
+      "authority",
+      [
+        "AV49_E02"
+      ],
+      "Taskmaster assigns Komodo to his prison-recovery squad.",
+      "Operational command for a specific mission; not personal loyalty.",
+      "official"
+    ],
+    [
+      "AV49_C05",
+      "war_machine_james_rhodes",
+      "gauntlet_joe_green",
+      "cooperation",
+      [
+        "AV49_E03"
+      ],
+      "War Machine co-leads a HYDRA engagement with Gauntlet.",
+      "Joint field leadership; no inferred personal friendship.",
+      "official"
+    ],
+    [
+      "AV49_C06",
+      "gauntlet_joe_green",
+      "war_machine_james_rhodes",
+      "cooperation",
+      [
+        "AV49_E03"
+      ],
+      "Gauntlet co-leads the recruits with War Machine.",
+      "Same event supports reverse participation, not equal rank.",
+      "official"
+    ],
+    [
+      "AV49_C07",
+      "war_machine_james_rhodes",
+      "peter",
+      "conflict",
+      [
+        "AV49_E04"
+      ],
+      "War Machine pursues the unregistered Spider-Man.",
+      "Government mission; no permanent personal hatred implied.",
+      "official"
+    ],
+    [
+      "AV49_C08",
+      "mvp_michael_van_patrick",
+      "cloud9_abigail_boylen",
+      "protection",
+      [
+        "AV49_E05"
+      ],
+      "MVP moves Cloud 9 out of danger during a training accident.",
+      "One fatal protective act, not a sustained guardianship.",
+      "independent_provisional"
+    ],
+    [
+      "AV49_C09",
+      "armory_violet_lightner",
+      "mvp_michael_van_patrick",
+      "influence",
+      [
+        "AV49_E06"
+      ],
+      "Armory accidentally kills MVP with the Tactigon.",
+      "Non-volitional fatal consequence; must NOT be coded as deliberate conflict or betrayal.",
+      "independent_provisional"
+    ],
+    [
+      "AV49_C10",
+      "trauma_terrance_ward",
+      "armory_violet_lightner",
+      "influence",
+      [
+        "AV49_E07"
+      ],
+      "Trauma's frightening transformation precipitates Armory's panic.",
+      "Accidental causal influence, not intentional intimidation.",
+      "fan_synopsis_provisional"
+    ],
+    [
+      "AV49_C11",
+      "henry_peter_gyrich",
+      "armory_violet_lightner",
+      "authority",
+      [
+        "AV49_E08"
+      ],
+      "Armory is expelled after the death under Gyrich's administration.",
+      "Exact individual decision and weapon-removal authority need panels.",
+      "fan_synopsis_provisional"
+    ],
+    [
+      "AV49_C12",
+      "henry_peter_gyrich",
+      "criti_noll",
+      "cooperation",
+      [
+        "AV49_E09"
+      ],
+      "Gyrich and the person then presenting as Yellowjacket participate in the MVP-death cover-up.",
+      "The true Pym must not inherit the impersonator's actions; collaboration is reconstructed across sources.",
+      "mixed_sources_provisional"
+    ],
+    [
+      "AV49_C13",
+      "criti_noll",
+      "janet",
+      "coercion",
+      [
+        "AV49_E10"
+      ],
+      "Criti Noll turns Janet into a biological weapon during Secret Invasion.",
+      "Weaponization is directly documented by Marvel; not a consensual alliance.",
+      "official"
+    ],
+    [
+      "AV49_C14",
+      "criti_noll",
+      "reed",
+      "conflict",
+      [
+        "AV49_E11"
+      ],
+      "Marvel says Criti Noll nearly kills Reed Richards.",
+      "Specific attack, not a permanent emotional state.",
+      "official"
+    ],
+    [
+      "AV49_C15",
+      "dani",
+      "trauma_terrance_ward",
+      "mentorship",
+      [
+        "AV49_E12"
+      ],
+      "Dani Moonstar is identified in independent character histories as Trauma's trainer.",
+      "Marvel issue synopsis confirms an unnamed former-mutant trainer, not the name; identity requires panel check.",
+      "mixed_sources_provisional"
+    ],
+    [
+      "AV49_C16",
+      "nightmare",
+      "trauma_terrance_ward",
+      "family",
+      [
+        "AV49_E13"
+      ],
+      "Issue recaps identify Nightmare as Trauma's biological father.",
+      "Biological relation is secondary-sourced; does not imply care or affection.",
+      "independent_provisional"
+    ],
+    [
+      "AV49_C17",
+      "nightmare",
+      "trauma_terrance_ward",
+      "coercion",
+      [
+        "AV49_E13"
+      ],
+      "Nightmare possesses Trauma to act in the physical world.",
+      "Bodily control, not voluntary allegiance; source is an issue recap.",
+      "independent_provisional"
+    ],
+    [
+      "AV49_C18",
+      "trauma_terrance_ward",
+      "speedball_robert_baldwin",
+      "mentorship",
+      [
+        "AV49_E14"
+      ],
+      "Trauma provides Penance with counseling about his suppressed past.",
+      "Therapeutic professional guidance; not proof treatment succeeded.",
+      "independent_provisional"
+    ],
+    [
+      "AV49_C19",
+      "justice_vance_astrovik",
+      "speedball_robert_baldwin",
+      "influence",
+      [
+        "AV49_E15"
+      ],
+      "Justice invites Penance to join the Avengers Resistance.",
+      "Invitation declined; do not record membership or reciprocal loyalty.",
+      "independent_provisional"
+    ]
+  ],
+  "identity_warnings": [
+    "Criti Noll is the Skrull impersonating Hank Pym/Yellowjacket during the Initiative; do not attribute 2007 Initiative actions to the real Hank Pym without chronology-specific proof.",
+    "MVP Michael Van Patrick is the original recruit killed in #1, not his clones (including KIA or the Scarlet Spiders).",
+    "Robert Baldwin is Speedball and Penance, not two separate people.",
+    "The original #1 death and cover-up details come from independent issue summaries, not Marvel synopsis or original panels.",
+    "Trauma is Terrance Ward, not the similarly named Hulk antagonist.",
+    "Marvel #3 calls Trauma's instructor an unnamed former mutant; Dani Moonstar identification is secondary-sourced.",
+    "A training accident does not establish intentional hostility; an invitation does not establish acceptance.",
+    "Prior uncommitted batch deduplication is not exhaustive; proposed IDs are canonical-absent only."
+  ],
+  "review": {
+    "community": "Avengers civic accountability and Fifty-State Initiative",
+    "checkpoint": "No eight-run audit performed in this batch; last-eight batch log inaccessible here",
+    "original_panels_reviewed": false,
+    "full_import_schema_validation": "pending",
+    "cross_batch_deduplication": "not exhaustive",
+    "committed": 0,
+    "proposed_new_people": 12,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 19,
+    "events": 16,
+    "sources": 12,
+    "official_marvel_sources": 7,
+    "internal_references_validated": true,
+    "canonical_identity_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "dimensions_validated": true,
+    "all_reused_ids_resolve": true
+  }
+}
