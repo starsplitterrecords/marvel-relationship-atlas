@@ -1,0 +1,872 @@
+{
+  "batch_id": "SA65_20261021",
+  "status": "UNCOMMITTED / awaiting periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+    "people": 305,
+    "events": 454,
+    "claims": 535
+  },
+  "identity_reuse": {
+    "canonical_ids": [
+      "strange",
+      "dormammu",
+      "loki",
+      "marie_laveau"
+    ],
+    "uncommitted_prior_batches": [
+      {
+        "id": "zelma_stanton",
+        "origin_batch": "MYS57_20261021",
+        "canonical_status": "not yet merged",
+        "note": "Re-use prior provisional identity; do not count as new"
+      }
+    ]
+  },
+  "people": [
+    {
+      "id": "emily_bright",
+      "name": "Emily Bright",
+      "identity_note": "Human student; central to the walkout and later attack",
+      "sector": "mystical / younger heroes",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "doyle_dormammu",
+      "name": "Doyle Dormammu",
+      "identity_note": "Student identified as Dormammu son in 2020 publisher copy; later origin complicates biological parentage",
+      "sector": "mystical / Dark Dimension",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "calvin_morse",
+      "name": "Calvin Morse",
+      "identity_note": "Orphan; enchanted jacket and later Gaslamp wish dealings",
+      "sector": "mystical / civilian",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "iric_brorson",
+      "name": "Iric Brorson",
+      "identity_note": "Asgardian twin of Alvi; distinct person",
+      "sector": "Asgard / mystical",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "alvi_brorson",
+      "name": "Alvi Brorson",
+      "identity_note": "Asgardian twin of Iric; distinct person",
+      "sector": "Asgard / mystical",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "zoe_laveau",
+      "name": "Zoe Laveau",
+      "identity_note": "Student with New Orleans magical ancestry; former Gaslamp client",
+      "sector": "mystical / civilian",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "dessy_despair",
+      "name": "Dessy",
+      "identity_note": "Demon from Limbo called Despair; distinct from cosmic entity Despair unless verified",
+      "sector": "mystical / Limbo",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jericho_drumm",
+      "name": "Jericho Drumm",
+      "identity_note": "Doctor Voodoo / Brother Voodoo; Strange Academy headmaster",
+      "sector": "mystical / Avengers",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gaslamp_wishdealer",
+      "name": "Gaslamp",
+      "identity_note": "Wish-dealing antagonist of Strange Academy; civilian identity not confirmed",
+      "sector": "mystical / villain",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "guslaug_frost_giant",
+      "name": "Guslaug",
+      "identity_note": "Jotun Frost Giant student sponsored by Loki",
+      "sector": "Asgard / Jotunheim",
+      "continuity": "Earth-616"
+    }
+  ],
+  "sources": [
+    {
+      "id": "SA65_20261021_S01",
+      "title": "Meet the Students of Strange Academy",
+      "url": "https://www.marvel.com/amp/articles/comics/meet-the-students-of-strange-academy",
+      "kind": "official_marvel_editorial",
+      "evidence_limit": "Publisher summary, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S03",
+      "title": "Strange Academy: Year One collected synopsis",
+      "url": "https://www.marvel.com/comics/collection/105208/strange_academy_year_one_2023",
+      "kind": "official_marvel_collection",
+      "evidence_limit": "Publisher summary, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S04",
+      "title": "Strange Academy: Year Two collected synopsis",
+      "url": "https://www.marvel.com/comics/collection/107907/strange_academy_year_two_tpb_trade_paperback",
+      "kind": "official_marvel_collection",
+      "evidence_limit": "Publisher summary, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S05",
+      "title": "Strange Academy (2020) #15",
+      "url": "https://www.marvel.com/comics/issue/95863/strange_academy_2020_15",
+      "kind": "official_marvel_issue",
+      "evidence_limit": "Original panels not reviewed; publisher solicitation establishes broad premise only"
+    },
+    {
+      "id": "SA65_20261021_S06",
+      "title": "Strange Academy (2020) #17",
+      "url": "https://www.marvel.com/comics/issue/100643/strange_academy_2020_17_variant/variant",
+      "kind": "official_marvel_issue",
+      "evidence_limit": "Original panels not reviewed; publisher solicitation establishes broad premise only"
+    },
+    {
+      "id": "SA65_20261021_S07",
+      "title": "Strange Academy (2020) #18",
+      "url": "https://www.marvel.com/comics/issue/95866/strange_academy_2020_18",
+      "kind": "official_marvel_issue",
+      "evidence_limit": "Original panels not reviewed; publisher solicitation establishes broad premise only"
+    },
+    {
+      "id": "SA65_20261021_S08",
+      "title": "Strange Academy: Finals #4",
+      "url": "https://www.marvel.com/comics/issue/101195/strange_academy_finals_2022_4",
+      "kind": "official_marvel_issue",
+      "evidence_limit": "Original panels not reviewed; publisher solicitation establishes broad premise only"
+    },
+    {
+      "id": "SA65_20261021_S09",
+      "title": "Strange Academy: Finals #5",
+      "url": "https://www.marvel.com/comics/issue/101196/strange_academy_finals_2022_5",
+      "kind": "official_marvel_issue",
+      "evidence_limit": "Original panels not reviewed; publisher solicitation establishes broad premise only"
+    },
+    {
+      "id": "SA65_20261021_S10",
+      "title": "Strange Academy: Finals #6",
+      "url": "https://www.marvel.com/comics/issue/107906/strange_academy_finals_2022_6_variant/variant",
+      "kind": "official_marvel_issue",
+      "evidence_limit": "Original panels not reviewed; publisher solicitation establishes broad premise only"
+    },
+    {
+      "id": "SA65_20261021_S12",
+      "title": "Doctor Strange #381 synopsis",
+      "url": "https://www.marvel.com/comics/issue/65070/doctor-strange-2015-381",
+      "kind": "official_marvel_issue",
+      "evidence_limit": "Original panels not reviewed; publisher solicitation establishes broad premise only"
+    },
+    {
+      "id": "SA65_20261021_S13",
+      "title": "Strange Academy (2020) #8",
+      "url": "https://www.marvel.com/comics/issue/79805/strange_academy_2020_8",
+      "kind": "official_marvel_issue",
+      "evidence_limit": "Original panels not reviewed; publisher solicitation establishes broad premise only"
+    },
+    {
+      "id": "SA65_20261021_S14",
+      "title": "Doctor Voodoo Marvel editorial profile",
+      "url": "https://www.marvel.com/amp/articles/comics/black-history-month-character-spotlight-marvel-unlimited",
+      "kind": "official_marvel_editorial",
+      "evidence_limit": "Publisher summary, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S15",
+      "title": "Strange Academy #18 issue review",
+      "url": "https://www.comicbookrevolution.com/strange-academy-18-final-issue-review/",
+      "kind": "independent_issue_review",
+      "evidence_limit": "Source text reviewed; secondary account, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S16",
+      "title": "Strange Academy overview (secondary)",
+      "url": "https://comicvine.gamespot.com/strange-academy/4060-64267/",
+      "kind": "secondary_character_history",
+      "evidence_limit": "Source text reviewed; secondary account, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S17",
+      "title": "Strange Academy #13 Zoe origin review",
+      "url": "https://comicsxf.com/2021/11/10/new-paths-new-consequence-in-strange-academy-13/",
+      "kind": "independent_issue_review",
+      "evidence_limit": "Source text reviewed; secondary account, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S18",
+      "title": "Strange Academy Finals #6 issue review",
+      "url": "https://www.superpoweredfancast.com/strange-academy-finals-6-review/",
+      "kind": "independent_issue_review",
+      "evidence_limit": "Source text reviewed; secondary account, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S19",
+      "title": "Strange Academy #10 issue review",
+      "url": "https://butwhytho.net/2021/05/review-strange-academy-issue-10/",
+      "kind": "independent_issue_review",
+      "evidence_limit": "Source text reviewed; secondary account, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S20",
+      "title": "Doyle Dormammu character history",
+      "url": "https://comicvine.gamespot.com/doyle-dormammu/4005-161185/",
+      "kind": "secondary_character_history",
+      "evidence_limit": "Source text reviewed; secondary account, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S21",
+      "title": "Strange Academy #17 school dance issue secondary recap",
+      "url": "https://marvel.fandom.com/wiki/Strange_Academy_(Earth-616)",
+      "kind": "secondary_character_history",
+      "evidence_limit": "Source text reviewed; secondary account, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S22",
+      "title": "Strange Academy #7 review",
+      "url": "https://www.superpoweredfancast.com/strange-academy-7-review/",
+      "kind": "secondary_issue_review",
+      "evidence_limit": "Source text reviewed; secondary account, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S23",
+      "title": "Doctor Strange #381 collected synopsis",
+      "url": "https://www.marvel.com/comics/collection/105161/doctor_strange_by_donny_cates_trade_paperback",
+      "kind": "official_marvel_collection",
+      "evidence_limit": "Publisher summary, not original panel"
+    },
+    {
+      "id": "SA65_20261021_S24",
+      "title": "Strange Academy #10 preview",
+      "url": "https://www.superherohype.com/comics/496989-exclusive-preview-strange-academy-10",
+      "kind": "independent_issue_preview",
+      "evidence_limit": "Source text reviewed; secondary account, not original panel"
+    }
+  ],
+  "events": [
+    {
+      "id": "SA65_20261021_E01",
+      "a": "emily_bright",
+      "b": "doyle_dormammu",
+      "issue_or_era": "Strange Academy (2020) #7 (2021)",
+      "continuity": "Earth-616",
+      "documented_observation": "Emily kisses Doyle after his apparent death and he returns to life; later the pair become romantically involved.",
+      "source_ids": [
+        "SA65_20261021_S03",
+        "SA65_20261021_S20",
+        "SA65_20261021_S22"
+      ],
+      "evidence_quality": "secondary_issue_account",
+      "verification_limit": "Kiss/resurrection detail from secondary; publisher collection only confirms tragedy and broken hearts."
+    },
+    {
+      "id": "SA65_20261021_E02",
+      "a": "doyle_dormammu",
+      "b": "emily_bright",
+      "issue_or_era": "Strange Academy (2020) #8-10 (2021)",
+      "continuity": "Earth-616",
+      "documented_observation": "Doyle creates the Ring of Dread using his own mystical essence to help Emily manage dangerous power; they share an intimate exchange during the Asgard trip.",
+      "source_ids": [
+        "SA65_20261021_S13",
+        "SA65_20261021_S19",
+        "SA65_20261021_S20"
+      ],
+      "evidence_quality": "publisher_context_plus_secondary",
+      "verification_limit": "Ring mechanism and affection require original-panel verification."
+    },
+    {
+      "id": "SA65_20261021_E03",
+      "a": "emily_bright",
+      "b": "doyle_dormammu",
+      "issue_or_era": "Strange Academy (2020) #17-18 (2022)",
+      "continuity": "Earth-616",
+      "documented_observation": "Emily stays with expelled Calvin rather than attending the dance with Doyle; Doyle and Emily argue about the expulsion.",
+      "source_ids": [
+        "SA65_20261021_S06",
+        "SA65_20261021_S16",
+        "SA65_20261021_S21"
+      ],
+      "evidence_quality": "publisher_context_plus_secondary",
+      "verification_limit": "Do not infer permanent end of romance from one argument."
+    },
+    {
+      "id": "SA65_20261021_E04",
+      "a": "emily_bright",
+      "b": "doyle_dormammu",
+      "issue_or_era": "Strange Academy: Finals #5-6 (2023)",
+      "continuity": "Earth-616",
+      "documented_observation": "During the academy assault Emily attacks Doyle; Doyle intervenes to stop her dangerous power.",
+      "source_ids": [
+        "SA65_20261021_S09",
+        "SA65_20261021_S10",
+        "SA65_20261021_S18",
+        "SA65_20261021_S20"
+      ],
+      "evidence_quality": "publisher_context_plus_independent_review",
+      "verification_limit": "Details of intervention from review, not Marvel synopsis."
+    },
+    {
+      "id": "SA65_20261021_E05",
+      "a": "emily_bright",
+      "b": "calvin_morse",
+      "issue_or_era": "Strange Academy (2020) #17 (2022)",
+      "continuity": "Earth-616",
+      "documented_observation": "Emily comforts Calvin after his expulsion and organizes a student walkout against the school response.",
+      "source_ids": [
+        "SA65_20261021_S06",
+        "SA65_20261021_S16",
+        "SA65_20261021_S21"
+      ],
+      "evidence_quality": "publisher_context_plus_secondary",
+      "verification_limit": "Support and protest do not establish agreement with Calvin dealing dark magic."
+    },
+    {
+      "id": "SA65_20261021_E06",
+      "a": "emily_bright",
+      "b": "zelma_stanton",
+      "issue_or_era": "Strange Academy (2020) #18 (2022)",
+      "continuity": "Earth-616",
+      "documented_observation": "Zelma confronts Emily about Doyle’s ring; Emily summons magical attackers against Zelma and other faculty.",
+      "source_ids": [
+        "SA65_20261021_S07",
+        "SA65_20261021_S15"
+      ],
+      "evidence_quality": "independent_issue_review",
+      "verification_limit": "One clash; no permanent enmity inferred."
+    },
+    {
+      "id": "SA65_20261021_E07",
+      "a": "emily_bright",
+      "b": "jericho_drumm",
+      "issue_or_era": "Strange Academy (2020) #18 (2022)",
+      "continuity": "Earth-616",
+      "documented_observation": "Doctor Voodoo arrives to address the student walkout; Emily attacks him and Zelma with magic.",
+      "source_ids": [
+        "SA65_20261021_S07",
+        "SA65_20261021_S15"
+      ],
+      "evidence_quality": "independent_issue_review",
+      "verification_limit": "Confrontation within an institutional crisis."
+    },
+    {
+      "id": "SA65_20261021_E08",
+      "a": "emily_bright",
+      "b": "dormammu",
+      "issue_or_era": "Strange Academy: Finals #4-6 (2023)",
+      "continuity": "Earth-616",
+      "documented_observation": "Emily makes a tactical arrangement with Dormammu to attack Strange Academy.",
+      "source_ids": [
+        "SA65_20261021_S08",
+        "SA65_20261021_S09",
+        "SA65_20261021_S10",
+        "SA65_20261021_S16"
+      ],
+      "evidence_quality": "publisher_context_plus_secondary",
+      "verification_limit": "Cooperation in this arc does not imply durable allegiance."
+    },
+    {
+      "id": "SA65_20261021_E09",
+      "a": "iric_brorson",
+      "b": "doyle_dormammu",
+      "issue_or_era": "Strange Academy: Finals #6 (2023)",
+      "continuity": "Earth-616",
+      "documented_observation": "Iric intercepts an attack aimed at Doyle during Emily’s assault and dies.",
+      "source_ids": [
+        "SA65_20261021_S10",
+        "SA65_20261021_S16",
+        "SA65_20261021_S18"
+      ],
+      "evidence_quality": "independent_issue_review_plus_secondary",
+      "verification_limit": "Original panels not reviewed; source corroborates sacrifice but not all positioning."
+    },
+    {
+      "id": "SA65_20261021_E10",
+      "a": "dormammu",
+      "b": "doyle_dormammu",
+      "issue_or_era": "Strange Academy (2020) #1; later Finals (2022-23)",
+      "continuity": "Earth-616",
+      "documented_observation": "Marvel 2020 editorial identifies Doyle as Dormammu’s son; later secondary histories describe an origin in which Dormammu granted his essence to a human child.",
+      "source_ids": [
+        "SA65_20261021_S01",
+        "SA65_20261021_S20",
+        "SA65_20261021_S16"
+      ],
+      "evidence_quality": "publisher_editorial_with_later_identity_dispute",
+      "verification_limit": "Biological fatherhood is disputed; record as claimed/presented lineage, not established genetics."
+    },
+    {
+      "id": "SA65_20261021_E11",
+      "a": "iric_brorson",
+      "b": "alvi_brorson",
+      "issue_or_era": "Strange Academy (2020) #1 and #10 (2020-21)",
+      "continuity": "Earth-616",
+      "documented_observation": "Iric and Alvi are Asgardian twin brothers and their shared home background is explored on an Asgard field trip.",
+      "source_ids": [
+        "SA65_20261021_S01",
+        "SA65_20261021_S19",
+        "SA65_20261021_S24"
+      ],
+      "evidence_quality": "publisher_editorial",
+      "verification_limit": "Sibling kinship is documented; no unsupported feelings inferred."
+    },
+    {
+      "id": "SA65_20261021_E12",
+      "a": "gaslamp_wishdealer",
+      "b": "calvin_morse",
+      "issue_or_era": "Strange Academy (2020) #13-17 (2021-22)",
+      "continuity": "Earth-616",
+      "documented_observation": "Gaslamp grants Calvin magical wishes, then demands repayment through dealing wishes to fellow students.",
+      "source_ids": [
+        "SA65_20261021_S05",
+        "SA65_20261021_S06",
+        "SA65_20261021_S17",
+        "SA65_20261021_S16"
+      ],
+      "evidence_quality": "publisher_context_plus_secondary",
+      "verification_limit": "Specific debt and dealing mechanism is secondary; Marvel #15 confirms their connection."
+    },
+    {
+      "id": "SA65_20261021_E13",
+      "a": "jericho_drumm",
+      "b": "calvin_morse",
+      "issue_or_era": "Strange Academy (2020) #17 (2022)",
+      "continuity": "Earth-616",
+      "documented_observation": "As academy headmaster, Doctor Voodoo expels Calvin after discovering his dealing of Gaslamp magic.",
+      "source_ids": [
+        "SA65_20261021_S06",
+        "SA65_20261021_S14",
+        "SA65_20261021_S16"
+      ],
+      "evidence_quality": "publisher_context_plus_secondary",
+      "verification_limit": "Institutional disciplinary act, not evidence of personal hatred."
+    },
+    {
+      "id": "SA65_20261021_E14",
+      "a": "zoe_laveau",
+      "b": "dessy_despair",
+      "issue_or_era": "Strange Academy: Finals #4-6 (2023)",
+      "continuity": "Earth-616",
+      "documented_observation": "Zoe and Dessy, formerly close, end up on opposing sides of Emily’s assault and fight.",
+      "source_ids": [
+        "SA65_20261021_S08",
+        "SA65_20261021_S09",
+        "SA65_20261021_S10",
+        "SA65_20261021_S16"
+      ],
+      "evidence_quality": "secondary_history_plus_publisher_arc",
+      "verification_limit": "Friendship and specific combat are secondary; original panels not reviewed."
+    },
+    {
+      "id": "SA65_20261021_E15",
+      "a": "gaslamp_wishdealer",
+      "b": "zoe_laveau",
+      "issue_or_era": "Strange Academy (2020) #13 (2021)",
+      "continuity": "Earth-616",
+      "documented_observation": "Zoe recounts that she once sought magic from Gaslamp; the bargain led to dependency and catastrophic consequences.",
+      "source_ids": [
+        "SA65_20261021_S04",
+        "SA65_20261021_S17",
+        "SA65_20261021_S16"
+      ],
+      "evidence_quality": "independent_issue_review_plus_publisher_collection",
+      "verification_limit": "The exact mechanism of Zoe’s death is recapped secondarily."
+    },
+    {
+      "id": "SA65_20261021_E16",
+      "a": "marie_laveau",
+      "b": "jericho_drumm",
+      "issue_or_era": "Marvel mystic backstory before Strange Academy (exact issue unresolved)",
+      "continuity": "Earth-616",
+      "documented_observation": "Marvel’s student introduction states that Marie Laveau trained Doctor Voodoo.",
+      "source_ids": [
+        "SA65_20261021_S01"
+      ],
+      "evidence_quality": "publisher_editorial",
+      "verification_limit": "Exact issue and training circumstances unverified; keep as provisional publisher-described historical tie."
+    },
+    {
+      "id": "SA65_20261021_E17",
+      "a": "loki",
+      "b": "guslaug_frost_giant",
+      "issue_or_era": "Strange Academy enrollment, 2020 #1 era",
+      "continuity": "Earth-616",
+      "documented_observation": "Marvel states that Loki took an interest in Guslaug and personally arranged his attendance at Strange Academy.",
+      "source_ids": [
+        "SA65_20261021_S01"
+      ],
+      "evidence_quality": "publisher_editorial",
+      "verification_limit": "No evidence of personal affection or motives; sponsorship is narrow."
+    },
+    {
+      "id": "SA65_20261021_E18",
+      "a": "zelma_stanton",
+      "b": "loki",
+      "issue_or_era": "Doctor Strange (2015) #381 (2017)",
+      "continuity": "Earth-616",
+      "documented_observation": "When Loki assumes the Sorcerer Supreme title, Zelma serves as his assistant.",
+      "source_ids": [
+        "SA65_20261021_S12",
+        "SA65_20261021_S23"
+      ],
+      "evidence_quality": "publisher_issue_and_collection",
+      "verification_limit": "Solicitation speculates about romance; do not treat it as confirmed."
+    }
+  ],
+  "claims": [
+    {
+      "id": "SA65_20261021_C01",
+      "pair_id": "doyle_dormammu~emily_bright",
+      "from_id": "emily_bright",
+      "to_id": "doyle_dormammu",
+      "dimension": "romance",
+      "event_ids": [
+        "SA65_20261021_E01"
+      ],
+      "scope": "Strange Academy (2020) #7 (2021)",
+      "documented_fact": "Emily revives Doyle with a kiss and the pair later date.",
+      "interpretation_or_limit": "Historical affection; do not extrapolate to final arc.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C02",
+      "pair_id": "doyle_dormammu~emily_bright",
+      "from_id": "doyle_dormammu",
+      "to_id": "emily_bright",
+      "dimension": "romance",
+      "event_ids": [
+        "SA65_20261021_E02"
+      ],
+      "scope": "Strange Academy (2020) #8-10 (2021)",
+      "documented_fact": "Doyle gives Emily a protective ring and the pair share romantic intimacy.",
+      "interpretation_or_limit": "The ring also has unintended effects; no perpetual harmony inferred.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C03",
+      "pair_id": "doyle_dormammu~emily_bright",
+      "from_id": "doyle_dormammu",
+      "to_id": "emily_bright",
+      "dimension": "protection",
+      "event_ids": [
+        "SA65_20261021_E02"
+      ],
+      "scope": "Strange Academy (2020) #8-10 (2021)",
+      "documented_fact": "Doyle gives part of his essence to create the ring for Emily.",
+      "interpretation_or_limit": "A protective act with harmful consequences, not proof of flawless judgment.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C04",
+      "pair_id": "doyle_dormammu~emily_bright",
+      "from_id": "emily_bright",
+      "to_id": "doyle_dormammu",
+      "dimension": "conflict",
+      "event_ids": [
+        "SA65_20261021_E04"
+      ],
+      "scope": "Strange Academy: Finals #5-6 (2023)",
+      "documented_fact": "Emily attacks Doyle during the final assault.",
+      "interpretation_or_limit": "This reverses an earlier romance in a particular arc.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C05",
+      "pair_id": "calvin_morse~emily_bright",
+      "from_id": "emily_bright",
+      "to_id": "calvin_morse",
+      "dimension": "protection",
+      "event_ids": [
+        "SA65_20261021_E05"
+      ],
+      "scope": "Strange Academy (2020) #17 (2022)",
+      "documented_fact": "Emily comforts Calvin and protests his expulsion.",
+      "interpretation_or_limit": "Advocacy for a classmate, not endorsement of Gaslamp dealing.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C06",
+      "pair_id": "emily_bright~zelma_stanton",
+      "from_id": "emily_bright",
+      "to_id": "zelma_stanton",
+      "dimension": "conflict",
+      "event_ids": [
+        "SA65_20261021_E06"
+      ],
+      "scope": "Strange Academy (2020) #18 (2022)",
+      "documented_fact": "Emily attacks Zelma after Zelma questions the ring.",
+      "interpretation_or_limit": "Institutional confrontation in #18, not permanent personal hatred.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C07",
+      "pair_id": "emily_bright~jericho_drumm",
+      "from_id": "emily_bright",
+      "to_id": "jericho_drumm",
+      "dimension": "conflict",
+      "event_ids": [
+        "SA65_20261021_E07"
+      ],
+      "scope": "Strange Academy (2020) #18 (2022)",
+      "documented_fact": "Emily attacks Voodoo as he responds to the walkout.",
+      "interpretation_or_limit": "Specific clash over school authority.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C08",
+      "pair_id": "dormammu~emily_bright",
+      "from_id": "emily_bright",
+      "to_id": "dormammu",
+      "dimension": "cooperation",
+      "event_ids": [
+        "SA65_20261021_E08"
+      ],
+      "scope": "Strange Academy: Finals #4-6 (2023)",
+      "documented_fact": "Emily allies tactically with Dormammu to assault the school.",
+      "interpretation_or_limit": "Short-lived cooperation; later goals may differ.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C09",
+      "pair_id": "doyle_dormammu~iric_brorson",
+      "from_id": "iric_brorson",
+      "to_id": "doyle_dormammu",
+      "dimension": "protection",
+      "event_ids": [
+        "SA65_20261021_E09"
+      ],
+      "scope": "Strange Academy: Finals #6 (2023)",
+      "documented_fact": "Iric takes an attack meant for Doyle and dies.",
+      "interpretation_or_limit": "One fatal intervention; not proof of an always harmonious bond.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C10",
+      "pair_id": "dormammu~doyle_dormammu",
+      "from_id": "dormammu",
+      "to_id": "doyle_dormammu",
+      "dimension": "family",
+      "event_ids": [
+        "SA65_20261021_E10"
+      ],
+      "scope": "Strange Academy (2020) #1; later Finals (2022-23)",
+      "documented_fact": "Marvel initially describes Doyle as Dormammu’s son.",
+      "interpretation_or_limit": "Lineage is contested by later origin accounts; may be magical rather than biological.",
+      "epistemic": "publisher_report_with_qualification",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C11",
+      "pair_id": "alvi_brorson~iric_brorson",
+      "from_id": "iric_brorson",
+      "to_id": "alvi_brorson",
+      "dimension": "family",
+      "event_ids": [
+        "SA65_20261021_E11"
+      ],
+      "scope": "Strange Academy (2020) #1 and #10 (2020-21)",
+      "documented_fact": "Iric is Alvi’s twin brother.",
+      "interpretation_or_limit": "Sibling relation only; personal emotional dynamic not established here.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C12",
+      "pair_id": "alvi_brorson~iric_brorson",
+      "from_id": "alvi_brorson",
+      "to_id": "iric_brorson",
+      "dimension": "family",
+      "event_ids": [
+        "SA65_20261021_E11"
+      ],
+      "scope": "Strange Academy (2020) #1 and #10 (2020-21)",
+      "documented_fact": "Alvi is Iric’s twin brother.",
+      "interpretation_or_limit": "Reciprocal kinship, not inferred affection.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C13",
+      "pair_id": "calvin_morse~gaslamp_wishdealer",
+      "from_id": "gaslamp_wishdealer",
+      "to_id": "calvin_morse",
+      "dimension": "coercion",
+      "event_ids": [
+        "SA65_20261021_E12"
+      ],
+      "scope": "Strange Academy (2020) #13-17 (2021-22)",
+      "documented_fact": "Gaslamp converts Calvin’s unpaid wish debt into recruitment as a wish dealer.",
+      "interpretation_or_limit": "Economic and magical leverage; exact terms secondary.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C14",
+      "pair_id": "calvin_morse~gaslamp_wishdealer",
+      "from_id": "calvin_morse",
+      "to_id": "gaslamp_wishdealer",
+      "dimension": "dependence",
+      "event_ids": [
+        "SA65_20261021_E12"
+      ],
+      "scope": "Strange Academy (2020) #13-17 (2021-22)",
+      "documented_fact": "Calvin returns to Gaslamp to obtain further magic.",
+      "interpretation_or_limit": "A dependency in this arc, not friendship.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C15",
+      "pair_id": "calvin_morse~jericho_drumm",
+      "from_id": "jericho_drumm",
+      "to_id": "calvin_morse",
+      "dimension": "authority",
+      "event_ids": [
+        "SA65_20261021_E13"
+      ],
+      "scope": "Strange Academy (2020) #17 (2022)",
+      "documented_fact": "Jericho expels Calvin after learning of his dealing.",
+      "interpretation_or_limit": "Institutional discipline; fairness is interpretation.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C16",
+      "pair_id": "dessy_despair~zoe_laveau",
+      "from_id": "zoe_laveau",
+      "to_id": "dessy_despair",
+      "dimension": "friendship",
+      "event_ids": [
+        "SA65_20261021_E14"
+      ],
+      "scope": "Strange Academy: Finals #4-6 (2023)",
+      "documented_fact": "Secondary history describes Zoe and Dessy as close friends before their split.",
+      "interpretation_or_limit": "Panel verification pending; no assumption friendship persists through conflict.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C17",
+      "pair_id": "dessy_despair~zoe_laveau",
+      "from_id": "zoe_laveau",
+      "to_id": "dessy_despair",
+      "dimension": "conflict",
+      "event_ids": [
+        "SA65_20261021_E14"
+      ],
+      "scope": "Strange Academy: Finals #4-6 (2023)",
+      "documented_fact": "Zoe confronts Dessy in the final academy battle.",
+      "interpretation_or_limit": "Event-scoped opposition; earlier friendship remains relevant.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C18",
+      "pair_id": "gaslamp_wishdealer~zoe_laveau",
+      "from_id": "gaslamp_wishdealer",
+      "to_id": "zoe_laveau",
+      "dimension": "coercion",
+      "event_ids": [
+        "SA65_20261021_E15"
+      ],
+      "scope": "Strange Academy (2020) #13 (2021)",
+      "documented_fact": "Gaslamp’s magic-for-cost bargain damages Zoe and creates dependency.",
+      "interpretation_or_limit": "Original transaction is secondary account; not lifelong control.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C19",
+      "pair_id": "jericho_drumm~marie_laveau",
+      "from_id": "marie_laveau",
+      "to_id": "jericho_drumm",
+      "dimension": "mentorship",
+      "event_ids": [
+        "SA65_20261021_E16"
+      ],
+      "scope": "Marvel mystic backstory before Strange Academy (exact issue unresolved)",
+      "documented_fact": "Marvel explicitly says Marie trained Jericho.",
+      "interpretation_or_limit": "Exact episode unresolved; do not infer enduring loyalty.",
+      "epistemic": "publisher_report_with_qualification",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C20",
+      "pair_id": "guslaug_frost_giant~loki",
+      "from_id": "loki",
+      "to_id": "guslaug_frost_giant",
+      "dimension": "influence",
+      "event_ids": [
+        "SA65_20261021_E17"
+      ],
+      "scope": "Strange Academy enrollment, 2020 #1 era",
+      "documented_fact": "Loki personally arranges Guslaug’s school admission.",
+      "interpretation_or_limit": "Patronage/sponsorship only; no proof of kinship.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "SA65_20261021_C21",
+      "pair_id": "loki~zelma_stanton",
+      "from_id": "zelma_stanton",
+      "to_id": "loki",
+      "dimension": "professional",
+      "event_ids": [
+        "SA65_20261021_E18"
+      ],
+      "scope": "Doctor Strange (2015) #381 (2017)",
+      "documented_fact": "Zelma serves as Loki’s assistant during his Sorcerer Supreme tenure.",
+      "interpretation_or_limit": "A professional role; romance teased by solicitation but unconfirmed.",
+      "epistemic": "documented_secondary",
+      "continuity": "Earth-616"
+    }
+  ],
+  "identity_warnings": [
+    "Zelma Stanton is already proposed in uncommitted MYS57 and is reused, not counted as new.",
+    "Doyle was presented as Dormammu’s son in a 2020 Marvel introduction; later accounts describe a different biological origin involving Dormammu’s essence. The precise relationship is provisional.",
+    "Dessy/Despair is a Limbo student and should not automatically merge with any cosmic embodiment of Despair.",
+    "Iric and Alvi Brorson are two distinct Asgardian twins.",
+    "Marvel’s Marie Laveau is a fictionalized Marvel character; do not conflate her continuity with the historical New Orleans figure."
+  ],
+  "research_limits": [
+    "Original comic panels not reviewed.",
+    "Issue pages and collection synopses establish arc context but may not explicitly corroborate every named interaction; secondary recaps flagged accordingly.",
+    "Canon snapshot deduplication checked through GitHub; locally available uncommitted batch names checked. No write attempted.",
+    "A full app import-schema test is pending."
+  ],
+  "validation": {
+    "new_people": 10,
+    "new_unique_pairs": 15,
+    "directed_assessments": 21,
+    "events": 18,
+    "source_urls": 22,
+    "official_marvel_sources": 13,
+    "canonical_person_id_collisions": 0,
+    "canonical_person_name_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "prior_batch_name_collisions": 0,
+    "prior_batch_reused_people": 1,
+    "internal_references_valid": true,
+    "unique_ids_valid": true,
+    "committed": 0
+  }
+}
