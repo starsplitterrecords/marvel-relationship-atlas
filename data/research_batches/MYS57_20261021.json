@@ -1,0 +1,547 @@
+{
+  "batch_id": "MYS57_20261021",
+  "status": "UNCOMMITTED / awaiting periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041"
+  },
+  "people_fields": [
+    "id",
+    "name",
+    "identity_note"
+  ],
+  "people": [
+    [
+      "imei_chang",
+      "Imei Chang",
+      "Wong’s betrothed; not identical to Xaos"
+    ],
+    [
+      "sara_wolfe",
+      "Sara Wolfe",
+      "Sanctum business manager"
+    ],
+    [
+      "sister_nil_lilin",
+      "Sister Nil",
+      "Lilin; distinct from other Nil characters"
+    ],
+    [
+      "salome_sorceress",
+      "Salomé",
+      "Ancient sorceress; 1990s claimant to Sorcerer Supreme title"
+    ],
+    [
+      "xaos_demoness",
+      "Xaos",
+      "Demoness bound to Imei’s soul; distinct individual"
+    ],
+    [
+      "baron_mordo_karl",
+      "Karl Amadeus Mordo",
+      "Baron Mordo; not Kaecilius"
+    ],
+    [
+      "zelma_stanton",
+      "Zelma Stanton",
+      "Strange’s librarian and apprentice"
+    ],
+    [
+      "bats_ghost_dog",
+      "Bats",
+      "Doctor Strange’s ghost dog"
+    ],
+    [
+      "pandora_peters",
+      "Pandora Peters",
+      "Former S.H.I.E.L.D. W.A.N.D. director; disguised as Flickering Jenny"
+    ],
+    [
+      "nicodemus_west",
+      "Nicodemus West",
+      "Doctor; Strange’s former colleague"
+    ],
+    [
+      "brigand_thief",
+      "Brigand",
+      "Thief hired by West; civilian identity unverified"
+    ],
+    [
+      "topaz_empath",
+      "Topaz",
+      "Empathic mystic; healed Wong"
+    ]
+  ],
+  "reused_canonical_ids": [
+    "wong",
+    "strange",
+    "jean"
+  ],
+  "source_fields": [
+    "id",
+    "url",
+    "evidence_tier"
+  ],
+  "sources": [
+    [
+      "MYS57_20261021_S01",
+      "https://www.marvel.com/characters/wong/in-comics",
+      "publisher_biography"
+    ],
+    [
+      "MYS57_20261021_S02",
+      "https://www.marvel.com/comics/issue/20228/read",
+      "publisher_issue_synopsis"
+    ],
+    [
+      "MYS57_20261021_S03",
+      "https://www.marvel.com/comics/issue/20230/doctor_strange_sorcerer_supreme_1988_66",
+      "publisher_issue_synopsis"
+    ],
+    [
+      "MYS57_20261021_S04",
+      "https://www.marvel.com/comics/issue/5662/dr_strange_the_oath_2006_3",
+      "publisher_issue_synopsis"
+    ],
+    [
+      "MYS57_20261021_S05",
+      "https://www.marvel.com/comics/collection/42406/doctor_strange_the_oath_tpb_trade_paperback",
+      "publisher_collection"
+    ],
+    [
+      "MYS57_20261021_S06",
+      "https://share.marvel.com/comics/discover/2502/zelma-stanton",
+      "publisher_reading_guide"
+    ],
+    [
+      "MYS57_20261021_S07",
+      "https://www.marvel.com/comics/issue/104865/strange_2022_6_variant/variant",
+      "publisher_issue_synopsis"
+    ],
+    [
+      "MYS57_20261021_S08",
+      "https://www.marvel.com/amp/articles/comics/how-doctor-strange-died",
+      "publisher_editorial"
+    ],
+    [
+      "MYS57_20261021_S09",
+      "https://www.marvel.com/amp/articles/comics/best-super-hero-pets-marvel-universe-list",
+      "publisher_editorial"
+    ],
+    [
+      "MYS57_20261021_S10",
+      "https://www.marvel.com/comics/collection/100242/strange_vol_2_the_doctor_strange_of_death_trade_paperback",
+      "publisher_collection"
+    ]
+  ],
+  "event_fields": [
+    "id",
+    "a",
+    "b",
+    "scope",
+    "documented_observation",
+    "source_ids",
+    "evidence_quality"
+  ],
+  "events": [
+    [
+      "MYS57_20261021_E01",
+      "wong",
+      "imei_chang",
+      "Doctor Strange: Sorcerer Supreme (1988), late-1980s–1990s",
+      "Wong chooses his betrothed Imei rather than Sara; Imei later travels to Manhattan to be with him.",
+      [
+        "MYS57_20261021_S01",
+        "MYS57_20261021_S03"
+      ],
+      "publisher_secondary"
+    ],
+    [
+      "MYS57_20261021_E02",
+      "sara_wolfe",
+      "wong",
+      "Doctor Strange (1974), 1980s business-manager period",
+      "Sara and Wong initially clash over responsibilities, develop mutual attraction, and Wong declines romance because of his pledge to Imei.",
+      [
+        "MYS57_20261021_S01"
+      ],
+      "publisher_secondary_issue_unresolved"
+    ],
+    [
+      "MYS57_20261021_E03",
+      "sister_nil_lilin",
+      "imei_chang",
+      "Doctor Strange: Sorcerer Supreme (1988), Lilin invasion, early-1990s",
+      "The Lilin Sister Nil kills Imei during an assault on the Sanctum.",
+      [
+        "MYS57_20261021_S01"
+      ],
+      "publisher_secondary_issue_unresolved"
+    ],
+    [
+      "MYS57_20261021_E04",
+      "wong",
+      "salome_sorceress",
+      "Doctor Strange: Sorcerer Supreme (1988) #64, 1994",
+      "Wong serves Salomé after offering assistance against Strange in return for her attempt to restore Imei.",
+      [
+        "MYS57_20261021_S01",
+        "MYS57_20261021_S02"
+      ],
+      "publisher_biography_plus_issue"
+    ],
+    [
+      "MYS57_20261021_E05",
+      "salome_sorceress",
+      "xaos_demoness",
+      "Doctor Strange: Sorcerer Supreme (1988), Salomé arc, 1994",
+      "Salomé binds Imei’s soul to the demoness Xaos; consent and metaphysical mechanics are not fully described.",
+      [
+        "MYS57_20261021_S01"
+      ],
+      "publisher_secondary"
+    ],
+    [
+      "MYS57_20261021_E06",
+      "wong",
+      "xaos_demoness",
+      "Doctor Strange: Sorcerer Supreme (1988), Salomé aftermath, mid-1990s",
+      "Wong cares for Xaos as though she were Imei after the soul-binding.",
+      [
+        "MYS57_20261021_S01"
+      ],
+      "publisher_secondary"
+    ],
+    [
+      "MYS57_20261021_E07",
+      "baron_mordo_karl",
+      "wong",
+      "Early Doctor Strange / Strange Tales era, 1960s; exact issue pending",
+      "Mordo impersonates Strange and tricks Wong into assisting him.",
+      [
+        "MYS57_20261021_S01"
+      ],
+      "publisher_secondary_issue_unresolved"
+    ],
+    [
+      "MYS57_20261021_E08",
+      "strange",
+      "zelma_stanton",
+      "Doctor Strange (2015) #1–10; Strange Academy (2020)",
+      "Zelma seeks Strange’s help with a supernatural parasite and becomes his librarian, apprentice, and friend.",
+      [
+        "MYS57_20261021_S06"
+      ],
+      "publisher_reading_guide"
+    ],
+    [
+      "MYS57_20261021_E09",
+      "wong",
+      "zelma_stanton",
+      "Doctor Strange (2015), Last Days of Magic, 2016",
+      "Zelma joins Wong’s Disciples in bearing the cost of Strange’s spells during the Empirikul battle.",
+      [
+        "MYS57_20261021_S01",
+        "MYS57_20261021_S06"
+      ],
+      "publisher_secondary"
+    ],
+    [
+      "MYS57_20261021_E10",
+      "bats_ghost_dog",
+      "wong",
+      "Doctor Strange: Damnation (2018); Strange (2022) #6",
+      "Bats seeks Wong’s help during the Las Vegas crisis and later accompanies him while he investigates erased memories.",
+      [
+        "MYS57_20261021_S01",
+        "MYS57_20261021_S07",
+        "MYS57_20261021_S09"
+      ],
+      "publisher_biography_plus_issue"
+    ],
+    [
+      "MYS57_20261021_E11",
+      "wong",
+      "pandora_peters",
+      "Strange (2022) #6–9",
+      "Wong uses recovered memories and Mysterium to expose Flickering Jenny as Pandora Peters, then brings her into the Sanctum war council.",
+      [
+        "MYS57_20261021_S01",
+        "MYS57_20261021_S08",
+        "MYS57_20261021_S10"
+      ],
+      "publisher_biography_plus_editorial"
+    ],
+    [
+      "MYS57_20261021_E12",
+      "nicodemus_west",
+      "brigand_thief",
+      "Doctor Strange: The Oath (2006) #1–5",
+      "West sends the thief Brigand to steal the elixir sought to save Wong; the theft attempt involves shooting Strange.",
+      [
+        "MYS57_20261021_S01",
+        "MYS57_20261021_S04",
+        "MYS57_20261021_S05"
+      ],
+      "publisher_biography_plus_issue"
+    ],
+    [
+      "MYS57_20261021_E13",
+      "nicodemus_west",
+      "strange",
+      "Doctor Strange: The Oath (2006) #1–5",
+      "West, a jealous former colleague, arranges interference with Strange’s search for a cure for Wong.",
+      [
+        "MYS57_20261021_S01",
+        "MYS57_20261021_S04",
+        "MYS57_20261021_S05"
+      ],
+      "publisher_biography_plus_issue"
+    ],
+    [
+      "MYS57_20261021_E14",
+      "topaz_empath",
+      "wong",
+      "Doctor Strange (1974), Urthona arc, mid-1980s",
+      "Topaz heals Wong after Urthona gravely injures him.",
+      [
+        "MYS57_20261021_S01"
+      ],
+      "publisher_secondary_issue_unresolved"
+    ],
+    [
+      "MYS57_20261021_E15",
+      "jean",
+      "wong",
+      "Strange (2022) #6–9",
+      "At Wong’s request, Jean Grey searches his mind and restores memories needed to identify the Blasphemy Cartel.",
+      [
+        "MYS57_20261021_S01",
+        "MYS57_20261021_S08",
+        "MYS57_20261021_S10"
+      ],
+      "publisher_editorial"
+    ]
+  ],
+  "claim_fields": [
+    "id",
+    "from_id",
+    "to_id",
+    "dimension",
+    "event_id",
+    "documented_fact",
+    "interpretation_or_limit"
+  ],
+  "claims": [
+    [
+      "MYS57_20261021_C01",
+      "wong",
+      "imei_chang",
+      "romance",
+      "MYS57_20261021_E01",
+      "Wong chooses Imei and continues their betrothal.",
+      "Historically scoped; an arranged pledge is not evidence of lifelong mutual satisfaction."
+    ],
+    [
+      "MYS57_20261021_C02",
+      "imei_chang",
+      "wong",
+      "romance",
+      "MYS57_20261021_E01",
+      "Imei travels to Manhattan to be with Wong.",
+      "Her travel supports the bond, but her private feelings are not independently panel-reviewed."
+    ],
+    [
+      "MYS57_20261021_C03",
+      "sara_wolfe",
+      "wong",
+      "affection",
+      "MYS57_20261021_E02",
+      "Sara recognizes a mutual attraction.",
+      "An attraction does not establish a consummated relationship."
+    ],
+    [
+      "MYS57_20261021_C04",
+      "wong",
+      "sara_wolfe",
+      "affection",
+      "MYS57_20261021_E02",
+      "Wong feels attraction but declines a romantic relationship.",
+      "Do not record an ongoing romance or betrayal of Imei."
+    ],
+    [
+      "MYS57_20261021_C05",
+      "sister_nil_lilin",
+      "imei_chang",
+      "conflict",
+      "MYS57_20261021_E03",
+      "Nil kills Imei in the Lilin attack.",
+      "Lethal attack; no earlier personal rivalry established."
+    ],
+    [
+      "MYS57_20261021_C06",
+      "wong",
+      "salome_sorceress",
+      "cooperation",
+      "MYS57_20261021_E04",
+      "Wong agrees to serve Salomé against Strange in exchange for help with Imei.",
+      "Transactional cooperation under grief; not stable ideological allegiance."
+    ],
+    [
+      "MYS57_20261021_C07",
+      "salome_sorceress",
+      "wong",
+      "influence",
+      "MYS57_20261021_E04",
+      "Salomé offers a way to recover Imei and gains Wong’s service.",
+      "The bargain is documented; his informed understanding of the outcome is not."
+    ],
+    [
+      "MYS57_20261021_C08",
+      "salome_sorceress",
+      "xaos_demoness",
+      "influence",
+      "MYS57_20261021_E05",
+      "Salomé performs the binding of Imei’s soul to Xaos.",
+      "No basis to assume Xaos consented; coercion is not independently proven."
+    ],
+    [
+      "MYS57_20261021_C09",
+      "wong",
+      "xaos_demoness",
+      "affection",
+      "MYS57_20261021_E06",
+      "Wong cares for Xaos as if she were Imei.",
+      "Attachment to Imei’s apparent presence is not evidence of affection for Xaos as a distinct person."
+    ],
+    [
+      "MYS57_20261021_C10",
+      "baron_mordo_karl",
+      "wong",
+      "influence",
+      "MYS57_20261021_E07",
+      "Mordo deceives Wong by impersonating Strange.",
+      "Compliance obtained through false identity, not voluntary loyalty to Mordo."
+    ],
+    [
+      "MYS57_20261021_C11",
+      "strange",
+      "zelma_stanton",
+      "mentorship",
+      "MYS57_20261021_E08",
+      "Strange takes Zelma on as his apprentice.",
+      "This does not imply equal professional authority."
+    ],
+    [
+      "MYS57_20261021_C12",
+      "zelma_stanton",
+      "strange",
+      "professional",
+      "MYS57_20261021_E08",
+      "Zelma becomes Strange’s librarian and later supports the school.",
+      "Work and apprenticeship are distinct from personal affection."
+    ],
+    [
+      "MYS57_20261021_C13",
+      "zelma_stanton",
+      "wong",
+      "cooperation",
+      "MYS57_20261021_E09",
+      "Zelma joins Wong’s disciples in accepting magical costs for Strange.",
+      "Shared sacrificial action; no enduring friendship inferred."
+    ],
+    [
+      "MYS57_20261021_C14",
+      "wong",
+      "zelma_stanton",
+      "cooperation",
+      "MYS57_20261021_E09",
+      "Wong and Zelma both sustain Strange during the Empirikul fight.",
+      "Event-specific joint action, not evidence that they always agree."
+    ],
+    [
+      "MYS57_20261021_C15",
+      "bats_ghost_dog",
+      "wong",
+      "influence",
+      "MYS57_20261021_E10",
+      "Bats informs Wong of the Las Vegas crisis, prompting Wong to act.",
+      "Persuasion by information, not formal authority."
+    ],
+    [
+      "MYS57_20261021_C16",
+      "wong",
+      "bats_ghost_dog",
+      "cooperation",
+      "MYS57_20261021_E10",
+      "Wong investigates his erased memories with Bats in 2022.",
+      "Working partnership documented for this investigation."
+    ],
+    [
+      "MYS57_20261021_C17",
+      "wong",
+      "pandora_peters",
+      "cooperation",
+      "MYS57_20261021_E11",
+      "Wong unmasks Peters and brings her to the Sanctum to share evidence.",
+      "Cooperation begins after deception is exposed; no unqualified trust inferred."
+    ],
+    [
+      "MYS57_20261021_C18",
+      "nicodemus_west",
+      "brigand_thief",
+      "professional",
+      "MYS57_20261021_E12",
+      "West engages Brigand to steal the elixir.",
+      "Criminal hire, not friendship or formal organizational rank."
+    ],
+    [
+      "MYS57_20261021_C19",
+      "nicodemus_west",
+      "strange",
+      "conflict",
+      "MYS57_20261021_E13",
+      "West obstructs Strange’s search for the cure.",
+      "Jealousy is publisher-described; no permanent enmity inferred."
+    ],
+    [
+      "MYS57_20261021_C20",
+      "topaz_empath",
+      "wong",
+      "protection",
+      "MYS57_20261021_E14",
+      "Topaz heals Wong’s severe injuries.",
+      "One protective act, not evidence of enduring guardianship."
+    ],
+    [
+      "MYS57_20261021_C21",
+      "jean",
+      "wong",
+      "cooperation",
+      "MYS57_20261021_E15",
+      "Jean uses telepathy to recover Wong’s missing memories at his request.",
+      "An investigative service, not proof of an ongoing friendship."
+    ]
+  ],
+  "validation": {
+    "people_proposed": 12,
+    "unique_pairs": 15,
+    "directed_claims": 21,
+    "events": 15,
+    "official_marvel_urls": 10,
+    "person_id_collisions_with_canonical": 0,
+    "pair_collisions_with_canonical": 0,
+    "original_panels_reviewed": false,
+    "full_import_schema_test": "pending",
+    "cross_batch_deduplication": "not_exhaustive",
+    "committed": 0
+  },
+  "warnings": [
+    "Exact issue numbers for early Mordo impersonation, Urthona/Topaz healing, and the Lilin killing are unresolved.",
+    "Xaos is not Imei; soul-binding does not establish identity or consent.",
+    "Several observations rely on Marvel biography summaries rather than original panels.",
+    "Canonical deduplication checked against specified blob only, not all prior uncommitted batches."
+  ]
+}
