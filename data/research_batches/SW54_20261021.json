@@ -1,0 +1,846 @@
+{
+  "meta": {
+    "batch_id": "SW54_20261021",
+    "status": "UNCOMMITTED / awaiting user's periodic manual GitHub merge",
+    "continuity": "Earth-616",
+    "canonical_blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+    "canonical_counts": {
+      "people": 305,
+      "events": 454,
+      "claims": 535
+    },
+    "sector": "espionage with villain-family, mutant mentorship, and mystical/Olympian bridges",
+    "source_limit": "Original issue panels not reviewed; source tier is per-event."
+  },
+  "people": [
+    {
+      "id": "yoyo_rodriguez",
+      "name": "Elena Rodríguez",
+      "alias": "Slingshot",
+      "continuity": "Earth-616",
+      "research_sector": "Espionage / young heroes"
+    },
+    {
+      "id": "stonewall_jerry_sledge",
+      "name": "Jerry Sledge",
+      "alias": "Stonewall",
+      "continuity": "Earth-616",
+      "research_sector": "Espionage / villain family"
+    },
+    {
+      "id": "absorbing_man_carl_creel",
+      "name": "Carl Creel",
+      "alias": "Absorbing Man",
+      "continuity": "Earth-616",
+      "research_sector": "Villain family"
+    },
+    {
+      "id": "eden_fesi",
+      "name": "Eden Fesi",
+      "alias": "Manifold",
+      "continuity": "Earth-616",
+      "research_sector": "Espionage / mutant-adjacent"
+    },
+    {
+      "id": "gateway_mutant",
+      "name": "Gateway",
+      "alias": "Gateway",
+      "continuity": "Earth-616",
+      "research_sector": "Mutant mentorship"
+    },
+    {
+      "id": "sebastian_druid",
+      "name": "Sebastian Druid",
+      "alias": "Druid",
+      "continuity": "Earth-616",
+      "research_sector": "Espionage / mystical"
+    },
+    {
+      "id": "doctor_druid_anthony_ludgate",
+      "name": "Anthony Ludgate",
+      "alias": "Doctor Druid",
+      "continuity": "Earth-616",
+      "research_sector": "Mystical / Avengers"
+    },
+    {
+      "id": "john_garrett_shield",
+      "name": "John Garrett",
+      "alias": "S.H.I.E.L.D. operative",
+      "continuity": "Earth-616",
+      "research_sector": "Espionage"
+    },
+    {
+      "id": "hellfire_jt_slade",
+      "name": "James Taylor Slade",
+      "alias": "Hellfire / J.T. James",
+      "continuity": "Earth-616",
+      "research_sector": "Espionage / villain networks"
+    },
+    {
+      "id": "phobos_alexander_aaron",
+      "name": "Alexander Aaron",
+      "alias": "Phobos",
+      "continuity": "Earth-616",
+      "research_sector": "Espionage / Olympian"
+    },
+    {
+      "id": "ares_olympian",
+      "name": "Ares",
+      "alias": "God of War",
+      "continuity": "Earth-616",
+      "research_sector": "Olympian / Avengers"
+    },
+    {
+      "id": "gorgon_tomi_shishido",
+      "name": "Tomi Shishido",
+      "alias": "Gorgon (HYDRA)",
+      "continuity": "Earth-616",
+      "research_sector": "Villain / espionage"
+    }
+  ],
+  "reused_canonical_ids": [
+    "nick_fury_sr",
+    "daisy",
+    "strucker"
+  ],
+  "sources": [
+    {
+      "id": "SW54_S01",
+      "title": "Marvel: Secret Warriors dossier",
+      "url": "https://www.marvel.com/comics/guides/364/_deeplink",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "SW54_S02",
+      "title": "Marvel: Nick Fury Sr. history",
+      "url": "https://www.marvel.com/characters/nick-fury-sr",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "SW54_S03",
+      "title": "Marvel: Secret Warriors (2009) #4",
+      "url": "https://www.marvel.com/comics/issue/24208/",
+      "evidence_tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "SW54_S04",
+      "title": "Marvel: Secret Warriors (2009) #10",
+      "url": "https://www.marvel.com/comics/issue/26283/secret_warriors_2009_10",
+      "evidence_tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "SW54_S05",
+      "title": "Marvel: Secret Warriors (2009) #16",
+      "url": "https://www.marvel.com/comics/issue/30177/secret_warriors_2009_16",
+      "evidence_tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "SW54_S06",
+      "title": "Marvel: Secret Warriors (2009) #9",
+      "url": "https://www.marvel.com/comics/issue/26291/secret_warriors_2009_9",
+      "evidence_tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "SW54_S07",
+      "title": "Grand Comics Database: Secret Warriors #3",
+      "url": "https://my.comics.org/issue/566411/",
+      "evidence_tier": "independent_issue_index"
+    },
+    {
+      "id": "SW54_S08",
+      "title": "Grand Comics Database: Secret Warriors #12",
+      "url": "https://www.comics.org/issue/705439/",
+      "evidence_tier": "independent_issue_index"
+    },
+    {
+      "id": "SW54_S09",
+      "title": "Grand Comics Database: Secret Warriors #16",
+      "url": "https://www.comics.org/issue/758094/",
+      "evidence_tier": "independent_issue_index"
+    },
+    {
+      "id": "SW54_S10",
+      "title": "Grand Comics Database: Secret Warriors #22",
+      "url": "https://my.comics.org/issue/790317/",
+      "evidence_tier": "independent_issue_index"
+    },
+    {
+      "id": "SW54_S11",
+      "title": "Grand Comics Database: Secret Warriors #23",
+      "url": "https://www.comics.org/issue/794929/",
+      "evidence_tier": "independent_issue_index"
+    },
+    {
+      "id": "SW54_S12",
+      "title": "ComicsBoxx: Secret Warriors omnibus issue-by-issue recap",
+      "url": "https://www.comicsbox.it/albo/MAROMNIB_077",
+      "evidence_tier": "independent_issue_recap"
+    },
+    {
+      "id": "SW54_S13",
+      "title": "Marvel Database: Secret Warriors #22 recap",
+      "url": "https://marvel.fandom.com/wiki/Secret_Warriors_Vol_1_22",
+      "evidence_tier": "fan_edited_issue_recap"
+    },
+    {
+      "id": "SW54_S14",
+      "title": "Comic Vine: Stonewall character history",
+      "url": "https://comicvine.gamespot.com/stonewall/4005-67274/",
+      "evidence_tier": "fan_edited_character_summary"
+    },
+    {
+      "id": "SW54_S15",
+      "title": "Marvel Database: Alexander Aaron",
+      "url": "https://marvel.fandom.com/wiki/Alexander_Aaron_%28Earth-616%29",
+      "evidence_tier": "fan_edited_biography"
+    }
+  ],
+  "events": [
+    {
+      "id": "SW54_E01",
+      "a": "nick_fury_sr",
+      "b": "yoyo_rodriguez",
+      "issue": "The Mighty Avengers (2007) #13 / Secret Invasion (2008) recruitment",
+      "publication_year": 2008,
+      "observation": "Fury selects and contacts the young superpowered recruits individually; Marvel identifies Yo-Yo as one of his Secret Warriors.",
+      "source_ids": [
+        "SW54_S01",
+        "SW54_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "individual_recruitment",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E02",
+      "a": "gorgon_tomi_shishido",
+      "b": "yoyo_rodriguez",
+      "issue": "Secret Warriors (2009) #3",
+      "publication_year": 2009,
+      "observation": "HYDRA's Gorgon severely injures Yo-Yo; Marvel confirms the injury, while the independent issue index identifies this Gorgon as Tomi Shishido.",
+      "source_ids": [
+        "SW54_S01",
+        "SW54_S07"
+      ],
+      "evidence_tier": "publisher_plus_independent_identity",
+      "observation_type": "violent_assault",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E03",
+      "a": "stonewall_jerry_sledge",
+      "b": "yoyo_rodriguez",
+      "issue": "Secret Warriors (2009) #12",
+      "publication_year": 2010,
+      "observation": "Stonewall and Yo-Yo make a personal visit to imprisoned Carl Creel, Stonewall's father; independent character account supplies the accompaniment detail.",
+      "source_ids": [
+        "SW54_S08",
+        "SW54_S14"
+      ],
+      "evidence_tier": "independent_secondary",
+      "observation_type": "personal_support",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E04",
+      "a": "stonewall_jerry_sledge",
+      "b": "absorbing_man_carl_creel",
+      "issue": "Secret Warriors (2009) #12",
+      "publication_year": 2010,
+      "observation": "Stonewall confronts his imprisoned father Carl Creel; Marvel character dossier calls their exchange terse.",
+      "source_ids": [
+        "SW54_S01",
+        "SW54_S08"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "family_confrontation",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E05",
+      "a": "gateway_mutant",
+      "b": "eden_fesi",
+      "issue": "Before Secret Warriors (2009) #4",
+      "publication_year": 2009,
+      "observation": "Gateway tutors Eden in using his spatial and temporal transport abilities; Marvel identifies Gateway as his teacher.",
+      "source_ids": [
+        "SW54_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "training",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E06",
+      "a": "doctor_druid_anthony_ludgate",
+      "b": "sebastian_druid",
+      "issue": "Secret Warriors (2009), Sebastian's lineage before #23",
+      "publication_year": 2010,
+      "observation": "Marvel identifies Sebastian Druid as the son of Doctor Druid and notes his inherited mystical ability.",
+      "source_ids": [
+        "SW54_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "biological_kinship",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E07",
+      "a": "john_garrett_shield",
+      "b": "sebastian_druid",
+      "issue": "Secret Warriors (2009) #23, Rebirth",
+      "publication_year": 2010,
+      "observation": "After Sebastian is benched, Garrett trains him physically and in using his magic; issue-level details derive from an independent recap.",
+      "source_ids": [
+        "SW54_S01",
+        "SW54_S11",
+        "SW54_S12"
+      ],
+      "evidence_tier": "independent_issue_recap",
+      "observation_type": "training",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E08",
+      "a": "nick_fury_sr",
+      "b": "sebastian_druid",
+      "issue": "Secret Warriors (2009) #23, Rebirth flashback",
+      "publication_year": 2010,
+      "observation": "Sebastian is benched as a team liability; an independent recap says Fury sent Garrett to train him.",
+      "source_ids": [
+        "SW54_S01",
+        "SW54_S11",
+        "SW54_S12"
+      ],
+      "evidence_tier": "publisher_plus_independent",
+      "observation_type": "disciplinary_command",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E09",
+      "a": "nick_fury_sr",
+      "b": "phobos_alexander_aaron",
+      "issue": "The Mighty Avengers (2007) #13; Secret Warriors (2009) recruitment",
+      "publication_year": 2008,
+      "observation": "Marvel says Fury personally contacts each future Secret Warrior; Alexander Aaron is among the recruits, and Fury later negotiates with Ares about him.",
+      "source_ids": [
+        "SW54_S01",
+        "SW54_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "individual_recruitment",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E10",
+      "a": "hellfire_jt_slade",
+      "b": "daisy",
+      "issue": "Secret Warriors (2009) #16",
+      "publication_year": 2010,
+      "observation": "Marvel identifies J.T. as Quake's romantic partner; an independent issue recap reports that Daisy does not know he is working for HYDRA.",
+      "source_ids": [
+        "SW54_S01",
+        "SW54_S05",
+        "SW54_S09",
+        "SW54_S12"
+      ],
+      "evidence_tier": "publisher_secondary_plus_independent",
+      "observation_type": "romance_and_secrecy",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E11",
+      "a": "hellfire_jt_slade",
+      "b": "strucker",
+      "issue": "Secret Warriors (2009) #16",
+      "publication_year": 2010,
+      "observation": "J.T. secretly works for Baron Strucker while serving Fury's team; Marvel's dossier and #16 solicitation both document betrayal.",
+      "source_ids": [
+        "SW54_S01",
+        "SW54_S05",
+        "SW54_S09"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "covert_collaboration",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E12",
+      "a": "hellfire_jt_slade",
+      "b": "nick_fury_sr",
+      "issue": "Secret Warriors (2009) #16",
+      "publication_year": 2010,
+      "observation": "J.T. acts as a HYDRA mole inside Fury's organization, violating his mission allegiance.",
+      "source_ids": [
+        "SW54_S01",
+        "SW54_S05",
+        "SW54_S09"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "betrayal",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E13",
+      "a": "nick_fury_sr",
+      "b": "hellfire_jt_slade",
+      "issue": "Secret Warriors (2009) #22",
+      "publication_year": 2010,
+      "observation": "An independently summarized sequence says Fury catches the falling J.T., confronts him about the betrayal, then deliberately releases his hand.",
+      "source_ids": [
+        "SW54_S10",
+        "SW54_S13"
+      ],
+      "evidence_tier": "fan_edited_issue_recap",
+      "observation_type": "fatal_choice",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E14",
+      "a": "ares_olympian",
+      "b": "phobos_alexander_aaron",
+      "issue": "Secret Warriors (2009) #10; Ares (2006) #4",
+      "publication_year": 2009,
+      "observation": "Ares is Alexander's father; #10 addresses their relationship and Alexander's divine status before a council of gods.",
+      "source_ids": [
+        "SW54_S01",
+        "SW54_S04",
+        "SW54_S12",
+        "SW54_S15"
+      ],
+      "evidence_tier": "publisher_issue_plus_secondary",
+      "observation_type": "family_and_disagreement",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E15",
+      "a": "nick_fury_sr",
+      "b": "ares_olympian",
+      "issue": "Secret Warriors (2009) #10",
+      "publication_year": 2009,
+      "observation": "Marvel's #10 synopsis explicitly describes a deal Fury struck with Ares concerning Ares' son Alexander.",
+      "source_ids": [
+        "SW54_S04"
+      ],
+      "evidence_tier": "publisher_issue_synopsis",
+      "observation_type": "negotiated_agreement",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    },
+    {
+      "id": "SW54_E16",
+      "a": "gorgon_tomi_shishido",
+      "b": "phobos_alexander_aaron",
+      "issue": "Secret Warriors (2009) #21–22, Night",
+      "publication_year": 2010,
+      "observation": "In the HYDRA Gehenna battle, Tomi Shishido's Gorgon fights and kills Alexander; #22 shows the aftermath. Specific lethal sequence is independent issue-level evidence.",
+      "source_ids": [
+        "SW54_S10",
+        "SW54_S12",
+        "SW54_S13",
+        "SW54_S15"
+      ],
+      "evidence_tier": "independent_issue_recap",
+      "observation_type": "fatal_duel",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: no original panel review"
+    }
+  ],
+  "claims": [
+    {
+      "id": "SW54_C01",
+      "pair_id": "nick_fury_sr-yoyo_rodriguez",
+      "from_id": "nick_fury_sr",
+      "to_id": "yoyo_rodriguez",
+      "dimension": "professional",
+      "assessment": "Fury personally recruits Yo-Yo for a covert assignment.",
+      "epistemic": "direct",
+      "summary": "Fury personally recruits Yo-Yo for a covert assignment.",
+      "qualification": "Recruitment is an action, not proof of long-term trust.",
+      "event_ids": [
+        "SW54_E01"
+      ],
+      "scope": "The Mighty Avengers (2007) #13 / Secret Invasion (2008) recruitment",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C02",
+      "pair_id": "gorgon_tomi_shishido-yoyo_rodriguez",
+      "from_id": "gorgon_tomi_shishido",
+      "to_id": "yoyo_rodriguez",
+      "dimension": "conflict",
+      "assessment": "Gorgon gravely wounds Yo-Yo during a HYDRA confrontation.",
+      "epistemic": "direct",
+      "summary": "Gorgon gravely wounds Yo-Yo during a HYDRA confrontation.",
+      "qualification": "Gorgon here is Tomi Shishido, not the Inhuman Gorgon.",
+      "event_ids": [
+        "SW54_E02"
+      ],
+      "scope": "Secret Warriors (2009) #3",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C03",
+      "pair_id": "stonewall_jerry_sledge-yoyo_rodriguez",
+      "from_id": "stonewall_jerry_sledge",
+      "to_id": "yoyo_rodriguez",
+      "dimension": "cooperation",
+      "assessment": "Stonewall and Yo-Yo undertake a difficult personal visit together.",
+      "epistemic": "qualified",
+      "summary": "Stonewall and Yo-Yo undertake a difficult personal visit together.",
+      "qualification": "The visit suggests confidence, but enduring friendship is not proven by this alone.",
+      "event_ids": [
+        "SW54_E03"
+      ],
+      "scope": "Secret Warriors (2009) #12",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C04",
+      "pair_id": "stonewall_jerry_sledge-yoyo_rodriguez",
+      "from_id": "yoyo_rodriguez",
+      "to_id": "stonewall_jerry_sledge",
+      "dimension": "cooperation",
+      "assessment": "Yo-Yo accompanies Stonewall to his imprisoned father.",
+      "epistemic": "qualified",
+      "summary": "Yo-Yo accompanies Stonewall to his imprisoned father.",
+      "qualification": "Support is plausible; private emotions are not directly documented.",
+      "event_ids": [
+        "SW54_E03"
+      ],
+      "scope": "Secret Warriors (2009) #12",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C05",
+      "pair_id": "absorbing_man_carl_creel-stonewall_jerry_sledge",
+      "from_id": "stonewall_jerry_sledge",
+      "to_id": "absorbing_man_carl_creel",
+      "dimension": "conflict",
+      "assessment": "Stonewall has a tense encounter with his imprisoned father.",
+      "epistemic": "direct",
+      "summary": "Stonewall has a tense encounter with his imprisoned father.",
+      "qualification": "This is a family confrontation, not a claim of lifelong hatred.",
+      "event_ids": [
+        "SW54_E04"
+      ],
+      "scope": "Secret Warriors (2009) #12",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C06",
+      "pair_id": "absorbing_man_carl_creel-stonewall_jerry_sledge",
+      "from_id": "absorbing_man_carl_creel",
+      "to_id": "stonewall_jerry_sledge",
+      "dimension": "family",
+      "assessment": "Creel is Stonewall's biological father and encounters him in prison.",
+      "epistemic": "direct",
+      "summary": "Creel is Stonewall's biological father and encounters him in prison.",
+      "qualification": "Kinship does not establish caregiving or affection.",
+      "event_ids": [
+        "SW54_E04"
+      ],
+      "scope": "Secret Warriors (2009) #12",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C07",
+      "pair_id": "eden_fesi-gateway_mutant",
+      "from_id": "gateway_mutant",
+      "to_id": "eden_fesi",
+      "dimension": "mentorship",
+      "assessment": "Gateway teaches Eden to control his transport powers.",
+      "epistemic": "direct",
+      "summary": "Gateway teaches Eden to control his transport powers.",
+      "qualification": "No permanent apprenticeship is inferred.",
+      "event_ids": [
+        "SW54_E05"
+      ],
+      "scope": "Before Secret Warriors (2009) #4",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C08",
+      "pair_id": "doctor_druid_anthony_ludgate-sebastian_druid",
+      "from_id": "doctor_druid_anthony_ludgate",
+      "to_id": "sebastian_druid",
+      "dimension": "family",
+      "assessment": "Doctor Druid is Sebastian's father.",
+      "epistemic": "direct",
+      "summary": "Doctor Druid is Sebastian's father.",
+      "qualification": "No evidence here of direct personal upbringing or instruction.",
+      "event_ids": [
+        "SW54_E06"
+      ],
+      "scope": "Secret Warriors (2009), Sebastian's lineage before #23",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C09",
+      "pair_id": "john_garrett_shield-sebastian_druid",
+      "from_id": "john_garrett_shield",
+      "to_id": "sebastian_druid",
+      "dimension": "mentorship",
+      "assessment": "Garrett trains Sebastian after his removal from the team.",
+      "epistemic": "qualified",
+      "summary": "Garrett trains Sebastian after his removal from the team.",
+      "qualification": "Detailed training is from an independent issue recap.",
+      "event_ids": [
+        "SW54_E07"
+      ],
+      "scope": "Secret Warriors (2009) #23, Rebirth",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C10",
+      "pair_id": "nick_fury_sr-sebastian_druid",
+      "from_id": "nick_fury_sr",
+      "to_id": "sebastian_druid",
+      "dimension": "authority",
+      "assessment": "Fury benches Sebastian and arranges remedial training.",
+      "epistemic": "qualified",
+      "summary": "Fury benches Sebastian and arranges remedial training.",
+      "qualification": "The command is specific to the Secret Warriors period.",
+      "event_ids": [
+        "SW54_E08"
+      ],
+      "scope": "Secret Warriors (2009) #23, Rebirth flashback",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C11",
+      "pair_id": "nick_fury_sr-phobos_alexander_aaron",
+      "from_id": "nick_fury_sr",
+      "to_id": "phobos_alexander_aaron",
+      "dimension": "professional",
+      "assessment": "Fury recruits Alexander for the covert Secret Warriors.",
+      "epistemic": "direct",
+      "summary": "Fury recruits Alexander for the covert Secret Warriors.",
+      "qualification": "Individual recruitment and subsequent negotiations do not establish unconditional trust.",
+      "event_ids": [
+        "SW54_E09"
+      ],
+      "scope": "The Mighty Avengers (2007) #13; Secret Warriors (2009) recruitment",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C12",
+      "pair_id": "daisy-hellfire_jt_slade",
+      "from_id": "hellfire_jt_slade",
+      "to_id": "daisy",
+      "dimension": "romance",
+      "assessment": "J.T. and Daisy are romantically involved.",
+      "epistemic": "direct",
+      "summary": "J.T. and Daisy are romantically involved.",
+      "qualification": "His concealed HYDRA affiliation complicates, but does not erase, the relationship.",
+      "event_ids": [
+        "SW54_E10"
+      ],
+      "scope": "Secret Warriors (2009) #16",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C13",
+      "pair_id": "daisy-hellfire_jt_slade",
+      "from_id": "daisy",
+      "to_id": "hellfire_jt_slade",
+      "dimension": "romance",
+      "assessment": "Daisy is J.T.'s romantic partner during the #16 arc.",
+      "epistemic": "direct",
+      "summary": "Daisy is J.T.'s romantic partner during the #16 arc.",
+      "qualification": "Daisy's knowledge of his betrayal is not established at this point.",
+      "event_ids": [
+        "SW54_E10"
+      ],
+      "scope": "Secret Warriors (2009) #16",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C14",
+      "pair_id": "hellfire_jt_slade-strucker",
+      "from_id": "hellfire_jt_slade",
+      "to_id": "strucker",
+      "dimension": "cooperation",
+      "assessment": "J.T. secretly collaborates with Strucker's HYDRA.",
+      "epistemic": "direct",
+      "summary": "J.T. secretly collaborates with Strucker's HYDRA.",
+      "qualification": "The exact mix of coercion and self-interest remains unsettled.",
+      "event_ids": [
+        "SW54_E11"
+      ],
+      "scope": "Secret Warriors (2009) #16",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C15",
+      "pair_id": "hellfire_jt_slade-nick_fury_sr",
+      "from_id": "hellfire_jt_slade",
+      "to_id": "nick_fury_sr",
+      "dimension": "betrayal",
+      "assessment": "J.T. works for HYDRA while holding a position in Fury's organization.",
+      "epistemic": "direct",
+      "summary": "J.T. works for HYDRA while holding a position in Fury's organization.",
+      "qualification": "The violation concerns mission allegiance, not proof of absent romantic affection.",
+      "event_ids": [
+        "SW54_E12"
+      ],
+      "scope": "Secret Warriors (2009) #16",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C16",
+      "pair_id": "hellfire_jt_slade-nick_fury_sr",
+      "from_id": "nick_fury_sr",
+      "to_id": "hellfire_jt_slade",
+      "dimension": "conflict",
+      "assessment": "Fury reportedly releases J.T. to his death after confronting him.",
+      "epistemic": "qualified",
+      "summary": "Fury reportedly releases J.T. to his death after confronting him.",
+      "qualification": "This lethal decision is supported by fan-edited issue summary, not Marvel's synopsis.",
+      "event_ids": [
+        "SW54_E13"
+      ],
+      "scope": "Secret Warriors (2009) #22",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C17",
+      "pair_id": "ares_olympian-phobos_alexander_aaron",
+      "from_id": "ares_olympian",
+      "to_id": "phobos_alexander_aaron",
+      "dimension": "family",
+      "assessment": "Ares is Alexander's father and participates in a divine-status reckoning.",
+      "epistemic": "direct",
+      "summary": "Ares is Alexander's father and participates in a divine-status reckoning.",
+      "qualification": "Family identity does not establish agreement with his son's missions.",
+      "event_ids": [
+        "SW54_E14"
+      ],
+      "scope": "Secret Warriors (2009) #10; Ares (2006) #4",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C18",
+      "pair_id": "ares_olympian-phobos_alexander_aaron",
+      "from_id": "phobos_alexander_aaron",
+      "to_id": "ares_olympian",
+      "dimension": "conflict",
+      "assessment": "Alexander opposes Ares' alignment with Norman Osborn in the Secret Warriors era.",
+      "epistemic": "qualified",
+      "summary": "Alexander opposes Ares' alignment with Norman Osborn in the Secret Warriors era.",
+      "qualification": "Political disagreement is from secondary recap; not a permanent estrangement.",
+      "event_ids": [
+        "SW54_E14"
+      ],
+      "scope": "Secret Warriors (2009) #10; Ares (2006) #4",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C19",
+      "pair_id": "ares_olympian-nick_fury_sr",
+      "from_id": "nick_fury_sr",
+      "to_id": "ares_olympian",
+      "dimension": "cooperation",
+      "assessment": "Fury negotiates an arrangement with Ares concerning Alexander.",
+      "epistemic": "direct",
+      "summary": "Fury negotiates an arrangement with Ares concerning Alexander.",
+      "qualification": "The terms are not established by the publisher synopsis.",
+      "event_ids": [
+        "SW54_E15"
+      ],
+      "scope": "Secret Warriors (2009) #10",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C20",
+      "pair_id": "gorgon_tomi_shishido-phobos_alexander_aaron",
+      "from_id": "gorgon_tomi_shishido",
+      "to_id": "phobos_alexander_aaron",
+      "dimension": "conflict",
+      "assessment": "Gorgon kills Alexander in their duel.",
+      "epistemic": "qualified",
+      "summary": "Gorgon kills Alexander in their duel.",
+      "qualification": "The fatal outcome is independently summarized; panels unreviewed.",
+      "event_ids": [
+        "SW54_E16"
+      ],
+      "scope": "Secret Warriors (2009) #21–22, Night",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    },
+    {
+      "id": "SW54_C21",
+      "pair_id": "gorgon_tomi_shishido-phobos_alexander_aaron",
+      "from_id": "phobos_alexander_aaron",
+      "to_id": "gorgon_tomi_shishido",
+      "dimension": "conflict",
+      "assessment": "Alexander fights Gorgon before his death.",
+      "epistemic": "qualified",
+      "summary": "Alexander fights Gorgon before his death.",
+      "qualification": "Combat is event-scoped and does not establish prior personal animus.",
+      "event_ids": [
+        "SW54_E16"
+      ],
+      "scope": "Secret Warriors (2009) #21–22, Night",
+      "continuity": "Earth-616",
+      "review_status": "Provisional: publisher/independent descriptions; panels not inspected"
+    }
+  ],
+  "identity_warnings": [
+    "Gorgon Tomi Shishido (HYDRA) is not the Inhuman Gorgon Petragon already in canonical data as 'gorgon'.",
+    "Alexander Aaron / Phobos is distinct from the earlier mythological Phobos, if separately catalogued.",
+    "J.T. Slade and J.T. James refer to the same Secret Warriors Hellfire.",
+    "Do not import the MCU Inhuman origin or nationality for comics Yo-Yo Rodríguez.",
+    "Fury letting J.T. fall and Garrett training Sebastian are supported by independent issue recaps, not directly by Marvel's synopsis."
+  ],
+  "validation": {
+    "new_people_relative_to_canonical": 12,
+    "unique_pairs_relative_to_canonical": 15,
+    "directed_assessments": 21,
+    "events": 16,
+    "official_marvel_source_urls": 6,
+    "independent_source_urls": 9,
+    "canonical_person_id_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "all_internal_ids_unique": true,
+    "all_internal_references_resolve": true,
+    "all_dimensions_in_canonical_vocabulary": true,
+    "full_import_schema_validation": "not run against app parser",
+    "cross_uncommitted_batch_deduplication": "checked against visible COS48–XF53 batch lists; exhaustive historical uncommitted dedup unavailable",
+    "original_panels_reviewed": false,
+    "committed": 0
+  }
+}
