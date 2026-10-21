@@ -1,0 +1,919 @@
+{
+  "batch_id": "LAT51_20261021",
+  "status": "UNCOMMITTED / awaiting periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+    "people_count": 305,
+    "events_count": 454,
+    "claims_count": 535
+  },
+  "reused_canonical_ids": [
+    "doom",
+    "mephisto",
+    "strange",
+    "reed",
+    "nick_fury_sr",
+    "daisy",
+    "matt"
+  ],
+  "people": [
+    {
+      "id": "cynthia_von_doom",
+      "name": "Cynthia von Doom",
+      "alias": "Victor von Doom’s mother; Romani witch",
+      "continuity": "Earth-616",
+      "sector": "mystical/royal"
+    },
+    {
+      "id": "kristoff_vernard",
+      "name": "Kristoff Vernard",
+      "alias": "Doctor Doom’s adopted heir; NOT biologically confirmed son",
+      "continuity": "Earth-616",
+      "sector": "royal/civic"
+    },
+    {
+      "id": "jennifer_walters",
+      "name": "Jennifer Walters",
+      "alias": "She-Hulk; attorney; broad-atlas identity c_jennifer",
+      "continuity": "Earth-616",
+      "sector": "civic/legal"
+    },
+    {
+      "id": "prince_zorba",
+      "name": "Prince Zorba",
+      "alias": "Latverian claimant and former ruler",
+      "continuity": "Earth-616",
+      "sector": "royal"
+    },
+    {
+      "id": "zora_vukovic",
+      "name": "Zora Vukovic",
+      "alias": "Victorious; civilian name independently corroborated; Marvel publisher source uses Victorious",
+      "continuity": "Earth-616",
+      "sector": "royal"
+    },
+    {
+      "id": "lucia_von_bardas",
+      "name": "Lucia von Bardas",
+      "alias": "Latverian prime minister; Secret War antagonist",
+      "continuity": "Earth-616",
+      "sector": "royal/espionage"
+    },
+    {
+      "id": "scorcher_steven_hudak",
+      "name": "Steven Hudak",
+      "alias": "Scorcher; civilian identity from unverified Marvel-hosted biography",
+      "continuity": "Earth-616",
+      "sector": "villain/civilian"
+    },
+    {
+      "id": "valeria_doom_first_love",
+      "name": "Valeria (Doom’s former lover)",
+      "alias": "Doom’s former lover killed during Unthinkable; NOT Valeria Richards",
+      "continuity": "Earth-616",
+      "sector": "civilian/mystical"
+    }
+  ],
+  "sources": [
+    {
+      "id": "LAT51_S01",
+      "title": "The Witches of the Marvel Universe",
+      "url": "https://www.marvel.com/comics/guides/2448/the_witches_of_the_marvel_universe",
+      "kind": "publisher_editorial",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S02",
+      "title": "Mephisto’s Most Impactful Deals",
+      "url": "https://www.marvel.com/comics/discover/2503/mephisto-s-most-impactful-deals",
+      "kind": "publisher_editorial",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S03",
+      "title": "Fantastic Four — In Comics History",
+      "url": "https://www.marvel.com/teams-and-groups/fantastic-four/in-comics",
+      "kind": "publisher_biography",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S04",
+      "title": "She-Hulk (2014) #3",
+      "url": "https://www.marvel.com/comics/issue/49117/she-hulk_2014_3",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S05",
+      "title": "She-Hulk (2014) #4",
+      "url": "https://www.marvel.com/comics/issue/49118/she-hulk-2014-4",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S06",
+      "title": "Superior Avengers (2025) #1",
+      "url": "https://www.marvel.com/comics/issue/118634",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S07",
+      "title": "Fantastic Four (1961) #199",
+      "url": "https://www.marvel.com/comics/issue/13004/fantastic_four_1961_199",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S08",
+      "title": "Fantastic Four (1961) #200",
+      "url": "https://www.marvel.com/comics/issue/13007/fantastic-four-1961-200",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S09",
+      "title": "Fantastic Four (2018) #33",
+      "url": "https://www.marvel.com/comics/issue/89643",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S10",
+      "title": "Bride of Doom wedding trailer",
+      "url": "https://www.marvel.com/articles/comics/the-bride-of-doom-new-trailer-fantastic-four-32",
+      "kind": "publisher_editorial",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S11",
+      "title": "Nick Fury Sr. — In Comics",
+      "url": "https://www.marvel.com/characters/nick-fury-sr",
+      "kind": "publisher_biography",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S12",
+      "title": "Scorcher — In Comics",
+      "url": "https://www.marvel.com/characters/scorcher",
+      "kind": "publisher_hosted_crowdsourced_unverified",
+      "level": "Provisional; crowd-sourced Marvel-hosted text not verified by Marvel editors"
+    },
+    {
+      "id": "LAT51_S13",
+      "title": "Fantastic Four (1998) #67",
+      "url": "https://www.marvel.com/comics/issue/15590",
+      "kind": "publisher_issue_synopsis",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S14",
+      "title": "Fantastic Four: Unthinkable collected edition",
+      "url": "https://www.marvel.com/comics/collection/1175/fantastic_four_vol_2_unthinkable_trade_paperback",
+      "kind": "publisher_collection_synopsis",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S15",
+      "title": "She-Hulk: Law and Disorder collected edition",
+      "url": "https://www.marvel.com/comics/collection/48992/she-hulk_vol_1_law_and_disorder_trade_paperback",
+      "kind": "publisher_collection_synopsis",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    },
+    {
+      "id": "LAT51_S16",
+      "title": "Christopher Cantwell discusses Zorba storyline",
+      "url": "https://www.marvel.com/amp/articles/comics/exclusive-the-first-look-inside-doctor-doom-1",
+      "kind": "publisher_creator_interview",
+      "level": "Marvel publisher synopsis/editorial; original panels not independently reviewed"
+    }
+  ],
+  "events": [
+    {
+      "id": "LAT51_EV01",
+      "a": "cynthia_von_doom",
+      "b": "mephisto",
+      "issue": "Doctor Strange & Doctor Doom: Triumph and Torment (1989)",
+      "publication_year": 1989,
+      "observation": "Cynthia bargains with Mephisto for power to oppose her people’s persecutors; Mephisto takes her soul.",
+      "source_id": "LAT51_S01",
+      "source_ids": [
+        "LAT51_S01",
+        "LAT51_S02"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV02",
+      "a": "doom",
+      "b": "cynthia_von_doom",
+      "issue": "Triumph and Torment (1989)",
+      "publication_year": 1989,
+      "observation": "Doom, aided by Doctor Strange, saves his mother’s soul from Mephisto.",
+      "source_id": "LAT51_S01",
+      "source_ids": [
+        "LAT51_S01"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV03",
+      "a": "strange",
+      "b": "cynthia_von_doom",
+      "issue": "Triumph and Torment (1989)",
+      "publication_year": 1989,
+      "observation": "Doctor Strange assists Doom in releasing Cynthia’s soul.",
+      "source_id": "LAT51_S01",
+      "source_ids": [
+        "LAT51_S01"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_secondary",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV04",
+      "a": "doom",
+      "b": "kristoff_vernard",
+      "issue": "Fantastic Four (1961), post-Zorba / 1980s–1990s",
+      "publication_year": 1980,
+      "observation": "Marvel identifies Kristoff as Doom’s adopted heir.",
+      "source_id": "LAT51_S03",
+      "source_ids": [
+        "LAT51_S03"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_secondary; precise_adoption_issue_pending",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV05",
+      "a": "doom",
+      "b": "kristoff_vernard",
+      "issue": "She-Hulk (2014) #3–4",
+      "publication_year": 2014,
+      "observation": "Doom kidnaps Kristoff, who has sought legal extradition assistance.",
+      "source_id": "LAT51_S04",
+      "source_ids": [
+        "LAT51_S04",
+        "LAT51_S05"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_issue_synopsis",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV06",
+      "a": "jennifer_walters",
+      "b": "kristoff_vernard",
+      "issue": "She-Hulk (2014) #3–4",
+      "publication_year": 2014,
+      "observation": "Jennifer takes Kristoff as a client and attempts an international rescue/extradition.",
+      "source_id": "LAT51_S04",
+      "source_ids": [
+        "LAT51_S04",
+        "LAT51_S05",
+        "LAT51_S15"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_issue_synopsis",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV07",
+      "a": "jennifer_walters",
+      "b": "doom",
+      "issue": "She-Hulk (2014) #4",
+      "publication_year": 2014,
+      "observation": "Jennifer goes into Latveria to free her kidnapped client from Doom.",
+      "source_id": "LAT51_S05",
+      "source_ids": [
+        "LAT51_S05"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_issue_synopsis",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV08",
+      "a": "doom",
+      "b": "kristoff_vernard",
+      "issue": "Superior Avengers (2025) #1",
+      "publication_year": 2025,
+      "observation": "Doom tasks Kristoff with assembling his Superior Avengers team.",
+      "source_id": "LAT51_S06",
+      "source_ids": [
+        "LAT51_S06"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_issue_synopsis",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV09",
+      "a": "prince_zorba",
+      "b": "doom",
+      "issue": "Fantastic Four (1961) #199–200 (1978)",
+      "publication_year": 1978,
+      "observation": "Zorba and the Latverian Resistance challenge Doom’s rule, supported by the Fantastic Four.",
+      "source_id": "LAT51_S07",
+      "source_ids": [
+        "LAT51_S07",
+        "LAT51_S08",
+        "LAT51_S03"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_issue_and_history",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV10",
+      "a": "doom",
+      "b": "prince_zorba",
+      "issue": "Fantastic Four (1961), early-1980s restoration arc",
+      "publication_year": 1982,
+      "observation": "After Zorba’s regime deteriorates, Doom retakes Latveria; Marvel describes Zorba as seemingly killed.",
+      "source_id": "LAT51_S03",
+      "source_ids": [
+        "LAT51_S03",
+        "LAT51_S16"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_history; exact_issue_pending",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV11",
+      "a": "prince_zorba",
+      "b": "reed",
+      "issue": "Fantastic Four (1961) #199–200 (1978)",
+      "publication_year": 1978,
+      "observation": "Zorba and the Fantastic Four undertake the specific operation to remove Doom from power.",
+      "source_id": "LAT51_S07",
+      "source_ids": [
+        "LAT51_S07",
+        "LAT51_S08",
+        "LAT51_S03"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "joint_operation; Reed_individual_actions_not_verified",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV12",
+      "a": "doom",
+      "b": "zora_vukovic",
+      "issue": "Fantastic Four (2018) #32–33 (2021)",
+      "publication_year": 2021,
+      "observation": "Doom announces a royal wedding with Victorious, described by Marvel as his devoted subject.",
+      "source_id": "LAT51_S09",
+      "source_ids": [
+        "LAT51_S09",
+        "LAT51_S10"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_editorial; wedding_completion_unverified",
+      "observation_type": "unverified_crowdsourced",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV13",
+      "a": "nick_fury_sr",
+      "b": "lucia_von_bardas",
+      "issue": "Secret War (2004–2005) #1–5",
+      "publication_year": 2004,
+      "observation": "Fury discovers von Bardas is supplying terrorists, recruits a covert strike team despite orders not to act.",
+      "source_id": "LAT51_S11",
+      "source_ids": [
+        "LAT51_S11"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_biography; exact_issue_pending",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV14",
+      "a": "lucia_von_bardas",
+      "b": "nick_fury_sr",
+      "issue": "Secret War (2004–2005) #5 era",
+      "publication_year": 2005,
+      "observation": "Surviving the first assault as a cyborg, von Bardas sends villains against New York heroes in retaliation for Fury’s strike.",
+      "source_id": "LAT51_S11",
+      "source_ids": [
+        "LAT51_S11"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_biography",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV15",
+      "a": "lucia_von_bardas",
+      "b": "scorcher_steven_hudak",
+      "issue": "Secret War (2004–2005) #5 era",
+      "publication_year": 2005,
+      "observation": "A Marvel-hosted but unverified biography says von Bardas forced Scorcher into her technology-linked bomb scheme.",
+      "source_id": "LAT51_S12",
+      "source_ids": [
+        "LAT51_S12"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "unverified_crowdsourced",
+      "observation_type": "unverified_crowdsourced",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV16",
+      "a": "daisy",
+      "b": "lucia_von_bardas",
+      "issue": "Secret War (2004–2005) #5 era",
+      "publication_year": 2005,
+      "observation": "Daisy Johnson overcomes von Bardas during the New York attack.",
+      "source_id": "LAT51_S11",
+      "source_ids": [
+        "LAT51_S11",
+        "LAT51_S12"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_biography; kill_detail_unverified",
+      "observation_type": "unverified_crowdsourced",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV17",
+      "a": "scorcher_steven_hudak",
+      "b": "matt",
+      "issue": "Early 2000s / Secret War (2004–2005) #5 era",
+      "publication_year": 2005,
+      "observation": "Unverified Marvel-hosted biography says Scorcher accepts a contract to kill Matt and is later beaten by Daredevil.",
+      "source_id": "LAT51_S12",
+      "source_ids": [
+        "LAT51_S12"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "unverified_crowdsourced; issue_pending",
+      "observation_type": "unverified_crowdsourced",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "LAT51_EV18",
+      "a": "doom",
+      "b": "valeria_doom_first_love",
+      "issue": "Fantastic Four (1998) #67–70 / Unthinkable (2003)",
+      "publication_year": 2003,
+      "observation": "Marvel describes Doom’s former love Valeria as murdered by Doom to obtain dark magical power.",
+      "source_id": "LAT51_S03",
+      "source_ids": [
+        "LAT51_S03",
+        "LAT51_S13",
+        "LAT51_S14"
+      ],
+      "review_status": "Publisher secondary evidence only; original panels not independently examined",
+      "evidence_tier": "publisher_history; exact_panel_unreviewed",
+      "observation_type": "publisher_summary",
+      "continuity": "Earth-616"
+    }
+  ],
+  "claims": [
+    {
+      "id": "LAT51_CL01",
+      "pair_id": "cynthia_von_doom-mephisto",
+      "from_id": "cynthia_von_doom",
+      "to_id": "mephisto",
+      "dimension": "cooperation",
+      "assessment": "transactional bargain",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Cynthia strikes a bargain with Mephisto for magical power.",
+      "qualification": "Agreement does not mean informed acceptance of the ultimate cost.",
+      "event_ids": [
+        "LAT51_EV01"
+      ],
+      "scope": "Doctor Strange & Doctor Doom: Triumph and Torment (1989)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL02",
+      "pair_id": "cynthia_von_doom-mephisto",
+      "from_id": "mephisto",
+      "to_id": "cynthia_von_doom",
+      "dimension": "coercion",
+      "assessment": "soul claimed",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Mephisto takes Cynthia’s soul following the bargain.",
+      "qualification": "Power asymmetry; precise contractual terms not panel-verified.",
+      "event_ids": [
+        "LAT51_EV01"
+      ],
+      "scope": "Doctor Strange & Doctor Doom: Triumph and Torment (1989)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL03",
+      "pair_id": "cynthia_von_doom-doom",
+      "from_id": "cynthia_von_doom",
+      "to_id": "doom",
+      "dimension": "family",
+      "assessment": "mother-son kinship",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Marvel identifies Cynthia as Victor’s mother.",
+      "qualification": "Kinship does not establish agreement with his later rule.",
+      "event_ids": [
+        "LAT51_EV02"
+      ],
+      "scope": "Triumph and Torment (1989)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL04",
+      "pair_id": "cynthia_von_doom-doom",
+      "from_id": "doom",
+      "to_id": "cynthia_von_doom",
+      "dimension": "protection",
+      "assessment": "soul rescued",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Doom rescues Cynthia’s soul from Mephisto.",
+      "qualification": "One rescue does not erase the effects of Doom’s other actions.",
+      "event_ids": [
+        "LAT51_EV02"
+      ],
+      "scope": "Triumph and Torment (1989)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL05",
+      "pair_id": "cynthia_von_doom-strange",
+      "from_id": "strange",
+      "to_id": "cynthia_von_doom",
+      "dimension": "protection",
+      "assessment": "assists soul rescue",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Strange helps Doom free Cynthia’s soul.",
+      "qualification": "No independent personal friendship with Cynthia is established.",
+      "event_ids": [
+        "LAT51_EV03"
+      ],
+      "scope": "Triumph and Torment (1989)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL06",
+      "pair_id": "doom-kristoff_vernard",
+      "from_id": "doom",
+      "to_id": "kristoff_vernard",
+      "dimension": "family",
+      "assessment": "adoptive heir",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Kristoff is identified as Doom’s adopted heir.",
+      "qualification": "Some later solicitations call him a son; biological paternity not established.",
+      "event_ids": [
+        "LAT51_EV04"
+      ],
+      "scope": "Fantastic Four (1961), post-Zorba / 1980s–1990s",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL07",
+      "pair_id": "doom-kristoff_vernard",
+      "from_id": "doom",
+      "to_id": "kristoff_vernard",
+      "dimension": "coercion",
+      "assessment": "kidnapping",
+      "epistemic": "direct_issue_synopsis",
+      "summary": "Doom kidnaps Kristoff while he is seeking legal relief.",
+      "qualification": "A specific 2014 incident, not a perpetual state.",
+      "event_ids": [
+        "LAT51_EV05"
+      ],
+      "scope": "She-Hulk (2014) #3–4",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL08",
+      "pair_id": "doom-kristoff_vernard",
+      "from_id": "doom",
+      "to_id": "kristoff_vernard",
+      "dimension": "authority",
+      "assessment": "team assignment",
+      "epistemic": "direct_issue_synopsis",
+      "summary": "Doom tasks Kristoff with creating the Superior Avengers.",
+      "qualification": "2025 institutional assignment; not proof of affectionate trust.",
+      "event_ids": [
+        "LAT51_EV08"
+      ],
+      "scope": "Superior Avengers (2025) #1",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL09",
+      "pair_id": "jennifer_walters-kristoff_vernard",
+      "from_id": "jennifer_walters",
+      "to_id": "kristoff_vernard",
+      "dimension": "professional",
+      "assessment": "legal counsel",
+      "epistemic": "direct_issue_synopsis",
+      "summary": "Jennifer accepts Kristoff’s extradition-related legal matter.",
+      "qualification": "Attorney-client relationship; private friendship not inferred.",
+      "event_ids": [
+        "LAT51_EV06"
+      ],
+      "scope": "She-Hulk (2014) #3–4",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL10",
+      "pair_id": "jennifer_walters-kristoff_vernard",
+      "from_id": "jennifer_walters",
+      "to_id": "kristoff_vernard",
+      "dimension": "protection",
+      "assessment": "attempted rescue",
+      "epistemic": "direct_issue_synopsis",
+      "summary": "Jennifer pursues Kristoff’s release in Latveria.",
+      "qualification": "Professional duty and protective action can coexist.",
+      "event_ids": [
+        "LAT51_EV06"
+      ],
+      "scope": "She-Hulk (2014) #3–4",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL11",
+      "pair_id": "doom-jennifer_walters",
+      "from_id": "jennifer_walters",
+      "to_id": "doom",
+      "dimension": "conflict",
+      "assessment": "opposes kidnapping",
+      "epistemic": "direct_issue_synopsis",
+      "summary": "Jennifer undertakes an international jailbreak to recover Doom’s captive.",
+      "qualification": "Event-scoped opposition; exact combat choreography unverified.",
+      "event_ids": [
+        "LAT51_EV07"
+      ],
+      "scope": "She-Hulk (2014) #4",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL12",
+      "pair_id": "doom-prince_zorba",
+      "from_id": "prince_zorba",
+      "to_id": "doom",
+      "dimension": "conflict",
+      "assessment": "challenges rule",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Zorba leads resistance against Doom’s rule.",
+      "qualification": "Claim of legitimacy does not prove later benevolence.",
+      "event_ids": [
+        "LAT51_EV09"
+      ],
+      "scope": "Fantastic Four (1961) #199–200 (1978)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL13",
+      "pair_id": "doom-prince_zorba",
+      "from_id": "doom",
+      "to_id": "prince_zorba",
+      "dimension": "conflict",
+      "assessment": "retakes throne",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Doom retakes Latveria from Zorba, who is described as seemingly killed.",
+      "qualification": "Do not claim a confirmed permanent death.",
+      "event_ids": [
+        "LAT51_EV10"
+      ],
+      "scope": "Fantastic Four (1961), early-1980s restoration arc",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL14",
+      "pair_id": "prince_zorba-reed",
+      "from_id": "prince_zorba",
+      "to_id": "reed",
+      "dimension": "cooperation",
+      "assessment": "joint coup operation",
+      "epistemic": "qualified_publisher_summary",
+      "summary": "Zorba and the Fantastic Four act together to depose Doom.",
+      "qualification": "Reed-specific dialogue and intentions not established; group-action evidence.",
+      "event_ids": [
+        "LAT51_EV11"
+      ],
+      "scope": "Fantastic Four (1961) #199–200 (1978)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL15",
+      "pair_id": "doom-zora_vukovic",
+      "from_id": "doom",
+      "to_id": "zora_vukovic",
+      "dimension": "authority",
+      "assessment": "royal betrothal",
+      "epistemic": "direct_issue_synopsis",
+      "summary": "Doom publicly names Victorious his intended bride and devoted subject.",
+      "qualification": "No completed marriage or reciprocated love established.",
+      "event_ids": [
+        "LAT51_EV12"
+      ],
+      "scope": "Fantastic Four (2018) #32–33 (2021)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL16",
+      "pair_id": "doom-zora_vukovic",
+      "from_id": "zora_vukovic",
+      "to_id": "doom",
+      "dimension": "cooperation",
+      "assessment": "participates in betrothal",
+      "epistemic": "qualified_publisher_summary",
+      "summary": "Victorious is presented as Doom’s devoted subject and intended bride.",
+      "qualification": "Publisher language may reflect Latverian propaganda; consent not panel-verified.",
+      "event_ids": [
+        "LAT51_EV12"
+      ],
+      "scope": "Fantastic Four (2018) #32–33 (2021)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL17",
+      "pair_id": "lucia_von_bardas-nick_fury_sr",
+      "from_id": "nick_fury_sr",
+      "to_id": "lucia_von_bardas",
+      "dimension": "conflict",
+      "assessment": "unauthorized strike",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Fury launches an unsanctioned mission against von Bardas.",
+      "qualification": "Political conflict is documented; not a claim about personal hatred.",
+      "event_ids": [
+        "LAT51_EV13"
+      ],
+      "scope": "Secret War (2004–2005) #1–5",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL18",
+      "pair_id": "lucia_von_bardas-nick_fury_sr",
+      "from_id": "lucia_von_bardas",
+      "to_id": "nick_fury_sr",
+      "dimension": "conflict",
+      "assessment": "retaliatory operation",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Von Bardas retaliates for Fury’s attack with a supervillain assault.",
+      "qualification": "Retaliation targets multiple heroes; exact personal confrontation unverified.",
+      "event_ids": [
+        "LAT51_EV14"
+      ],
+      "scope": "Secret War (2004–2005) #5 era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL19",
+      "pair_id": "lucia_von_bardas-scorcher_steven_hudak",
+      "from_id": "lucia_von_bardas",
+      "to_id": "scorcher_steven_hudak",
+      "dimension": "coercion",
+      "assessment": "forces participation",
+      "epistemic": "unverified_crowdsourced",
+      "summary": "Scorcher is said to be forced into her bomb-linked attack.",
+      "qualification": "Unverified Marvel-hosted crowd-sourced account; provisional.",
+      "event_ids": [
+        "LAT51_EV15"
+      ],
+      "scope": "Secret War (2004–2005) #5 era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL20",
+      "pair_id": "daisy-lucia_von_bardas",
+      "from_id": "daisy",
+      "to_id": "lucia_von_bardas",
+      "dimension": "conflict",
+      "assessment": "stops bomb plot",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Daisy Johnson overcomes von Bardas.",
+      "qualification": "Publisher Fury biography confirms defeat; precise lethality disputed/unchecked.",
+      "event_ids": [
+        "LAT51_EV16"
+      ],
+      "scope": "Secret War (2004–2005) #5 era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL21",
+      "pair_id": "matt-scorcher_steven_hudak",
+      "from_id": "scorcher_steven_hudak",
+      "to_id": "matt",
+      "dimension": "conflict",
+      "assessment": "contract and battle",
+      "epistemic": "unverified_crowdsourced",
+      "summary": "Scorcher reportedly accepts a contract on Matt and later battles Daredevil.",
+      "qualification": "Unverified crowd-sourced biography; original issues pending.",
+      "event_ids": [
+        "LAT51_EV17"
+      ],
+      "scope": "Early 2000s / Secret War (2004–2005) #5 era",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL22",
+      "pair_id": "doom-valeria_doom_first_love",
+      "from_id": "doom",
+      "to_id": "valeria_doom_first_love",
+      "dimension": "romance",
+      "assessment": "former lover",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Marvel identifies the murdered Valeria as Doom’s former love.",
+      "qualification": "Historical romance, not evidence of affection at time of killing.",
+      "event_ids": [
+        "LAT51_EV18"
+      ],
+      "scope": "Fantastic Four (1998) #67–70 / Unthinkable (2003)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    },
+    {
+      "id": "LAT51_CL23",
+      "pair_id": "doom-valeria_doom_first_love",
+      "from_id": "doom",
+      "to_id": "valeria_doom_first_love",
+      "dimension": "conflict",
+      "assessment": "lethal sacrifice",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Doom murders Valeria to obtain mystical power.",
+      "qualification": "Lethal instrumental act, not reciprocal rivalry.",
+      "event_ids": [
+        "LAT51_EV18"
+      ],
+      "scope": "Fantastic Four (1998) #67–70 / Unthinkable (2003)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; no original-panel review"
+    }
+  ],
+  "identity_warnings": [
+    "Cynthia von Doom is Victor’s mother; Valeria the former lover is distinct from the child Valeria Richards (canonical id valeria).",
+    "Kristoff is identified as an adopted heir in Marvel history; the biological son wording in solicitations is not proof of paternity.",
+    "Victorious is Zora Vukovic; civilian name crosschecked outside publisher, publisher wedding source names only Victorious.",
+    "Prince Zorba’s apparent death is not a verified permanent death.",
+    "Scorcher’s Marvel-hosted biography carries an explicit crowd-sourced unverified notice; related claims remain provisional.",
+    "Daisy overcomes Lucia von Bardas; do not overclaim her final death or exact mechanism.",
+    "No Zora–Johnny Storm pair included: two official-source searches did not yield sufficient issue-level publisher evidence.",
+    "The canonical pilot does not include Jennifer Walters, although the broader Earth-616 atlas does.",
+    "No GitHub writes attempted."
+  ],
+  "validation": {
+    "canonical_people_deduplicated": true,
+    "canonical_pair_collisions": 0,
+    "canonical_blob_sha_verified_this_run": true,
+    "unique_new_people": 8,
+    "unique_unordered_pairs": 14,
+    "directed_assessments": 23,
+    "events": 18,
+    "official_marvel_source_urls": 16,
+    "publisher_hosted_unverified_sources": 1,
+    "internal_unique_ids": true,
+    "all_references_resolve": true,
+    "dimensions_match_canonical": true,
+    "original_panels_reviewed": false,
+    "complete_import_schema_test": "canonical-compatible fields; not dry-run imported",
+    "cross_batch_deduplication": "not exhaustive",
+    "committed": 0
+  }
+}
