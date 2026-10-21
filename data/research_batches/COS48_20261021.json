@@ -1,0 +1,537 @@
+{
+  "batch_id": "COS48_20261021",
+  "status": "UNCOMMITTED / awaiting user's periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+    "people": 305,
+    "events": 454,
+    "claims": 535
+  },
+  "person_fields": [
+    "id",
+    "name",
+    "description"
+  ],
+  "people": [
+    [
+      "una_kree",
+      "Una",
+      "Kree medical officer; Mar-Vell's partner"
+    ],
+    [
+      "yon_rogg",
+      "Yon-Rogg",
+      "Kree colonel; Mar-Vell's commanding officer and rival"
+    ],
+    [
+      "zarek_kree",
+      "Zarek",
+      "Kree minister; masqueraded as Zo"
+    ],
+    [
+      "rick_jones",
+      "Richard Jones",
+      "Rick Jones; human ally bonded to Mar-Vell via Nega-Bands"
+    ],
+    [
+      "supreme_intelligence",
+      "Supreme Intelligence",
+      "Sentient Kree collective ruler; not an individual Kree soldier"
+    ],
+    [
+      "dorrek_vii",
+      "Dorrek VII",
+      "Skrull emperor during Kree-Skrull War; not Hulkling/Dorrek VIII"
+    ],
+    [
+      "sbyll",
+      "S'Byll",
+      "Skrull empress who restored Skrull shapechanging"
+    ],
+    [
+      "veranke",
+      "Veranke",
+      "Skrull queen who led Secret Invasion"
+    ],
+    [
+      "paibok",
+      "Paibok",
+      "Power-Skrull; covert operative who deployed Lyja"
+    ],
+    [
+      "eon_cosmic",
+      "Eon",
+      "Sentient cosmic entity; appoints Protectors of the Universe"
+    ]
+  ],
+  "reused_canonical_ids": [
+    "mar_vell",
+    "carol",
+    "super_skrull",
+    "norrin_radd",
+    "norman",
+    "alicia"
+  ],
+  "source_fields": [
+    "id",
+    "url",
+    "evidence_tier"
+  ],
+  "sources": [
+    [
+      "COS48_S01",
+      "https://www.marvel.com/characters/captain-marvel-mar-vell",
+      "publisher_character_biography"
+    ],
+    [
+      "COS48_S02",
+      "https://www.marvel.com/comics/issue/8005/captain_marvel_1968_16",
+      "publisher_issue_synopsis"
+    ],
+    [
+      "COS48_S03",
+      "https://www.marvel.com/comics/issue/8006/captain_marvel_1968_17",
+      "publisher_issue_synopsis"
+    ],
+    [
+      "COS48_S04",
+      "https://www.marvel.com/teams-and-groups/skrulls",
+      "publisher_team_history"
+    ],
+    [
+      "COS48_S05",
+      "https://www.marvel.com/characters/super-skrull/",
+      "publisher_hosted_biography_with_crowdsourced_warning"
+    ],
+    [
+      "COS48_S06",
+      "https://www.marvel.com/characters/paibok/",
+      "publisher_hosted_character_biography"
+    ],
+    [
+      "COS48_S07",
+      "https://www.marvel.com/characters/alicia-masters",
+      "publisher_character_biography"
+    ],
+    [
+      "COS48_S08",
+      "https://www.marvel.com/articles/comics/an-oral-history-of-secret-invasion",
+      "publisher_editorial_interviews"
+    ],
+    [
+      "COS48_S09",
+      "https://www.marvel.com/articles/comics/marvel-cosmic-events-explained",
+      "publisher_editorial"
+    ],
+    [
+      "COS48_S10",
+      "https://www.marvel.com/characters/quasar-wendell-vaughn",
+      "publisher_character_biography"
+    ]
+  ],
+  "event_fields": [
+    "id",
+    "a",
+    "b",
+    "scope",
+    "documented_observation",
+    "source_ids",
+    "evidence_quality"
+  ],
+  "events": [
+    [
+      "COS48_E01",
+      "mar_vell",
+      "una_kree",
+      "Marvel Super-Heroes (1967) #12-13 / Captain Marvel (1968) early Kree-service era; precise relationship issue pending",
+      "Mar-Vell and medic Una become close and romantically involved; she comes to warn him of his punishment and later dies of wounds suffered during an attack.",
+      [
+        "COS48_S01"
+      ],
+      "publisher_biography"
+    ],
+    [
+      "COS48_E02",
+      "yon_rogg",
+      "una_kree",
+      "Captain Marvel (1968) early Kree-service era; issue pending",
+      "Yon-Rogg desires Una, who is romantically attached to Mar-Vell, and seeks to remove his rival.",
+      [
+        "COS48_S01"
+      ],
+      "publisher_biography"
+    ],
+    [
+      "COS48_E03",
+      "yon_rogg",
+      "mar_vell",
+      "Captain Marvel (1968) early issues, before #17",
+      "Yon-Rogg orders Mar-Vell into a dangerous solo mission and repeatedly plots his death; Mar-Vell later swears vengeance.",
+      [
+        "COS48_S01"
+      ],
+      "publisher_biography; precise_issues_pending"
+    ],
+    [
+      "COS48_E04",
+      "yon_rogg",
+      "carol",
+      "Captain Marvel (1968) #17-18 era; exact hostage issue pending",
+      "Yon-Rogg holds Carol Danvers hostage during the Psyche-Magnitron confrontation; Mar-Vell saves her from the blast.",
+      [
+        "COS48_S01",
+        "COS48_S03"
+      ],
+      "publisher_biography; issue_scope_approximate"
+    ],
+    [
+      "COS48_E05",
+      "zarek_kree",
+      "mar_vell",
+      "Captain Marvel (1968) #16 (1969)",
+      "Zarek impersonates Zo, grants Mar-Vell power under a bargain, and uses him in a plot; Marvel's #16 synopsis identifies Zo as Zarek and Ronan as co-conspirator.",
+      [
+        "COS48_S01",
+        "COS48_S02"
+      ],
+      "publisher_biography_plus_issue_synopsis"
+    ],
+    [
+      "COS48_E06",
+      "supreme_intelligence",
+      "mar_vell",
+      "Captain Marvel (1968) #17; later Lunatic Legion / War of Three Galaxies storyline",
+      "The Supreme Intelligence engineers Mar-Vell's link to Rick, later acknowledges manipulating Mar-Vell and sends him and Rick into danger.",
+      [
+        "COS48_S01",
+        "COS48_S03"
+      ],
+      "publisher_biography_plus_issue_synopsis"
+    ],
+    [
+      "COS48_E07",
+      "supreme_intelligence",
+      "rick_jones",
+      "Avengers (1963) #97 Kree-Skrull War era; later Kree intelligence storyline, issue pending",
+      "The Intelligence helps activate Rick's Destiny Force during the war; later intends to absorb Rick's mind into its collective.",
+      [
+        "COS48_S01"
+      ],
+      "publisher_biography; issue_scope_partial"
+    ],
+    [
+      "COS48_E08",
+      "mar_vell",
+      "rick_jones",
+      "Captain Marvel (1968) #17 onward; Kree-Skrull War and later Negative Zone incidents",
+      "Mar-Vell and Rick exchange places through Nega-Bands; Mar-Vell merges their lifeforces to save Rick, and Rick later moves Mar-Vell's body to safety while Annihilus holds him.",
+      [
+        "COS48_S01",
+        "COS48_S03"
+      ],
+      "publisher_biography_plus_issue_synopsis"
+    ],
+    [
+      "COS48_E09",
+      "dorrek_vii",
+      "mar_vell",
+      "Avengers (1963) #93-97 Kree-Skrull War era; exact issue pending",
+      "Dorrek VII threatens captive Avengers Wanda and Pietro unless Mar-Vell builds an Omni-Wave weapon for the Skrulls.",
+      [
+        "COS48_S01",
+        "COS48_S04"
+      ],
+      "publisher_biography_and_team_history"
+    ],
+    [
+      "COS48_E10",
+      "dorrek_vii",
+      "super_skrull",
+      "Fantastic Four (1961) #18 / #32 early Super-Skrull history",
+      "Emperor Dorrek commissions the enhancement of soldier Kl'rt with Fantastic Four powers to attack the team.",
+      [
+        "COS48_S04",
+        "COS48_S05"
+      ],
+      "publisher_team_history; detailed_biography_crowdsourced_warning"
+    ],
+    [
+      "COS48_E11",
+      "sbyll",
+      "super_skrull",
+      "Silver Surfer (1987) late-1980s Skrull-restoration arc; issue pending",
+      "Kl'rt helps S'Byll gain the ability to restore Skrull shapechanging and serves as her champion.",
+      [
+        "COS48_S04",
+        "COS48_S05"
+      ],
+      "publisher_team_history; additional_biography_unverified"
+    ],
+    [
+      "COS48_E12",
+      "norrin_radd",
+      "sbyll",
+      "Skrull succession/restoration arc, late 1980s; issue pending",
+      "Norrin Radd sponsors S'Byll's candidacy for the Skrull throne amid competing claimants.",
+      [
+        "COS48_S04"
+      ],
+      "publisher_team_history"
+    ],
+    [
+      "COS48_E13",
+      "norman",
+      "veranke",
+      "Secret Invasion (2008) #8",
+      "Norman Osborn shoots and kills Skrull Queen Veranke, becoming publicly celebrated and gaining power afterward.",
+      [
+        "COS48_S04",
+        "COS48_S08",
+        "COS48_S09"
+      ],
+      "publisher_editorial_and_team_history"
+    ],
+    [
+      "COS48_E14",
+      "paibok",
+      "alicia",
+      "Fantastic Four (1961) early-1990s Lyja impersonation/rescue storyline; precise issue pending",
+      "Paibok sends Lyja to impersonate Alicia; Skrull agents abduct and imprison the real Alicia during the substitution.",
+      [
+        "COS48_S06",
+        "COS48_S07"
+      ],
+      "publisher_biographies; Paibok_personal_contact_unverified"
+    ],
+    [
+      "COS48_E15",
+      "eon_cosmic",
+      "mar_vell",
+      "Captain Marvel (1968) Thanos/Cosmic Awareness arc, early 1970s; issue pending",
+      "Eon takes Mar-Vell on a spiritual journey and grants Cosmic Awareness as he becomes Protector of the Universe.",
+      [
+        "COS48_S01",
+        "COS48_S10"
+      ],
+      "publisher_biographies"
+    ]
+  ],
+  "claim_fields": [
+    "id",
+    "from_id",
+    "to_id",
+    "dimension",
+    "event_id",
+    "documented_fact",
+    "interpretation_or_limitation"
+  ],
+  "claims": [
+    [
+      "COS48_C01",
+      "mar_vell",
+      "una_kree",
+      "romance",
+      "COS48_E01",
+      "Mar-Vell and Una are romantically involved.",
+      "Historical romance; do not infer relationship persisted after Una's death."
+    ],
+    [
+      "COS48_C02",
+      "una_kree",
+      "mar_vell",
+      "affection",
+      "COS48_E01",
+      "Una attempts to warn Mar-Vell of his punishment.",
+      "Action supports concern; no imagined private thoughts."
+    ],
+    [
+      "COS48_C03",
+      "yon_rogg",
+      "una_kree",
+      "affection",
+      "COS48_E02",
+      "Yon-Rogg desires Una while she is with Mar-Vell.",
+      "Unreciprocated; no romance claim in Una-to-Yon-Rogg direction."
+    ],
+    [
+      "COS48_C04",
+      "yon_rogg",
+      "mar_vell",
+      "conflict",
+      "COS48_E03",
+      "Yon-Rogg attempts to kill his subordinate Mar-Vell.",
+      "His official command and personal jealousy must not be conflated."
+    ],
+    [
+      "COS48_C05",
+      "mar_vell",
+      "yon_rogg",
+      "conflict",
+      "COS48_E03",
+      "Mar-Vell swears vengeance after Una's death.",
+      "Specific reaction, not a permanent psychological diagnosis."
+    ],
+    [
+      "COS48_C06",
+      "yon_rogg",
+      "carol",
+      "coercion",
+      "COS48_E04",
+      "Yon-Rogg takes Carol Danvers hostage.",
+      "Exact issue of hostage scene is not confirmed here."
+    ],
+    [
+      "COS48_C07",
+      "zarek_kree",
+      "mar_vell",
+      "coercion",
+      "COS48_E05",
+      "Zarek conceals his identity as Zo and uses a bargain to manipulate Mar-Vell.",
+      "Assistance and exploitation coexist; the power bargain alone is not friendship."
+    ],
+    [
+      "COS48_C08",
+      "supreme_intelligence",
+      "mar_vell",
+      "influence",
+      "COS48_E06",
+      "The Intelligence arranges the Nega-Band link and later admits manipulating Mar-Vell.",
+      "Institutional guidance and hidden exploitation are distinct."
+    ],
+    [
+      "COS48_C09",
+      "mar_vell",
+      "supreme_intelligence",
+      "conflict",
+      "COS48_E06",
+      "Mar-Vell is ambushed with the Intelligence's blessing after attempting to warn it.",
+      "Opposition is later and incident-scoped; earlier service not erased."
+    ],
+    [
+      "COS48_C10",
+      "supreme_intelligence",
+      "rick_jones",
+      "coercion",
+      "COS48_E07",
+      "The Intelligence intends to absorb Rick's mind after using his Destiny Force.",
+      "The planned absorption is not evidence Rick consented."
+    ],
+    [
+      "COS48_C11",
+      "mar_vell",
+      "rick_jones",
+      "protection",
+      "COS48_E08",
+      "Mar-Vell merges life forces with Rick to prevent his death.",
+      "Event-scoped rescue; their unusual bond is also a physical constraint."
+    ],
+    [
+      "COS48_C12",
+      "rick_jones",
+      "mar_vell",
+      "protection",
+      "COS48_E08",
+      "Rick moves Mar-Vell's body to safety while Mar-Vell is held by Annihilus.",
+      "A later reciprocal protective act; does not prove symmetrical authority."
+    ],
+    [
+      "COS48_C13",
+      "dorrek_vii",
+      "mar_vell",
+      "coercion",
+      "COS48_E09",
+      "Dorrek threatens Wanda and Pietro to force Mar-Vell to make an Omni-Wave.",
+      "Mar-Vell secretly subverts the order; compliance is not allegiance."
+    ],
+    [
+      "COS48_C14",
+      "dorrek_vii",
+      "super_skrull",
+      "authority",
+      "COS48_E10",
+      "Dorrek commissions Kl'rt's transformation as a Skrull weapon.",
+      "The exact ordinal Dorrek VII is inferred from the publisher's imperial history."
+    ],
+    [
+      "COS48_C15",
+      "sbyll",
+      "super_skrull",
+      "cooperation",
+      "COS48_E11",
+      "S'Byll and Kl'rt cooperate to restore Skrull shapechanging.",
+      "The scope is the succession/restoration episode."
+    ],
+    [
+      "COS48_C16",
+      "super_skrull",
+      "sbyll",
+      "cooperation",
+      "COS48_E11",
+      "Kl'rt helps S'Byll acquire restorative power and serves as her champion.",
+      "Service does not establish agreement with every later imperial policy."
+    ],
+    [
+      "COS48_C17",
+      "norrin_radd",
+      "sbyll",
+      "influence",
+      "COS48_E12",
+      "The Silver Surfer sponsors S'Byll's bid for the Skrull throne.",
+      "Sponsorship is documented; no permanent loyalty is inferred."
+    ],
+    [
+      "COS48_C18",
+      "norman",
+      "veranke",
+      "conflict",
+      "COS48_E13",
+      "Norman kills Veranke at the climax of Secret Invasion.",
+      "A lethal event, not evidence of longstanding personal rivalry."
+    ],
+    [
+      "COS48_C19",
+      "paibok",
+      "alicia",
+      "coercion",
+      "COS48_E14",
+      "Paibok initiates the infiltration plan that results in Alicia's abduction and impersonation.",
+      "Paibok's direct physical involvement in Alicia's capture is unverified."
+    ],
+    [
+      "COS48_C20",
+      "eon_cosmic",
+      "mar_vell",
+      "mentorship",
+      "COS48_E15",
+      "Eon prepares Mar-Vell for his Protector role and grants Cosmic Awareness.",
+      "Cosmic appointment and spiritual guidance, not human-style personal affection."
+    ]
+  ],
+  "warnings": [
+    "The Supreme Intelligence is a sentient Kree collective, not an individual Kree soldier.",
+    "Dorrek VII is distinct from Hulkling/Dorrek VIII; do not merge identities.",
+    "Una is the Kree medic, not the unrelated Una from another Marvel continuity.",
+    "Super-Skrull biography carries a crowd-sourced accuracy warning; the Skrulls team history provides independent support for key events.",
+    "Paibok orchestrates Alicia's replacement; no direct face-to-face interaction is established.",
+    "Early Captain Marvel and Skrull-restoration issue scopes are provisional when a precise issue is not verified.",
+    "Original comic panels not reviewed; publisher summaries are secondary evidence.",
+    "Do not infer reciprocity from unrequited desire, coercion, or a single protective act."
+  ],
+  "validation": {
+    "proposed_new_people": 10,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 20,
+    "events": 15,
+    "official_marvel_source_urls": 10,
+    "unique_ids": true,
+    "internal_references_resolve": true,
+    "dimensions_in_canonical_vocabulary": true,
+    "original_panels_reviewed": false,
+    "full_import_schema_validation": "pending",
+    "cross_batch_deduplication": "checked_against_visible_prior_proposals",
+    "committed": 0
+  }
+}
