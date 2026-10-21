@@ -1,0 +1,760 @@
+{
+  "batch_id": "DB55_20261021",
+  "status": "UNCOMMITTED / awaiting user periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "research_focus": "Daily Bugle civilians, Brant family, Hobgoblin proxies, Jameson family",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+    "people_count": 305,
+    "event_count": 454,
+    "claim_count": 535
+  },
+  "people": [
+    {
+      "id": "betty_brant",
+      "name": "Betty Brant",
+      "identity_note": "Daily Bugle reporter; civilian supporting cast",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ned_leeds",
+      "name": "Ned Leeds",
+      "identity_note": "Daily Bugle reporter; Hobgoblin proxy under coercion",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "bennett_brant",
+      "name": "Bennett Brant",
+      "identity_note": "Betty’s brother; later Crime-Master identity; apparent-death continuity warning",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "roderick_kingsley",
+      "name": "Roderick Kingsley",
+      "identity_note": "Original Hobgoblin; manipulator of Ned Leeds",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "jason_macendale",
+      "name": "Jason Macendale",
+      "identity_note": "Mercenary; later Hobgoblin",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "sha_shan",
+      "name": "Sha Shan",
+      "identity_note": "Flash Thompson’s former partner; Sister Sun",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "achmed_korba",
+      "name": "Achmed Korba",
+      "identity_note": "Brother Power; Students of Love-associated cult leader",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "marla_madison",
+      "name": "Marla Madison Jameson",
+      "identity_note": "Electrobiologist; Jonah Jameson’s wife",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "john_jameson",
+      "name": "John Jameson",
+      "identity_note": "Astronaut; Jonah Jameson’s son",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "mac_gargan",
+      "name": "MacDonald Gargan",
+      "identity_note": "Scorpion; later Venom host",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ben_urich",
+      "name": "Ben Urich",
+      "identity_note": "Investigative journalist",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "phil_urich",
+      "name": "Phil Urich",
+      "identity_note": "Ben’s nephew; former heroic Green Goblin and later Hobgoblin",
+      "continuity": "Earth-616"
+    }
+  ],
+  "reused_canonical_ids": [
+    "flash",
+    "jonah",
+    "fisk"
+  ],
+  "sources": [
+    {
+      "id": "DB55_20261021_S01",
+      "title": "Flash Thompson biography",
+      "url": "https://www.marvel.com/characters/flash-thompson",
+      "evidence_tier": "publisher_biography"
+    },
+    {
+      "id": "DB55_20261021_S02",
+      "title": "Venom: The Savage Six collected issues #17–35",
+      "url": "https://www.marvel.com/comics/issue/107926/venom_modern_era_epic_collection_the_savage_six_tpb_trade_paperback",
+      "evidence_tier": "publisher_collection"
+    },
+    {
+      "id": "DB55_20261021_S03",
+      "title": "Amazing Spider-Man (1963) #289",
+      "url": "https://www.marvel.com/comics/issue/6692/amazing_spider-man_1963_289",
+      "evidence_tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "DB55_20261021_S04",
+      "title": "Amazing Spider-Man Annual (2018) #42",
+      "url": "https://www.marvel.com/comics/issue/66184/amazing_spider-man_annual_42_2018_42",
+      "evidence_tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "DB55_20261021_S05",
+      "title": "Mary Jane Watson biography",
+      "url": "https://www.marvel.com/characters/mary-jane-watson",
+      "evidence_tier": "publisher_biography"
+    },
+    {
+      "id": "DB55_20261021_S06",
+      "title": "Doctor Octopus biography",
+      "url": "https://www.marvel.com/characters/doctor-octopus-otto-octavius/in-comics",
+      "evidence_tier": "publisher_biography"
+    },
+    {
+      "id": "DB55_20261021_S07",
+      "title": "Scorpion biography",
+      "url": "https://www.marvel.com/characters/scorpion-macdonald-mac-gargan",
+      "evidence_tier": "publisher_biography"
+    },
+    {
+      "id": "DB55_20261021_S08",
+      "title": "Amazing Spider-Man (1963) #167",
+      "url": "https://www.marvel.com/comics/issue/6557/amazing_spider-man_1963_167",
+      "evidence_tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "DB55_20261021_S09",
+      "title": "Phil Urich biography (explicitly unverified)",
+      "url": "https://www.marvel.com/characters/phil-urich",
+      "evidence_tier": "marvel_hosted_unverified"
+    },
+    {
+      "id": "DB55_20261021_S10",
+      "title": "Night Nurse (Linda Carter) biography",
+      "url": "https://www.marvel.com/characters/night-nurse-linda-carter/in-comics/",
+      "evidence_tier": "publisher_biography"
+    },
+    {
+      "id": "DB55_20261021_S11",
+      "title": "Amazing Spider-Man (2022) #11",
+      "url": "https://www.marvel.com/comics/issue/95747/The_Amazing_Spider-Man_11_2022",
+      "evidence_tier": "publisher_issue_synopsis"
+    }
+  ],
+  "events": [
+    {
+      "id": "DB55_20261021_E01",
+      "a": "betty_brant",
+      "b": "ned_leeds",
+      "issue": "Amazing Spider-Man (1963) #156 (wedding era); #289 (1987)",
+      "continuity": "Earth-616",
+      "observation": "Betty and Ned are married; by the Hobgoblin arc their marriage is strained, and #289 describes Betty grieving Ned’s reported death.",
+      "source_ids": [
+        "DB55_20261021_S01",
+        "DB55_20261021_S03"
+      ],
+      "evidence_tier": "publisher_biography_plus_issue_synopsis",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E02",
+      "a": "betty_brant",
+      "b": "flash",
+      "issue": "1980s Hobgoblin storyline; later Agent Venom (2011)",
+      "continuity": "Earth-616",
+      "observation": "Betty and Flash begin an affair during her troubled marriage to Ned; they later have an on-and-off relationship.",
+      "source_ids": [
+        "DB55_20261021_S01"
+      ],
+      "evidence_tier": "publisher_biography",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E03",
+      "a": "betty_brant",
+      "b": "bennett_brant",
+      "issue": "Amazing Spider-Man (1963) #11-era; Venom (2011) Savage Six arc",
+      "continuity": "Earth-616",
+      "observation": "Bennett is Betty’s brother; the earlier account reports his shooting before her, while the later Crime-Master reveal identifies him as alive and she shoots him.",
+      "source_ids": [
+        "DB55_20261021_S01",
+        "DB55_20261021_S02",
+        "DB55_20261021_S06"
+      ],
+      "evidence_tier": "publisher_biography_continuity_reconciliation_pending",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E04",
+      "a": "bennett_brant",
+      "b": "flash",
+      "issue": "Venom (2011) #17–22 Savage Six era",
+      "continuity": "Earth-616",
+      "observation": "Crime-Master Bennett Brant threatens Betty and exploits Flash’s attachment to force compliance.",
+      "source_ids": [
+        "DB55_20261021_S01",
+        "DB55_20261021_S02"
+      ],
+      "evidence_tier": "publisher_biography_plus_collection",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E05",
+      "a": "roderick_kingsley",
+      "b": "ned_leeds",
+      "issue": "Amazing Spider-Man (1963) Hobgoblin arc; before #289 (1987)",
+      "continuity": "Earth-616",
+      "observation": "Kingsley brainwashes Ned into serving as his proxy and occasional stand-in as Hobgoblin.",
+      "source_ids": [
+        "DB55_20261021_S01",
+        "DB55_20261021_S05"
+      ],
+      "evidence_tier": "publisher_biography",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E06",
+      "a": "roderick_kingsley",
+      "b": "flash",
+      "issue": "Amazing Spider-Man (1963) Hobgoblin arc, 1980s",
+      "continuity": "Earth-616",
+      "observation": "Kingsley frames Flash as Hobgoblin, causing his arrest.",
+      "source_ids": [
+        "DB55_20261021_S01"
+      ],
+      "evidence_tier": "publisher_biography",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E07",
+      "a": "jason_macendale",
+      "b": "ned_leeds",
+      "issue": "Amazing Spider-Man (1963) #289 aftermath, 1987",
+      "continuity": "Earth-616",
+      "observation": "Assassins hired by Jason Macendale murder Ned; Macendale subsequently adopts the Hobgoblin identity.",
+      "source_ids": [
+        "DB55_20261021_S01",
+        "DB55_20261021_S03"
+      ],
+      "evidence_tier": "publisher_biography_plus_issue_synopsis",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E08",
+      "a": "sha_shan",
+      "b": "flash",
+      "issue": "Amazing Spider-Man, late 1970s–1980s, after Brother Power conflict",
+      "continuity": "Earth-616",
+      "observation": "Sha Shan nurses Flash after his wartime injury; they later live together as lovers, before separating after his affair with Betty.",
+      "source_ids": [
+        "DB55_20261021_S01"
+      ],
+      "evidence_tier": "publisher_biography",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E09",
+      "a": "achmed_korba",
+      "b": "sha_shan",
+      "issue": "Amazing Spider-Man Brother Power / Sister Sun arc, late 1970s",
+      "continuity": "Earth-616",
+      "observation": "Sha Shan is described as Korba’s reluctant bride; she turns against Korba during the cult conflict.",
+      "source_ids": [
+        "DB55_20261021_S01"
+      ],
+      "evidence_tier": "publisher_biography_issue_number_pending",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E10",
+      "a": "marla_madison",
+      "b": "jonah",
+      "issue": "Amazing Spider-Man (1963) #167 (1977)",
+      "continuity": "Earth-616",
+      "observation": "Marla Madison, an electrobiologist, helps Jonah deploy a Spider-Slayer robot against Spider-Man.",
+      "source_ids": [
+        "DB55_20261021_S08"
+      ],
+      "evidence_tier": "publisher_issue_synopsis",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E11",
+      "a": "marla_madison",
+      "b": "jonah",
+      "issue": "Amazing Spider-Man, late 1980s wedding era",
+      "continuity": "Earth-616",
+      "observation": "Marla is Jonah’s bride-to-be when Scorpion targets their wedding; later accounts identify her as his wife.",
+      "source_ids": [
+        "DB55_20261021_S07",
+        "DB55_20261021_S06"
+      ],
+      "evidence_tier": "publisher_biography",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E12",
+      "a": "mac_gargan",
+      "b": "marla_madison",
+      "issue": "Amazing Spider-Man, late 1980s wedding era; later Roxxon/Bolivia arc",
+      "continuity": "Earth-616",
+      "observation": "Scorpion abducts Marla before her wedding; in a later incident he stings Jonah to coerce Marla into leading a research team.",
+      "source_ids": [
+        "DB55_20261021_S07"
+      ],
+      "evidence_tier": "publisher_biography",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E13",
+      "a": "jonah",
+      "b": "john_jameson",
+      "issue": "Amazing Spider-Man, Scorpion wedding-threat arc",
+      "continuity": "Earth-616",
+      "observation": "John Jameson is identified as Jonah’s son and an astronaut.",
+      "source_ids": [
+        "DB55_20261021_S07"
+      ],
+      "evidence_tier": "publisher_biography",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E14",
+      "a": "mac_gargan",
+      "b": "john_jameson",
+      "issue": "Amazing Spider-Man, late 1980s wedding-threat arc",
+      "continuity": "Earth-616",
+      "observation": "Scorpion kidnaps John Jameson to disrupt his father’s upcoming wedding.",
+      "source_ids": [
+        "DB55_20261021_S07"
+      ],
+      "evidence_tier": "publisher_biography",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E15",
+      "a": "phil_urich",
+      "b": "ben_urich",
+      "issue": "Green Goblin (1995) era; Purge incident",
+      "continuity": "Earth-616",
+      "observation": "Phil is identified as Ben’s nephew and protects him from a hired assassin called Purge.",
+      "source_ids": [
+        "DB55_20261021_S09"
+      ],
+      "evidence_tier": "marvel_hosted_explicitly_unverified",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E16",
+      "a": "fisk",
+      "b": "ben_urich",
+      "issue": "Daredevil (1998) / Night Nurse clinic exposure era, mid-2000s",
+      "continuity": "Earth-616",
+      "observation": "Kingpin, working with federal authorities, compels Ben Urich to reveal the location of Linda Carter’s secret clinic.",
+      "source_ids": [
+        "DB55_20261021_S10"
+      ],
+      "evidence_tier": "publisher_biography_issue_number_pending",
+      "review_status": "Original issue panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_E17",
+      "a": "betty_brant",
+      "b": "ned_leeds",
+      "issue": "Amazing Spider-Man Annual (2018) #42",
+      "continuity": "Earth-616",
+      "observation": "Betty investigates a voicemail apparently left by her late husband Ned, hoping he survived, and asks Spider-Man for help.",
+      "source_ids": [
+        "DB55_20261021_S04"
+      ],
+      "evidence_tier": "publisher_issue_synopsis",
+      "review_status": "Original issue panels not independently reviewed"
+    }
+  ],
+  "claims": [
+    {
+      "id": "DB55_20261021_C01",
+      "pair_id": "betty_brant-ned_leeds",
+      "from_id": "betty_brant",
+      "to_id": "ned_leeds",
+      "dimension": "romance",
+      "event_ids": [
+        "DB55_20261021_E01"
+      ],
+      "assessment": "Historical marriage",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Historical marriage",
+      "qualification": "A later strained relationship and death account do not establish uninterrupted affection.",
+      "scope": "Amazing Spider-Man (1963) #156 (wedding era); #289 (1987)",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C02",
+      "pair_id": "betty_brant-ned_leeds",
+      "from_id": "ned_leeds",
+      "to_id": "betty_brant",
+      "dimension": "romance",
+      "event_ids": [
+        "DB55_20261021_E01"
+      ],
+      "assessment": "Historical marriage to Betty",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Historical marriage to Betty",
+      "qualification": "Mind control and later identity retcons complicate agency; no stable trust score inferred.",
+      "scope": "Amazing Spider-Man (1963) #156 (wedding era); #289 (1987)",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C03",
+      "pair_id": "betty_brant-flash",
+      "from_id": "betty_brant",
+      "to_id": "flash",
+      "dimension": "romance",
+      "event_ids": [
+        "DB55_20261021_E02"
+      ],
+      "assessment": "Betty enters a romantic affair and later renews the relationship",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Betty enters a romantic affair and later renews the relationship",
+      "qualification": "Time-scoped, not a present-day couple.",
+      "scope": "1980s Hobgoblin storyline; later Agent Venom (2011)",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C04",
+      "pair_id": "betty_brant-flash",
+      "from_id": "flash",
+      "to_id": "betty_brant",
+      "dimension": "protection",
+      "event_ids": [
+        "DB55_20261021_E04"
+      ],
+      "assessment": "Flash attempts to protect Betty despite Crime-Master’s leverage",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Flash attempts to protect Betty despite Crime-Master’s leverage",
+      "qualification": "Specific protective acts; not evidence that Betty consented to his covert risks.",
+      "scope": "Venom (2011) #17–22 Savage Six era",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C05",
+      "pair_id": "bennett_brant-betty_brant",
+      "from_id": "betty_brant",
+      "to_id": "bennett_brant",
+      "dimension": "family",
+      "event_ids": [
+        "DB55_20261021_E03"
+      ],
+      "assessment": "Bennett is Betty’s brother",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Bennett is Betty’s brother",
+      "qualification": "Apparent death and later Crime-Master reveal require identity/continuity review.",
+      "scope": "Amazing Spider-Man (1963) #11-era; Venom (2011) Savage Six arc",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C06",
+      "pair_id": "bennett_brant-betty_brant",
+      "from_id": "bennett_brant",
+      "to_id": "betty_brant",
+      "dimension": "coercion",
+      "event_ids": [
+        "DB55_20261021_E03"
+      ],
+      "assessment": "As Crime-Master, Bennett threatens Betty to control Flash",
+      "epistemic": "direct_publisher_summary",
+      "summary": "As Crime-Master, Bennett threatens Betty to control Flash",
+      "qualification": "Kinship does not imply care; precise threats should be panel-checked.",
+      "scope": "Amazing Spider-Man (1963) #11-era; Venom (2011) Savage Six arc",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C07",
+      "pair_id": "bennett_brant-flash",
+      "from_id": "bennett_brant",
+      "to_id": "flash",
+      "dimension": "coercion",
+      "event_ids": [
+        "DB55_20261021_E04"
+      ],
+      "assessment": "Bennett uses Betty’s safety as leverage over Flash",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Bennett uses Betty’s safety as leverage over Flash",
+      "qualification": "Coercion is not genuine command authority.",
+      "scope": "Venom (2011) #17–22 Savage Six era",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C08",
+      "pair_id": "ned_leeds-roderick_kingsley",
+      "from_id": "roderick_kingsley",
+      "to_id": "ned_leeds",
+      "dimension": "coercion",
+      "event_ids": [
+        "DB55_20261021_E05"
+      ],
+      "assessment": "Kingsley brainwashes Ned to act as Hobgoblin proxy",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Kingsley brainwashes Ned to act as Hobgoblin proxy",
+      "qualification": "Do not treat Ned’s acts under manipulation as voluntary Kingsley allegiance.",
+      "scope": "Amazing Spider-Man (1963) Hobgoblin arc; before #289 (1987)",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C09",
+      "pair_id": "flash-roderick_kingsley",
+      "from_id": "roderick_kingsley",
+      "to_id": "flash",
+      "dimension": "coercion",
+      "event_ids": [
+        "DB55_20261021_E06"
+      ],
+      "assessment": "Kingsley frames Flash as Hobgoblin",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Kingsley frames Flash as Hobgoblin",
+      "qualification": "Framing is deliberate manipulation, not formal authority.",
+      "scope": "Amazing Spider-Man (1963) Hobgoblin arc, 1980s",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C10",
+      "pair_id": "jason_macendale-ned_leeds",
+      "from_id": "jason_macendale",
+      "to_id": "ned_leeds",
+      "dimension": "conflict",
+      "event_ids": [
+        "DB55_20261021_E07"
+      ],
+      "assessment": "Macendale hires assassins who kill Ned",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Macendale hires assassins who kill Ned",
+      "qualification": "Indirect lethal act, not a face-to-face duel.",
+      "scope": "Amazing Spider-Man (1963) #289 aftermath, 1987",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C11",
+      "pair_id": "flash-sha_shan",
+      "from_id": "sha_shan",
+      "to_id": "flash",
+      "dimension": "romance",
+      "event_ids": [
+        "DB55_20261021_E08"
+      ],
+      "assessment": "Sha Shan and Flash become lovers and live together",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Sha Shan and Flash become lovers and live together",
+      "qualification": "Later separation following his affair limits the period.",
+      "scope": "Amazing Spider-Man, late 1970s–1980s, after Brother Power conflict",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C12",
+      "pair_id": "flash-sha_shan",
+      "from_id": "flash",
+      "to_id": "sha_shan",
+      "dimension": "romance",
+      "event_ids": [
+        "DB55_20261021_E08"
+      ],
+      "assessment": "Flash is Sha Shan’s partner before his affair with Betty",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Flash is Sha Shan’s partner before his affair with Betty",
+      "qualification": "Reciprocity supported for the historical period only.",
+      "scope": "Amazing Spider-Man, late 1970s–1980s, after Brother Power conflict",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C13",
+      "pair_id": "achmed_korba-sha_shan",
+      "from_id": "sha_shan",
+      "to_id": "achmed_korba",
+      "dimension": "conflict",
+      "event_ids": [
+        "DB55_20261021_E09"
+      ],
+      "assessment": "Sha Shan turns against Korba",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Sha Shan turns against Korba",
+      "qualification": "Reluctant marriage does not by itself prove exact methods of coercion.",
+      "scope": "Amazing Spider-Man Brother Power / Sister Sun arc, late 1970s",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C14",
+      "pair_id": "jonah-marla_madison",
+      "from_id": "marla_madison",
+      "to_id": "jonah",
+      "dimension": "professional",
+      "event_ids": [
+        "DB55_20261021_E10"
+      ],
+      "assessment": "Marla assists Jonah’s Spider-Slayer deployment",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Marla assists Jonah’s Spider-Slayer deployment",
+      "qualification": "Professional collaboration predates marriage; not proof of shared ethics.",
+      "scope": "Amazing Spider-Man (1963) #167 (1977)",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C15",
+      "pair_id": "jonah-marla_madison",
+      "from_id": "jonah",
+      "to_id": "marla_madison",
+      "dimension": "romance",
+      "event_ids": [
+        "DB55_20261021_E11"
+      ],
+      "assessment": "Jonah plans to marry Marla; later sources call her his wife",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Jonah plans to marry Marla; later sources call her his wife",
+      "qualification": "Marriage documented; no private mental states inferred.",
+      "scope": "Amazing Spider-Man, late 1980s wedding era",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C16",
+      "pair_id": "mac_gargan-marla_madison",
+      "from_id": "mac_gargan",
+      "to_id": "marla_madison",
+      "dimension": "coercion",
+      "event_ids": [
+        "DB55_20261021_E12"
+      ],
+      "assessment": "Scorpion kidnaps Marla and later forces a research demand",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Scorpion kidnaps Marla and later forces a research demand",
+      "qualification": "Two historically distinct coercive incidents.",
+      "scope": "Amazing Spider-Man, late 1980s wedding era; later Roxxon/Bolivia arc",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C17",
+      "pair_id": "john_jameson-jonah",
+      "from_id": "jonah",
+      "to_id": "john_jameson",
+      "dimension": "family",
+      "event_ids": [
+        "DB55_20261021_E13"
+      ],
+      "assessment": "John is Jonah’s son",
+      "epistemic": "direct_publisher_summary",
+      "summary": "John is Jonah’s son",
+      "qualification": "No emotional judgment inferred.",
+      "scope": "Amazing Spider-Man, Scorpion wedding-threat arc",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C18",
+      "pair_id": "john_jameson-mac_gargan",
+      "from_id": "mac_gargan",
+      "to_id": "john_jameson",
+      "dimension": "coercion",
+      "event_ids": [
+        "DB55_20261021_E14"
+      ],
+      "assessment": "Scorpion abducts John to attack Jonah’s family",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Scorpion abducts John to attack Jonah’s family",
+      "qualification": "Specific kidnapping, not enduring dominance.",
+      "scope": "Amazing Spider-Man, late 1980s wedding-threat arc",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C19",
+      "pair_id": "ben_urich-phil_urich",
+      "from_id": "phil_urich",
+      "to_id": "ben_urich",
+      "dimension": "protection",
+      "event_ids": [
+        "DB55_20261021_E15"
+      ],
+      "assessment": "Phil intervenes against a killer targeting his uncle",
+      "epistemic": "provisional",
+      "summary": "Phil intervenes against a killer targeting his uncle",
+      "qualification": "Unverified Marvel-hosted biography; family and act need direct issue confirmation.",
+      "scope": "Green Goblin (1995) era; Purge incident",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    },
+    {
+      "id": "DB55_20261021_C20",
+      "pair_id": "ben_urich-fisk",
+      "from_id": "fisk",
+      "to_id": "ben_urich",
+      "dimension": "coercion",
+      "event_ids": [
+        "DB55_20261021_E16"
+      ],
+      "assessment": "Fisk compels Ben to disclose a secret clinic location",
+      "epistemic": "direct_publisher_summary",
+      "summary": "Fisk compels Ben to disclose a secret clinic location",
+      "qualification": "One incident; not evidence Ben willingly collaborates with Fisk.",
+      "scope": "Daredevil (1998) / Night Nurse clinic exposure era, mid-2000s",
+      "continuity": "Earth-616",
+      "review_status": "publisher/issue synopsis reviewed; panels not independently reviewed"
+    }
+  ],
+  "identity_warnings": [
+    "Bennett Brant is reported shot in early Amazing Spider-Man, yet the later Crime-Master reveal identifies him as Bennett. Treat as a continuity reconciliation requiring panel-level confirmation, not two separate people without evidence.",
+    "Ned Leeds acts as a brainwashed Hobgoblin proxy; do not conflate him with Roderick Kingsley or Jason Macendale.",
+    "Phil Urich is not Ben Urich and is not the same Green Goblin as Norman Osborn or Harry Osborn.",
+    "Marvel explicitly marks its Phil Urich character page as crowd-sourced and unverified.",
+    "The reported late-1980s death of Ned Leeds should not be asserted as a permanent current status without checking later retcons and clone/revival plots.",
+    "Issue chronology for the mid-2000s Night Nurse clinic exposure and the Brother Power/Sister Sun story is era-scoped pending panel-level verification.",
+    "All sources are publisher-hosted; biographies remain secondary summaries rather than original-panel evidence."
+  ],
+  "validation": {
+    "proposed_people": 12,
+    "unique_unordered_pairs": 15,
+    "directed_claims": 20,
+    "events": 17,
+    "marvel_source_urls": 11,
+    "internal_ids_unique": true,
+    "all_event_source_references_resolve": true,
+    "all_claim_event_references_resolve": true,
+    "all_person_references_resolve": true,
+    "dimensions_match_canonical": true,
+    "canonical_person_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "cross_uncommitted_batch_deduplication": "manual context checked, not exhaustive",
+    "original_panels_reviewed": false,
+    "full_import_schema_test": "pending",
+    "committed": 0
+  }
+}
