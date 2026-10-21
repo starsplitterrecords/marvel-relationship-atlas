@@ -1,0 +1,591 @@
+{
+  "batch_id": "INH60_20261021",
+  "status": "UNCOMMITTED / awaiting manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+  "reused_canonical_ids": [
+    "medusa",
+    "maximus",
+    "gorgon"
+  ],
+  "person_fields": [
+    "id",
+    "name",
+    "note"
+  ],
+  "people": [
+    [
+      "auran_inhuman",
+      "Auran",
+      "Original New Attilan investigator; died in Inhuman #8"
+    ],
+    [
+      "nur_frank_mcgee",
+      "Frank McGee",
+      "Nur; former NYPD officer and Auran partner"
+    ],
+    [
+      "treste_auran",
+      "Treste",
+      "Auran daughter; twin of Irelle"
+    ],
+    [
+      "irelle_auran",
+      "Irelle",
+      "Auran daughter; twin of Treste"
+    ],
+    [
+      "reader_inhuman",
+      "Reader",
+      "Orollan Inhuman; creates effects by reading Braille"
+    ],
+    [
+      "iso_xiaoyi",
+      "Xiaoyi Chen",
+      "Iso; Ennilux target"
+    ],
+    [
+      "capo_ennilux",
+      "Capo",
+      "Ennilux consciousness transferring between hosts"
+    ],
+    [
+      "inferno_dante_pertuz",
+      "Dante Pertuz",
+      "Inferno; newly transformed Inhuman"
+    ],
+    [
+      "gabriela_pertuz",
+      "Gabriela Pertuz",
+      "Dante sister"
+    ],
+    [
+      "lash_inhuman",
+      "Lash",
+      "Orollan Inhuman leader; not MCU Andrew Garner"
+    ],
+    [
+      "sterilon_inhuman",
+      "Sterilon",
+      "Inhuman telepath; name spelled Sterlion in one recap"
+    ],
+    [
+      "auran_reader_manifestation",
+      "Auran manifestation",
+      "Reader-created distinct consciousness; identity provisional"
+    ]
+  ],
+  "source_fields": [
+    "id",
+    "url",
+    "tier"
+  ],
+  "sources": [
+    [
+      "INH60_20261021_S01",
+      "https://www.marvel.com/characters/auran",
+      "publisher_character_profile"
+    ],
+    [
+      "INH60_20261021_S02",
+      "https://www.marvel.com/comics/issue/47816/inhuman_2014_7",
+      "publisher_issue"
+    ],
+    [
+      "INH60_20261021_S03",
+      "https://www.marvel.com/comics/issue/47818",
+      "publisher_issue"
+    ],
+    [
+      "INH60_20261021_S04",
+      "https://www.marvel.com/comics/issue/55808/uncanny_inhumans_2015_15",
+      "publisher_issue"
+    ],
+    [
+      "INH60_20261021_S05",
+      "https://www.marvel.com/comics/issue/55809/uncanny_inhumans_2015_16",
+      "publisher_issue"
+    ],
+    [
+      "INH60_20261021_S06",
+      "https://www.marvel.com/comics/issue/61107/uncanny_inhumans_2015_17",
+      "publisher_issue"
+    ],
+    [
+      "INH60_20261021_S07",
+      "https://www.marvel.com/comics/issue/47819/inhuman_2014_10",
+      "publisher_issue"
+    ],
+    [
+      "INH60_20261021_S08",
+      "https://www.marvel.com/comics/issue/47820/inhuman_2014_11",
+      "publisher_issue"
+    ],
+    [
+      "INH60_20261021_S09",
+      "https://www.marvel.com/comics/issue/47808/inhuman-2014-1",
+      "publisher_issue"
+    ],
+    [
+      "INH60_20261021_S10",
+      "https://www.attilanrising.com/reviews/uncanny-inhumans-15-review-spoilers1/",
+      "independent_issue_recap"
+    ],
+    [
+      "INH60_20261021_S11",
+      "https://www.attilanrising.com/reviews/uncanny-inhumans-17-review-spoilers/",
+      "independent_issue_recap"
+    ],
+    [
+      "INH60_20261021_S12",
+      "https://marvel.fandom.com/wiki/Auran_(Earth-616)",
+      "fan_biography"
+    ],
+    [
+      "INH60_20261021_S13",
+      "https://marvel.fandom.com/wiki/Reader_(Inhuman)_(Earth-616)",
+      "fan_biography"
+    ],
+    [
+      "INH60_20261021_S14",
+      "https://marvel.fandom.com/wiki/Inhuman_Vol_1_3",
+      "fan_issue_recap"
+    ],
+    [
+      "INH60_20261021_S15",
+      "https://www.comics.org/issue/1246754/",
+      "independent_issue_index"
+    ],
+    [
+      "INH60_20261021_S16",
+      "https://comicbookroundup.com/comic-books/reviews/marvel-comics/inhuman/3",
+      "solicitation_reprinted_by_independent"
+    ],
+    [
+      "INH60_20261021_S17",
+      "https://marvel.fandom.com/wiki/Dante_Pertuz_(Earth-616)",
+      "fan_biography"
+    ],
+    [
+      "INH60_20261021_S18",
+      "https://www.marvel.com/comics/issue/47818/inhuman_2014_9",
+      "publisher_issue"
+    ]
+  ],
+  "event_fields": [
+    "id",
+    "a",
+    "b",
+    "issue_or_era",
+    "documented_observation",
+    "source_ids",
+    "evidence_quality"
+  ],
+  "events": [
+    [
+      "INH60_20261021_E01",
+      "auran_inhuman",
+      "nur_frank_mcgee",
+      "Inhuman (2014) #7-8",
+      "Auran takes former NYPD officer Frank McGee as her security partner and calls him Nur.",
+      [
+        "INH60_20261021_S01",
+        "INH60_20261021_S10",
+        "INH60_20261021_S12"
+      ],
+      "publisher_profile_plus_recap"
+    ],
+    [
+      "INH60_20261021_E02",
+      "auran_inhuman",
+      "nur_frank_mcgee",
+      "Inhuman (2014) #8",
+      "Auran interposes herself when Maximus forces Black Bolt to speak; she dies and Nur survives.",
+      [
+        "INH60_20261021_S03",
+        "INH60_20261021_S10",
+        "INH60_20261021_S12"
+      ],
+      "independent_recap; exact panels unreviewed"
+    ],
+    [
+      "INH60_20261021_E03",
+      "auran_inhuman",
+      "treste_auran",
+      "Uncanny Inhumans (2015) #15",
+      "Marvel identifies Auran as the mother whose daughters seek to bring her back; independent recap names Treste and Irelle.",
+      [
+        "INH60_20261021_S04",
+        "INH60_20261021_S10"
+      ],
+      "publisher_synopsis_plus_independent_names"
+    ],
+    [
+      "INH60_20261021_E04",
+      "auran_inhuman",
+      "irelle_auran",
+      "Uncanny Inhumans (2015) #15",
+      "Auran is the deceased mother of Irelle and Treste.",
+      [
+        "INH60_20261021_S04",
+        "INH60_20261021_S10"
+      ],
+      "publisher_synopsis_plus_independent_names"
+    ],
+    [
+      "INH60_20261021_E05",
+      "nur_frank_mcgee",
+      "treste_auran",
+      "Uncanny Inhumans (2015) #15",
+      "After Auran dies, Frank acts as guardian to Treste and Irelle.",
+      [
+        "INH60_20261021_S10"
+      ],
+      "independent_issue_recap"
+    ],
+    [
+      "INH60_20261021_E06",
+      "treste_auran",
+      "irelle_auran",
+      "Uncanny Inhumans (2015) #15",
+      "The twins compile a Braille book of recollections of their mother to seek her recreation.",
+      [
+        "INH60_20261021_S04",
+        "INH60_20261021_S10"
+      ],
+      "publisher_synopsis_plus_independent_details"
+    ],
+    [
+      "INH60_20261021_E07",
+      "treste_auran",
+      "reader_inhuman",
+      "Uncanny Inhumans (2015) #15",
+      "Treste and Irelle ask Reader to read their book; he initially refuses, then agrees after Treste invokes an earlier favor.",
+      [
+        "INH60_20261021_S04",
+        "INH60_20261021_S10"
+      ],
+      "independent_issue_recap"
+    ],
+    [
+      "INH60_20261021_E08",
+      "irelle_auran",
+      "reader_inhuman",
+      "Uncanny Inhumans (2015) #15",
+      "Irelle participates with Treste in the appeal that persuades Reader to manifest a version of Auran.",
+      [
+        "INH60_20261021_S04",
+        "INH60_20261021_S10"
+      ],
+      "independent_issue_recap"
+    ],
+    [
+      "INH60_20261021_E09",
+      "treste_auran",
+      "maximus",
+      "Uncanny Inhumans (2015) #15",
+      "Marvel says Auran daughters seek revenge on Maximus, whom they blame for her death.",
+      [
+        "INH60_20261021_S04",
+        "INH60_20261021_S10"
+      ],
+      "publisher_issue_synopsis"
+    ],
+    [
+      "INH60_20261021_E10",
+      "reader_inhuman",
+      "auran_reader_manifestation",
+      "Uncanny Inhumans (2015) #15-16",
+      "Reader reads the daughters Braille history and manifests a being resembling Auran; Marvel questions whether she is the same woman.",
+      [
+        "INH60_20261021_S04",
+        "INH60_20261021_S05",
+        "INH60_20261021_S10"
+      ],
+      "publisher_synopsis_plus_independent_details"
+    ],
+    [
+      "INH60_20261021_E11",
+      "sterilon_inhuman",
+      "auran_reader_manifestation",
+      "Uncanny Inhumans (2015) #17",
+      "Sterilon uses telepathy to stabilize the manifested Auran and returns Black Bolts voice to him.",
+      [
+        "INH60_20261021_S06",
+        "INH60_20261021_S11"
+      ],
+      "independent_issue_recap; spelling needs confirmation"
+    ],
+    [
+      "INH60_20261021_E12",
+      "reader_inhuman",
+      "iso_xiaoyi",
+      "Inhuman (2014) #9-12",
+      "Reader rescues Iso from Ennilux after discovering the intended Capo body transfer; Marvel confirms both in danger in #11.",
+      [
+        "INH60_20261021_S07",
+        "INH60_20261021_S08",
+        "INH60_20261021_S13",
+        "INH60_20261021_S18"
+      ],
+      "publisher_issue_context_plus_fan_biography"
+    ],
+    [
+      "INH60_20261021_E13",
+      "capo_ennilux",
+      "iso_xiaoyi",
+      "Inhuman (2014) #9-10",
+      "Ennilux plans to use Iso as the next host for the Capo, threatening her survival.",
+      [
+        "INH60_20261021_S07",
+        "INH60_20261021_S13",
+        "INH60_20261021_S18"
+      ],
+      "fan_biography; publisher issues confirm Ennilux arc"
+    ],
+    [
+      "INH60_20261021_E14",
+      "gorgon",
+      "inferno_dante_pertuz",
+      "Inhuman (2014) #3",
+      "Gorgon trains Dante to direct his newly manifested fire powers.",
+      [
+        "INH60_20261021_S14",
+        "INH60_20261021_S15",
+        "INH60_20261021_S09"
+      ],
+      "fan_issue_recap_plus_independent_index"
+    ],
+    [
+      "INH60_20261021_E15",
+      "inferno_dante_pertuz",
+      "gabriela_pertuz",
+      "Inhuman (2014) #1-3",
+      "Dante and his sister Gabriela survive the family crisis after Terrigenesis and travel to New Attilan.",
+      [
+        "INH60_20261021_S14",
+        "INH60_20261021_S15",
+        "INH60_20261021_S17",
+        "INH60_20261021_S09"
+      ],
+      "fan_biography_plus_issue_index"
+    ],
+    [
+      "INH60_20261021_E16",
+      "medusa",
+      "lash_inhuman",
+      "Inhuman (2014) #3",
+      "The first Inhuman arc culminates in a confrontation between Medusa and Lash over his recruitment of NuHumans.",
+      [
+        "INH60_20261021_S15",
+        "INH60_20261021_S16",
+        "INH60_20261021_S14"
+      ],
+      "publisher_solicitation_reprinted; original panels unreviewed"
+    ]
+  ],
+  "claim_fields": [
+    "id",
+    "from_id",
+    "to_id",
+    "dimension",
+    "event_id",
+    "documented_fact",
+    "interpretation_or_limit"
+  ],
+  "claims": [
+    [
+      "INH60_20261021_C01",
+      "auran_inhuman",
+      "nur_frank_mcgee",
+      "professional",
+      "INH60_20261021_E01",
+      "Auran appoints Frank as her investigative partner.",
+      "Partnering is not proof of a lasting personal friendship."
+    ],
+    [
+      "INH60_20261021_C02",
+      "auran_inhuman",
+      "nur_frank_mcgee",
+      "protection",
+      "INH60_20261021_E02",
+      "Auran shields Frank from the blast and dies.",
+      "Single sacrificial act; Maximus controlled the immediate trigger."
+    ],
+    [
+      "INH60_20261021_C03",
+      "nur_frank_mcgee",
+      "auran_inhuman",
+      "friendship",
+      "INH60_20261021_E01",
+      "The #15 recap explicitly describes Frank and Auran as friends.",
+      "Secondary description; original panels not reviewed."
+    ],
+    [
+      "INH60_20261021_C04",
+      "auran_inhuman",
+      "treste_auran",
+      "family",
+      "INH60_20261021_E03",
+      "Auran is Treste mother.",
+      "The later manifested Auran is not automatically the same person."
+    ],
+    [
+      "INH60_20261021_C05",
+      "auran_inhuman",
+      "irelle_auran",
+      "family",
+      "INH60_20261021_E04",
+      "Auran is Irelle mother.",
+      "The later manifested Auran is not automatically the same person."
+    ],
+    [
+      "INH60_20261021_C06",
+      "nur_frank_mcgee",
+      "treste_auran",
+      "protection",
+      "INH60_20261021_E05",
+      "Frank cares for Treste after her mother dies.",
+      "The account also says he cares for Irelle; guardian status sourced secondarily."
+    ],
+    [
+      "INH60_20261021_C07",
+      "treste_auran",
+      "irelle_auran",
+      "cooperation",
+      "INH60_20261021_E06",
+      "Treste and Irelle jointly prepare the Braille history.",
+      "Joint plan, not evidence of agreement in all matters."
+    ],
+    [
+      "INH60_20261021_C08",
+      "irelle_auran",
+      "treste_auran",
+      "cooperation",
+      "INH60_20261021_E06",
+      "Irelle collaborates with Treste on the history.",
+      "Same shared undertaking, direction separately represented."
+    ],
+    [
+      "INH60_20261021_C09",
+      "treste_auran",
+      "reader_inhuman",
+      "influence",
+      "INH60_20261021_E07",
+      "Treste cites a previous favor to persuade Reader after his refusal.",
+      "Moral pressure is not formal authority or physical coercion."
+    ],
+    [
+      "INH60_20261021_C10",
+      "irelle_auran",
+      "reader_inhuman",
+      "influence",
+      "INH60_20261021_E08",
+      "Irelle joins the appeal that changes Readers decision.",
+      "Individual contribution not separated in publisher synopsis."
+    ],
+    [
+      "INH60_20261021_C11",
+      "treste_auran",
+      "maximus",
+      "conflict",
+      "INH60_20261021_E09",
+      "Treste and her sister seek revenge on Maximus.",
+      "A targeted revenge plan, not proof she personally attacks him."
+    ],
+    [
+      "INH60_20261021_C12",
+      "reader_inhuman",
+      "auran_reader_manifestation",
+      "influence",
+      "INH60_20261021_E10",
+      "Reader brings a reconstructed Auran into existence by reading.",
+      "Ontological identity with the deceased Auran remains disputed."
+    ],
+    [
+      "INH60_20261021_C13",
+      "sterilon_inhuman",
+      "auran_reader_manifestation",
+      "protection",
+      "INH60_20261021_E11",
+      "Sterilon reportedly stabilizes the new Auran telepathically.",
+      "Detailed act from recap, with alternate name spelling Sterlion."
+    ],
+    [
+      "INH60_20261021_C14",
+      "reader_inhuman",
+      "iso_xiaoyi",
+      "protection",
+      "INH60_20261021_E12",
+      "Reader frees Iso from Ennilux after learning of the Capo plan.",
+      "Does not prove indefinite guardianship."
+    ],
+    [
+      "INH60_20261021_C15",
+      "capo_ennilux",
+      "iso_xiaoyi",
+      "coercion",
+      "INH60_20261021_E13",
+      "Capo intends to take over Isos body without meaningful consent.",
+      "The plan is documented in fan summary, not panel-verified."
+    ],
+    [
+      "INH60_20261021_C16",
+      "gorgon",
+      "inferno_dante_pertuz",
+      "mentorship",
+      "INH60_20261021_E14",
+      "Gorgon trains Dante in use of his powers.",
+      "Specific training, not a lifelong mentor claim."
+    ],
+    [
+      "INH60_20261021_C17",
+      "inferno_dante_pertuz",
+      "gabriela_pertuz",
+      "family",
+      "INH60_20261021_E15",
+      "Dante is Gabrielas brother.",
+      "No permanent emotional assessment inferred."
+    ],
+    [
+      "INH60_20261021_C18",
+      "gabriela_pertuz",
+      "inferno_dante_pertuz",
+      "family",
+      "INH60_20261021_E15",
+      "Gabriela is Dantes sister.",
+      "Reciprocal kinship only."
+    ],
+    [
+      "INH60_20261021_C19",
+      "medusa",
+      "lash_inhuman",
+      "conflict",
+      "INH60_20261021_E16",
+      "Medusa confronts Lash over his actions toward NuHumans.",
+      "Arc-specific conflict; no lasting hatred inferred."
+    ]
+  ],
+  "warnings": [
+    "Original Auran and Reader-created Auran manifestation are separate provisional identity records; do not merge automatically.",
+    "Sterilon is spelled Sterlion in a secondary review; primary spelling check pending.",
+    "Treste and Irelle personal names, Frank guardianship, Iso rescue, Capo coercion, and Gorgon training depend on secondary issue accounts.",
+    "Marvel issue summaries are publisher-level evidence, not original-panel verification.",
+    "No full app-import schema test and no exhaustive cross-batch deduplication."
+  ],
+  "validation": {
+    "proposed_new_identities": 12,
+    "provisional_distinct_identity_candidates": 1,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 19,
+    "events": 16,
+    "sources": 18,
+    "canonical_person_id_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "internal_ids_unique": true,
+    "internal_references_valid": true,
+    "full_import_schema_test": "pending",
+    "committed": 0
+  },
+  "id_prefix": "INH60_20261021_"
+}
