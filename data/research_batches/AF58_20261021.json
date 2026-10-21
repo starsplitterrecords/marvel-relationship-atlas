@@ -1,0 +1,585 @@
+{
+  "batch_id": "AF58_20261021",
+  "status": "UNCOMMITTED / awaiting manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+  "person_fields": [
+    "id",
+    "name",
+    "note"
+  ],
+  "people": [
+    [
+      "guardian_james_hudson",
+      "James MacDonald Hudson",
+      "Guardian; Department H founder"
+    ],
+    [
+      "vindicator_heather_hudson",
+      "Heather McNeil Hudson",
+      "Vindicator; James Hudson spouse"
+    ],
+    [
+      "northstar_jean_paul_beaubier",
+      "Jean-Paul Beaubier",
+      "Northstar; mutant"
+    ],
+    [
+      "aurora_jeanne_marie_beaubier",
+      "Jeanne-Marie Beaubier",
+      "Aurora; mutant"
+    ],
+    [
+      "kyle_jinadu",
+      "Kyle Jinadu",
+      "Northstar spouse; civilian"
+    ],
+    [
+      "shaman_michael_twoyoungmen",
+      "Michael Twoyoungmen",
+      "Shaman; physician"
+    ],
+    [
+      "talisman_elizabeth_twoyoungmen",
+      "Elizabeth Twoyoungmen",
+      "Talisman; Shaman daughter"
+    ],
+    [
+      "snowbird_narya",
+      "Narya",
+      "Snowbird; demigoddess"
+    ],
+    [
+      "douglas_thompson",
+      "Douglas Thompson",
+      "Snowbird romantic partner"
+    ],
+    [
+      "puck_eugene_judd",
+      "Eugene Judd",
+      "Puck"
+    ],
+    [
+      "sasquatch_walter_langkowski",
+      "Walter Langkowski",
+      "Sasquatch; scientist"
+    ],
+    [
+      "gilded_lily_lillian_von_loont",
+      "Lillian von Loont",
+      "Gilded Lily; Walter great-aunt; identification provisional"
+    ]
+  ],
+  "reused_canonical_ids": [
+    "logan",
+    "marrina"
+  ],
+  "source_fields": [
+    "id",
+    "url",
+    "tier"
+  ],
+  "sources": [
+    [
+      "AF58_20261021_S01",
+      "https://www.marvel.com/comics/guides/1589/meet-alpha-flight%26EML%3D030920_MU_AlphaFlight%26cid%3DMarvelUnlimited",
+      "Marvel editorial guide"
+    ],
+    [
+      "AF58_20261021_S02",
+      "https://www.marvel.com/teams-and-groups/alpha-flight?vm=r",
+      "Marvel-hosted biography; explicitly unverified"
+    ],
+    [
+      "AF58_20261021_S03",
+      "https://www.marvel.com/comics/guides/2233/the-history-of-wolverine",
+      "Marvel editorial guide"
+    ],
+    [
+      "AF58_20261021_S04",
+      "https://www.marvel.com/comics/issue/40803",
+      "Marvel issue synopsis"
+    ],
+    [
+      "AF58_20261021_S05",
+      "https://www.marvel.com/comics/issue/12674/",
+      "Marvel issue synopsis"
+    ],
+    [
+      "AF58_20261021_S06",
+      "https://www.marvel.com/comics/issue/12683/slug",
+      "Marvel issue synopsis"
+    ],
+    [
+      "AF58_20261021_S07",
+      "https://www.marvel.com/comics/issue/12678/alpha_flight_1983_19",
+      "Marvel issue synopsis"
+    ],
+    [
+      "AF58_20261021_S08",
+      "https://www.marvel.com/comics/issue/12676/read",
+      "Marvel issue synopsis"
+    ],
+    [
+      "AF58_20261021_S09",
+      "https://www.marvel.com/comics/issue/12687/alpha_flight_1983_27",
+      "Marvel issue synopsis"
+    ],
+    [
+      "AF58_20261021_S10",
+      "https://uncannyxmen.net/comics/issue/alpha-flight-1st-series-20",
+      "independent issue summary"
+    ],
+    [
+      "AF58_20261021_S11",
+      "https://www.mightyavengers.net/comics/issue/alpha-flight-1st-series-21",
+      "independent issue summary"
+    ],
+    [
+      "AF58_20261021_S12",
+      "https://uncannyxmen.net/comics/issue/alpha-flight-1st-series-23",
+      "independent issue summary"
+    ],
+    [
+      "AF58_20261021_S13",
+      "https://uncannyxmen.net/comics/issue/alpha-flight-1st-series-25",
+      "independent issue summary"
+    ],
+    [
+      "AF58_20261021_S14",
+      "https://uncannyxmen.net/characters/shaman/biography",
+      "independent character biography"
+    ],
+    [
+      "AF58_20261021_S15",
+      "https://uncannyxmen.net/characters/aurora/checklist",
+      "independent issue checklist"
+    ],
+    [
+      "AF58_20261021_S16",
+      "https://www.marvel.com/comics/issue/12660/",
+      "Marvel issue synopsis"
+    ],
+    [
+      "AF58_20261021_S17",
+      "https://www.marvel.com/comics/issue/12694/alpha_flight_1983_33",
+      "Marvel issue synopsis"
+    ],
+    [
+      "AF58_20261021_S18",
+      "https://www.marvel.com/comics/collection/40950/astonishing_x-men_vol_10_trade_paperback",
+      "Marvel collection synopsis"
+    ]
+  ],
+  "event_fields": [
+    "id",
+    "a",
+    "b",
+    "scope",
+    "documented_observation",
+    "source_ids",
+    "evidence_quality"
+  ],
+  "events": [
+    [
+      "AF58_20261021_E01",
+      "guardian_james_hudson",
+      "vindicator_heather_hudson",
+      "Pre-Alpha Flight; Alpha Flight (1983) #12-18",
+      "Heather arranges James' contact with Canadian officials; they marry. After his apparent death, Heather succeeds him as team leader.",
+      [
+        "AF58_20261021_S01",
+        "AF58_20261021_S02",
+        "AF58_20261021_S08",
+        "AF58_20261021_S16"
+      ],
+      "publisher_editorial_plus_unverified_bio"
+    ],
+    [
+      "AF58_20261021_E02",
+      "guardian_james_hudson",
+      "logan",
+      "Pre-Alpha Flight; X-Men (1963) #109; Wolverine: Season One (2013)",
+      "James recruits Logan into the Canadian superhuman program and participates in his rehabilitation.",
+      [
+        "AF58_20261021_S01",
+        "AF58_20261021_S02",
+        "AF58_20261021_S03"
+      ],
+      "publisher_editorial"
+    ],
+    [
+      "AF58_20261021_E03",
+      "vindicator_heather_hudson",
+      "logan",
+      "Wolverine: Season One (2013) retrospective; Alpha Flight (1983) #33",
+      "Marvel describes Heather and James finding feral Logan and rehabilitating him; Heather later seeks Logan's help.",
+      [
+        "AF58_20261021_S03",
+        "AF58_20261021_S17"
+      ],
+      "publisher_editorial_and_issue"
+    ],
+    [
+      "AF58_20261021_E04",
+      "logan",
+      "aurora_jeanne_marie_beaubier",
+      "Alpha Flight (1983) #9-10 backstory",
+      "An independent Aurora issue checklist says Logan discovers Jeanne-Marie and invites her into Department H.",
+      [
+        "AF58_20261021_S15"
+      ],
+      "independent_issue_checklist"
+    ],
+    [
+      "AF58_20261021_E05",
+      "northstar_jean_paul_beaubier",
+      "aurora_jeanne_marie_beaubier",
+      "Alpha Flight (1983) #9-10; Alpha Flight (2011) #3",
+      "The twins, separated as children, reunite after recruitment to Alpha Flight and discover combined use of their powers.",
+      [
+        "AF58_20261021_S01"
+      ],
+      "publisher_editorial"
+    ],
+    [
+      "AF58_20261021_E06",
+      "northstar_jean_paul_beaubier",
+      "kyle_jinadu",
+      "Astonishing X-Men (2004) #48-51 (2012)",
+      "Northstar and Kyle marry in New York following a dangerous psychic ambush.",
+      [
+        "AF58_20261021_S04",
+        "AF58_20261021_S18"
+      ],
+      "publisher_issue_and_collection"
+    ],
+    [
+      "AF58_20261021_E07",
+      "shaman_michael_twoyoungmen",
+      "talisman_elizabeth_twoyoungmen",
+      "Alpha Flight (1983) #5-6, #19",
+      "Michael is Elizabeth's father; an independent biography describes her anger after he fails to save her mother, while Marvel documents her later transformation into Talisman.",
+      [
+        "AF58_20261021_S01",
+        "AF58_20261021_S07",
+        "AF58_20261021_S14"
+      ],
+      "publisher_editorial_plus_independent_biography"
+    ],
+    [
+      "AF58_20261021_E08",
+      "snowbird_narya",
+      "douglas_thompson",
+      "Alpha Flight (1983) #15 (1984)",
+      "Snowbird reveals her real identity to her lover Douglas Thompson.",
+      [
+        "AF58_20261021_S05"
+      ],
+      "publisher_issue"
+    ],
+    [
+      "AF58_20261021_E09",
+      "marrina",
+      "puck_eugene_judd",
+      "Alpha Flight (1983) #15 (1984)",
+      "Marvel synopsis states that Marrina emerges from Lake Ontario and attacks Puck.",
+      [
+        "AF58_20261021_S05"
+      ],
+      "publisher_issue"
+    ],
+    [
+      "AF58_20261021_E10",
+      "snowbird_narya",
+      "sasquatch_walter_langkowski",
+      "Alpha Flight (1983) #23 (1985)",
+      "Snowbird attacks Sasquatch after Tanaraq takes over Walter's body; independent issue summary says she destroys the possessed body while Walter's soul survives.",
+      [
+        "AF58_20261021_S06",
+        "AF58_20261021_S12"
+      ],
+      "publisher_issue_plus_independent_details"
+    ],
+    [
+      "AF58_20261021_E11",
+      "aurora_jeanne_marie_beaubier",
+      "sasquatch_walter_langkowski",
+      "Alpha Flight (1983) #20-23 (1985)",
+      "Independent summaries identify Aurora and Walter as romantic partners; Aurora attempts to protect him during Snowbird's attack and grieves over his fallen body.",
+      [
+        "AF58_20261021_S10",
+        "AF58_20261021_S11",
+        "AF58_20261021_S12"
+      ],
+      "independent_issue_summaries"
+    ],
+    [
+      "AF58_20261021_E12",
+      "gilded_lily_lillian_von_loont",
+      "sasquatch_walter_langkowski",
+      "Alpha Flight (1983) #20-21 (1985)",
+      "An independent issue recap identifies Gilded Lily as Walter's great-aunt and describes her encasing Walter in gold.",
+      [
+        "AF58_20261021_S10",
+        "AF58_20261021_S11"
+      ],
+      "independent_issue_summaries"
+    ],
+    [
+      "AF58_20261021_E13",
+      "gilded_lily_lillian_von_loont",
+      "aurora_jeanne_marie_beaubier",
+      "Alpha Flight (1983) #21 (1985)",
+      "Gilded Lily attempts to cover Aurora in gold; Walter escapes and intervenes to free Aurora.",
+      [
+        "AF58_20261021_S11"
+      ],
+      "independent_issue_summary"
+    ],
+    [
+      "AF58_20261021_E14",
+      "puck_eugene_judd",
+      "talisman_elizabeth_twoyoungmen",
+      "Alpha Flight (1983) #23 (1985)",
+      "An issue recap describes Puck and Elizabeth practicing hand-to-hand combat before they respond to Caliber.",
+      [
+        "AF58_20261021_S12"
+      ],
+      "independent_issue_summary"
+    ],
+    [
+      "AF58_20261021_E15",
+      "vindicator_heather_hudson",
+      "northstar_jean_paul_beaubier",
+      "Alpha Flight (1983) #25 (1985)",
+      "Heather convenes a hearing about allegations against Northstar concerning his past activities; Northstar challenges the panel's authority.",
+      [
+        "AF58_20261021_S13"
+      ],
+      "independent_issue_summary"
+    ]
+  ],
+  "claim_fields": [
+    "id",
+    "from_id",
+    "to_id",
+    "dimension",
+    "event_id",
+    "documented_fact",
+    "interpretation_or_limit"
+  ],
+  "claims": [
+    [
+      "AF58_20261021_C01",
+      "guardian_james_hudson",
+      "vindicator_heather_hudson",
+      "romance",
+      "AF58_20261021_E01",
+      "James marries Heather.",
+      "Marriage does not establish agreement on all later decisions."
+    ],
+    [
+      "AF58_20261021_C02",
+      "vindicator_heather_hudson",
+      "guardian_james_hudson",
+      "romance",
+      "AF58_20261021_E01",
+      "Heather marries James and succeeds him after his apparent death.",
+      "Leadership succession is not itself evidence of romantic feeling."
+    ],
+    [
+      "AF58_20261021_C03",
+      "guardian_james_hudson",
+      "logan",
+      "professional",
+      "AF58_20261021_E02",
+      "James recruits Logan to the Canadian superhuman program.",
+      "A recruitment role is not proof of enduring personal trust."
+    ],
+    [
+      "AF58_20261021_C04",
+      "vindicator_heather_hudson",
+      "logan",
+      "protection",
+      "AF58_20261021_E03",
+      "Heather participates in rehabilitating Logan after finding him feral.",
+      "The Season One retrospective requires continuity-level caution."
+    ],
+    [
+      "AF58_20261021_C05",
+      "logan",
+      "aurora_jeanne_marie_beaubier",
+      "professional",
+      "AF58_20261021_E04",
+      "An independent issue checklist attributes Aurora's invitation to Logan.",
+      "Marvel editorial does not independently name the recruiter."
+    ],
+    [
+      "AF58_20261021_C06",
+      "northstar_jean_paul_beaubier",
+      "aurora_jeanne_marie_beaubier",
+      "family",
+      "AF58_20261021_E05",
+      "Jean-Paul is Jeanne-Marie's twin; they reunite in Alpha Flight.",
+      "Later conflict and reconciliation are not covered by this claim."
+    ],
+    [
+      "AF58_20261021_C07",
+      "aurora_jeanne_marie_beaubier",
+      "northstar_jean_paul_beaubier",
+      "family",
+      "AF58_20261021_E05",
+      "Jeanne-Marie is Jean-Paul's twin; their powers combine.",
+      "Family and coordinated powers do not prove unbroken trust."
+    ],
+    [
+      "AF58_20261021_C08",
+      "northstar_jean_paul_beaubier",
+      "kyle_jinadu",
+      "romance",
+      "AF58_20261021_E06",
+      "Northstar marries Kyle in Astonishing X-Men #51.",
+      "No current marital status inferred beyond the documented era."
+    ],
+    [
+      "AF58_20261021_C09",
+      "kyle_jinadu",
+      "northstar_jean_paul_beaubier",
+      "romance",
+      "AF58_20261021_E06",
+      "Kyle marries Northstar in Astonishing X-Men #51.",
+      "Psychic coercion in preceding issues is not Kyle's voluntary intent."
+    ],
+    [
+      "AF58_20261021_C10",
+      "shaman_michael_twoyoungmen",
+      "talisman_elizabeth_twoyoungmen",
+      "family",
+      "AF58_20261021_E07",
+      "Michael is Elizabeth's father.",
+      "The paternal relationship does not itself establish successful caregiving."
+    ],
+    [
+      "AF58_20261021_C11",
+      "talisman_elizabeth_twoyoungmen",
+      "shaman_michael_twoyoungmen",
+      "trust",
+      "AF58_20261021_E07",
+      "An independent biography recounts Elizabeth rejecting Michael after her mother's death and his failed promise.",
+      "A historically damaged trust bond; not evidence of permanent estrangement."
+    ],
+    [
+      "AF58_20261021_C12",
+      "snowbird_narya",
+      "douglas_thompson",
+      "romance",
+      "AF58_20261021_E08",
+      "Snowbird discloses her identity to Douglas, whom Marvel calls her lover.",
+      "Disclosure does not prove a later marriage or uninterrupted romance."
+    ],
+    [
+      "AF58_20261021_C13",
+      "marrina",
+      "puck_eugene_judd",
+      "conflict",
+      "AF58_20261021_E09",
+      "Marrina attacks Puck in Alpha Flight #15.",
+      "An incident is not a stable hostile relationship; circumstances unverified."
+    ],
+    [
+      "AF58_20261021_C14",
+      "snowbird_narya",
+      "sasquatch_walter_langkowski",
+      "conflict",
+      "AF58_20261021_E10",
+      "Snowbird fights the Sasquatch body controlled by Tanaraq.",
+      "Not evidence of personal hatred of Walter; distinguish body, host and possessing entity."
+    ],
+    [
+      "AF58_20261021_C15",
+      "aurora_jeanne_marie_beaubier",
+      "sasquatch_walter_langkowski",
+      "romance",
+      "AF58_20261021_E11",
+      "Aurora and Walter are lovers in the 1985 story.",
+      "Subsequent changes and breakup are not resolved here."
+    ],
+    [
+      "AF58_20261021_C16",
+      "sasquatch_walter_langkowski",
+      "aurora_jeanne_marie_beaubier",
+      "romance",
+      "AF58_20261021_E11",
+      "Walter is identified as Aurora's partner and rescues her from Gilded Lily.",
+      "Rescue and romance are separate facts; no permanent status inferred."
+    ],
+    [
+      "AF58_20261021_C17",
+      "gilded_lily_lillian_von_loont",
+      "sasquatch_walter_langkowski",
+      "coercion",
+      "AF58_20261021_E12",
+      "Gilded Lily encases Walter in gold.",
+      "The family relationship and details derive from independent summaries."
+    ],
+    [
+      "AF58_20261021_C18",
+      "sasquatch_walter_langkowski",
+      "gilded_lily_lillian_von_loont",
+      "conflict",
+      "AF58_20261021_E12",
+      "Walter breaks free from Gilded Lily's gold trap.",
+      "An incident, not an established lifelong rivalry."
+    ],
+    [
+      "AF58_20261021_C19",
+      "gilded_lily_lillian_von_loont",
+      "aurora_jeanne_marie_beaubier",
+      "coercion",
+      "AF58_20261021_E13",
+      "Gilded Lily prepares to cover Aurora in gold.",
+      "No evidence of prior personal enmity."
+    ],
+    [
+      "AF58_20261021_C20",
+      "puck_eugene_judd",
+      "talisman_elizabeth_twoyoungmen",
+      "mentorship",
+      "AF58_20261021_E14",
+      "Puck practices combat with Elizabeth.",
+      "One session does not establish a permanent mentor role."
+    ],
+    [
+      "AF58_20261021_C21",
+      "vindicator_heather_hudson",
+      "northstar_jean_paul_beaubier",
+      "authority",
+      "AF58_20261021_E15",
+      "Heather presides over a hearing into Northstar's past conduct.",
+      "Northstar disputes her authority; this is bounded team governance, not general control."
+    ]
+  ],
+  "validation": {
+    "proposed_new_people": 12,
+    "unique_pairs": 15,
+    "directed_assessments": 21,
+    "events": 15,
+    "official_marvel_urls": 12,
+    "independent_urls": 6,
+    "internal_references_valid": true,
+    "canonical_person_id_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "cross_batch_uncommitted_dedup": "not_exhaustively_checked",
+    "full_import_schema_test": "not_run",
+    "original_panels_reviewed": false,
+    "committed": 0
+  },
+  "warnings": [
+    "Gilded Lily = Lillian von Loont and her status as Walter great-aunt are supported by independent issue recaps, not verified original panels.",
+    "Snowbird confronts Tanaraq controlling Walter body in Alpha Flight #23: do not infer that Narya hates Walter or that Walter freely fought her.",
+    "Wolverine: Season One is a retrospective; continuity details should be checked before unqualified import.",
+    "Marvel Alpha Flight team biography is explicitly marked unverified by Marvel Editorial Staff.",
+    "Some issue details come from independent issue summaries rather than Marvel publisher synopses."
+  ]
+}
