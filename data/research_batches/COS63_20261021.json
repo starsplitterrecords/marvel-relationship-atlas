@@ -1,0 +1,735 @@
+{
+  "batch_id": "COS63_20261021",
+  "status": "UNCOMMITTED / awaiting periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+    "checked": "2026-10-21"
+  },
+  "people": [
+    {
+      "id": "COS63_20261021_p_hepzibah",
+      "name": "Hepzibah",
+      "identity_note": "Mephitisoid; Starjammers weapons officer; Corsair partner",
+      "sector": "cosmic / refugee",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_p_ch_od",
+      "name": "Ch'od",
+      "identity_note": "Saurid Starjammer; escapee from Shi’ar slave pits",
+      "sector": "cosmic / refugee",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_p_raza_longknife",
+      "name": "Raza Longknife",
+      "identity_note": "Also Angelo Finelon; Starjammer and former captive",
+      "sector": "cosmic / refugee",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_p_davan_shakari",
+      "name": "Davan Shakari",
+      "identity_note": "Shi’ar operative known as Erik the Red; distinct from Scott Summers in disguise",
+      "sector": "royal / espionage",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_p_lord_samedar",
+      "name": "Lord Samédàr",
+      "identity_note": "Shi’ar admiral involved in Deathbird coup",
+      "sector": "royal / military",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_p_deathcry",
+      "name": "Deathcry",
+      "identity_note": "Shi’ar warrior assigned to protect Avengers; birth name undisclosed",
+      "sector": "cosmic / Avengers",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_p_tcahr",
+      "name": "T'cahr",
+      "identity_note": "Shi’ar aide exposed as a D’ken loyalist; exact identity details uncertain",
+      "sector": "royal / court",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_p_sikorsky",
+      "name": "Sikorsky",
+      "identity_note": "Starjammers alien physician",
+      "sector": "cosmic / science",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_p_adam_x",
+      "name": "Adam-X",
+      "identity_note": "Adam Neramani, also called X-Treme; D’ken’s son per publisher history",
+      "sector": "royal / mutant",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_p_araki_1982",
+      "name": "Chancellor Araki (1982 incarnation)",
+      "identity_note": "Shi’ar chancellor killed by Samédàr; distinguish later clones/officeholders",
+      "sector": "royal / government",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_p_razor_raptor",
+      "name": "Razor",
+      "identity_note": "Fraternity of Raptors entity; distinct from host Chris Powell/Darkhawk",
+      "sector": "cosmic / villain",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_p_hussar",
+      "name": "Hussar",
+      "identity_note": "Shi’ar Imperial Guardswoman; civilian name uncertain",
+      "sector": "royal / military",
+      "continuity": "Earth-616"
+    }
+  ],
+  "sources": [
+    {
+      "id": "COS63_20261021_s01",
+      "title": "Starjammers team history",
+      "url": "https://www.marvel.com/teams-and-groups/Starjammers",
+      "evidence_tier": "publisher_group_history_unverified"
+    },
+    {
+      "id": "COS63_20261021_s02",
+      "title": "Hepzibah biography",
+      "url": "https://www.marvel.com/characters/hepzibah",
+      "evidence_tier": "publisher_crowdsourced_unverified"
+    },
+    {
+      "id": "COS63_20261021_s03",
+      "title": "Shi’ar empire history",
+      "url": "https://www.marvel.com/teams-and-groups/shiar",
+      "evidence_tier": "publisher_group_history"
+    },
+    {
+      "id": "COS63_20261021_s04",
+      "title": "Lilandra biography",
+      "url": "https://www.marvel.com/characters/lilandra-neramani",
+      "evidence_tier": "publisher_character_biography"
+    },
+    {
+      "id": "COS63_20261021_s05",
+      "title": "Samédàr biography",
+      "url": "https://www.marvel.com/characters/samdr",
+      "evidence_tier": "publisher_crowdsourced_unverified"
+    },
+    {
+      "id": "COS63_20261021_s06",
+      "title": "Hussar biography",
+      "url": "https://www.marvel.com/characters/hussar",
+      "evidence_tier": "publisher_crowdsourced_unverified"
+    },
+    {
+      "id": "COS63_20261021_s07",
+      "title": "Deathcry biography",
+      "url": "https://www.marvel.com/characters/Deathcry",
+      "evidence_tier": "publisher_crowdsourced_unverified"
+    },
+    {
+      "id": "COS63_20261021_s08",
+      "title": "Rachel Summers biography",
+      "url": "https://www.marvel.com/characters/marvel-girl-rachel-summers",
+      "evidence_tier": "publisher_character_biography"
+    },
+    {
+      "id": "COS63_20261021_s09",
+      "title": "Uncanny X-Men #157 issue",
+      "url": "https://www.marvel.com/comics/issue/13698/uncanny_x-men_1981_157",
+      "evidence_tier": "publisher_issue_listing"
+    },
+    {
+      "id": "COS63_20261021_s10",
+      "title": "X-Men Starjammers by Dave Cockrum collection",
+      "url": "https://www.marvel.com/comics/collection/77922/x-men_starjammers_by_dave_cockrum_trade_paperback",
+      "evidence_tier": "publisher_collection"
+    },
+    {
+      "id": "COS63_20261021_s11",
+      "title": "Starjammers (1995) #4 issue",
+      "url": "https://www.marvel.com/comics/issue/42879/starjammers_1995_4",
+      "evidence_tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "COS63_20261021_s12",
+      "title": "War of Kings: Ascension #4 issue",
+      "url": "https://www.marvel.com/comics/issue/27071/war_of_kings_ascension_2009_4",
+      "evidence_tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "COS63_20261021_s13",
+      "title": "Starjammers (1995/2004) collection",
+      "url": "https://www.marvel.com/comics/collection/75618/starjammers_trade_paperback",
+      "evidence_tier": "publisher_collection"
+    },
+    {
+      "id": "COS63_20261021_s14",
+      "title": "Uncanny X-Men #167 detailed recap",
+      "url": "https://uncannyxmen.net/comics/issue/uncanny-x-men-1st-series-167",
+      "evidence_tier": "independent_issue_recap"
+    },
+    {
+      "id": "COS63_20261021_s15",
+      "title": "Uncanny X-Men #157 detailed recap",
+      "url": "https://www.mightyavengers.net/comics/issue/uncanny-x-men-1st-series-157",
+      "evidence_tier": "independent_issue_recap"
+    }
+  ],
+  "events": [
+    {
+      "id": "COS63_20261021_e01",
+      "a": "corsair",
+      "b": "COS63_20261021_p_hepzibah",
+      "continuity": "Earth-616",
+      "scope": "X-Men: Spotlight on Starjammers #1–2 (1990), historical origin",
+      "documented_observation": "Corsair helps rescue Hepzibah from Shi’ar captivity; the two later become romantic partners and life-bonded mates.",
+      "source_ids": [
+        "COS63_20261021_s01",
+        "COS63_20261021_s02",
+        "COS63_20261021_s10"
+      ],
+      "evidence_limit": "Publisher secondary reconstruction; original panels not reviewed."
+    },
+    {
+      "id": "COS63_20261021_e02",
+      "a": "corsair",
+      "b": "COS63_20261021_p_hepzibah",
+      "continuity": "Earth-616",
+      "scope": "Starjammers (1995) #1–4",
+      "documented_observation": "While the Starjammers help repel the Uncreated, Corsair overrides Hepzibah’s weapons station to stop her attacking a Shi’ar vessel.",
+      "source_ids": [
+        "COS63_20261021_s02",
+        "COS63_20261021_s11",
+        "COS63_20261021_s13"
+      ],
+      "evidence_limit": "Specific action from unverified Marvel character biography; exact issue within mini-series unconfirmed."
+    },
+    {
+      "id": "COS63_20261021_e03",
+      "a": "corsair",
+      "b": "COS63_20261021_p_raza_longknife",
+      "continuity": "Earth-616",
+      "scope": "Starjammers founding backstory; Spotlight on Starjammers (1990) #1–2",
+      "documented_observation": "Raza and Corsair fight Shi’ar jailers during Hepzibah’s rescue and escape together from the prison world.",
+      "source_ids": [
+        "COS63_20261021_s01",
+        "COS63_20261021_s10"
+      ],
+      "evidence_limit": "Publisher team history; no permanent friendship inferred from the rescue."
+    },
+    {
+      "id": "COS63_20261021_e04",
+      "a": "COS63_20261021_p_ch_od",
+      "b": "COS63_20261021_p_hepzibah",
+      "continuity": "Earth-616",
+      "scope": "Starjammers founding backstory; Spotlight on Starjammers (1990) #1–2",
+      "documented_observation": "Ch’od and Raza look for their captive friend Hepzibah and help free her.",
+      "source_ids": [
+        "COS63_20261021_s01",
+        "COS63_20261021_s10"
+      ],
+      "evidence_limit": "Publisher team history; precise original panel not reviewed."
+    },
+    {
+      "id": "COS63_20261021_e05",
+      "a": "corsair",
+      "b": "COS63_20261021_p_ch_od",
+      "continuity": "Earth-616",
+      "scope": "Starjammers founding backstory; Spotlight on Starjammers (1990) #1–2",
+      "documented_observation": "Ch’od helps Corsair defeat guards and free Hepzibah; they escape the prison colony together.",
+      "source_ids": [
+        "COS63_20261021_s01",
+        "COS63_20261021_s10"
+      ],
+      "evidence_limit": "Cooperative act, not merely shared membership."
+    },
+    {
+      "id": "COS63_20261021_e06",
+      "a": "corsair",
+      "b": "katherine_anne",
+      "continuity": "Earth-616",
+      "scope": "Uncanny X-Men #154–156 (1982), Summers family history",
+      "documented_observation": "Christopher and his wife Katherine-Anne are captured by the Shi’ar; D’ken kills Katherine after Christopher resists his attempt to claim her.",
+      "source_ids": [
+        "COS63_20261021_s03",
+        "COS63_20261021_s04",
+        "COS63_20261021_s10"
+      ],
+      "evidence_limit": "Marriage and coercion summarized by publisher; exact sequence issue should be checked."
+    },
+    {
+      "id": "COS63_20261021_e07",
+      "a": "COS63_20261021_p_davan_shakari",
+      "b": "lilandra",
+      "continuity": "Earth-616",
+      "scope": "Uncanny X-Men #97–108 (1976–1977)",
+      "documented_observation": "D’ken’s operative Davan Shakari, acting as Erik the Red, captures Lilandra and returns her to the Shi’ar court.",
+      "source_ids": [
+        "COS63_20261021_s03",
+        "COS63_20261021_s04"
+      ],
+      "evidence_limit": "Publisher biography; exact issue of capture within span pending panel review."
+    },
+    {
+      "id": "COS63_20261021_e08",
+      "a": "dken",
+      "b": "COS63_20261021_p_davan_shakari",
+      "continuity": "Earth-616",
+      "scope": "Uncanny X-Men #97–108; Shi’ar court history",
+      "documented_observation": "D’ken tasks Davan Shakari with preventing Lilandra from securing Xavier’s assistance.",
+      "source_ids": [
+        "COS63_20261021_s03",
+        "COS63_20261021_s04"
+      ],
+      "evidence_limit": "Explicit command relationship; no friendship implied."
+    },
+    {
+      "id": "COS63_20261021_e09",
+      "a": "COS63_20261021_p_hussar",
+      "b": "COS63_20261021_p_lord_samedar",
+      "continuity": "Earth-616",
+      "scope": "Uncanny X-Men #157 (1982)",
+      "documented_observation": "Hussar joins the Imperial Guard faction siding with Samédàr against X-Men defending Lilandra, including after the coup is exposed.",
+      "source_ids": [
+        "COS63_20261021_s06",
+        "COS63_20261021_s09",
+        "COS63_20261021_s15"
+      ],
+      "evidence_limit": "Publisher biography unverified; independent issue recap confirms Guard split but attribution to Hussar needs panel review."
+    },
+    {
+      "id": "COS63_20261021_e10",
+      "a": "COS63_20261021_p_lord_samedar",
+      "b": "deathbird",
+      "continuity": "Earth-616",
+      "scope": "Uncanny X-Men #154–157 (1982)",
+      "documented_observation": "Deathbird recruits Samédàr into the conspiracy to kill Lilandra and threaten Earth.",
+      "source_ids": [
+        "COS63_20261021_s03",
+        "COS63_20261021_s05",
+        "COS63_20261021_s09"
+      ],
+      "evidence_limit": "Publisher accounts; collaboration is a coup, not proven friendship."
+    },
+    {
+      "id": "COS63_20261021_e11",
+      "a": "lilandra",
+      "b": "COS63_20261021_p_deathcry",
+      "continuity": "Earth-616",
+      "scope": "Avengers (1963) #363–389 era (1993–1995)",
+      "documented_observation": "Lilandra sends Deathcry to protect the Avengers from Kree retaliation; Deathcry becomes an honorary Avenger.",
+      "source_ids": [
+        "COS63_20261021_s03",
+        "COS63_20261021_s07"
+      ],
+      "evidence_limit": "Publisher character history unverified; assignment period approximate."
+    },
+    {
+      "id": "COS63_20261021_e12",
+      "a": "COS63_20261021_p_tcahr",
+      "b": "lilandra",
+      "continuity": "Earth-616",
+      "scope": "Starjammers (1995) #1–4",
+      "documented_observation": "T’cahr serves as an aide to Lilandra but is exposed as a D’ken loyalist during the Uncreated crisis.",
+      "source_ids": [
+        "COS63_20261021_s03",
+        "COS63_20261021_s11",
+        "COS63_20261021_s13"
+      ],
+      "evidence_limit": "Publisher empire history; exact issue within mini-series not established."
+    },
+    {
+      "id": "COS63_20261021_e13",
+      "a": "COS63_20261021_p_sikorsky",
+      "b": "charles",
+      "continuity": "Earth-616",
+      "scope": "Uncanny X-Men #167 (1983)",
+      "documented_observation": "Sikorsky and Moira MacTaggert clone a body for Brood-infected Charles Xavier and transfer his mind, saving him.",
+      "source_ids": [
+        "COS63_20261021_s01",
+        "COS63_20261021_s10",
+        "COS63_20261021_s14"
+      ],
+      "evidence_limit": "Independent issue recap supplies procedure; publisher team history also reports Sikorsky saved Xavier."
+    },
+    {
+      "id": "COS63_20261021_e14",
+      "a": "COS63_20261021_p_davan_shakari",
+      "b": "COS63_20261021_p_adam_x",
+      "continuity": "Earth-616",
+      "scope": "Shi’ar succession plots, 1990s; exact issue unresolved",
+      "documented_observation": "Shakari and Crystal Claws try to manipulate D’ken’s illegitimate son Adam-X into claiming the Shi’ar throne.",
+      "source_ids": [
+        "COS63_20261021_s03"
+      ],
+      "evidence_limit": "Publisher empire history; exact issue and Adam-X’s response unresolved."
+    },
+    {
+      "id": "COS63_20261021_e15",
+      "a": "COS63_20261021_p_lord_samedar",
+      "b": "COS63_20261021_p_araki_1982",
+      "continuity": "Earth-616",
+      "scope": "Uncanny X-Men #157 (1982)",
+      "documented_observation": "Samédàr kills Chancellor Araki and obstructs communication that could stop the bombardment of Earth.",
+      "source_ids": [
+        "COS63_20261021_s01",
+        "COS63_20261021_s09",
+        "COS63_20261021_s15"
+      ],
+      "evidence_limit": "Independent issue recap identifies killing; do not merge the murdered chancellor with later Araki clones."
+    },
+    {
+      "id": "COS63_20261021_e16",
+      "a": "COS63_20261021_p_razor_raptor",
+      "b": "lilandra",
+      "continuity": "Earth-616",
+      "scope": "War of Kings #4–5 / War of Kings: Ascension #4 (2009)",
+      "documented_observation": "Razor, controlling Chris Powell’s Darkhawk body, assassinates Lilandra during the attempt to restore her throne.",
+      "source_ids": [
+        "COS63_20261021_s03",
+        "COS63_20261021_s08",
+        "COS63_20261021_s12"
+      ],
+      "evidence_limit": "Publisher biographies and issue synopsis; Razor and human host must remain separate identities."
+    }
+  ],
+  "claims": [
+    {
+      "id": "COS63_20261021_c01",
+      "pair_id": "COS63_20261021_p_hepzibah--corsair",
+      "from_id": "COS63_20261021_p_hepzibah",
+      "to_id": "corsair",
+      "dimension": "romance",
+      "scope": "X-Men: Spotlight on Starjammers #1–2 (1990), historical origin",
+      "event_ids": [
+        "COS63_20261021_e01"
+      ],
+      "documented_fact": "Hepzibah and Corsair become mates after their escape.",
+      "interpretation_or_limit": "Historical relationship; no claim about its present status.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c02",
+      "pair_id": "COS63_20261021_p_hepzibah--corsair",
+      "from_id": "corsair",
+      "to_id": "COS63_20261021_p_hepzibah",
+      "dimension": "romance",
+      "scope": "X-Men: Spotlight on Starjammers #1–2 (1990), historical origin",
+      "event_ids": [
+        "COS63_20261021_e01"
+      ],
+      "documented_fact": "Corsair and Hepzibah are described as romantic partners.",
+      "interpretation_or_limit": "Affection does not imply agreement over Shi’ar politics.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c03",
+      "pair_id": "COS63_20261021_p_hepzibah--corsair",
+      "from_id": "corsair",
+      "to_id": "COS63_20261021_p_hepzibah",
+      "dimension": "authority",
+      "scope": "Starjammers (1995) #1–4",
+      "event_ids": [
+        "COS63_20261021_e02"
+      ],
+      "documented_fact": "Corsair overrides Hepzibah’s weapons controls to prevent a strike on a Shi’ar ship.",
+      "interpretation_or_limit": "Specific command decision; do not infer habitual coercion.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c04",
+      "pair_id": "COS63_20261021_p_raza_longknife--corsair",
+      "from_id": "corsair",
+      "to_id": "COS63_20261021_p_raza_longknife",
+      "dimension": "cooperation",
+      "scope": "Starjammers founding backstory; Spotlight on Starjammers (1990) #1–2",
+      "event_ids": [
+        "COS63_20261021_e03"
+      ],
+      "documented_fact": "Corsair and Raza fight jailers together during Hepzibah’s rescue.",
+      "interpretation_or_limit": "One coordinated rescue, not proof of lasting personal trust.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c05",
+      "pair_id": "COS63_20261021_p_raza_longknife--corsair",
+      "from_id": "COS63_20261021_p_raza_longknife",
+      "to_id": "corsair",
+      "dimension": "cooperation",
+      "scope": "Starjammers founding backstory; Spotlight on Starjammers (1990) #1–2",
+      "event_ids": [
+        "COS63_20261021_e03"
+      ],
+      "documented_fact": "Raza helps Corsair overcome jailers during the escape.",
+      "interpretation_or_limit": "Reciprocal participation documented; private loyalty not established.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c06",
+      "pair_id": "COS63_20261021_p_ch_od--COS63_20261021_p_hepzibah",
+      "from_id": "COS63_20261021_p_ch_od",
+      "to_id": "COS63_20261021_p_hepzibah",
+      "dimension": "protection",
+      "scope": "Starjammers founding backstory; Spotlight on Starjammers (1990) #1–2",
+      "event_ids": [
+        "COS63_20261021_e04"
+      ],
+      "documented_fact": "Ch’od searches for and helps rescue his captive friend Hepzibah.",
+      "interpretation_or_limit": "A specific protective act; lifelong obligation not established.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c07",
+      "pair_id": "COS63_20261021_p_ch_od--corsair",
+      "from_id": "corsair",
+      "to_id": "COS63_20261021_p_ch_od",
+      "dimension": "cooperation",
+      "scope": "Starjammers founding backstory; Spotlight on Starjammers (1990) #1–2",
+      "event_ids": [
+        "COS63_20261021_e05"
+      ],
+      "documented_fact": "Corsair fights beside Ch’od to free Hepzibah and escape.",
+      "interpretation_or_limit": "Shared action beyond roster membership; friendship not independently proven.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c08",
+      "pair_id": "corsair--katherine_anne",
+      "from_id": "corsair",
+      "to_id": "katherine_anne",
+      "dimension": "family",
+      "scope": "Uncanny X-Men #154–156 (1982), Summers family history",
+      "event_ids": [
+        "COS63_20261021_e06"
+      ],
+      "documented_fact": "Christopher and Katherine-Anne are married when abducted.",
+      "interpretation_or_limit": "Marriage and grief are distinct; later fate of Katherine documented separately.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c09",
+      "pair_id": "COS63_20261021_p_davan_shakari--lilandra",
+      "from_id": "COS63_20261021_p_davan_shakari",
+      "to_id": "lilandra",
+      "dimension": "coercion",
+      "scope": "Uncanny X-Men #97–108 (1976–1977)",
+      "event_ids": [
+        "COS63_20261021_e07"
+      ],
+      "documented_fact": "Shakari captures Lilandra and returns her to D’ken.",
+      "interpretation_or_limit": "Agent executing orders, not proof of personal vendetta.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c10",
+      "pair_id": "COS63_20261021_p_davan_shakari--dken",
+      "from_id": "dken",
+      "to_id": "COS63_20261021_p_davan_shakari",
+      "dimension": "authority",
+      "scope": "Uncanny X-Men #97–108; Shi’ar court history",
+      "event_ids": [
+        "COS63_20261021_e08"
+      ],
+      "documented_fact": "D’ken assigns Shakari to obstruct Lilandra’s alliance with Xavier.",
+      "interpretation_or_limit": "Political command, not personal trust.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c11",
+      "pair_id": "COS63_20261021_p_hussar--COS63_20261021_p_lord_samedar",
+      "from_id": "COS63_20261021_p_hussar",
+      "to_id": "COS63_20261021_p_lord_samedar",
+      "dimension": "loyalty",
+      "scope": "Uncanny X-Men #157 (1982)",
+      "event_ids": [
+        "COS63_20261021_e09"
+      ],
+      "documented_fact": "Hussar supports Samédàr’s faction against Lilandra’s defenders.",
+      "interpretation_or_limit": "Issue-scoped factional loyalty; later position changes, and individual identification needs panel check.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c12",
+      "pair_id": "COS63_20261021_p_lord_samedar--deathbird",
+      "from_id": "COS63_20261021_p_lord_samedar",
+      "to_id": "deathbird",
+      "dimension": "cooperation",
+      "scope": "Uncanny X-Men #154–157 (1982)",
+      "event_ids": [
+        "COS63_20261021_e10"
+      ],
+      "documented_fact": "Samédàr participates in Deathbird’s coup plan.",
+      "interpretation_or_limit": "Political conspiracy; no friendship inferred.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c13",
+      "pair_id": "COS63_20261021_p_lord_samedar--deathbird",
+      "from_id": "deathbird",
+      "to_id": "COS63_20261021_p_lord_samedar",
+      "dimension": "influence",
+      "scope": "Uncanny X-Men #154–157 (1982)",
+      "event_ids": [
+        "COS63_20261021_e10"
+      ],
+      "documented_fact": "Deathbird approaches Samédàr to help eliminate Lilandra.",
+      "interpretation_or_limit": "Recruitment to conspiracy; no evidence of long-term personal command.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c14",
+      "pair_id": "COS63_20261021_p_deathcry--lilandra",
+      "from_id": "lilandra",
+      "to_id": "COS63_20261021_p_deathcry",
+      "dimension": "authority",
+      "scope": "Avengers (1963) #363–389 era (1993–1995)",
+      "event_ids": [
+        "COS63_20261021_e11"
+      ],
+      "documented_fact": "Lilandra sends Deathcry to defend the Avengers.",
+      "interpretation_or_limit": "Royal assignment, not evidence of a close friendship.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c15",
+      "pair_id": "COS63_20261021_p_tcahr--lilandra",
+      "from_id": "COS63_20261021_p_tcahr",
+      "to_id": "lilandra",
+      "dimension": "betrayal",
+      "scope": "Starjammers (1995) #1–4",
+      "event_ids": [
+        "COS63_20261021_e12"
+      ],
+      "documented_fact": "T’cahr is exposed as a D’ken loyalist while serving as Lilandra’s aide.",
+      "interpretation_or_limit": "Institutional betrayal; precise personal trust and motive not documented.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c16",
+      "pair_id": "COS63_20261021_p_tcahr--lilandra",
+      "from_id": "lilandra",
+      "to_id": "COS63_20261021_p_tcahr",
+      "dimension": "authority",
+      "scope": "Starjammers (1995) #1–4",
+      "event_ids": [
+        "COS63_20261021_e12"
+      ],
+      "documented_fact": "T’cahr serves in Lilandra’s court as an aide.",
+      "interpretation_or_limit": "Formal role, not necessarily personal confidence.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c17",
+      "pair_id": "COS63_20261021_p_sikorsky--charles",
+      "from_id": "COS63_20261021_p_sikorsky",
+      "to_id": "charles",
+      "dimension": "protection",
+      "scope": "Uncanny X-Men #167 (1983)",
+      "event_ids": [
+        "COS63_20261021_e13"
+      ],
+      "documented_fact": "Sikorsky helps transfer Xavier’s mind into a healthy cloned body.",
+      "interpretation_or_limit": "Specific medical rescue jointly performed with Moira; not an enduring guardianship.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c18",
+      "pair_id": "COS63_20261021_p_adam_x--COS63_20261021_p_davan_shakari",
+      "from_id": "COS63_20261021_p_davan_shakari",
+      "to_id": "COS63_20261021_p_adam_x",
+      "dimension": "influence",
+      "scope": "Shi’ar succession plots, 1990s; exact issue unresolved",
+      "event_ids": [
+        "COS63_20261021_e14"
+      ],
+      "documented_fact": "Shakari’s faction attempts to manipulate Adam-X into seeking the throne.",
+      "interpretation_or_limit": "Attempted influence; success and Adam-X’s consent not established.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c19",
+      "pair_id": "COS63_20261021_p_araki_1982--COS63_20261021_p_lord_samedar",
+      "from_id": "COS63_20261021_p_lord_samedar",
+      "to_id": "COS63_20261021_p_araki_1982",
+      "dimension": "conflict",
+      "scope": "Uncanny X-Men #157 (1982)",
+      "event_ids": [
+        "COS63_20261021_e15"
+      ],
+      "documented_fact": "Samédàr kills Chancellor Araki.",
+      "interpretation_or_limit": "Lethal betrayal in one episode; original chancellor distinct from later clones.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS63_20261021_c20",
+      "pair_id": "COS63_20261021_p_razor_raptor--lilandra",
+      "from_id": "COS63_20261021_p_razor_raptor",
+      "to_id": "lilandra",
+      "dimension": "conflict",
+      "scope": "War of Kings #4–5 / War of Kings: Ascension #4 (2009)",
+      "event_ids": [
+        "COS63_20261021_e16"
+      ],
+      "documented_fact": "Razor assassinates Lilandra while possessing Chris Powell.",
+      "interpretation_or_limit": "Responsibility assigned to Razor, not automatically to the unwilling human host.",
+      "epistemic": "documented_event_with_qualified_interpretation",
+      "continuity": "Earth-616"
+    }
+  ],
+  "identity_cautions": [
+    "Araki refers to the chancellor murdered in Uncanny X-Men #157, not the later Araki clones or successors.",
+    "Razor is the Fraternity of Raptors entity, not its possessed human host Chris Powell.",
+    "Davan Shakari (Erik the Red) is distinct from Scott Summers using a similar disguise.",
+    "Deathcry civilian/birth name and Hussar civilian name are not established in the cited sources.",
+    "Hepzibah and the founding Starjammers accounts rely partly on Marvel pages marked crowd-sourced and unverified."
+  ],
+  "review": {
+    "original_panels_reviewed": false,
+    "full_application_import_test": "pending",
+    "other_uncommitted_batches_deduplicated": false,
+    "github_writes_attempted": false,
+    "committed": 0
+  },
+  "validation": {
+    "new_people": 12,
+    "unique_pairs": 15,
+    "directed_assessments": 20,
+    "events": 16,
+    "source_urls": 15,
+    "internal_cross_references_valid": true,
+    "new_ids_unique": true,
+    "canonical_person_id_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "committed": 0
+  }
+}
