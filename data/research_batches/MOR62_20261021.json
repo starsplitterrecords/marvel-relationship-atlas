@@ -1,0 +1,548 @@
+{
+  "batch_id": "MOR62_20261021",
+  "status": "UNCOMMITTED / awaiting periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+  "reused_canonical_ids": [
+    "beast",
+    "gambit",
+    "kitty",
+    "logan",
+    "storm"
+  ],
+  "people": [
+    {
+      "id": "callisto_morlocks",
+      "name": "Callisto",
+      "identity_note": "Morlock founder and leader; civilian name unverified"
+    },
+    {
+      "id": "caliban_morlocks",
+      "name": "Caliban",
+      "identity_note": "Morlock mutant tracker; no verified civilian name"
+    },
+    {
+      "id": "marrow_sarah_knuckey",
+      "name": "Sarah Knuckey",
+      "identity_note": "Marrow; Sarah Rushman is an undercover alias"
+    },
+    {
+      "id": "annalee_morlocks",
+      "name": "Annalee",
+      "identity_note": "Morlock caregiver; surname unconfirmed"
+    },
+    {
+      "id": "leech_morlocks",
+      "name": "Leech",
+      "identity_note": "Morlock mutant child; civilian name unconfirmed"
+    },
+    {
+      "id": "artie_maddicks",
+      "name": "Arthur Maddicks",
+      "identity_note": "Artie; mutant child, son of Carl Maddicks"
+    },
+    {
+      "id": "skids_sally_blevins",
+      "name": "Sally Blevins",
+      "identity_note": "Skids; distinguish from other Sally identities"
+    },
+    {
+      "id": "rusty_collins",
+      "name": "Rusty Collins",
+      "identity_note": "Firefist; X-Factor trainee"
+    },
+    {
+      "id": "feral_maria_callasantos",
+      "name": "Maria Callasantos",
+      "identity_note": "Feral; sister of Lucia"
+    },
+    {
+      "id": "thornn_lucia_callasantos",
+      "name": "Lucia Callasantos",
+      "identity_note": "Thornn; sister of Maria"
+    },
+    {
+      "id": "scalphunter_john_greycrow",
+      "name": "John Greycrow",
+      "identity_note": "Scalphunter; Marauders assassin"
+    },
+    {
+      "id": "carl_maddicks",
+      "name": "Carl Maddicks",
+      "identity_note": "Biochemist; Artie’s father, separate from Artie"
+    }
+  ],
+  "sources": [
+    {
+      "id": "MOR62_20261021_S01",
+      "title": "The Comics History of the Morlocks",
+      "url": "https://www.marvel.com/articles/comics/the-comics-history-of-the-morlocks",
+      "tier": "official_editorial"
+    },
+    {
+      "id": "MOR62_20261021_S02",
+      "title": "Caliban reading guide",
+      "url": "https://www.marvel.com/comics/discover/1099/caliban",
+      "tier": "official_editorial"
+    },
+    {
+      "id": "MOR62_20261021_S03",
+      "title": "Kate Pryde biography",
+      "url": "https://www.marvel.com/characters/kitty-pryde",
+      "tier": "official_biography"
+    },
+    {
+      "id": "MOR62_20261021_S04",
+      "title": "Marrow biography",
+      "url": "https://www.marvel.com/characters/Marrow",
+      "tier": "official_biography_unverified"
+    },
+    {
+      "id": "MOR62_20261021_S05",
+      "title": "Annalee biography",
+      "url": "https://www.marvel.com/characters/annalee",
+      "tier": "official_biography_unverified"
+    },
+    {
+      "id": "MOR62_20261021_S06",
+      "title": "Thornn biography",
+      "url": "https://www.marvel.com/characters/thornn-lucia-callasantos",
+      "tier": "official_biography_unverified"
+    },
+    {
+      "id": "MOR62_20261021_S07",
+      "title": "New Mutants (1983) #73",
+      "url": "https://www.marvel.com/comics/issue/10414/new_mutants_1983_73",
+      "tier": "official_issue_synopsis"
+    },
+    {
+      "id": "MOR62_20261021_S08",
+      "title": "Future Foundation biography",
+      "url": "https://www.marvel.com/teams-and-groups/future-foundation",
+      "tier": "official_biography"
+    },
+    {
+      "id": "MOR62_20261021_S09",
+      "title": "Arachne biography",
+      "url": "https://www.marvel.com/characters/arachne-julia-carpenter/",
+      "tier": "official_biography"
+    },
+    {
+      "id": "MOR62_20261021_S10",
+      "title": "Beast biography",
+      "url": "https://www.marvel.com/characters/beast-henry-mccoy",
+      "tier": "official_biography"
+    },
+    {
+      "id": "MOR62_20261021_S11",
+      "title": "Mister Sinister biography",
+      "url": "https://www.marvel.com/characters/mister-sinister",
+      "tier": "official_biography"
+    },
+    {
+      "id": "MOR62_20261021_S12",
+      "title": "X-Force biography",
+      "url": "https://www.marvel.com/teams-and-groups/x-force",
+      "tier": "official_biography"
+    },
+    {
+      "id": "MOR62_20261021_S13",
+      "title": "Uncanny X-Men (1963) #325",
+      "url": "https://www.marvel.com/comics/issue/13866/uncanny_x-men_1981_325",
+      "tier": "official_issue_synopsis"
+    },
+    {
+      "id": "MOR62_20261021_S14",
+      "title": "Mutant Massacre reading guide",
+      "url": "https://www.marvel.com/comics/guides/1140/mutant-massacre",
+      "tier": "official_issue_guide"
+    },
+    {
+      "id": "MOR62_20261021_S15",
+      "title": "X-Factor (1986) #3 issue synopsis",
+      "url": "https://comicvine.gamespot.com/x-factor-3-regression-obsession/4000-26714/",
+      "tier": "independent_issue_summary"
+    },
+    {
+      "id": "MOR62_20261021_S16",
+      "title": "X-Factor (1986) #9 issue recap",
+      "url": "https://uncannyxmen.net/comics/issue/x-factor-1st-series-9",
+      "tier": "independent_issue_summary"
+    }
+  ],
+  "events": [
+    {
+      "id": "MOR62_20261021_E01",
+      "a": "callisto_morlocks",
+      "b": "storm",
+      "scope": "Uncanny X-Men (1963) #170 (1983)",
+      "documented_observation": "Storm defeats Callisto in a knife duel to stop the Morlocks holding Angel and assumes leadership.",
+      "source_ids": [
+        "MOR62_20261021_S01",
+        "MOR62_20261021_S02"
+      ],
+      "evidence_quality": "official_editorial"
+    },
+    {
+      "id": "MOR62_20261021_E02",
+      "a": "callisto_morlocks",
+      "b": "caliban_morlocks",
+      "scope": "Uncanny X-Men (1963) #169-171 (1983) retrospective",
+      "documented_observation": "Callisto finds Caliban and uses his mutant-detection ability to locate other outcasts and establish the underground community.",
+      "source_ids": [
+        "MOR62_20261021_S01"
+      ],
+      "evidence_quality": "official_editorial"
+    },
+    {
+      "id": "MOR62_20261021_E03",
+      "a": "caliban_morlocks",
+      "b": "kitty",
+      "scope": "Uncanny X-Men (1963) #148 (1981)",
+      "documented_observation": "Caliban attempts to abduct Kitty at a Dazzler concert; Storm and Jessica Drew intervene.",
+      "source_ids": [
+        "MOR62_20261021_S02",
+        "MOR62_20261021_S03"
+      ],
+      "evidence_quality": "official_editorial"
+    },
+    {
+      "id": "MOR62_20261021_E04",
+      "a": "caliban_morlocks",
+      "b": "kitty",
+      "scope": "Uncanny X-Men (1963) #179 (1984)",
+      "documented_observation": "After Kitty agrees to marriage in exchange for help saving Colossus, Caliban releases her when he realizes she does not love him.",
+      "source_ids": [
+        "MOR62_20261021_S02",
+        "MOR62_20261021_S03"
+      ],
+      "evidence_quality": "official_biography_plus_guide"
+    },
+    {
+      "id": "MOR62_20261021_E05",
+      "a": "callisto_morlocks",
+      "b": "marrow_sarah_knuckey",
+      "scope": "Morlock childhood to Gene Nation period, before Uncanny X-Men #325 (1995)",
+      "documented_observation": "Marvel’s Marrow biography says Callisto raised Sarah in the tunnels and trained her.",
+      "source_ids": [
+        "MOR62_20261021_S04"
+      ],
+      "evidence_quality": "official_unverified_biography"
+    },
+    {
+      "id": "MOR62_20261021_E06",
+      "a": "gambit",
+      "b": "marrow_sarah_knuckey",
+      "scope": "Mutant Massacre (1986), later revealed in Uncanny X-Men #350-era backstory",
+      "documented_observation": "Marvel’s Marrow biography says Gambit rescued young Sarah during the Marauders’ attack, despite his role in bringing the killers into the tunnels.",
+      "source_ids": [
+        "MOR62_20261021_S04",
+        "MOR62_20261021_S11",
+        "MOR62_20261021_S14"
+      ],
+      "evidence_quality": "official_biography_qualified"
+    },
+    {
+      "id": "MOR62_20261021_E07",
+      "a": "marrow_sarah_knuckey",
+      "b": "storm",
+      "scope": "Uncanny X-Men (1963) #325 (1995)",
+      "documented_observation": "Marrow connects explosives on civilian hostages to her own heartbeat and challenges Storm; Storm stops her heart to prevent detonation.",
+      "source_ids": [
+        "MOR62_20261021_S13",
+        "MOR62_20261021_S04"
+      ],
+      "evidence_quality": "official_issue_synopsis"
+    },
+    {
+      "id": "MOR62_20261021_E08",
+      "a": "logan",
+      "b": "marrow_sarah_knuckey",
+      "scope": "X-Men late 1990s, after Operation: Zero Tolerance (1997)",
+      "documented_observation": "Marvel’s biography describes Wolverine taking responsibility for trying to rehabilitate Marrow, with repeated arguments and fights.",
+      "source_ids": [
+        "MOR62_20261021_S04"
+      ],
+      "evidence_quality": "official_unverified_biography_era_only"
+    },
+    {
+      "id": "MOR62_20261021_E09",
+      "a": "annalee_morlocks",
+      "b": "leech_morlocks",
+      "scope": "Pre-Mutant Massacre Morlock period, before X-Factor #9 (1986)",
+      "documented_observation": "Annalee cares for young Leech after losing her biological children; Marvel lists Leech as an adopted son.",
+      "source_ids": [
+        "MOR62_20261021_S05"
+      ],
+      "evidence_quality": "official_unverified_biography"
+    },
+    {
+      "id": "MOR62_20261021_E10",
+      "a": "scalphunter_john_greycrow",
+      "b": "annalee_morlocks",
+      "scope": "Mutant Massacre, X-Factor (1986) #9-11 / Uncanny X-Men #210-211",
+      "documented_observation": "Marvel states that Scalphunter kills Annalee during the Marauders’ slaughter of Morlocks.",
+      "source_ids": [
+        "MOR62_20261021_S05",
+        "MOR62_20261021_S14"
+      ],
+      "evidence_quality": "official_unverified_biography_plus_arc"
+    },
+    {
+      "id": "MOR62_20261021_E11",
+      "a": "thornn_lucia_callasantos",
+      "b": "feral_maria_callasantos",
+      "scope": "X-Force / Brotherhood of Mutants, early 1990s",
+      "documented_observation": "Lucia and Maria are sisters; Marvel describes Thornn opposing Feral after Maria joins X-Force and Lucia the Brotherhood.",
+      "source_ids": [
+        "MOR62_20261021_S06",
+        "MOR62_20261021_S12"
+      ],
+      "evidence_quality": "official_unverified_biography"
+    },
+    {
+      "id": "MOR62_20261021_E12",
+      "a": "skids_sally_blevins",
+      "b": "artie_maddicks",
+      "scope": "New Mutants (1983) #73 (1989)",
+      "documented_observation": "The publisher synopsis explicitly says Skids, Rusty and Mirage work to protect Artie, Leech and babies.",
+      "source_ids": [
+        "MOR62_20261021_S07"
+      ],
+      "evidence_quality": "official_issue_synopsis"
+    },
+    {
+      "id": "MOR62_20261021_E13",
+      "a": "leech_morlocks",
+      "b": "artie_maddicks",
+      "scope": "Fantastic Four (1998) #579 and Future Foundation era (2010 onward)",
+      "documented_observation": "Marvel identifies Leech as Artie Maddicks’ friend and recruits them into the Future Foundation.",
+      "source_ids": [
+        "MOR62_20261021_S08"
+      ],
+      "evidence_quality": "official_biography"
+    },
+    {
+      "id": "MOR62_20261021_E14",
+      "a": "skids_sally_blevins",
+      "b": "rusty_collins",
+      "scope": "X-Factor (1986) #8-9 (1986)",
+      "documented_observation": "Skids helps Rusty evade Freedom Force; Marvel’s Julia Carpenter history identifies Skids among those who helped Rusty escape.",
+      "source_ids": [
+        "MOR62_20261021_S09",
+        "MOR62_20261021_S16"
+      ],
+      "evidence_quality": "official_biography_plus_independent_issue"
+    },
+    {
+      "id": "MOR62_20261021_E15",
+      "a": "carl_maddicks",
+      "b": "artie_maddicks",
+      "scope": "X-Factor (1986) #2-3 (1986)",
+      "documented_observation": "Carl attempts to cure Artie’s mutation, then stays behind to distract armed security so Artie, Beast and X-Factor can escape; he dies.",
+      "source_ids": [
+        "MOR62_20261021_S10",
+        "MOR62_20261021_S15"
+      ],
+      "evidence_quality": "official_biography_plus_independent_issue"
+    },
+    {
+      "id": "MOR62_20261021_E16",
+      "a": "carl_maddicks",
+      "b": "beast",
+      "scope": "X-Factor (1986) #2-3 (1986)",
+      "documented_observation": "Carl has Beast kidnapped and subjects him to experimental mutation-reversal treatment without his consent.",
+      "source_ids": [
+        "MOR62_20261021_S10",
+        "MOR62_20261021_S15"
+      ],
+      "evidence_quality": "official_biography_plus_independent_issue"
+    }
+  ],
+  "claims": [
+    {
+      "id": "MOR62_20261021_C01",
+      "from_id": "callisto_morlocks",
+      "to_id": "storm",
+      "dimension": "conflict",
+      "event_id": "MOR62_20261021_E01",
+      "documented_fact": "Callisto duels Storm over leadership and the captive Angel.",
+      "interpretation_or_limit": "A specific contest for leadership, not proof of permanent personal hatred."
+    },
+    {
+      "id": "MOR62_20261021_C02",
+      "from_id": "storm",
+      "to_id": "callisto_morlocks",
+      "dimension": "authority",
+      "event_id": "MOR62_20261021_E01",
+      "documented_fact": "Storm defeats Callisto and assumes leadership of the Morlocks.",
+      "interpretation_or_limit": "Leadership acquired by duel; no evidence that all Morlocks embraced her decisions."
+    },
+    {
+      "id": "MOR62_20261021_C03",
+      "from_id": "callisto_morlocks",
+      "to_id": "caliban_morlocks",
+      "dimension": "influence",
+      "event_id": "MOR62_20261021_E02",
+      "documented_fact": "Callisto uses Caliban’s ability to locate other mutants for the community.",
+      "interpretation_or_limit": "A directed recruitment/use of his skill; his feelings about this arrangement are not established."
+    },
+    {
+      "id": "MOR62_20261021_C04",
+      "from_id": "caliban_morlocks",
+      "to_id": "kitty",
+      "dimension": "coercion",
+      "event_id": "MOR62_20261021_E03",
+      "documented_fact": "Caliban attempts to abduct Kitty.",
+      "interpretation_or_limit": "Loneliness does not negate the attempted abduction or establish mutual romance."
+    },
+    {
+      "id": "MOR62_20261021_C05",
+      "from_id": "caliban_morlocks",
+      "to_id": "kitty",
+      "dimension": "affection",
+      "event_id": "MOR62_20261021_E04",
+      "documented_fact": "Caliban releases Kitty from the marriage vow when he learns she does not love him.",
+      "interpretation_or_limit": "Unreciprocated attachment; his later restraint does not validate the earlier kidnapping."
+    },
+    {
+      "id": "MOR62_20261021_C06",
+      "from_id": "callisto_morlocks",
+      "to_id": "marrow_sarah_knuckey",
+      "dimension": "mentorship",
+      "event_id": "MOR62_20261021_E05",
+      "documented_fact": "Callisto raises and trains Sarah in the Morlock tunnels.",
+      "interpretation_or_limit": "Guardian-like training is publisher-biography evidence; legal adoption is not established."
+    },
+    {
+      "id": "MOR62_20261021_C07",
+      "from_id": "gambit",
+      "to_id": "marrow_sarah_knuckey",
+      "dimension": "protection",
+      "event_id": "MOR62_20261021_E06",
+      "documented_fact": "Gambit rescues Sarah during the massacre.",
+      "interpretation_or_limit": "One rescue does not erase his complicity in bringing the Marauders to the tunnels."
+    },
+    {
+      "id": "MOR62_20261021_C08",
+      "from_id": "marrow_sarah_knuckey",
+      "to_id": "storm",
+      "dimension": "conflict",
+      "event_id": "MOR62_20261021_E07",
+      "documented_fact": "Marrow forces a confrontation with Storm using civilians as leverage.",
+      "interpretation_or_limit": "Marrow’s stated grievance is historically situated; it is not a permanent assessment of Storm."
+    },
+    {
+      "id": "MOR62_20261021_C09",
+      "from_id": "logan",
+      "to_id": "marrow_sarah_knuckey",
+      "dimension": "mentorship",
+      "event_id": "MOR62_20261021_E08",
+      "documented_fact": "Wolverine attempts to rehabilitate and guide Marrow.",
+      "interpretation_or_limit": "The biography describes mixed results and fights; no enduring mutual trust inferred."
+    },
+    {
+      "id": "MOR62_20261021_C10",
+      "from_id": "annalee_morlocks",
+      "to_id": "leech_morlocks",
+      "dimension": "family",
+      "event_id": "MOR62_20261021_E09",
+      "documented_fact": "Marvel lists Leech as Annalee’s adopted son and describes her caring for him.",
+      "interpretation_or_limit": "Publisher page is explicitly unverified; adoption’s legal status not panel-confirmed."
+    },
+    {
+      "id": "MOR62_20261021_C11",
+      "from_id": "scalphunter_john_greycrow",
+      "to_id": "annalee_morlocks",
+      "dimension": "conflict",
+      "event_id": "MOR62_20261021_E10",
+      "documented_fact": "Scalphunter kills Annalee during the Mutant Massacre.",
+      "interpretation_or_limit": "No prior personal vendetta is established; exact killing panel not independently reviewed."
+    },
+    {
+      "id": "MOR62_20261021_C12",
+      "from_id": "thornn_lucia_callasantos",
+      "to_id": "feral_maria_callasantos",
+      "dimension": "family",
+      "event_id": "MOR62_20261021_E11",
+      "documented_fact": "Lucia is Maria’s sister.",
+      "interpretation_or_limit": "Kinship remains despite their 1990s opposing allegiances."
+    },
+    {
+      "id": "MOR62_20261021_C13",
+      "from_id": "feral_maria_callasantos",
+      "to_id": "thornn_lucia_callasantos",
+      "dimension": "family",
+      "event_id": "MOR62_20261021_E11",
+      "documented_fact": "Maria is Lucia’s sister.",
+      "interpretation_or_limit": "Reciprocal kinship, not evidence of mutual affection in the conflict."
+    },
+    {
+      "id": "MOR62_20261021_C14",
+      "from_id": "skids_sally_blevins",
+      "to_id": "artie_maddicks",
+      "dimension": "protection",
+      "event_id": "MOR62_20261021_E12",
+      "documented_fact": "Skids helps protect Artie in New Mutants #73.",
+      "interpretation_or_limit": "A concrete group protection action, not indefinite guardianship."
+    },
+    {
+      "id": "MOR62_20261021_C15",
+      "from_id": "leech_morlocks",
+      "to_id": "artie_maddicks",
+      "dimension": "friendship",
+      "event_id": "MOR62_20261021_E13",
+      "documented_fact": "Marvel explicitly identifies Leech as Artie’s friend.",
+      "interpretation_or_limit": "Friendship directly stated; no claims about private motivations."
+    },
+    {
+      "id": "MOR62_20261021_C16",
+      "from_id": "skids_sally_blevins",
+      "to_id": "rusty_collins",
+      "dimension": "protection",
+      "event_id": "MOR62_20261021_E14",
+      "documented_fact": "Skids helps Rusty evade Freedom Force.",
+      "interpretation_or_limit": "Incident-specific assistance; romance not inferred from rescue."
+    },
+    {
+      "id": "MOR62_20261021_C17",
+      "from_id": "carl_maddicks",
+      "to_id": "artie_maddicks",
+      "dimension": "protection",
+      "event_id": "MOR62_20261021_E15",
+      "documented_fact": "Carl sacrifices his chance to escape to protect Artie from security forces.",
+      "interpretation_or_limit": "Protective final act coexists with Carl’s earlier nonconsensual plan to alter Artie’s body."
+    },
+    {
+      "id": "MOR62_20261021_C18",
+      "from_id": "carl_maddicks",
+      "to_id": "beast",
+      "dimension": "coercion",
+      "event_id": "MOR62_20261021_E16",
+      "documented_fact": "Carl kidnaps Beast and experiments on him without consent.",
+      "interpretation_or_limit": "His stated desire to cure Artie does not make the treatment consensual."
+    }
+  ],
+  "validation": {
+    "proposed_new_people": 12,
+    "unique_pairs": 15,
+    "directed_assessments": 18,
+    "events": 16,
+    "official_marvel_source_urls": 14,
+    "independent_source_urls": 2,
+    "internal_cross_references_valid": true,
+    "canonical_identity_dedup": "Checked against 305-person GitHub snapshot; no proposed ID or normalized name collision",
+    "canonical_pair_dedup": "Checked against GitHub snapshot: all pairs involve new identities",
+    "other_uncommitted_batches": "Manually checked COS56, MYS57, AF58, SER59, INH60, CIV61 names from chat; exhaustive pending-batch index unavailable",
+    "original_panels_reviewed": false,
+    "full_import_schema_test": "pending",
+    "committed": 0
+  },
+  "research_limits": [
+    "Marvel character biographies for Marrow, Annalee and Thornn explicitly say crowd-sourced content is unverified.",
+    "Original issue panels not examined; issue-level synopses are publisher summaries, not panel review.",
+    "Leech friendship and Skids protection are supported by Marvel editorial/issue summaries; do not infer permanent loyalty.",
+    "Gambit saving Sarah and guiding the Marauders are both supported in Marvel biographies; the rescue does not negate his responsibility.",
+    "No GitHub writes performed."
+  ]
+}
