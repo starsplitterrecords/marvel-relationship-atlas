@@ -1,0 +1,662 @@
+{
+  "batch_id": "INH52_20261021",
+  "status": "UNCOMMITTED / awaiting user periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "research_sector": "Attilan / NuHumans / family versus institutional authority",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+    "people": 305,
+    "events": 454,
+    "claims": 535
+  },
+  "people": [
+    {
+      "id": "auran_inhuman",
+      "name": "Auran",
+      "identity_note": "Attilan security officer; death/resurrection continuity requires separate event states",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "frank_mcgee_nur",
+      "name": "Frank McGee",
+      "identity_note": "Nur; Auran's security partner",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "treste_auran_daughter",
+      "name": "Treste",
+      "identity_note": "Auran's daughter; name from independent issue review",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "irelle_auran_daughter",
+      "name": "Irelle",
+      "identity_note": "Auran's daughter; name from independent issue review",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "reader_inhuman",
+      "name": "Reader",
+      "identity_note": "Blind Inhuman whose written words manifest effects; civilian name not established",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "iso_xiaoyi",
+      "name": "Xiaoyi",
+      "identity_note": "Iso; NuHuman targeted by Ennilux",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "capo_ennilux",
+      "name": "Capo",
+      "identity_note": "Leader of Ennilux; inherited title/body-host identity unresolved",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "dante_pertuz",
+      "name": "Dante Pertuz",
+      "identity_note": "Inferno; Earth-616 comics, not Marvel Rising animation",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "gabriela_pertuz",
+      "name": "Gabriela Pertuz",
+      "identity_note": "Dante's sister; spelling Gabrielle in some indexes",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "lash_inhuman",
+      "name": "Lash",
+      "identity_note": "Inhuman recruiter from Orollan; not Star Wars character Nakano Lash",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "lineage_gordon_nobili",
+      "name": "Gordon Nobili",
+      "identity_note": "Lineage; ancestral-memory Inhuman",
+      "continuity": "Earth-616"
+    }
+  ],
+  "reused_canonical_ids": [
+    "gorgon",
+    "maximus",
+    "medusa"
+  ],
+  "sources": [
+    {
+      "id": "INH52_S01",
+      "url": "https://www.marvel.com/characters/auran",
+      "title": "Marvel character biography",
+      "tier": "publisher_secondary"
+    },
+    {
+      "id": "INH52_S02",
+      "url": "https://www.marvel.com/comics/issue/55808/uncanny_inhumans_2015_15",
+      "title": "Uncanny Inhumans (2015) #15",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "INH52_S03",
+      "url": "https://www.marvel.com/comics/issue/55809/uncanny_inhumans_2015_16",
+      "title": "Uncanny Inhumans (2015) #16",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "INH52_S04",
+      "url": "https://www.marvel.com/comics/issue/61107/uncanny_inhumans_2015_17",
+      "title": "Uncanny Inhumans (2015) #17",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "INH52_S05",
+      "url": "https://www.marvel.com/comics/issue/47820/inhuman_2014_11",
+      "title": "Inhuman (2014) #11",
+      "tier": "publisher_issue_synopsis_context_only"
+    },
+    {
+      "id": "INH52_S06",
+      "url": "https://www.marvel.com/comics/issue/47808/inhuman-2014-1",
+      "title": "Inhuman (2014) #1",
+      "tier": "publisher_issue_synopsis_context_only"
+    },
+    {
+      "id": "INH52_S07",
+      "url": "https://www.marvel.com/comics/guides/1459/hispanic-latinx-heritage-month",
+      "title": "Marvel Dante Pertuz editorial",
+      "tier": "publisher_editorial"
+    },
+    {
+      "id": "INH52_S08",
+      "url": "https://www.marvel.com/comics/issue/53547/inhuman",
+      "title": "Inhuman Annual (2015) #1",
+      "tier": "publisher_issue_synopsis_context_only"
+    },
+    {
+      "id": "INH52_S09",
+      "url": "https://www.marvel.com/comics/issue/51988/inhuman_2014_14",
+      "title": "Inhuman (2014) #14",
+      "tier": "publisher_issue_synopsis_context_only"
+    },
+    {
+      "id": "INH52_S10",
+      "url": "https://www.comics.org/issue/1208441/",
+      "title": "Grand Comics Database Inhuman #2",
+      "tier": "independent_issue_index"
+    },
+    {
+      "id": "INH52_S11",
+      "url": "https://www.comics.org/issue/1246754/",
+      "title": "Grand Comics Database Inhuman #3",
+      "tier": "independent_issue_index"
+    },
+    {
+      "id": "INH52_S12",
+      "url": "https://marvel.fandom.com/wiki/Reader_%28Inhuman%29_%28Earth-616%29",
+      "title": "Reader Earth-616 history",
+      "tier": "fan_edited_secondary"
+    },
+    {
+      "id": "INH52_S13",
+      "url": "https://marvel.fandom.com/wiki/Inhuman_Vol_1_3",
+      "title": "Inhuman #3 synopsis",
+      "tier": "fan_edited_secondary"
+    },
+    {
+      "id": "INH52_S14",
+      "url": "https://www.attilanrising.com/reviews/uncanny-inhumans-17-review-spoilers/",
+      "title": "Uncanny Inhumans #17 review",
+      "tier": "independent_issue_review"
+    },
+    {
+      "id": "INH52_S15",
+      "url": "https://marvel.fandom.com/wiki/Inhuman_Vol_1_2",
+      "title": "Inhuman #2 synopsis",
+      "tier": "fan_edited_secondary"
+    }
+  ],
+  "events": [
+    {
+      "id": "INH52_20261021_E01",
+      "a": "auran_inhuman",
+      "b": "frank_mcgee_nur",
+      "scope": "Inhuman (2014) era",
+      "documented_observation": "Marvel explicitly calls Frank McGee/Nur Auran's partner in the Attilan Security Force.",
+      "interpretation_or_limit": "A professional partnership is supported; no romance or personal intimacy is established.",
+      "source_ids": [
+        "INH52_S01"
+      ],
+      "evidence_quality": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E02",
+      "a": "treste_auran_daughter",
+      "b": "auran_inhuman",
+      "scope": "Uncanny Inhumans (2015) #15-17 (2016)",
+      "documented_observation": "Marvel says Auran's two daughters attempt to resurrect their dead mother; an independent #17 review names one daughter Treste.",
+      "interpretation_or_limit": "The returned Auran may not be identical to the woman who died, as Marvel explicitly warns.",
+      "source_ids": [
+        "INH52_S02",
+        "INH52_S03",
+        "INH52_S04",
+        "INH52_S14"
+      ],
+      "evidence_quality": "mixed_publisher_and_independent_identity",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E03",
+      "a": "irelle_auran_daughter",
+      "b": "auran_inhuman",
+      "scope": "Uncanny Inhumans (2015) #15-17 (2016)",
+      "documented_observation": "Marvel says Auran's daughters try to restore their mother; independent #17 review names the other daughter Irelle.",
+      "interpretation_or_limit": "Do not infer the resurrected Auran retains her prior memories or maternal relationship unchanged.",
+      "source_ids": [
+        "INH52_S02",
+        "INH52_S03",
+        "INH52_S04",
+        "INH52_S14"
+      ],
+      "evidence_quality": "mixed_publisher_and_independent_identity",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E04",
+      "a": "treste_auran_daughter",
+      "b": "maximus",
+      "scope": "Uncanny Inhumans (2015) #15 (2016)",
+      "documented_observation": "Marvel says Auran's daughters seek revenge and identify Maximus as their target.",
+      "interpretation_or_limit": "Their belief that Maximus is culpable is not independent proof that he murdered Auran.",
+      "source_ids": [
+        "INH52_S02",
+        "INH52_S14"
+      ],
+      "evidence_quality": "publisher_group_observation_individual_identity_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E05",
+      "a": "irelle_auran_daughter",
+      "b": "maximus",
+      "scope": "Uncanny Inhumans (2015) #15 (2016)",
+      "documented_observation": "Marvel says the two daughters target Maximus during their effort to bring back Auran.",
+      "interpretation_or_limit": "Their exact individual actions require original panels.",
+      "source_ids": [
+        "INH52_S02",
+        "INH52_S14"
+      ],
+      "evidence_quality": "publisher_group_observation_individual_identity_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E06",
+      "a": "reader_inhuman",
+      "b": "iso_xiaoyi",
+      "scope": "Inhuman (2014) #4-11 (2014-2015)",
+      "documented_observation": "A detailed character history says Reader initially delivers Iso to Ennilux, then rescues her from an involuntary body-transfer and seeks sanctuary for her in New Attilan.",
+      "interpretation_or_limit": "Marvel #11 independently places Reader and Iso together in danger but does not independently confirm the rescue details.",
+      "source_ids": [
+        "INH52_S12",
+        "INH52_S05"
+      ],
+      "evidence_quality": "fan_secondary_with_publisher_context",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E07",
+      "a": "capo_ennilux",
+      "b": "iso_xiaoyi",
+      "scope": "Inhuman (2014) #4-11 (2014-2015)",
+      "documented_observation": "The Reader history describes Ennilux's Capo preparing to overwrite Iso's body with his own consciousness, which would kill the host.",
+      "interpretation_or_limit": "Exact issue and the Capo's personal identity are not verified by publisher text.",
+      "source_ids": [
+        "INH52_S12",
+        "INH52_S05"
+      ],
+      "evidence_quality": "fan_secondary_provisional",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E08",
+      "a": "reader_inhuman",
+      "b": "capo_ennilux",
+      "scope": "Inhuman (2014) #4-11 (2014-2015)",
+      "documented_observation": "Reader reportedly refuses the Ennilux transaction and removes Iso from the Capo's surgeons.",
+      "interpretation_or_limit": "An event-scoped refusal, not evidence of a permanent feud.",
+      "source_ids": [
+        "INH52_S12"
+      ],
+      "evidence_quality": "fan_secondary_provisional",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E09",
+      "a": "dante_pertuz",
+      "b": "gabriela_pertuz",
+      "scope": "Inhuman (2014) #1-3 (2014)",
+      "documented_observation": "Marvel describes Dante as supporting his mother and sister; issue synopses identify Gabriela as his sister and report that he requires her safety before agreeing to help Medusa.",
+      "interpretation_or_limit": "Protection reflects a concrete demand; it does not establish Gabriela's private feelings.",
+      "source_ids": [
+        "INH52_S07",
+        "INH52_S13",
+        "INH52_S15"
+      ],
+      "evidence_quality": "publisher_plus_fan_synopsis",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E10",
+      "a": "gorgon",
+      "b": "dante_pertuz",
+      "scope": "Inhuman (2014) #2-3 (2014)",
+      "documented_observation": "The Grand Comics Database describes Medusa and Gorgon helping Dante adjust to his powers; detailed synopses say Gorgon personally trains Dante.",
+      "interpretation_or_limit": "Mentorship is issue-scoped; exact instruction should be checked against panels.",
+      "source_ids": [
+        "INH52_S10",
+        "INH52_S15",
+        "INH52_S13"
+      ],
+      "evidence_quality": "independent_index_plus_fan_synopsis",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E11",
+      "a": "lash_inhuman",
+      "b": "dante_pertuz",
+      "scope": "Inhuman (2014) #1-3 (2014)",
+      "documented_observation": "Independent issue histories describe Lash attempting to recruit newly transformed Dante and clashing with him and Medusa.",
+      "interpretation_or_limit": "The attempt to recruit is not proof Dante joined Lash or shared his ideology.",
+      "source_ids": [
+        "INH52_S06",
+        "INH52_S11",
+        "INH52_S13"
+      ],
+      "evidence_quality": "independent_synopsis_publisher_context",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E12",
+      "a": "medusa",
+      "b": "lash_inhuman",
+      "scope": "Inhuman (2014) #3 (2014)",
+      "documented_observation": "GCD identifies Lash as an enemy of the royal family; issue synopsis describes Medusa physically confronting and restraining Lash.",
+      "interpretation_or_limit": "Specific fight is event-scoped; no permanent emotion inferred.",
+      "source_ids": [
+        "INH52_S11",
+        "INH52_S13"
+      ],
+      "evidence_quality": "independent_index_plus_fan_synopsis",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E13",
+      "a": "lineage_gordon_nobili",
+      "b": "medusa",
+      "scope": "Inhuman (2014) #2-3 and #14 (2014-2015)",
+      "documented_observation": "A detailed #3 synopsis says Lineage presents Medusa with information about a coming threat; Marvel #14 confirms his previously concealed agenda comes to the fore.",
+      "interpretation_or_limit": "Whether Medusa trusts him is not established; presenting information is an attempted influence.",
+      "source_ids": [
+        "INH52_S13",
+        "INH52_S09"
+      ],
+      "evidence_quality": "fan_synopsis_publisher_context",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_E14",
+      "a": "medusa",
+      "b": "dante_pertuz",
+      "scope": "Inhuman (2014) #2-3 (2014)",
+      "documented_observation": "Issue synopsis says Medusa accepts Dante's condition that his sister and her child be cared for before he joins the operation against Lash.",
+      "interpretation_or_limit": "A negotiated assurance, not unconditional personal guardianship.",
+      "source_ids": [
+        "INH52_S13",
+        "INH52_S10"
+      ],
+      "evidence_quality": "fan_synopsis_independent_index",
+      "continuity": "Earth-616"
+    }
+  ],
+  "claims": [
+    {
+      "id": "INH52_20261021_C01",
+      "from_id": "auran_inhuman",
+      "to_id": "frank_mcgee_nur",
+      "dimension": "professional",
+      "event_ids": [
+        "INH52_20261021_E01"
+      ],
+      "assessment": "security partners",
+      "documented_fact": "Marvel identifies Nur as Auran's partner in the security force.",
+      "interpretation_or_limit": "No personal friendship or romance inferred.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C02",
+      "from_id": "frank_mcgee_nur",
+      "to_id": "auran_inhuman",
+      "dimension": "professional",
+      "event_ids": [
+        "INH52_20261021_E01"
+      ],
+      "assessment": "security partners",
+      "documented_fact": "The professional partnership is described as mutual.",
+      "interpretation_or_limit": "Reciprocal professional status, not reciprocal trust assessment.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C03",
+      "from_id": "treste_auran_daughter",
+      "to_id": "auran_inhuman",
+      "dimension": "protection",
+      "event_ids": [
+        "INH52_20261021_E02"
+      ],
+      "assessment": "attempted restoration",
+      "documented_fact": "Auran's daughter participates in an attempt to restore her mother.",
+      "interpretation_or_limit": "Restoration is dangerous and identity continuity uncertain.",
+      "epistemic": "publisher_group_plus_independent_name",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C04",
+      "from_id": "irelle_auran_daughter",
+      "to_id": "auran_inhuman",
+      "dimension": "protection",
+      "event_ids": [
+        "INH52_20261021_E03"
+      ],
+      "assessment": "attempted restoration",
+      "documented_fact": "Auran's other daughter participates in the same attempt.",
+      "interpretation_or_limit": "Do not treat the outcome as a simple return to former family life.",
+      "epistemic": "publisher_group_plus_independent_name",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C05",
+      "from_id": "auran_inhuman",
+      "to_id": "treste_auran_daughter",
+      "dimension": "family",
+      "event_ids": [
+        "INH52_20261021_E02"
+      ],
+      "assessment": "mother-daughter",
+      "documented_fact": "Treste is identified as one of Auran's daughters.",
+      "interpretation_or_limit": "The resurrected Auran's identity is explicitly complicated.",
+      "epistemic": "independent_name_publisher_kinship",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C06",
+      "from_id": "auran_inhuman",
+      "to_id": "irelle_auran_daughter",
+      "dimension": "family",
+      "event_ids": [
+        "INH52_20261021_E03"
+      ],
+      "assessment": "mother-daughter",
+      "documented_fact": "Irelle is identified as Auran's other daughter.",
+      "interpretation_or_limit": "No claim about the resurrected woman's enduring memories.",
+      "epistemic": "independent_name_publisher_kinship",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C07",
+      "from_id": "treste_auran_daughter",
+      "to_id": "maximus",
+      "dimension": "conflict",
+      "event_ids": [
+        "INH52_20261021_E04"
+      ],
+      "assessment": "revenge target",
+      "documented_fact": "Marvel says Auran's daughters target Maximus.",
+      "interpretation_or_limit": "Actual culpability and Treste's individual acts unverified.",
+      "epistemic": "publisher_group_individual_provisional",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C08",
+      "from_id": "irelle_auran_daughter",
+      "to_id": "maximus",
+      "dimension": "conflict",
+      "event_ids": [
+        "INH52_20261021_E05"
+      ],
+      "assessment": "revenge target",
+      "documented_fact": "Marvel says both daughters target Maximus.",
+      "interpretation_or_limit": "Actual culpability and Irelle's individual acts unverified.",
+      "epistemic": "publisher_group_individual_provisional",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C09",
+      "from_id": "reader_inhuman",
+      "to_id": "iso_xiaoyi",
+      "dimension": "protection",
+      "event_ids": [
+        "INH52_20261021_E06"
+      ],
+      "assessment": "rescue from Ennilux",
+      "documented_fact": "Detailed history reports Reader rescuing Iso from a planned body overwrite.",
+      "interpretation_or_limit": "Publisher synopsis corroborates their shared peril, not rescue mechanics.",
+      "epistemic": "fan_secondary_provisional",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C10",
+      "from_id": "capo_ennilux",
+      "to_id": "iso_xiaoyi",
+      "dimension": "coercion",
+      "event_ids": [
+        "INH52_20261021_E07"
+      ],
+      "assessment": "planned involuntary possession",
+      "documented_fact": "Detailed history says Capo intends to use Iso as a host, killing her.",
+      "interpretation_or_limit": "Unverified against original panels; no consent documented.",
+      "epistemic": "fan_secondary_provisional",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C11",
+      "from_id": "reader_inhuman",
+      "to_id": "capo_ennilux",
+      "dimension": "conflict",
+      "event_ids": [
+        "INH52_20261021_E08"
+      ],
+      "assessment": "opposes body transfer",
+      "documented_fact": "Reader reportedly interrupts Capo's attempted takeover of Iso.",
+      "interpretation_or_limit": "A specific conflict, not necessarily enduring personal hostility.",
+      "epistemic": "fan_secondary_provisional",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C12",
+      "from_id": "dante_pertuz",
+      "to_id": "gabriela_pertuz",
+      "dimension": "protection",
+      "event_ids": [
+        "INH52_20261021_E09"
+      ],
+      "assessment": "family welfare condition",
+      "documented_fact": "Dante makes care of his sister and her child a condition of helping Medusa.",
+      "interpretation_or_limit": "Protective action, not permanent protector identity.",
+      "epistemic": "publisher_context_fan_details",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C13",
+      "from_id": "gabriela_pertuz",
+      "to_id": "dante_pertuz",
+      "dimension": "family",
+      "event_ids": [
+        "INH52_20261021_E09"
+      ],
+      "assessment": "sibling",
+      "documented_fact": "Gabriela is identified as Dante's sister.",
+      "interpretation_or_limit": "No private sentiment inferred.",
+      "epistemic": "publisher_context_fan_details",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C14",
+      "from_id": "gorgon",
+      "to_id": "dante_pertuz",
+      "dimension": "mentorship",
+      "event_ids": [
+        "INH52_20261021_E10"
+      ],
+      "assessment": "power-control training",
+      "documented_fact": "Issue histories say Gorgon trains Dante to manage new powers.",
+      "interpretation_or_limit": "Training does not establish lifelong personal loyalty.",
+      "epistemic": "independent_index_fan_details",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C15",
+      "from_id": "lash_inhuman",
+      "to_id": "dante_pertuz",
+      "dimension": "influence",
+      "event_ids": [
+        "INH52_20261021_E11"
+      ],
+      "assessment": "recruitment attempt",
+      "documented_fact": "Lash tries to persuade newly transformed Dante to join his community.",
+      "interpretation_or_limit": "Dante's acceptance is not established.",
+      "epistemic": "independent_synopsis_provisional",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C16",
+      "from_id": "medusa",
+      "to_id": "lash_inhuman",
+      "dimension": "conflict",
+      "event_ids": [
+        "INH52_20261021_E12"
+      ],
+      "assessment": "physical opposition",
+      "documented_fact": "Medusa confronts Lash in Inhuman #3.",
+      "interpretation_or_limit": "No generalized permanent animosity inferred.",
+      "epistemic": "independent_index_fan_details",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C17",
+      "from_id": "lineage_gordon_nobili",
+      "to_id": "medusa",
+      "dimension": "influence",
+      "event_ids": [
+        "INH52_20261021_E13"
+      ],
+      "assessment": "information offered",
+      "documented_fact": "Lineage offers Medusa information about an approaching threat.",
+      "interpretation_or_limit": "No evidence she fully believes him or shares his agenda.",
+      "epistemic": "fan_secondary_publisher_context",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "INH52_20261021_C18",
+      "from_id": "medusa",
+      "to_id": "dante_pertuz",
+      "dimension": "protection",
+      "event_ids": [
+        "INH52_20261021_E14"
+      ],
+      "assessment": "conditional family shelter",
+      "documented_fact": "Medusa agrees to safeguard Dante's family as he joins the mission.",
+      "interpretation_or_limit": "Negotiated commitment, not unconditional affection.",
+      "epistemic": "fan_secondary_provisional",
+      "continuity": "Earth-616"
+    }
+  ],
+  "identity_warnings": [
+    "Treste and Irelle names are from an independent issue review; Marvel #15-17 confirms two daughters without naming them in the retrieved synopses.",
+    "The resurrected Auran may not be identical to her earlier self.",
+    "The Capo is an office or host-transferring identity; do not assume one stable biological person without verification.",
+    "Reader is not a generic job title; civilian name not verified.",
+    "Inferno is Dante Pertuz of Earth-616, not the animated Marvel Rising version.",
+    "Lash is the Inhuman of Orollan, not Nakano Lash of Star Wars.",
+    "Marvel issue summaries sometimes only establish series context; detailed actions from fan or independent accounts remain provisional.",
+    "Original issue panels have not been reviewed."
+  ],
+  "validation": {
+    "proposed_new_people": 11,
+    "unique_unordered_pairs": 14,
+    "directed_assessments": 18,
+    "events": 14,
+    "official_marvel_urls": 9,
+    "independent_urls": 6,
+    "internal_references_validated": true,
+    "canonical_person_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "canonical_snapshot_check": "verified through connected GitHub",
+    "uncommitted_cross_batch_deduplication": "not exhaustive",
+    "original_panels_reviewed": false,
+    "full_import_schema_test": "pending; additive proposal schema",
+    "committed": 0
+  }
+}
