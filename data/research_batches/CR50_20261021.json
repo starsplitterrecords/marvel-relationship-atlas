@@ -1,0 +1,630 @@
+{
+  "batch_id": "CR50_20261021",
+  "status": "UNCOMMITTED / awaiting periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_reference": {
+    "repository": "starsplitterrecords/marvel-relationship-atlas",
+    "file": "data/relationship_pilot.json",
+    "blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+    "people": 305,
+    "events": 454,
+    "claims": 535
+  },
+  "people": [
+    {
+      "id": "lonnie_lincoln",
+      "name": "Lonnie Lincoln",
+      "note": "Tombstone; New York crime boss",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "janice_lincoln",
+      "name": "Janice Lincoln",
+      "note": "Beetle; Tombstone daughter, not Abner Jenkins",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "robbie_robertson",
+      "name": "Joseph Robertson",
+      "note": "Robbie; Daily Bugle journalist",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "randy_robertson",
+      "name": "Randy Robertson",
+      "note": "Robbie son; Peter Parker roommate",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "boomerang_fred_myers",
+      "name": "Fred Myers",
+      "note": "Boomerang; Spider-Man roommate in 2021",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "silvermane_silvio_manfredi",
+      "name": "Silvio Manfredi",
+      "note": "Silvermane; Maggia boss",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "curt_connors",
+      "name": "Curt Connors",
+      "note": "Lizard; scientist; distinguish human and transformed identity",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "cloak_tyrone_johnson",
+      "name": "Tyrone Johnson",
+      "note": "Cloak; Darkforce-powered hero",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "dagger_tandy_bowen",
+      "name": "Tandy Bowen",
+      "note": "Dagger; light-powered hero",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "madame_masque_whitney_frost",
+      "name": "Whitney Frost",
+      "note": "Madame Masque; not Morlock Masque",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "richard_fisk",
+      "name": "Richard Fisk",
+      "note": "The Rose; son of Wilson Fisk",
+      "continuity": "Earth-616"
+    }
+  ],
+  "reused_canonical_ids": [
+    "peter",
+    "fisk",
+    "elektra"
+  ],
+  "sources": [
+    {
+      "id": "CR50_S01",
+      "url": "https://www.marvel.com/comics/issue/89518/the_amazing_spider-man_2018_63",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_S02",
+      "url": "https://www.marvel.com/comics/issue/108920/the_amazing_spider-man_2022_31_variant",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_S03",
+      "url": "https://www.marvel.com/comics/issue/109629/the_amazing_spider-man_2022_42",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_S04",
+      "url": "https://www.marvel.com/comics/issue/115689/the_amazing_spider-man_2022_56_variant",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_S05",
+      "url": "https://www.marvel.com/comics/issue/122428/the_amazing_spider-man_2022_59_variant",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_S06",
+      "url": "https://www.marvel.com/comics/collection/89535/amazing_spider-man_by_nick_spencer_vol_13_kings_ransom_trade_paperback",
+      "tier": "publisher_collection"
+    },
+    {
+      "id": "CR50_S07",
+      "url": "https://www.marvel.com/comics/guides/543/the-kingpin",
+      "tier": "publisher_editorial_guide"
+    },
+    {
+      "id": "CR50_S08",
+      "url": "https://www.marvel.com/comics/collection/62858/spider-man_the_lifeline_tablet_saga_trade_paperback",
+      "tier": "publisher_collection"
+    },
+    {
+      "id": "CR50_S09",
+      "url": "https://www.marvel.com/characters/silvermane/",
+      "tier": "marvel_hosted_crowdsourced_unverified"
+    },
+    {
+      "id": "CR50_S10",
+      "url": "https://www.marvel.com/comics/issue/14773/spectacular_spider-man_1976_70",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_S11",
+      "url": "https://www.marvel.com/comics/discover/478/cloak-and-dagger",
+      "tier": "publisher_editorial_guide"
+    },
+    {
+      "id": "CR50_S12",
+      "url": "https://www.marvel.com/comics/collection/71709/cloak_and_dagger_negative_exposure_mpgn_trade_paperback",
+      "tier": "publisher_collection"
+    },
+    {
+      "id": "CR50_S13",
+      "url": "https://www.marvel.com/comics/issue/112129/daredevil_gang_war_2023_4",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_S14",
+      "url": "https://www.marvel.com/comics/collection/104948/marvel_masterworks_the_spectacular_spider-man_vol_6_hardcover",
+      "tier": "publisher_collection"
+    },
+    {
+      "id": "CR50_S15",
+      "url": "https://www.marvel.com/articles/comics/giant-size-spider-man-kings-ransom-1",
+      "tier": "publisher_editorial"
+    }
+  ],
+  "events": [
+    {
+      "id": "CR50_E01",
+      "a": "lonnie_lincoln",
+      "b": "robbie_robertson",
+      "scope": "1988 Tombstone/Robbie history, reignited in Amazing Spider-Man (2018) #63 (2021)",
+      "observation": "Marvel identifies a longstanding personal feud between Tombstone and Robbie, reactivated by their children dating.",
+      "source_ids": [
+        "CR50_S01",
+        "CR50_S06"
+      ],
+      "evidence_quality": "publisher_issue_and_collection"
+    },
+    {
+      "id": "CR50_E02",
+      "a": "lonnie_lincoln",
+      "b": "janice_lincoln",
+      "scope": "Amazing Spider-Man (2022) #31 (2023)",
+      "observation": "Tombstone is identified as Janice father and is to walk her down the aisle.",
+      "source_ids": [
+        "CR50_S02"
+      ],
+      "evidence_quality": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_E03",
+      "a": "janice_lincoln",
+      "b": "randy_robertson",
+      "scope": "Amazing Spider-Man (2018) #63 (2021); Amazing Spider-Man (2022) #31 (2023)",
+      "observation": "Janice and Randy are dating in #63 and plan a wedding in #31.",
+      "source_ids": [
+        "CR50_S01",
+        "CR50_S02"
+      ],
+      "evidence_quality": "publisher_issue_synopses"
+    },
+    {
+      "id": "CR50_E04",
+      "a": "robbie_robertson",
+      "b": "randy_robertson",
+      "scope": "Amazing Spider-Man (2018) #63 (2021)",
+      "observation": "Robbie is explicitly identified as Randy father when the relationship with Janice becomes known.",
+      "source_ids": [
+        "CR50_S01"
+      ],
+      "evidence_quality": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_E05",
+      "a": "randy_robertson",
+      "b": "peter",
+      "scope": "Amazing Spider-Man (2018) #63 (2021); Amazing Spider-Man (2022) #31 (2023)",
+      "observation": "Peter and Randy share housing; Peter is selected as best man for Randy and Janice planned wedding.",
+      "source_ids": [
+        "CR50_S01",
+        "CR50_S02"
+      ],
+      "evidence_quality": "publisher_issue_synopses"
+    },
+    {
+      "id": "CR50_E06",
+      "a": "lonnie_lincoln",
+      "b": "peter",
+      "scope": "Amazing Spider-Man (2022) #56-59 (2024)",
+      "observation": "Tombstone plots a public killing of Spider-Man, kidnaps Peter Parker as leverage, and fights Spider-Man.",
+      "source_ids": [
+        "CR50_S04",
+        "CR50_S05"
+      ],
+      "evidence_quality": "publisher_issue_synopses"
+    },
+    {
+      "id": "CR50_E07",
+      "a": "boomerang_fred_myers",
+      "b": "peter",
+      "scope": "Amazing Spider-Man (2018) #61-65 (2021)",
+      "observation": "Boomerang is Peter/Spider-Man roommate; Spider-Man attempts to prevent Kingpin from killing him.",
+      "source_ids": [
+        "CR50_S06",
+        "CR50_S15"
+      ],
+      "evidence_quality": "publisher_collection_and_editorial"
+    },
+    {
+      "id": "CR50_E08",
+      "a": "fisk",
+      "b": "boomerang_fred_myers",
+      "scope": "Amazing Spider-Man (2018) #61-65 (2021)",
+      "observation": "Mayor Fisk seeks the Lifeline Tablet and is prepared to kill Boomerang to obtain it.",
+      "source_ids": [
+        "CR50_S06",
+        "CR50_S07"
+      ],
+      "evidence_quality": "publisher_collection_and_guide"
+    },
+    {
+      "id": "CR50_E09",
+      "a": "silvermane_silvio_manfredi",
+      "b": "curt_connors",
+      "scope": "Amazing Spider-Man (1963) #68-75 (1969); exact abduction issue unverified",
+      "observation": "Marvel-hosted Silvermane biography says he abducts Connors to prepare the Lifeline Tablet formula; the official collection places both in the saga.",
+      "source_ids": [
+        "CR50_S09",
+        "CR50_S08"
+      ],
+      "evidence_quality": "unverified_biography_with_publisher_era_context"
+    },
+    {
+      "id": "CR50_E10",
+      "a": "fisk",
+      "b": "silvermane_silvio_manfredi",
+      "scope": "Spectacular Spider-Man (1976), early 1980s crime-war era; exact issue pending",
+      "observation": "Marvel-hosted Silvermane biography says Fisk reanimates Silvermane and controls him using a painful collar.",
+      "source_ids": [
+        "CR50_S09",
+        "CR50_S14"
+      ],
+      "evidence_quality": "unverified_biography; exact_issue_pending"
+    },
+    {
+      "id": "CR50_E11",
+      "a": "cloak_tyrone_johnson",
+      "b": "silvermane_silvio_manfredi",
+      "scope": "Spectacular Spider-Man (1976) #70 (1982)",
+      "observation": "Cloak and Dagger attempt to kill Silvermane; Spider-Man intervenes to stop them.",
+      "source_ids": [
+        "CR50_S10"
+      ],
+      "evidence_quality": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_E12",
+      "a": "dagger_tandy_bowen",
+      "b": "silvermane_silvio_manfredi",
+      "scope": "Spectacular Spider-Man (1976) #70 (1982)",
+      "observation": "Dagger joins Cloak in an attempt to kill Silvermane; Spider-Man tries to stop them.",
+      "source_ids": [
+        "CR50_S10"
+      ],
+      "evidence_quality": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_E13",
+      "a": "cloak_tyrone_johnson",
+      "b": "dagger_tandy_bowen",
+      "scope": "Cloak and Dagger: Negative Exposure (2018) #1-3",
+      "observation": "Tandy and Tyrone resume crimefighting together despite having been separated and dating other people; Marvel identifies unresolved mutual feelings.",
+      "source_ids": [
+        "CR50_S12",
+        "CR50_S11"
+      ],
+      "evidence_quality": "publisher_collection_and_guide"
+    },
+    {
+      "id": "CR50_E14",
+      "a": "madame_masque_whitney_frost",
+      "b": "elektra",
+      "scope": "Daredevil: Gang War (2023) #4 (published 2024)",
+      "observation": "Madame Masque overpowers Elektra in the campaign to control New York; Elektra has a blade at her throat.",
+      "source_ids": [
+        "CR50_S13"
+      ],
+      "evidence_quality": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_E15",
+      "a": "richard_fisk",
+      "b": "fisk",
+      "scope": "Daredevil (1998) #30 (2001), Kingpin family conflict",
+      "observation": "Richard Fisk, identified as Kingpin son, plots to kill his abusive father; Vanessa attempts to stop him.",
+      "source_ids": [
+        "CR50_S07"
+      ],
+      "evidence_quality": "publisher_editorial_guide"
+    },
+    {
+      "id": "CR50_E16",
+      "a": "janice_lincoln",
+      "b": "lonnie_lincoln",
+      "scope": "Amazing Spider-Man (2022) #42 (2024)",
+      "observation": "With Tombstone absent, Janice steps into leadership and seeks the top position in New York crime.",
+      "source_ids": [
+        "CR50_S03"
+      ],
+      "evidence_quality": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_E17",
+      "a": "cloak_tyrone_johnson",
+      "b": "dagger_tandy_bowen",
+      "scope": "Cloak and Dagger (1985) #1 and 2018 reunion",
+      "observation": "Marvel guide recounts Dagger leaving Cloak after he attacks churchgoers; the 2018 collection describes their reunion.",
+      "source_ids": [
+        "CR50_S11",
+        "CR50_S12"
+      ],
+      "evidence_quality": "publisher_guide_and_collection"
+    }
+  ],
+  "claims": [
+    {
+      "id": "CR50_C01",
+      "from_id": "lonnie_lincoln",
+      "to_id": "robbie_robertson",
+      "dimension": "conflict",
+      "event_ids": [
+        "CR50_E01"
+      ],
+      "documented_fact": "The publisher calls their history an old enmity renewed in 2021.",
+      "interpretation_or_limitation": "Feud is historically established, but exact 1988 originating panels were not reviewed.",
+      "epistemic": "publisher_secondary"
+    },
+    {
+      "id": "CR50_C02",
+      "from_id": "robbie_robertson",
+      "to_id": "lonnie_lincoln",
+      "dimension": "conflict",
+      "event_ids": [
+        "CR50_E01"
+      ],
+      "documented_fact": "Marvel describes the conflict as a feud between both fathers.",
+      "interpretation_or_limitation": "Do not assign identical motives to both men.",
+      "epistemic": "publisher_secondary"
+    },
+    {
+      "id": "CR50_C03",
+      "from_id": "lonnie_lincoln",
+      "to_id": "janice_lincoln",
+      "dimension": "family",
+      "event_ids": [
+        "CR50_E02"
+      ],
+      "documented_fact": "Tombstone is Janice father and participates in her wedding plans.",
+      "interpretation_or_limitation": "Fatherhood is not proof he endorses all her criminal decisions.",
+      "epistemic": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_C04",
+      "from_id": "janice_lincoln",
+      "to_id": "randy_robertson",
+      "dimension": "romance",
+      "event_ids": [
+        "CR50_E03"
+      ],
+      "documented_fact": "Janice dates Randy and plans to marry him.",
+      "interpretation_or_limitation": "The issue preview does not establish that the marriage was completed.",
+      "epistemic": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_C05",
+      "from_id": "randy_robertson",
+      "to_id": "janice_lincoln",
+      "dimension": "romance",
+      "event_ids": [
+        "CR50_E03"
+      ],
+      "documented_fact": "Randy dates Janice and plans their wedding.",
+      "interpretation_or_limitation": "No permanent post-wedding status inferred.",
+      "epistemic": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_C06",
+      "from_id": "robbie_robertson",
+      "to_id": "randy_robertson",
+      "dimension": "family",
+      "event_ids": [
+        "CR50_E04"
+      ],
+      "documented_fact": "Robbie is Randy father.",
+      "interpretation_or_limitation": "No specific paternal approval or disapproval is asserted beyond the described family feud.",
+      "epistemic": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_C07",
+      "from_id": "randy_robertson",
+      "to_id": "peter",
+      "dimension": "friendship",
+      "event_ids": [
+        "CR50_E05"
+      ],
+      "documented_fact": "Peter is Randy roommate and chosen best man.",
+      "interpretation_or_limitation": "The best-man role supports personal friendship; depth and durability not quantified.",
+      "epistemic": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_C08",
+      "from_id": "lonnie_lincoln",
+      "to_id": "peter",
+      "dimension": "conflict",
+      "event_ids": [
+        "CR50_E06"
+      ],
+      "documented_fact": "Tombstone threatens Spider-Man and kidnaps Peter Parker to reach him.",
+      "interpretation_or_limitation": "The synopsis does not establish Tombstone knows Spider-Man is Peter.",
+      "epistemic": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_C09",
+      "from_id": "peter",
+      "to_id": "lonnie_lincoln",
+      "dimension": "conflict",
+      "event_ids": [
+        "CR50_E06"
+      ],
+      "documented_fact": "Spider-Man directly fights Tombstone in the 2024 finale.",
+      "interpretation_or_limitation": "An encounter-specific fight is not a permanent personal hatred claim.",
+      "epistemic": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_C10",
+      "from_id": "peter",
+      "to_id": "boomerang_fred_myers",
+      "dimension": "protection",
+      "event_ids": [
+        "CR50_E07"
+      ],
+      "documented_fact": "Spider-Man attempts to stop Kingpin from killing his roommate Boomerang.",
+      "interpretation_or_limitation": "Protective act does not establish full trust in a criminal roommate.",
+      "epistemic": "publisher_collection"
+    },
+    {
+      "id": "CR50_C11",
+      "from_id": "fisk",
+      "to_id": "boomerang_fred_myers",
+      "dimension": "coercion",
+      "event_ids": [
+        "CR50_E08"
+      ],
+      "documented_fact": "Fisk is prepared to kill Boomerang for the Lifeline Tablet.",
+      "interpretation_or_limitation": "Threat does not establish a completed killing.",
+      "epistemic": "publisher_collection"
+    },
+    {
+      "id": "CR50_C12",
+      "from_id": "silvermane_silvio_manfredi",
+      "to_id": "curt_connors",
+      "dimension": "coercion",
+      "event_ids": [
+        "CR50_E09"
+      ],
+      "documented_fact": "Marvel-hosted biography attributes Connors abduction to Silvermane.",
+      "interpretation_or_limitation": "Crowdsourced biography unverified; original issue and details pending.",
+      "epistemic": "provisional_unverified_biography"
+    },
+    {
+      "id": "CR50_C13",
+      "from_id": "fisk",
+      "to_id": "silvermane_silvio_manfredi",
+      "dimension": "coercion",
+      "event_ids": [
+        "CR50_E10"
+      ],
+      "documented_fact": "Marvel-hosted biography says Fisk controls the reanimated Silvermane with a painful collar.",
+      "interpretation_or_limitation": "Precise issue and attribution require primary verification.",
+      "epistemic": "provisional_unverified_biography"
+    },
+    {
+      "id": "CR50_C14",
+      "from_id": "cloak_tyrone_johnson",
+      "to_id": "silvermane_silvio_manfredi",
+      "dimension": "conflict",
+      "event_ids": [
+        "CR50_E11"
+      ],
+      "documented_fact": "Cloak attempts to kill Silvermane in the 1982 storyline.",
+      "interpretation_or_limitation": "No assumption that this is their permanent attitude in all eras.",
+      "epistemic": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_C15",
+      "from_id": "dagger_tandy_bowen",
+      "to_id": "silvermane_silvio_manfredi",
+      "dimension": "conflict",
+      "event_ids": [
+        "CR50_E12"
+      ],
+      "documented_fact": "Dagger attempts to kill Silvermane in the 1982 storyline.",
+      "interpretation_or_limitation": "No assumption that this is her permanent attitude in all eras.",
+      "epistemic": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_C16",
+      "from_id": "cloak_tyrone_johnson",
+      "to_id": "dagger_tandy_bowen",
+      "dimension": "cooperation",
+      "event_ids": [
+        "CR50_E13"
+      ],
+      "documented_fact": "The former partners reunite in 2018 to investigate a dangerous threat.",
+      "interpretation_or_limitation": "Partnership is not proof of uninterrupted romance.",
+      "epistemic": "publisher_collection"
+    },
+    {
+      "id": "CR50_C17",
+      "from_id": "dagger_tandy_bowen",
+      "to_id": "cloak_tyrone_johnson",
+      "dimension": "affection",
+      "event_ids": [
+        "CR50_E13"
+      ],
+      "documented_fact": "Publisher says they must confront their true feelings and former relationship.",
+      "interpretation_or_limitation": "The exact degree of reconciliation is not established by the synopsis.",
+      "epistemic": "publisher_collection"
+    },
+    {
+      "id": "CR50_C18",
+      "from_id": "madame_masque_whitney_frost",
+      "to_id": "elektra",
+      "dimension": "conflict",
+      "event_ids": [
+        "CR50_E14"
+      ],
+      "documented_fact": "Masque overpowers Elektra during the Gang War.",
+      "interpretation_or_limitation": "This is a specific confrontation, not an assumed lifelong feud.",
+      "epistemic": "publisher_issue_synopsis"
+    },
+    {
+      "id": "CR50_C19",
+      "from_id": "richard_fisk",
+      "to_id": "fisk",
+      "dimension": "conflict",
+      "event_ids": [
+        "CR50_E15"
+      ],
+      "documented_fact": "Richard plots to kill his father Wilson Fisk.",
+      "interpretation_or_limitation": "The publisher identifies the father as abusive, but individual motives require panel review.",
+      "epistemic": "publisher_editorial"
+    },
+    {
+      "id": "CR50_C20",
+      "from_id": "fisk",
+      "to_id": "richard_fisk",
+      "dimension": "family",
+      "event_ids": [
+        "CR50_E15"
+      ],
+      "documented_fact": "Richard is Wilson Fisk son.",
+      "interpretation_or_limitation": "Family status does not establish affection or mutual loyalty.",
+      "epistemic": "publisher_editorial"
+    }
+  ],
+  "warnings": [
+    "Silvermane biography explicitly warns it is crowdsourced and unverified; Connors abduction and Fisk pain-collar assertions are provisional.",
+    "Janice and Randy planned a wedding in issue #31; do not infer it was completed.",
+    "Beetle Janice Lincoln is distinct from Abner Jenkins / MACH-1.",
+    "Madame Masque Whitney Frost is distinct from Morlock Masque.",
+    "Richard Fisk / Rose is distinct from Phillip Hayes and other people using the Rose identity.",
+    "Do not infer that Tombstone knows Peter Parker is Spider-Man from the #56 synopsis.",
+    "Cloak and Dagger have multiple romantic phases; 2018 issue summary does not prove permanent reunion.",
+    "All original panels and full canonical import-schema checks remain pending."
+  ],
+  "validation": {
+    "proposed_new_people": 11,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 20,
+    "events": 17,
+    "official_marvel_urls": 15,
+    "publisher_unverified_biographies": 1,
+    "canonical_person_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "internal_references_validated": true,
+    "dimensions_in_canonical_vocabulary": true,
+    "original_panels_reviewed": false,
+    "complete_import_schema_validation": "pending",
+    "cross_batch_deduplication": "against visible prior research batches only",
+    "committed": 0
+  }
+}
