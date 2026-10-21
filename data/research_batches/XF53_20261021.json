@@ -1,0 +1,716 @@
+{
+  "batch_id": "XF53_20261021",
+  "status": "UNCOMMITTED / awaiting periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+  "community": "Mutant detective agency, families, Mojoverse and supernatural bridges",
+  "people": [
+    {
+      "id": "jamie_madrox",
+      "name": "James Arthur Madrox",
+      "identity_note": "Multiple Man; mutant detective",
+      "continuity": "Earth-616",
+      "canonical_status": "proposed_new"
+    },
+    {
+      "id": "layla_miller",
+      "name": "Layla Miller",
+      "identity_note": "Mutant precognitive; adult after time displacement",
+      "continuity": "Earth-616",
+      "canonical_status": "proposed_new"
+    },
+    {
+      "id": "rictor_julio_richter",
+      "name": "Julio Richter",
+      "identity_note": "Rictor; X-Factor and X-Force",
+      "continuity": "Earth-616",
+      "canonical_status": "proposed_new"
+    },
+    {
+      "id": "shatterstar_gaveedra_seven",
+      "name": "Gaveedra-Seven",
+      "identity_note": "Shatterstar; Mojoverse gladiator",
+      "continuity": "Earth-616",
+      "canonical_status": "proposed_new"
+    },
+    {
+      "id": "strong_guy_guido_carosella",
+      "name": "Guido Carosella",
+      "identity_note": "Strong Guy; X-Factor",
+      "continuity": "Earth-616",
+      "canonical_status": "proposed_new"
+    },
+    {
+      "id": "valerie_cooper",
+      "name": "Valerie Cooper",
+      "identity_note": "Government liaison to X-Factor",
+      "continuity": "Earth-616",
+      "canonical_status": "proposed_new"
+    },
+    {
+      "id": "damian_tryp",
+      "name": "Damian Tryp",
+      "identity_note": "Singularity Investigations; temporal antagonist",
+      "continuity": "Earth-616",
+      "canonical_status": "proposed_new"
+    },
+    {
+      "id": "tier_hrimhari_son",
+      "name": "Tier",
+      "identity_note": "Son of Rahne Sinclair and Hrimhari",
+      "continuity": "Earth-616",
+      "canonical_status": "proposed_new"
+    },
+    {
+      "id": "longshot_mojoverse",
+      "name": "Longshot",
+      "identity_note": "Mojoverse freedom fighter",
+      "continuity": "Earth-616",
+      "canonical_status": "proposed_new"
+    },
+    {
+      "id": "dazzler_alison_blaire",
+      "name": "Alison Blaire",
+      "identity_note": "Dazzler; mutant singer",
+      "continuity": "Earth-616",
+      "canonical_status": "proposed_new"
+    },
+    {
+      "id": "carter_blaire",
+      "name": "Carter Blaire",
+      "identity_note": "Judge; Alison Blaire’s father",
+      "continuity": "Earth-616",
+      "canonical_status": "proposed_new"
+    }
+  ],
+  "reused_canonical_ids": [
+    "theresa_cassidy",
+    "wolfsbane",
+    "jack_russell"
+  ],
+  "sources": [
+    {
+      "id": "XF53_20261021_S01",
+      "url": "https://www.marvel.com/characters/multiple-man",
+      "tier": "Marvel character biography; secondary"
+    },
+    {
+      "id": "XF53_20261021_S02",
+      "url": "https://www.marvel.com/characters/wolfsbane",
+      "tier": "Marvel character biography; secondary"
+    },
+    {
+      "id": "XF53_20261021_S03",
+      "url": "https://www.marvel.com/characters/dazzler-alison-blaire",
+      "tier": "Marvel character biography; secondary"
+    },
+    {
+      "id": "XF53_20261021_S04",
+      "url": "https://www.marvel.com/comics/issue/30663/x-factor_2005_208",
+      "tier": "Marvel issue synopsis; 2010"
+    },
+    {
+      "id": "XF53_20261021_S05",
+      "url": "https://www.marvel.com/comics/issue/30665/x-factor_2005_210",
+      "tier": "Marvel issue synopsis; 2010"
+    },
+    {
+      "id": "XF53_20261021_S06",
+      "url": "https://www.marvel.com/comics/issue/46768/x-factor_2005_259",
+      "tier": "Marvel issue synopsis; 2013"
+    },
+    {
+      "id": "XF53_20261021_S07",
+      "url": "https://www.marvel.com/comics/guides/766/marvel_pride",
+      "tier": "Marvel editorial guide"
+    },
+    {
+      "id": "XF53_20261021_S08",
+      "url": "https://www.marvel.com/comics/collection/93788/x-factor_by_peter_david_omnibus_vol_1_hardcover",
+      "tier": "Marvel collected-edition synopsis"
+    },
+    {
+      "id": "XF53_20261021_S09",
+      "url": "https://www.marvel.com/comics/collection/46758/x-factor_vol_21_the_end_of_x-factor_tpb_trade_paperback",
+      "tier": "Marvel collected-edition synopsis"
+    },
+    {
+      "id": "XF53_20261021_S10",
+      "url": "https://www.marvel.com/comics/issue/17376/x-factor_2005_26_variant/variant",
+      "tier": "Marvel issue synopsis; 2007"
+    },
+    {
+      "id": "XF53_20261021_S11",
+      "url": "https://www.marvel.com/teams-and-groups/x-factor",
+      "tier": "Marvel team biography; secondary"
+    }
+  ],
+  "events": [
+    {
+      "id": "XF53_20261021_E01",
+      "a": "jamie_madrox",
+      "b": "strong_guy_guido_carosella",
+      "scope": "X-Factor (1986), government-team era; later Mutant Town agency",
+      "documented_observation": "Marvel identifies Jamie and Guido as best friends with similar humor; Jamie later recruits Guido into his detective agency.",
+      "source_ids": [
+        "XF53_20261021_S01"
+      ],
+      "evidence_quality": "publisher_biography",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E02",
+      "a": "valerie_cooper",
+      "b": "jamie_madrox",
+      "scope": "X-Factor (1986) government era; X-Factor (2005) post-SHRA era",
+      "documented_observation": "Val recruits Jamie into government X-Factor, later shields his agency from retaliation for its anti-registration statement, and later pressures it to accept government work.",
+      "source_ids": [
+        "XF53_20261021_S01",
+        "XF53_20261021_S11"
+      ],
+      "evidence_quality": "publisher_biography",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E03",
+      "a": "damian_tryp",
+      "b": "jamie_madrox",
+      "scope": "Jamie childhood flashback; X-Factor (2005), Singularity Investigations arc",
+      "documented_observation": "Tryp asks Jamie’s parents to surrender the boy, then is said to cause a whirlwind killing them after they refuse; his agency later opposes Jamie’s investigations.",
+      "source_ids": [
+        "XF53_20261021_S01",
+        "XF53_20261021_S02",
+        "XF53_20261021_S08"
+      ],
+      "evidence_quality": "publisher_biography; childhood flashback exact issue pending",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E04",
+      "a": "jamie_madrox",
+      "b": "layla_miller",
+      "scope": "X-Factor (2005) #26 and later Reality-1191/adult Layla era; post-return marriage",
+      "documented_observation": "Layla travels with a Jamie duplicate to the future; later, as an adult, she and Jamie reunite romantically and ultimately marry.",
+      "source_ids": [
+        "XF53_20261021_S01",
+        "XF53_20261021_S10"
+      ],
+      "evidence_quality": "publisher_biography and issue synopsis; exact wedding issue pending",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E05",
+      "a": "jamie_madrox",
+      "b": "theresa_cassidy",
+      "scope": "Fallen Angels (1987) and X-Factor (2005), Siryn pregnancy and loss era",
+      "documented_observation": "Theresa first dates a Jamie duplicate; later she and Jamie renew a romance, she proposes marriage, and the apparent child is reabsorbed as a duplicate, causing a rupture.",
+      "source_ids": [
+        "XF53_20261021_S01"
+      ],
+      "evidence_quality": "publisher_biography; exact birth issue pending",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E06",
+      "a": "rictor_julio_richter",
+      "b": "shatterstar_gaveedra_seven",
+      "scope": "X-Factor (2005) #208 and #210 (2010)",
+      "documented_observation": "Marvel describes Rictor and Shatterstar as a couple and confirms a renewed relationship.",
+      "source_ids": [
+        "XF53_20261021_S04",
+        "XF53_20261021_S05",
+        "XF53_20261021_S07"
+      ],
+      "evidence_quality": "publisher_issue_and_editorial",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E07",
+      "a": "rictor_julio_richter",
+      "b": "wolfsbane",
+      "scope": "New Mutants (1983), late era; X-Factor (2005) #208-210 (2010)",
+      "documented_observation": "Rictor and Rahne shared a tentative earlier romance; 2010 synopses call Rictor her ex-boyfriend and describe conflict over his new relationship.",
+      "source_ids": [
+        "XF53_20261021_S02",
+        "XF53_20261021_S04",
+        "XF53_20261021_S05"
+      ],
+      "evidence_quality": "publisher_biography_and_issue_synopsis",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E08",
+      "a": "wolfsbane",
+      "b": "tier_hrimhari_son",
+      "scope": "X-Factor (2005), Tier birth and Hell on Earth War, approximately 2011-2013",
+      "documented_observation": "Rahne gives birth to Tier, later seeks him after he is raised elsewhere, and chooses to live with him.",
+      "source_ids": [
+        "XF53_20261021_S02"
+      ],
+      "evidence_quality": "publisher_biography; exact issue pending",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E09",
+      "a": "jack_russell",
+      "b": "tier_hrimhari_son",
+      "scope": "X-Factor (2005), Tier infancy and childhood",
+      "documented_observation": "Jack Russell, Werewolf by Night, finds and raises Tier before Rahne finds her son.",
+      "source_ids": [
+        "XF53_20261021_S02"
+      ],
+      "evidence_quality": "publisher_biography; exact issue pending",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E10",
+      "a": "strong_guy_guido_carosella",
+      "b": "tier_hrimhari_son",
+      "scope": "X-Factor (2005), Hell on Earth War, approximately 2013",
+      "documented_observation": "After returning from death without a soul, Guido kills Tier during the struggle over Hell and becomes King of Hell.",
+      "source_ids": [
+        "XF53_20261021_S02",
+        "XF53_20261021_S09"
+      ],
+      "evidence_quality": "publisher_biography; precise issue pending",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E11",
+      "a": "layla_miller",
+      "b": "strong_guy_guido_carosella",
+      "scope": "X-Factor (2005), pre-Hell on Earth War",
+      "documented_observation": "Layla brings Guido back from death, but he returns without a soul, preceding his killing of Tier.",
+      "source_ids": [
+        "XF53_20261021_S02"
+      ],
+      "evidence_quality": "publisher_biography; consent and causal mechanism unverified",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E12",
+      "a": "longshot_mojoverse",
+      "b": "dazzler_alison_blaire",
+      "scope": "Uncanny X-Men late 1980s; Mojoverse conflict",
+      "documented_observation": "Dazzler and Longshot become romantically involved and fight Mojo together; Marvel lists Longshot as her husband.",
+      "source_ids": [
+        "XF53_20261021_S03"
+      ],
+      "evidence_quality": "publisher_biography",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E13",
+      "a": "dazzler_alison_blaire",
+      "b": "shatterstar_gaveedra_seven",
+      "scope": "X-Factor (2005) #259, 2013 time-travel revelation",
+      "documented_observation": "Dazzler gives birth to Shatterstar; adult Shatterstar and Rictor assist at the birth, and Shatterstar conceals the child’s identity and erases the parents’ memories.",
+      "source_ids": [
+        "XF53_20261021_S03",
+        "XF53_20261021_S06",
+        "XF53_20261021_S09"
+      ],
+      "evidence_quality": "publisher_biography_and_issue_synopsis; time loop",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E14",
+      "a": "longshot_mojoverse",
+      "b": "shatterstar_gaveedra_seven",
+      "scope": "X-Factor (2005) #259, 2013 time-travel revelation",
+      "documented_observation": "Longshot is Shatterstar’s father, but Shatterstar’s time-travel intervention prevents Longshot from retaining memory of the baby.",
+      "source_ids": [
+        "XF53_20261021_S03",
+        "XF53_20261021_S06",
+        "XF53_20261021_S09"
+      ],
+      "evidence_quality": "publisher_biography_and_issue_synopsis; time loop",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "XF53_20261021_E15",
+      "a": "carter_blaire",
+      "b": "dazzler_alison_blaire",
+      "scope": "Dazzler origin and pre-law graduation, early 1980s",
+      "documented_observation": "Judge Carter Blaire wants Alison to enter law and reacts angrily when she chooses a singing career; she moves to New York.",
+      "source_ids": [
+        "XF53_20261021_S03"
+      ],
+      "evidence_quality": "publisher_biography; exact original issue pending",
+      "continuity": "Earth-616"
+    }
+  ],
+  "claims": [
+    {
+      "id": "XF53_20261021_C01",
+      "pair_id": "jamie_madrox-strong_guy_guido_carosella",
+      "from_id": "jamie_madrox",
+      "to_id": "strong_guy_guido_carosella",
+      "dimension": "friendship",
+      "event_ids": [
+        "XF53_20261021_E01"
+      ],
+      "documented_fact": "Marvel explicitly calls them best friends.",
+      "interpretation_or_limit": "Ongoing friendship is supported, but does not imply agreement on Guido’s later actions.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C02",
+      "pair_id": "jamie_madrox-strong_guy_guido_carosella",
+      "from_id": "strong_guy_guido_carosella",
+      "to_id": "jamie_madrox",
+      "dimension": "friendship",
+      "event_ids": [
+        "XF53_20261021_E01"
+      ],
+      "documented_fact": "Marvel calls their friendship mutual and notes their shared humor.",
+      "interpretation_or_limit": "Do not treat this as evidence that their relationship remained unchanged after the Hell crisis.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C03",
+      "pair_id": "jamie_madrox-valerie_cooper",
+      "from_id": "valerie_cooper",
+      "to_id": "jamie_madrox",
+      "dimension": "authority",
+      "event_ids": [
+        "XF53_20261021_E02"
+      ],
+      "documented_fact": "Val recruits Jamie into government X-Factor.",
+      "interpretation_or_limit": "Authority is limited to the government-sponsored team era, not his later private agency.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C04",
+      "pair_id": "jamie_madrox-valerie_cooper",
+      "from_id": "valerie_cooper",
+      "to_id": "jamie_madrox",
+      "dimension": "influence",
+      "event_ids": [
+        "XF53_20261021_E02"
+      ],
+      "documented_fact": "Val shields X-Factor from retaliation conditionally, then presses for selected government work.",
+      "interpretation_or_limit": "Political leverage is documented; absolute control is not.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C05",
+      "pair_id": "damian_tryp-jamie_madrox",
+      "from_id": "damian_tryp",
+      "to_id": "jamie_madrox",
+      "dimension": "coercion",
+      "event_ids": [
+        "XF53_20261021_E03"
+      ],
+      "documented_fact": "Tryp seeks custody of young Jamie and his agency later obstructs Jamie’s investigation.",
+      "interpretation_or_limit": "The lethal whirlwind attribution is publisher-secondary and exact flashback issue is pending.",
+      "epistemic": "publisher_secondary_qualified",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C06",
+      "pair_id": "jamie_madrox-layla_miller",
+      "from_id": "jamie_madrox",
+      "to_id": "layla_miller",
+      "dimension": "romance",
+      "event_ids": [
+        "XF53_20261021_E04"
+      ],
+      "documented_fact": "Marvel describes adult Jamie and adult Layla kissing and later marrying.",
+      "interpretation_or_limit": "This claim is restricted to adult Layla; she initially joined X-Factor at age fourteen.",
+      "epistemic": "publisher_secondary_qualified",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C07",
+      "pair_id": "jamie_madrox-layla_miller",
+      "from_id": "layla_miller",
+      "to_id": "jamie_madrox",
+      "dimension": "romance",
+      "event_ids": [
+        "XF53_20261021_E04"
+      ],
+      "documented_fact": "Marvel describes their adult reunion and eventual marriage.",
+      "interpretation_or_limit": "Do not project adult romantic feelings backward onto her childhood membership.",
+      "epistemic": "publisher_secondary_qualified",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C08",
+      "pair_id": "jamie_madrox-theresa_cassidy",
+      "from_id": "jamie_madrox",
+      "to_id": "theresa_cassidy",
+      "dimension": "romance",
+      "event_ids": [
+        "XF53_20261021_E05"
+      ],
+      "documented_fact": "Jamie and Theresa renew a romantic relationship and accept a marriage proposal.",
+      "interpretation_or_limit": "Earlier Siryn dated a dupe; duplicate memories are not identical to Jamie’s feelings.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C09",
+      "pair_id": "jamie_madrox-theresa_cassidy",
+      "from_id": "theresa_cassidy",
+      "to_id": "jamie_madrox",
+      "dimension": "trust",
+      "event_ids": [
+        "XF53_20261021_E05"
+      ],
+      "documented_fact": "Theresa angrily rejects Jamie after he inadvertently reabsorbs their infant, who was a duplicate.",
+      "interpretation_or_limit": "The rejection is documented; do not imply he knowingly intended to harm the baby.",
+      "epistemic": "publisher_secondary_qualified",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C10",
+      "pair_id": "rictor_julio_richter-shatterstar_gaveedra_seven",
+      "from_id": "rictor_julio_richter",
+      "to_id": "shatterstar_gaveedra_seven",
+      "dimension": "romance",
+      "event_ids": [
+        "XF53_20261021_E06"
+      ],
+      "documented_fact": "Marvel describes them as a couple in 2010.",
+      "interpretation_or_limit": "2010 status is documented; no claim about their current status.",
+      "epistemic": "publisher_issue_synopsis",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C11",
+      "pair_id": "rictor_julio_richter-shatterstar_gaveedra_seven",
+      "from_id": "shatterstar_gaveedra_seven",
+      "to_id": "rictor_julio_richter",
+      "dimension": "romance",
+      "event_ids": [
+        "XF53_20261021_E06"
+      ],
+      "documented_fact": "Marvel describes their renewed relationship.",
+      "interpretation_or_limit": "Reciprocal relationship supported; private emotional intensity not measured.",
+      "epistemic": "publisher_editorial",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C12",
+      "pair_id": "rictor_julio_richter-wolfsbane",
+      "from_id": "rictor_julio_richter",
+      "to_id": "wolfsbane",
+      "dimension": "romance",
+      "event_ids": [
+        "XF53_20261021_E07"
+      ],
+      "documented_fact": "Marvel identifies Rictor as Rahne’s former boyfriend.",
+      "interpretation_or_limit": "Historical relationship, not a 2010 simultaneous romance.",
+      "epistemic": "publisher_issue_synopsis",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C13",
+      "pair_id": "rictor_julio_richter-wolfsbane",
+      "from_id": "wolfsbane",
+      "to_id": "rictor_julio_richter",
+      "dimension": "romance",
+      "event_ids": [
+        "XF53_20261021_E07"
+      ],
+      "documented_fact": "Marvel documents Rahne’s earlier tentative romantic relationship with Rictor.",
+      "interpretation_or_limit": "Its earlier physical scope was limited, and it ended before his Shatterstar relationship.",
+      "epistemic": "publisher_biography",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C14",
+      "pair_id": "tier_hrimhari_son-wolfsbane",
+      "from_id": "wolfsbane",
+      "to_id": "tier_hrimhari_son",
+      "dimension": "family",
+      "event_ids": [
+        "XF53_20261021_E08"
+      ],
+      "documented_fact": "Rahne gives birth to Tier and later searches for him.",
+      "interpretation_or_limit": "Parentage is established; periods of separation do not prove lack of care.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C15",
+      "pair_id": "jack_russell-tier_hrimhari_son",
+      "from_id": "jack_russell",
+      "to_id": "tier_hrimhari_son",
+      "dimension": "protection",
+      "event_ids": [
+        "XF53_20261021_E09"
+      ],
+      "documented_fact": "Jack Russell raises Tier after finding him.",
+      "interpretation_or_limit": "Caregiving is documented; formal legal adoption is not.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C16",
+      "pair_id": "strong_guy_guido_carosella-tier_hrimhari_son",
+      "from_id": "strong_guy_guido_carosella",
+      "to_id": "tier_hrimhari_son",
+      "dimension": "conflict",
+      "event_ids": [
+        "XF53_20261021_E10"
+      ],
+      "documented_fact": "Guido kills Tier during the Hell conflict.",
+      "interpretation_or_limit": "A lethal act; motive, free will and soul-loss mechanism need panels.",
+      "epistemic": "publisher_secondary_qualified",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C17",
+      "pair_id": "layla_miller-strong_guy_guido_carosella",
+      "from_id": "layla_miller",
+      "to_id": "strong_guy_guido_carosella",
+      "dimension": "influence",
+      "event_ids": [
+        "XF53_20261021_E11"
+      ],
+      "documented_fact": "Layla resurrects Guido without his soul.",
+      "interpretation_or_limit": "Outcome is documented; deliberate intention to withhold the soul is not established.",
+      "epistemic": "publisher_secondary_qualified",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C18",
+      "pair_id": "dazzler_alison_blaire-longshot_mojoverse",
+      "from_id": "longshot_mojoverse",
+      "to_id": "dazzler_alison_blaire",
+      "dimension": "romance",
+      "event_ids": [
+        "XF53_20261021_E12"
+      ],
+      "documented_fact": "Longshot and Dazzler become partners; Marvel lists him as her husband.",
+      "interpretation_or_limit": "Historical romantic bond, not proof of uninterrupted cohabitation.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C19",
+      "pair_id": "dazzler_alison_blaire-longshot_mojoverse",
+      "from_id": "dazzler_alison_blaire",
+      "to_id": "longshot_mojoverse",
+      "dimension": "romance",
+      "event_ids": [
+        "XF53_20261021_E12"
+      ],
+      "documented_fact": "Dazzler develops feelings for Longshot and they become a couple.",
+      "interpretation_or_limit": "Memory alterations complicate their later recollection, not their historical bond.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C20",
+      "pair_id": "dazzler_alison_blaire-shatterstar_gaveedra_seven",
+      "from_id": "dazzler_alison_blaire",
+      "to_id": "shatterstar_gaveedra_seven",
+      "dimension": "family",
+      "event_ids": [
+        "XF53_20261021_E13"
+      ],
+      "documented_fact": "Dazzler gives birth to Shatterstar.",
+      "interpretation_or_limit": "Temporal paradox; she did not retain memory of the birth after intervention.",
+      "epistemic": "publisher_secondary_qualified",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C21",
+      "pair_id": "longshot_mojoverse-shatterstar_gaveedra_seven",
+      "from_id": "longshot_mojoverse",
+      "to_id": "shatterstar_gaveedra_seven",
+      "dimension": "family",
+      "event_ids": [
+        "XF53_20261021_E14"
+      ],
+      "documented_fact": "Longshot is identified as Shatterstar’s father.",
+      "interpretation_or_limit": "Biological relationship does not imply contemporaneous awareness or upbringing.",
+      "epistemic": "publisher_secondary_qualified",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C22",
+      "pair_id": "carter_blaire-dazzler_alison_blaire",
+      "from_id": "carter_blaire",
+      "to_id": "dazzler_alison_blaire",
+      "dimension": "influence",
+      "event_ids": [
+        "XF53_20261021_E15"
+      ],
+      "documented_fact": "Carter presses Alison toward law rather than a singing career.",
+      "interpretation_or_limit": "Parental pressure is documented; lifelong estrangement is not.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    },
+    {
+      "id": "XF53_20261021_C23",
+      "pair_id": "carter_blaire-dazzler_alison_blaire",
+      "from_id": "dazzler_alison_blaire",
+      "to_id": "carter_blaire",
+      "dimension": "conflict",
+      "event_ids": [
+        "XF53_20261021_E15"
+      ],
+      "documented_fact": "Alison tells Carter she will pursue music, contrary to his wishes, and leaves home.",
+      "interpretation_or_limit": "Career disagreement is event-scoped; does not establish enduring hatred.",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616",
+      "review_status": "publisher summary; original panels not independently reviewed"
+    }
+  ],
+  "warnings": [
+    "Jamie Madrox duplicates can have independent lives and memory asymmetries; do not automatically assign a dupe’s actions to Jamie.",
+    "Jamie–Layla romance is recorded only for the adult Layla after time displacement; no romantic claim is made about her as a 14-year-old recruit.",
+    "Shatterstar is the child of Dazzler and Longshot through a time loop; both parents’ memories were altered.",
+    "Guido’s resurrection without a soul is documented, but Layla’s intent and full causal mechanism are not verified from panels.",
+    "Guido kills Tier; do not infer a permanent disposition toward all children or unconditional moral blame without panels.",
+    "Carter Blaire and Alison’s conflict concerns her early career decision; no perpetual estrangement is established.",
+    "Several issue-specific placements are approximate, and all detailed biographies are publisher-secondary.",
+    "Cross-batch deduplication against unpublished batches is not exhaustive."
+  ],
+  "validation": {
+    "proposed_new_people": 11,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 23,
+    "events": 15,
+    "official_marvel_sources": 11,
+    "internal_references_validated": true,
+    "canonical_person_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "original_panels_reviewed": false,
+    "full_import_schema_test": "pending",
+    "committed": 0,
+    "canonical_snapshot_people": 305,
+    "canonical_snapshot_events": 454,
+    "canonical_snapshot_claims": 535
+  }
+}
