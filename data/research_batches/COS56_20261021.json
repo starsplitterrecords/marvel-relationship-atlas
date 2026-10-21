@@ -1,0 +1,566 @@
+{
+  "batch_id": "COS56_20261021",
+  "status": "UNCOMMITTED / awaiting user periodic manual GitHub merge",
+  "continuity": "Earth-616",
+  "canonical_blob_sha": "a2ee5513006e08b6cedd9a453895fa4d8f7d1041",
+  "reused_canonical_ids": [
+    "gamora",
+    "rocket",
+    "richard",
+    "wendell",
+    "gilbert"
+  ],
+  "people": [
+    {
+      "id": "sam_alexander_nova",
+      "name": "Sam Alexander",
+      "identity_note": "Nova; teenage Earth-616 hero, distinct from Richard Rider"
+    },
+    {
+      "id": "jesse_alexander",
+      "name": "Jesse Alexander",
+      "identity_note": "Sam Alexander’s father; former Nova"
+    },
+    {
+      "id": "rhomann_dey",
+      "name": "Rhomann Dey",
+      "identity_note": "Xandarian Nova Centurion who empowers Richard Rider; distinguish film depiction"
+    },
+    {
+      "id": "lisa_vaughn",
+      "name": "Lisa Vaughn",
+      "identity_note": "Wendell Vaughn’s mother; librarian"
+    },
+    {
+      "id": "jeannine_oconnell",
+      "name": "Jeannine O’Connell",
+      "identity_note": "Project PEGASUS psychotherapist; Wendell’s former fiancée"
+    },
+    {
+      "id": "eon_cosmic",
+      "name": "Eon",
+      "identity_note": "Cosmic entity who chooses Protectors of the Universe"
+    },
+    {
+      "id": "epoch_cosmic",
+      "name": "Epoch",
+      "identity_note": "Eon’s cosmic offspring; Wendell’s godchild"
+    },
+    {
+      "id": "deathurge_cosmic",
+      "name": "Deathurge",
+      "identity_note": "Mercy-killing cosmic entity"
+    },
+    {
+      "id": "maelstrom_cosmic",
+      "name": "Maelstrom",
+      "identity_note": "Cosmic assassin; not the similarly named mutant"
+    },
+    {
+      "id": "oblivion_cosmic",
+      "name": "Oblivion",
+      "identity_note": "Abstract cosmic entity personifying nonexistence"
+    }
+  ],
+  "sources": [
+    {
+      "id": "COS56_S01",
+      "url": "https://www.marvel.com/characters/quasar-wendell-vaughn",
+      "title": "Marvel official character history",
+      "tier": "publisher_biography"
+    },
+    {
+      "id": "COS56_S02",
+      "url": "https://www.marvel.com/comics/issue/18895/quasar_1989_1",
+      "title": "Quasar (1989) #1",
+      "tier": "publisher_issue_metadata"
+    },
+    {
+      "id": "COS56_S03",
+      "url": "https://www.marvel.com/comics/issue/18909/quasar_1989_22",
+      "title": "Quasar (1989) #22",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "COS56_S04",
+      "url": "https://www.marvel.com/comics/issue/18913",
+      "title": "Quasar (1989) #26",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "COS56_S05",
+      "url": "https://www.marvel.com/comics/issue/18914/quasar_1989_27",
+      "title": "Quasar (1989) #27",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "COS56_S06",
+      "url": "https://www.marvel.com/comics/issue/23363/read",
+      "title": "Nova (1976) #1",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "COS56_S07",
+      "url": "https://www.marvel.com/comics/collection/48128/",
+      "title": "Nova Vol. 1: Origin (2013 #1–5)",
+      "tier": "publisher_collection_synopsis"
+    },
+    {
+      "id": "COS56_S08",
+      "url": "https://www.marvel.com/comics/issue/57045/nova",
+      "title": "Nova (2015) #5",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "COS56_S09",
+      "url": "https://www.marvel.com/comics/issue/61634/",
+      "title": "Nova (2016) #3",
+      "tier": "publisher_issue_synopsis"
+    },
+    {
+      "id": "COS56_S10",
+      "url": "https://www.marvel.com/comics/series/16411/nova_2012_-_present",
+      "title": "Nova (2013–2015) series overview",
+      "tier": "publisher_series_synopsis"
+    },
+    {
+      "id": "COS56_S11",
+      "url": "https://www.comics.org/issue/898597/",
+      "title": "Grand Comics Database Quasar #2 issue synopsis",
+      "tier": "independent_issue_index"
+    },
+    {
+      "id": "COS56_S12",
+      "url": "https://comicvine.gamespot.com/rhomann-dey/4005-35603/",
+      "title": "Rhomann Dey biography (non-publisher)",
+      "tier": "independent_character_summary"
+    },
+    {
+      "id": "COS56_S13",
+      "url": "https://comicsalliance.com/loveness-perez-nova-1/",
+      "title": "Sam/Richard Nova series announcement",
+      "tier": "independent_editorial"
+    }
+  ],
+  "events": [
+    {
+      "id": "COS56_E01",
+      "a": "sam_alexander_nova",
+      "b": "jesse_alexander",
+      "scope": "Nova (2013) #1; Nova (2015) #5, Earth-616",
+      "documented_observation": "Sam initially regards Jesse’s Nova Corps tales as implausible; later pursues clues to his missing father.",
+      "source_ids": [
+        "COS56_S07",
+        "COS56_S08",
+        "COS56_S10"
+      ],
+      "quality": "publisher_summary"
+    },
+    {
+      "id": "COS56_E02",
+      "a": "gamora",
+      "b": "sam_alexander_nova",
+      "scope": "Nova (2013) #1–5, Earth-616",
+      "documented_observation": "Gamora trains the young Sam Alexander after he gains the Nova helmet.",
+      "source_ids": [
+        "COS56_S07"
+      ],
+      "quality": "publisher_collection_summary"
+    },
+    {
+      "id": "COS56_E03",
+      "a": "rocket",
+      "b": "sam_alexander_nova",
+      "scope": "Nova (2013) #1–5, Earth-616",
+      "documented_observation": "Rocket Raccoon trains Sam alongside Gamora.",
+      "source_ids": [
+        "COS56_S07"
+      ],
+      "quality": "publisher_collection_summary"
+    },
+    {
+      "id": "COS56_E04",
+      "a": "richard",
+      "b": "sam_alexander_nova",
+      "scope": "Nova (2016) #1–3, Earth-616",
+      "documented_observation": "Richard Rider returns and his homecoming affects Sam; a contemporaneous report describes the two Novas teaming up.",
+      "source_ids": [
+        "COS56_S09",
+        "COS56_S13"
+      ],
+      "quality": "publisher_plus_independent; cooperation provisional"
+    },
+    {
+      "id": "COS56_E05",
+      "a": "rhomann_dey",
+      "b": "richard",
+      "scope": "Nova (1976) #1, Earth-616",
+      "documented_observation": "Richard receives the powers of a Nova Centurion. Independent character history identifies the donor as Rhomann Dey.",
+      "source_ids": [
+        "COS56_S06",
+        "COS56_S12"
+      ],
+      "quality": "publisher_origin_plus_independent_identity"
+    },
+    {
+      "id": "COS56_E06",
+      "a": "lisa_vaughn",
+      "b": "wendell",
+      "scope": "Quasar (1989) #1–2 retrospective, Earth-616",
+      "documented_observation": "After Wendell withdraws from work, Lisa pressures Gilbert to help him; Gilbert provides guidance for his Uranus journey.",
+      "source_ids": [
+        "COS56_S01",
+        "COS56_S11"
+      ],
+      "quality": "publisher_biography"
+    },
+    {
+      "id": "COS56_E07",
+      "a": "lisa_vaughn",
+      "b": "gilbert",
+      "scope": "Wendell’s upbringing, recounted in Quasar (1989) era, Earth-616",
+      "documented_observation": "Lisa divorces Gilbert after his workaholic emotional distance strains their marriage.",
+      "source_ids": [
+        "COS56_S01"
+      ],
+      "quality": "publisher_biography"
+    },
+    {
+      "id": "COS56_E08",
+      "a": "jeannine_oconnell",
+      "b": "wendell",
+      "scope": "Project PEGASUS period before Quasar (1989), Earth-616",
+      "documented_observation": "Wendell and PEGASUS psychotherapist Jeannine O’Connell become engaged, then break up.",
+      "source_ids": [
+        "COS56_S01"
+      ],
+      "quality": "publisher_biography; exact issue pending"
+    },
+    {
+      "id": "COS56_E09",
+      "a": "eon_cosmic",
+      "b": "wendell",
+      "scope": "Quasar (1989) #2, Earth-616",
+      "documented_observation": "Eon rescues Wendell from Deathurge, explains the Quantum Bands, and appoints him Protector of the Universe; Wendell accepts a duty to guard Eon.",
+      "source_ids": [
+        "COS56_S01",
+        "COS56_S11"
+      ],
+      "quality": "publisher_biography_plus_issue_index"
+    },
+    {
+      "id": "COS56_E10",
+      "a": "eon_cosmic",
+      "b": "epoch_cosmic",
+      "scope": "Quasar (1989) #26–29, Earth-616",
+      "documented_observation": "Epoch is born as Eon’s offspring after Eon’s death.",
+      "source_ids": [
+        "COS56_S01",
+        "COS56_S04",
+        "COS56_S05"
+      ],
+      "quality": "publisher_biography; precise birth panel pending"
+    },
+    {
+      "id": "COS56_E11",
+      "a": "wendell",
+      "b": "epoch_cosmic",
+      "scope": "Quasar (1989) #27–29, Earth-616",
+      "documented_observation": "Wendell assists Epoch’s birth and becomes her godfather, guardian, and guide.",
+      "source_ids": [
+        "COS56_S01",
+        "COS56_S05"
+      ],
+      "quality": "publisher_biography; precise panel pending"
+    },
+    {
+      "id": "COS56_E12",
+      "a": "deathurge_cosmic",
+      "b": "wendell",
+      "scope": "Quasar (1989) #2, Earth-616",
+      "documented_observation": "Deathurge tries to kill the despondent Wendell on Uranus; Eon intervenes.",
+      "source_ids": [
+        "COS56_S01",
+        "COS56_S11"
+      ],
+      "quality": "publisher_biography_plus_issue_index"
+    },
+    {
+      "id": "COS56_E13",
+      "a": "maelstrom_cosmic",
+      "b": "eon_cosmic",
+      "scope": "Quasar (1989) #20–26, Earth-616",
+      "documented_observation": "Maelstrom attacks and kills Eon in his campaign to acquire cosmic awareness.",
+      "source_ids": [
+        "COS56_S01",
+        "COS56_S03",
+        "COS56_S04"
+      ],
+      "quality": "publisher_biography; issue arc scoped"
+    },
+    {
+      "id": "COS56_E14",
+      "a": "maelstrom_cosmic",
+      "b": "gilbert",
+      "scope": "Quasar (1989) #20–25, Earth-616",
+      "documented_observation": "Maelstrom kills Gilbert Vaughn during the cosmic-assassin storyline.",
+      "source_ids": [
+        "COS56_S01",
+        "COS56_S03"
+      ],
+      "quality": "publisher_biography; exact issue pending"
+    },
+    {
+      "id": "COS56_E15",
+      "a": "oblivion_cosmic",
+      "b": "maelstrom_cosmic",
+      "scope": "Quasar (1989) #18–25, Earth-616",
+      "documented_observation": "Oblivion backs Maelstrom as its champion in the attempt to collapse existence.",
+      "source_ids": [
+        "COS56_S01",
+        "COS56_S03"
+      ],
+      "quality": "publisher_biography; precise issue pending"
+    }
+  ],
+  "claims": [
+    {
+      "id": "COS56_C01",
+      "from_id": "jesse_alexander",
+      "to_id": "sam_alexander_nova",
+      "dimension": "family",
+      "event_id": "COS56_E01",
+      "documented_fact": "Jesse is Sam’s father.",
+      "interpretation_or_limit": "His earlier stories were doubted by Sam; kinship does not establish trust.",
+      "scope": "Nova (2013) #1; Nova (2015) #5, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C02",
+      "from_id": "sam_alexander_nova",
+      "to_id": "jesse_alexander",
+      "dimension": "family",
+      "event_id": "COS56_E01",
+      "documented_fact": "Sam searches for his missing father.",
+      "interpretation_or_limit": "A search demonstrates concern, not a settled evaluation of Jesse’s reliability.",
+      "scope": "Nova (2013) #1; Nova (2015) #5, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C03",
+      "from_id": "gamora",
+      "to_id": "sam_alexander_nova",
+      "dimension": "mentorship",
+      "event_id": "COS56_E02",
+      "documented_fact": "Gamora trains Sam to use his new Nova abilities.",
+      "interpretation_or_limit": "Training does not prove an ongoing parent-like bond.",
+      "scope": "Nova (2013) #1–5, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C04",
+      "from_id": "rocket",
+      "to_id": "sam_alexander_nova",
+      "dimension": "mentorship",
+      "event_id": "COS56_E03",
+      "documented_fact": "Rocket helps train Sam.",
+      "interpretation_or_limit": "Do not infer identical teaching styles or affection to Gamora.",
+      "scope": "Nova (2013) #1–5, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C05",
+      "from_id": "richard",
+      "to_id": "sam_alexander_nova",
+      "dimension": "cooperation",
+      "event_id": "COS56_E04",
+      "documented_fact": "The two Novas team up following Richard’s return, according to contemporaneous reporting.",
+      "interpretation_or_limit": "Official #3 synopsis confirms the return, not the detailed cooperative scene; provisional.",
+      "scope": "Nova (2016) #1–3, Earth-616",
+      "epistemic": "qualified_mixed_sources",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C06",
+      "from_id": "rhomann_dey",
+      "to_id": "richard",
+      "dimension": "influence",
+      "event_id": "COS56_E05",
+      "documented_fact": "Rhomann transfers the Nova legacy to Richard.",
+      "interpretation_or_limit": "This is a one-time transfer, not evidence of sustained in-person mentorship; donor identity corroborated independently.",
+      "scope": "Nova (1976) #1, Earth-616",
+      "epistemic": "qualified_mixed_sources",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C07",
+      "from_id": "lisa_vaughn",
+      "to_id": "wendell",
+      "dimension": "protection",
+      "event_id": "COS56_E06",
+      "documented_fact": "Lisa advocates for practical support from Gilbert when Wendell withdraws.",
+      "interpretation_or_limit": "A family support act, not proof of all later feelings.",
+      "scope": "Quasar (1989) #1–2 retrospective, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C08",
+      "from_id": "lisa_vaughn",
+      "to_id": "gilbert",
+      "dimension": "conflict",
+      "event_id": "COS56_E07",
+      "documented_fact": "Lisa divorces Gilbert over sustained marital estrangement.",
+      "interpretation_or_limit": "Marriage dissolution, not a claim of hatred.",
+      "scope": "Wendell’s upbringing, recounted in Quasar (1989) era, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C09",
+      "from_id": "jeannine_oconnell",
+      "to_id": "wendell",
+      "dimension": "romance",
+      "event_id": "COS56_E08",
+      "documented_fact": "Jeannine and Wendell were engaged.",
+      "interpretation_or_limit": "Historical romance; no claim of ongoing relationship.",
+      "scope": "Project PEGASUS period before Quasar (1989), Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C10",
+      "from_id": "wendell",
+      "to_id": "jeannine_oconnell",
+      "dimension": "romance",
+      "event_id": "COS56_E08",
+      "documented_fact": "Wendell and Jeannine were engaged, then separated.",
+      "interpretation_or_limit": "Reciprocal commitment within this period only.",
+      "scope": "Project PEGASUS period before Quasar (1989), Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C11",
+      "from_id": "eon_cosmic",
+      "to_id": "wendell",
+      "dimension": "mentorship",
+      "event_id": "COS56_E09",
+      "documented_fact": "Eon teaches Wendell about the bands and appoints him Protector.",
+      "interpretation_or_limit": "Guidance and appointment, not unconditional approval.",
+      "scope": "Quasar (1989) #2, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C12",
+      "from_id": "wendell",
+      "to_id": "eon_cosmic",
+      "dimension": "protection",
+      "event_id": "COS56_E09",
+      "documented_fact": "Wendell accepts Eon’s bodyguard charge.",
+      "interpretation_or_limit": "Duty is documented; personal affection is not established.",
+      "scope": "Quasar (1989) #2, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C13",
+      "from_id": "eon_cosmic",
+      "to_id": "epoch_cosmic",
+      "dimension": "family",
+      "event_id": "COS56_E10",
+      "documented_fact": "Epoch is Eon’s offspring.",
+      "interpretation_or_limit": "Cosmic parentage is not equivalent to human upbringing.",
+      "scope": "Quasar (1989) #26–29, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C14",
+      "from_id": "wendell",
+      "to_id": "epoch_cosmic",
+      "dimension": "protection",
+      "event_id": "COS56_E11",
+      "documented_fact": "Wendell becomes Epoch’s godfather and guardian.",
+      "interpretation_or_limit": "Documented guardian role, not biological paternity.",
+      "scope": "Quasar (1989) #27–29, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C15",
+      "from_id": "deathurge_cosmic",
+      "to_id": "wendell",
+      "dimension": "conflict",
+      "event_id": "COS56_E12",
+      "documented_fact": "Deathurge attempts to kill Wendell.",
+      "interpretation_or_limit": "One encounter; not evidence of continuous personal animosity.",
+      "scope": "Quasar (1989) #2, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C16",
+      "from_id": "maelstrom_cosmic",
+      "to_id": "eon_cosmic",
+      "dimension": "conflict",
+      "event_id": "COS56_E13",
+      "documented_fact": "Maelstrom kills Eon.",
+      "interpretation_or_limit": "A targeted cosmic-assassin act; motive should not be expanded beyond sourced account.",
+      "scope": "Quasar (1989) #20–26, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C17",
+      "from_id": "maelstrom_cosmic",
+      "to_id": "gilbert",
+      "dimension": "conflict",
+      "event_id": "COS56_E14",
+      "documented_fact": "Maelstrom kills Gilbert.",
+      "interpretation_or_limit": "Lethal conflict; not a documented pre-existing rivalry.",
+      "scope": "Quasar (1989) #20–25, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS56_C18",
+      "from_id": "oblivion_cosmic",
+      "to_id": "maelstrom_cosmic",
+      "dimension": "cooperation",
+      "event_id": "COS56_E15",
+      "documented_fact": "Oblivion backs Maelstrom as its champion.",
+      "interpretation_or_limit": "Instrumental cosmic patronage, not friendship.",
+      "scope": "Quasar (1989) #18–25, Earth-616",
+      "epistemic": "publisher_secondary",
+      "continuity": "Earth-616"
+    }
+  ],
+  "warnings": [
+    "Marvel character history is a publisher secondary account; original panels not independently examined.",
+    "Rhomann Dey donor identity is established through independent character summary plus Marvel Nova #1; official issue synopsis does not name him.",
+    "Richard–Sam cooperation is independently described; Marvel issue #3 confirms return but not specific team-up actions.",
+    "The Jeannine engagement and Gilbert murder have publisher-biography support, but exact original issues remain unresolved.",
+    "Quasar (1989) is Earth-616; do not import alternate-reality stories mentioned in broad biographies."
+  ],
+  "validation": {
+    "proposed_new_people": 10,
+    "unique_unordered_pairs": 15,
+    "directed_assessments": 18,
+    "events": 15,
+    "official_marvel_sources": 10,
+    "independent_sources": 3,
+    "canonical_person_id_collisions": 0,
+    "canonical_pair_collisions": 0,
+    "internal_ids_unique": true,
+    "internal_cross_references_valid": true,
+    "original_panels_reviewed": false,
+    "full_application_import_schema_test": "pending",
+    "committed": 0
+  }
+}
