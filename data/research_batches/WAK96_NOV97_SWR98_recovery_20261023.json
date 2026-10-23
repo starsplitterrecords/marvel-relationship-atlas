@@ -1,0 +1,124 @@
+{
+  "status": "UNMERGED_RESEARCH_ARCHIVE",
+  "date": "2026-10-23",
+  "note": "Preserves proposed directional assessments from chat batches WAK96 NOV97 SWR98. NOT a canonical merge; source-to-event mappings and identity deduplication need verification before import.",
+  "batches": [
+    {
+      "batch": "WAK96",
+      "people": [
+        "Hunter",
+        "T'Chaka",
+        "Erik Killmonger",
+        "Klaw",
+        "Kasper Cole",
+        "Everett Ross",
+        "M'Baku",
+        "Achebe",
+        "Madam Slay",
+        "Sam Wilson"
+      ],
+      "pairs": [
+        "T'Chaka>Hunter:family",
+        "Hunter>Ramonda:friendship",
+        "Hunter>T'Challa:coercion",
+        "T'Challa>Hunter:authority",
+        "Hunter>Kasper Cole:influence",
+        "Hunter>Sam Wilson:conflict",
+        "Sam Wilson>Hunter:conflict",
+        "Hunter>Klaw:influence",
+        "Everett Ross>Hunter:authority",
+        "Killmonger>T'Challa:conflict",
+        "T'Challa>Killmonger:conflict",
+        "Killmonger>Shuri:coercion",
+        "Killmonger>Kasper Cole:influence",
+        "Kasper Cole>Killmonger:cooperation",
+        "Killmonger>Madam Slay:cooperation",
+        "Madam Slay>Killmonger:cooperation",
+        "Klaw>T'Chaka:conflict",
+        "M'Baku>T'Challa:conflict",
+        "Achebe>T'Challa:coercion",
+        "T'Challa>Kasper Cole:mentorship",
+        "Hunter>T'Chaka:affection"
+      ],
+      "sources": [
+        "https://www.marvel.com/articles/comics/white-wolf-hunter-black-panther-brother-explained",
+        "https://www.marvel.com/articles/comics/black-panther-s-pride-kasper-cole"
+      ]
+    },
+    {
+      "batch": "NOV97",
+      "people": [
+        "Sam Alexander",
+        "Jesse Alexander",
+        "Robert Rider",
+        "Evelyn Necker",
+        "Annihilus",
+        "The Sphinx",
+        "Rhino",
+        "Darkhawk"
+      ],
+      "pairs": [
+        "Jesse Alexander>Sam Alexander:family",
+        "Gamora>Sam Alexander:mentorship",
+        "Rocket>Sam Alexander:mentorship",
+        "Sam Alexander>Richard Rider:conflict",
+        "Robert Rider>Richard Rider:family",
+        "Robert Rider>Quasar:protection",
+        "Evelyn Necker>Quasar:protection",
+        "Drax>Richard Rider:mentorship",
+        "Annihilus>Richard Rider:conflict",
+        "Richard Rider>Annihilus:cooperation",
+        "Sphinx>Richard Rider:conflict",
+        "Richard Rider>Peter Parker:cooperation",
+        "Richard Rider>Rhino:conflict",
+        "Richard Rider>Darkhawk:cooperation"
+      ],
+      "sources": [
+        "https://www.marvel.com/comics/collection/48128/",
+        "https://www.marvel.com/characters/quasar-wendell-vaughn"
+      ]
+    },
+    {
+      "batch": "SWR98",
+      "people": [
+        "Elena Rodriguez",
+        "Jerry Sledge",
+        "Carl Creel",
+        "Eden Fesi",
+        "Gateway",
+        "Sebastian Druid",
+        "Doctor Druid",
+        "James Taylor Slade",
+        "Alexander Aaron",
+        "Ares",
+        "Tomi Shishido",
+        "Kamala Khan"
+      ],
+      "pairs": [
+        "Tomi Shishido>Elena Rodriguez:conflict",
+        "Carl Creel>Jerry Sledge:family",
+        "Jerry Sledge>Carl Creel:conflict",
+        "Gateway>Eden Fesi:mentorship",
+        "Doctor Druid>Sebastian Druid:family",
+        "James Taylor Slade>Daisy Johnson:romance",
+        "James Taylor Slade>Nick Fury:conflict",
+        "James Taylor Slade>Nick Fury:betrayal",
+        "James Taylor Slade>Strucker:cooperation",
+        "Ares>Alexander Aaron:family",
+        "Ares>Nick Fury:conflict",
+        "Nick Fury>Ares:professional",
+        "Daisy Johnson>Kamala Khan:ideology",
+        "Kamala Khan>Daisy Johnson:ideology",
+        "Rogue>Eden Fesi:coercion",
+        "Medusa>Kamala Khan:authority",
+        "Emma Frost>Kamala Khan:protection",
+        "Kamala Khan>Carol Danvers:conflict",
+        "Nick Fury>Elena Rodriguez:professional"
+      ],
+      "sources": [
+        "https://www.marvel.com/comics/guides/364/_deeplink",
+        "https://www.marvel.com/characters/rogue/in-comics"
+      ]
+    }
+  ]
+}
