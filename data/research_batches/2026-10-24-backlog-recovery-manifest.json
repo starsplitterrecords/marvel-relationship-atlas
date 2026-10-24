@@ -1,0 +1,98 @@
+{
+  "status": "PARTIAL_RECOVERY_UNMERGED",
+  "created_at": "2026-10-24",
+  "canonical_reference_blob_sha": "dc971d6a5c18ba4efb7916fd6a1ff73c0131182a",
+  "purpose": "Inventory prior chat research batches for complete manual reconciliation. This is not a canonical merge. No person or relationship additions are claimed.",
+  "batches": [
+    {
+      "batch_id": "LAT91",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "CIV92",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "IM93",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "MOR94",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "BLD95",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "WAK96",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "NOV97",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "SWR98",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "MR102",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "ESP103",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "PP104",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "SJ105",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "SS106",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "WW107",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "NM108",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "AT109",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    },
+    {
+      "batch_id": "AI110",
+      "canonical_merge": "NOT_VERIFIED",
+      "research_payload": "Recover and validate from earlier chat; avoid treating prior assistant collision claims as verified"
+    }
+  ],
+  "notes": [
+    "Earlier assistant indicated a partial merge of 28 older batches; that statement has not been independently audited here.",
+    "Do not merge provisional sources or identity aliases without review.",
+    "AT109 and AI110 have detailed payloads in recent chat; earlier batches require source recovery."
+  ]
+}
