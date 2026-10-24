@@ -1,0 +1,516 @@
+{
+  "batch_id": "AI110_20261024",
+  "status": "UNMERGED_PROVISIONAL",
+  "people": [
+    {
+      "id": "ai110_hardball",
+      "name": "Roger Brokeridge",
+      "alias": "Hardball",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ai110_komodo",
+      "name": "Melati Kusuma",
+      "alias": "Komodo",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ai110_paul",
+      "name": "Paul Brokeridge",
+      "alias": null,
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ai110_gauntlet",
+      "name": "Joseph Green",
+      "alias": "Gauntlet",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ai110_butterball",
+      "name": "Emery Schaub",
+      "alias": "Butterball",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ai110_constrictor",
+      "name": "Frank Payne",
+      "alias": "Constrictor",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ai110_cloud9",
+      "name": "Abigail Boylen",
+      "alias": "Cloud 9",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ai110_maria_hill",
+      "name": "Maria Hill",
+      "alias": null,
+      "continuity": "Earth-616"
+    }
+  ],
+  "sources": [
+    {
+      "id": "AI110_S01",
+      "title": "Avengers: The Initiative Special #1",
+      "url": "https://www.marvel.com/comics/issue/22562/avengers_the_initiative_special_2008_1/",
+      "evidence_tier": "publisher_secondary_or_issue_description"
+    },
+    {
+      "id": "AI110_S02",
+      "title": "Hardball biography",
+      "url": "https://www.marvel.com/characters/hardball-roger-brokeridge",
+      "evidence_tier": "publisher_secondary_or_issue_description"
+    },
+    {
+      "id": "AI110_S03",
+      "title": "Taskmaster comics history",
+      "url": "https://www.marvel.com/characters/taskmaster/in-comics",
+      "evidence_tier": "publisher_secondary_or_issue_description"
+    },
+    {
+      "id": "AI110_S04",
+      "title": "Sometimes Rage Is the Only Solution",
+      "url": "https://www.marvel.com/articles/comics/sometimes-rage-is-the-only-solution",
+      "evidence_tier": "publisher_secondary_or_issue_description"
+    },
+    {
+      "id": "AI110_S05",
+      "title": "Avengers: The Initiative #2",
+      "url": "https://www.marvel.com/comics/issue/13489/read",
+      "evidence_tier": "publisher_secondary_or_issue_description"
+    },
+    {
+      "id": "AI110_S06",
+      "title": "Avengers: The Initiative #26",
+      "url": "https://www.marvel.com/comics/issue/27543/slug",
+      "evidence_tier": "publisher_secondary_or_issue_description"
+    },
+    {
+      "id": "AI110_S07",
+      "title": "Avengers: The Initiative Annual #1",
+      "url": "https://www.marvel.com/comics/issue/17293/avengers_the_initiative_annual_2007_1",
+      "evidence_tier": "publisher_secondary_or_issue_description"
+    }
+  ],
+  "events": [
+    {
+      "id": "AI110_E01",
+      "a": "ai110_hardball",
+      "b": "ai110_komodo",
+      "scope": "Avengers: The Initiative Special #1 (2008)",
+      "observation": "Roger and Komodo are romantically involved.",
+      "source_ids": [
+        "AI110_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E02",
+      "a": "ai110_hardball",
+      "b": "ai110_komodo",
+      "scope": "Avengers: The Initiative Special #1 (2008)",
+      "observation": "Komodo discovers Roger's concealed HYDRA work; inferred breach of trust.",
+      "source_ids": [
+        "AI110_S01"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E03",
+      "a": "ai110_hardball",
+      "b": "ai110_paul",
+      "scope": "Initiative Annual #1 (2007)",
+      "observation": "Roger undertakes criminal work in response to his brother's medical costs.",
+      "source_ids": [
+        "AI110_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E04",
+      "a": "taskmaster",
+      "b": "ai110_hardball",
+      "scope": "Avengers: The Initiative #20-25 (2009)",
+      "observation": "Taskmaster joins an operation to apprehend Hardball.",
+      "source_ids": [
+        "AI110_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E05",
+      "a": "taskmaster",
+      "b": "ai110_komodo",
+      "scope": "Camp Hammond (2007-08)",
+      "observation": "Komodo is named among Taskmaster's trainees.",
+      "source_ids": [
+        "AI110_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E06",
+      "a": "taskmaster",
+      "b": "ai110_butterball",
+      "scope": "Avengers: The Initiative #13 (2008)",
+      "observation": "Taskmaster helps stage a photo suggesting Butterball defeated him.",
+      "source_ids": [
+        "AI110_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E07",
+      "a": "ai110_constrictor",
+      "b": "ai110_butterball",
+      "scope": "Avengers: The Initiative #13 (2008)",
+      "observation": "Constrictor joins the staged victory photograph for Butterball.",
+      "source_ids": [
+        "AI110_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E08",
+      "a": "taskmaster",
+      "b": "ai110_constrictor",
+      "scope": "Avengers: The Initiative #13 (2008)",
+      "observation": "They cooperate in the staged photograph for Butterball.",
+      "source_ids": [
+        "AI110_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E09",
+      "a": "ai110_gauntlet",
+      "b": "nw43_rage",
+      "scope": "Avengers: The Initiative #1-6 (2007)",
+      "observation": "Gauntlet mistreats Rage because of his New Warriors history.",
+      "source_ids": [
+        "AI110_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E10",
+      "a": "norman",
+      "b": "taskmaster",
+      "scope": "Avengers: The Initiative #26 (2009)",
+      "observation": "Osborn appoints Taskmaster to Initiative leadership.",
+      "source_ids": [
+        "AI110_S06"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E11",
+      "a": "taskmaster",
+      "b": "hood",
+      "scope": "Dark Reign (2009)",
+      "observation": "Taskmaster and Hood jointly train criminals posing as heroes.",
+      "source_ids": [
+        "AI110_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E12",
+      "a": "taskmaster",
+      "b": "deadpool",
+      "scope": "Deadpool / Thunderbolts (2009)",
+      "observation": "Taskmaster assists Deadpool against Osborn's Thunderbolts.",
+      "source_ids": [
+        "AI110_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E13",
+      "a": "taskmaster",
+      "b": "ai110_cloud9",
+      "scope": "Camp Hammond (2007-08)",
+      "observation": "Cloud 9 is named among Taskmaster's trainees.",
+      "source_ids": [
+        "AI110_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E14",
+      "a": "cos71_rhodey",
+      "b": "ai110_gauntlet",
+      "scope": "Avengers: The Initiative #2 (2007)",
+      "observation": "War Machine and Gauntlet lead recruits against HYDRA.",
+      "source_ids": [
+        "AI110_S05"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E15",
+      "a": "ai110_maria_hill",
+      "b": "taskmaster",
+      "scope": "Post-Civil War (2007)",
+      "observation": "Hill facilitates Taskmaster's presidential pardon.",
+      "source_ids": [
+        "AI110_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E16",
+      "a": "norman",
+      "b": "hood",
+      "scope": "Avengers: The Initiative #26 (2009)",
+      "observation": "Osborn appoints Hood to Initiative leadership.",
+      "source_ids": [
+        "AI110_S06"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AI110_E17",
+      "a": "deadpool",
+      "b": "taskmaster",
+      "scope": "Civil War aftermath (2007)",
+      "observation": "Deadpool releases Taskmaster from custody, intending a public fight.",
+      "source_ids": [
+        "AI110_S03"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false
+    }
+  ],
+  "claims": [
+    {
+      "id": "AI110_C01",
+      "from_id": "ai110_hardball",
+      "to_id": "ai110_komodo",
+      "dimension": "romance",
+      "event_ids": [
+        "AI110_E01"
+      ],
+      "direct_observation": "Roger and Komodo are romantically involved.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C02",
+      "from_id": "ai110_hardball",
+      "to_id": "ai110_komodo",
+      "dimension": "trust",
+      "event_ids": [
+        "AI110_E02"
+      ],
+      "direct_observation": "Komodo discovers Roger's concealed HYDRA work; inferred breach of trust.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C03",
+      "from_id": "ai110_hardball",
+      "to_id": "ai110_paul",
+      "dimension": "protection",
+      "event_ids": [
+        "AI110_E03"
+      ],
+      "direct_observation": "Roger undertakes criminal work in response to his brother's medical costs.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C04",
+      "from_id": "taskmaster",
+      "to_id": "ai110_hardball",
+      "dimension": "conflict",
+      "event_ids": [
+        "AI110_E04"
+      ],
+      "direct_observation": "Taskmaster joins an operation to apprehend Hardball.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C05",
+      "from_id": "taskmaster",
+      "to_id": "ai110_komodo",
+      "dimension": "mentorship",
+      "event_ids": [
+        "AI110_E05"
+      ],
+      "direct_observation": "Komodo is named among Taskmaster's trainees.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C06",
+      "from_id": "taskmaster",
+      "to_id": "ai110_butterball",
+      "dimension": "protection",
+      "event_ids": [
+        "AI110_E06"
+      ],
+      "direct_observation": "Taskmaster helps stage a photo suggesting Butterball defeated him.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C07",
+      "from_id": "ai110_constrictor",
+      "to_id": "ai110_butterball",
+      "dimension": "protection",
+      "event_ids": [
+        "AI110_E07"
+      ],
+      "direct_observation": "Constrictor joins the staged victory photograph for Butterball.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C08",
+      "from_id": "taskmaster",
+      "to_id": "ai110_constrictor",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AI110_E08"
+      ],
+      "direct_observation": "They cooperate in the staged photograph for Butterball.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C09",
+      "from_id": "ai110_gauntlet",
+      "to_id": "nw43_rage",
+      "dimension": "coercion",
+      "event_ids": [
+        "AI110_E09"
+      ],
+      "direct_observation": "Gauntlet mistreats Rage because of his New Warriors history.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C10",
+      "from_id": "norman",
+      "to_id": "taskmaster",
+      "dimension": "authority",
+      "event_ids": [
+        "AI110_E10"
+      ],
+      "direct_observation": "Osborn appoints Taskmaster to Initiative leadership.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C11",
+      "from_id": "taskmaster",
+      "to_id": "hood",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AI110_E11"
+      ],
+      "direct_observation": "Taskmaster and Hood jointly train criminals posing as heroes.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C12",
+      "from_id": "taskmaster",
+      "to_id": "deadpool",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AI110_E12"
+      ],
+      "direct_observation": "Taskmaster assists Deadpool against Osborn's Thunderbolts.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C13",
+      "from_id": "taskmaster",
+      "to_id": "ai110_cloud9",
+      "dimension": "mentorship",
+      "event_ids": [
+        "AI110_E13"
+      ],
+      "direct_observation": "Cloud 9 is named among Taskmaster's trainees.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C14",
+      "from_id": "cos71_rhodey",
+      "to_id": "ai110_gauntlet",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AI110_E14"
+      ],
+      "direct_observation": "War Machine and Gauntlet lead recruits against HYDRA.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C15",
+      "from_id": "ai110_maria_hill",
+      "to_id": "taskmaster",
+      "dimension": "authority",
+      "event_ids": [
+        "AI110_E15"
+      ],
+      "direct_observation": "Hill facilitates Taskmaster's presidential pardon.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C16",
+      "from_id": "norman",
+      "to_id": "hood",
+      "dimension": "authority",
+      "event_ids": [
+        "AI110_E16"
+      ],
+      "direct_observation": "Osborn appoints Hood to Initiative leadership.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    },
+    {
+      "id": "AI110_C17",
+      "from_id": "deadpool",
+      "to_id": "taskmaster",
+      "dimension": "protection",
+      "event_ids": [
+        "AI110_E17"
+      ],
+      "direct_observation": "Deadpool releases Taskmaster from custody, intending a public fight.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional"
+    }
+  ],
+  "canonical_target": "data/relationship_pilot.json",
+  "review_notes": [
+    "Direct comic panels not reviewed.",
+    "Do not count as canonical until merge validation.",
+    "Trust claim for Komodo is interpretive."
+  ]
+}
