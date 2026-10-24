@@ -4282,6 +4282,70 @@
       "identity_note": "Jotun Frost Giant student sponsored by Loki",
       "sector": "Asgard / Jotunheim",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "topher_runaways",
+      "name": "Topher",
+      "alias": "Vampire",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_betty",
+      "name": "Betty Dean",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_kamar",
+      "name": "Kamar",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_tamara",
+      "name": "Tamara Rahn",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_vyrra",
+      "name": "Vyrra",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_llyron",
+      "name": "Llyron McKenzie",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_stomp",
+      "name": "Stomp Richards",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_vashti",
+      "name": "Lord Vashti",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_shakkoth",
+      "name": "Shakkoth",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ai110_paul",
+      "name": "Paul Brokeridge",
+      "alias": null,
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ai110_butterball",
+      "name": "Emery Schaub",
+      "alias": "Butterball",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "ai110_constrictor",
+      "name": "Frank Payne",
+      "alias": "Constrictor",
+      "continuity": "Earth-616"
     }
   ],
   "dimensions": [
@@ -9743,6 +9807,55 @@
       "url": "https://www.superherohype.com/comics/496989-exclusive-preview-strange-academy-10",
       "kind": "independent_issue_preview",
       "evidence_limit": "Source text reviewed; secondary account, not original panel"
+    },
+    {
+      "id": "RUN18_20261019_S08",
+      "url": "https://www.marvel.com/articles/comics/runaways-how-things-have-changed-for-molly",
+      "evidence_tier": "official Marvel publisher secondary evidence",
+      "title": "Marvel publisher source RUN18_20261019_S08",
+      "kind": "publisher_secondary"
+    },
+    {
+      "id": "AT109_S04",
+      "url": "https://www.marvel.com/comics/issue/24047/read",
+      "evidence_tier": "publisher_secondary",
+      "title": "Marvel publisher source AT109_S04",
+      "kind": "publisher_secondary"
+    },
+    {
+      "id": "AT109_S05",
+      "url": "https://www.marvel.com/comics/issue/16803",
+      "evidence_tier": "publisher_secondary",
+      "title": "Marvel publisher source AT109_S05",
+      "kind": "publisher_secondary"
+    },
+    {
+      "id": "AI110_S02",
+      "title": "Hardball biography",
+      "url": "https://www.marvel.com/characters/hardball-roger-brokeridge",
+      "evidence_tier": "publisher_secondary_or_issue_description",
+      "kind": "publisher_secondary"
+    },
+    {
+      "id": "AI110_S04",
+      "title": "Sometimes Rage Is the Only Solution",
+      "url": "https://www.marvel.com/articles/comics/sometimes-rage-is-the-only-solution",
+      "evidence_tier": "publisher_secondary_or_issue_description",
+      "kind": "publisher_secondary"
+    },
+    {
+      "id": "AI110_S06",
+      "title": "Avengers: The Initiative #26",
+      "url": "https://www.marvel.com/comics/issue/27543/slug",
+      "evidence_tier": "publisher_secondary_or_issue_description",
+      "kind": "publisher_secondary"
+    },
+    {
+      "id": "AI110_S07",
+      "title": "Avengers: The Initiative Annual #1",
+      "url": "https://www.marvel.com/comics/issue/17293/avengers_the_initiative_annual_2007_1",
+      "evidence_tier": "publisher_secondary_or_issue_description",
+      "kind": "publisher_secondary"
     }
   ],
   "events": [
@@ -26644,6 +26757,747 @@
       "observation": "When Loki assumes the Sorcerer Supreme title, Zelma serves as his assistant.",
       "source_id": "SA65_20261021_S12",
       "review_status": "provisional; publisher secondary"
+    },
+    {
+      "id": "RUN18_20261019_E01",
+      "a": "alex_wilder",
+      "b": "geoffrey_wilder",
+      "issue": "Runaways (2003) #1-18; motive in #17",
+      "observation": "Alex plans to preserve his father from betrayal by other Pride families.",
+      "source_id": "RUN29_20261020_S03",
+      "source_ids": [
+        "RUN29_20261020_S03"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E02",
+      "a": "alex_wilder",
+      "b": "catherine_wilder",
+      "issue": "Runaways (2003) #1-18",
+      "observation": "Alex schemes to secure his mother's survival under the Gibborim bargain.",
+      "source_id": "RUN29_20261020_S01",
+      "source_ids": [
+        "RUN29_20261020_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E03",
+      "a": "alex_wilder",
+      "b": "nico_minoru",
+      "issue": "Runaways (2003) #1-18",
+      "observation": "Alex and Nico develop a romantic relationship while hiding from their parents.",
+      "source_id": "RUN29_20261020_S01",
+      "source_ids": [
+        "RUN29_20261020_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E04",
+      "a": "alex_wilder",
+      "b": "nico_minoru",
+      "issue": "Runaways (2003) #13-18",
+      "observation": "Alex reveals his Pride allegiance, takes Nico's Staff of One and offers her a place in his family's survival plan.",
+      "source_id": "RUN29_20261020_S03",
+      "source_ids": [
+        "RUN29_20261020_S03"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E05",
+      "a": "alex_wilder",
+      "b": "karolina_dean",
+      "issue": "Runaways (2003) #13-18",
+      "observation": "Alex knocks Karolina unconscious during the confrontation with the Pride.",
+      "source_id": "RUN29_20261020_S01",
+      "source_ids": [
+        "RUN29_20261020_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E06",
+      "a": "gert_yorkes",
+      "b": "chase_stein",
+      "issue": "Runaways (2003) #13-18",
+      "observation": "Gert revives Chase using mouth-to-mouth resuscitation after he nearly dies.",
+      "source_id": "RUN29_20261020_S03",
+      "source_ids": [
+        "RUN29_20261020_S03"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E07",
+      "a": "chase_stein",
+      "b": "gert_yorkes",
+      "issue": "Runaways (2005) #19-24",
+      "observation": "Chase attempts to bargain his own life to resurrect Gert.",
+      "source_id": "RUN29_20261020_S06",
+      "source_ids": [
+        "RUN29_20261020_S06"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E08",
+      "a": "geoffrey_wilder",
+      "b": "gert_yorkes",
+      "issue": "Runaways (2005) #13-18",
+      "observation": "A time-displaced younger Geoffrey fatally stabs Gert during a sacrificial scheme.",
+      "source_id": "RUN29_20261020_S05",
+      "source_ids": [
+        "RUN29_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E09",
+      "a": "geoffrey_wilder",
+      "b": "molly_hayes",
+      "issue": "Runaways (2005) #13-18",
+      "observation": "Geoffrey's new Pride abducts Molly while he negotiates with the Gibborim.",
+      "source_id": "RUN29_20261020_S05",
+      "source_ids": [
+        "RUN29_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E10",
+      "a": "nico_minoru",
+      "b": "chase_stein",
+      "issue": "Runaways (2005) #13-18",
+      "observation": "Nico and Chase kiss; Geoffrey's ally reveals the kiss to Gert.",
+      "source_id": "RUN29_20261020_S05",
+      "source_ids": [
+        "RUN29_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E11",
+      "a": "nico_minoru",
+      "b": "victor_mancha",
+      "issue": "Runaways (2005) #19-24",
+      "observation": "Marvel describes Nico and Victor as beginning some kind of romantic relationship.",
+      "source_id": "RUN29_20261020_S06",
+      "source_ids": [
+        "RUN29_20261020_S06"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E12",
+      "a": "xavin",
+      "b": "karolina_dean",
+      "issue": "Runaways (2005) #13-18",
+      "observation": "Xavin and Karolina return following a disrupted wedding involving an interstellar dispute.",
+      "source_id": "RUN29_20261020_S05",
+      "source_ids": [
+        "RUN29_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E13",
+      "a": "ultron",
+      "b": "victor_mancha",
+      "issue": "Runaways (2005) #1-6; revisited #15",
+      "observation": "Ultron creates Victor and tries to control his actions through embedded programming.",
+      "source_id": "RUN29_20261020_S04",
+      "source_ids": [
+        "RUN29_20261020_S04"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E14",
+      "a": "marianella_mancha",
+      "b": "victor_mancha",
+      "issue": "Runaways (2005) #1-6",
+      "observation": "Marianella raises Victor as her son before Ultron kills her.",
+      "source_id": "RUN29_20261020_S04",
+      "source_ids": [
+        "RUN29_20261020_S04"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E15",
+      "a": "topher_runaways",
+      "b": "nico_minoru",
+      "issue": "Runaways (2003) #7-12",
+      "observation": "Topher becomes romantically involved with Nico while concealing that he is a vampire.",
+      "source_id": "RUN29_20261020_S01",
+      "source_ids": [
+        "RUN29_20261020_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E16",
+      "a": "karolina_dean",
+      "b": "topher_runaways",
+      "issue": "Runaways (2003) #7-12",
+      "observation": "Karolina kills Topher with her light powers during the confrontation.",
+      "source_id": "RUN29_20261020_S01",
+      "source_ids": [
+        "RUN29_20261020_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E17",
+      "a": "alex_wilder",
+      "b": "luke",
+      "issue": "Power Man and Iron Fist (2016), Harlem arc; exact issue pending",
+      "observation": "Alex attempts to establish a supernatural criminal enterprise in Harlem and fights Luke Cage and Danny Rand.",
+      "source_id": "RUN29_20261020_S01",
+      "source_ids": [
+        "RUN29_20261020_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_E18",
+      "a": "nico_minoru",
+      "b": "alex_wilder",
+      "issue": "After Runaways (2003) #18; exact issue pending",
+      "observation": "Nico attempts to resurrect Alex with the Staff of One after his apparent death.",
+      "source_id": "RUN29_20261020_S01",
+      "source_ids": [
+        "RUN29_20261020_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E01",
+      "a": "aa46_tulem",
+      "b": "fen",
+      "scope": "1920 Atlantean origin",
+      "observation": "Tulem urges Fen to investigate surface disturbances.",
+      "source_ids": [
+        "ATL32_S02"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S02",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E02",
+      "a": "thakorr",
+      "b": "at109_vyrra",
+      "scope": "1928 Atlantis",
+      "observation": "Thakorr banishes Vyrra over forbidden cloning research.",
+      "source_ids": [
+        "ATL32_S02"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S02",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E03",
+      "a": "byrrah",
+      "b": "krang",
+      "scope": "1960s Sub-Mariner",
+      "observation": "Byrrah and Krang conspire to depose Namor.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E04",
+      "a": "at109_betty",
+      "b": "namor",
+      "scope": "1940 Golden Age",
+      "observation": "Betty persuades Namor to suspend surface attacks.",
+      "source_ids": [
+        "AT109_S04"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "AT109_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E05",
+      "a": "at109_betty",
+      "b": "namor",
+      "scope": "1953 Golden Age",
+      "observation": "Betty appeals to Namor to return to surface affairs.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E06",
+      "a": "namora",
+      "b": "at109_betty",
+      "scope": "Marvel Mystery Comics #90 (1949)",
+      "observation": "Namora searches for missing explorers including Betty.",
+      "source_ids": [
+        "AT109_S05"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "AT109_S05",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E07",
+      "a": "namor",
+      "b": "at109_kamar",
+      "scope": "1950s backstory",
+      "observation": "Namor sends infant Kamar to an Arctic settlement for safety.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E08",
+      "a": "namor",
+      "b": "at109_kamar",
+      "scope": "2007 sleeper cell crisis",
+      "observation": "Namor confronts a faction led by adult Kamar.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E09",
+      "a": "namor",
+      "b": "at109_tamara",
+      "scope": "1970s Atlantis",
+      "observation": "Namor organizes the rescue of Tamara Rahn.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E10",
+      "a": "at109_tamara",
+      "b": "namor",
+      "scope": "Early 2000s Fathom Five",
+      "observation": "Tamara works as Namor's covert operative.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E11",
+      "a": "at109_vyrra",
+      "b": "at109_llyron",
+      "scope": "Atlantean succession crisis",
+      "observation": "Vyrra accelerates Llyron to adulthood.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E12",
+      "a": "at109_llyron",
+      "b": "namor",
+      "scope": "Atlantean succession crisis",
+      "observation": "Llyron challenges Namor's throne and frames him for attacks.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E13",
+      "a": "at109_stomp",
+      "b": "namora",
+      "scope": "Marvel Mystery Comics #82 (1947)",
+      "observation": "Stomp attacks the royal gathering; Namora fights his gang.",
+      "source_ids": [
+        "AA46_S02"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "AA46_S02",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E14",
+      "a": "at109_vashti",
+      "b": "attuma",
+      "scope": "Atlantean civil war",
+      "observation": "Vashti cooperates with Attuma to oppose Shakkoth.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E15",
+      "a": "at109_shakkoth",
+      "b": "at109_vashti",
+      "scope": "Atlantean civil war",
+      "observation": "Vashti opposes Shakkoth's rebellion.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E16",
+      "a": "at109_shakkoth",
+      "b": "attuma",
+      "scope": "Atlantean civil war",
+      "observation": "Attuma's forces oppose Shakkoth.",
+      "source_ids": [
+        "ATL32_S01"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "ATL32_S01",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E17",
+      "a": "radioactive_man",
+      "b": "at109_tamara",
+      "scope": "Early 2000s Fathom Five",
+      "observation": "Chen Lu secretly irradiates Tamara as a delivery mechanism.",
+      "source_ids": [
+        "TB9_20261019_S03"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "TB9_20261019_S03",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_E18",
+      "a": "radioactive_man",
+      "b": "at109_llyron",
+      "scope": "Early 2000s Fathom Five",
+      "observation": "Chen Lu infects Llyron with radioactive plague.",
+      "source_ids": [
+        "TB9_20261019_S03"
+      ],
+      "original_panels_reviewed": false,
+      "source_id": "TB9_20261019_S03",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E01",
+      "a": "hardball_roger_brokeridge",
+      "b": "komodo_melati_kusuma",
+      "scope": "Avengers: The Initiative Special #1 (2008)",
+      "observation": "Roger and Komodo are romantically involved.",
+      "source_ids": [
+        "AV49_S05"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "AV49_S05",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E02",
+      "a": "hardball_roger_brokeridge",
+      "b": "komodo_melati_kusuma",
+      "scope": "Avengers: The Initiative Special #1 (2008)",
+      "observation": "Komodo discovers Roger's concealed HYDRA work; inferred breach of trust.",
+      "source_ids": [
+        "AV49_S05"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "AV49_S05",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E03",
+      "a": "hardball_roger_brokeridge",
+      "b": "ai110_paul",
+      "scope": "Initiative Annual #1 (2007)",
+      "observation": "Roger undertakes criminal work in response to his brother's medical costs.",
+      "source_ids": [
+        "AI110_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "AI110_S02",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E04",
+      "a": "taskmaster",
+      "b": "hardball_roger_brokeridge",
+      "scope": "Avengers: The Initiative #20-25 (2009)",
+      "observation": "Taskmaster joins an operation to apprehend Hardball.",
+      "source_ids": [
+        "HY42_20261022_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "HY42_20261022_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E05",
+      "a": "taskmaster",
+      "b": "komodo_melati_kusuma",
+      "scope": "Camp Hammond (2007-08)",
+      "observation": "Komodo is named among Taskmaster's trainees.",
+      "source_ids": [
+        "HY42_20261022_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "HY42_20261022_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E06",
+      "a": "taskmaster",
+      "b": "ai110_butterball",
+      "scope": "Avengers: The Initiative #13 (2008)",
+      "observation": "Taskmaster helps stage a photo suggesting Butterball defeated him.",
+      "source_ids": [
+        "HY42_20261022_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "HY42_20261022_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E07",
+      "a": "ai110_constrictor",
+      "b": "ai110_butterball",
+      "scope": "Avengers: The Initiative #13 (2008)",
+      "observation": "Constrictor joins the staged victory photograph for Butterball.",
+      "source_ids": [
+        "HY42_20261022_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "HY42_20261022_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E08",
+      "a": "taskmaster",
+      "b": "ai110_constrictor",
+      "scope": "Avengers: The Initiative #13 (2008)",
+      "observation": "They cooperate in the staged photograph for Butterball.",
+      "source_ids": [
+        "HY42_20261022_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "HY42_20261022_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E09",
+      "a": "gauntlet_joe_green",
+      "b": "nw43_rage",
+      "scope": "Avengers: The Initiative #1-6 (2007)",
+      "observation": "Gauntlet mistreats Rage because of his New Warriors history.",
+      "source_ids": [
+        "AI110_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "AI110_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E10",
+      "a": "norman",
+      "b": "taskmaster",
+      "scope": "Avengers: The Initiative #26 (2009)",
+      "observation": "Osborn appoints Taskmaster to Initiative leadership.",
+      "source_ids": [
+        "AI110_S06"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "AI110_S06",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E11",
+      "a": "taskmaster",
+      "b": "hood",
+      "scope": "Dark Reign (2009)",
+      "observation": "Taskmaster and Hood jointly train criminals posing as heroes.",
+      "source_ids": [
+        "HY42_20261022_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "HY42_20261022_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E12",
+      "a": "taskmaster",
+      "b": "deadpool",
+      "scope": "Deadpool / Thunderbolts (2009)",
+      "observation": "Taskmaster assists Deadpool against Osborn's Thunderbolts.",
+      "source_ids": [
+        "HY42_20261022_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "HY42_20261022_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E13",
+      "a": "taskmaster",
+      "b": "cloud9_abigail_boylen",
+      "scope": "Camp Hammond (2007-08)",
+      "observation": "Cloud 9 is named among Taskmaster's trainees.",
+      "source_ids": [
+        "HY42_20261022_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "HY42_20261022_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E14",
+      "a": "cos71_rhodey",
+      "b": "gauntlet_joe_green",
+      "scope": "Avengers: The Initiative #2 (2007)",
+      "observation": "War Machine and Gauntlet lead recruits against HYDRA.",
+      "source_ids": [
+        "AV49_S02"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "AV49_S02",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E15",
+      "a": "maria_hill",
+      "b": "taskmaster",
+      "scope": "Post-Civil War (2007)",
+      "observation": "Hill facilitates Taskmaster's presidential pardon.",
+      "source_ids": [
+        "HY42_20261022_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "HY42_20261022_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E16",
+      "a": "norman",
+      "b": "hood",
+      "scope": "Avengers: The Initiative #26 (2009)",
+      "observation": "Osborn appoints Hood to Initiative leadership.",
+      "source_ids": [
+        "AI110_S06"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "AI110_S06",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_E17",
+      "a": "deadpool",
+      "b": "taskmaster",
+      "scope": "Civil War aftermath (2007)",
+      "observation": "Deadpool releases Taskmaster from custody, intending a public fight.",
+      "source_ids": [
+        "HY42_20261022_S04"
+      ],
+      "evidence_tier": "publisher_secondary",
+      "original_panels_reviewed": false,
+      "source_id": "HY42_20261022_S04",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
     }
   ],
   "claims": [
@@ -51004,6 +51858,836 @@
       ],
       "pair_id": "maelstrom-oblivion",
       "review_status": "provisional; publisher secondary"
+    },
+    {
+      "id": "RUN18_20261019_C01",
+      "from_id": "alex_wilder",
+      "to_id": "geoffrey_wilder",
+      "dimension": "protection",
+      "assessment": "Alex acts to preserve his father's life.",
+      "interpretation": "Familial loyalty motivates deception of others.",
+      "event_ids": [
+        "RUN18_20261019_E01"
+      ],
+      "pair_id": "alex_wilder-geoffrey_wilder",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C02",
+      "from_id": "alex_wilder",
+      "to_id": "catherine_wilder",
+      "dimension": "protection",
+      "assessment": "Alex plans to secure his mother's survival.",
+      "interpretation": "A protective intention within a murderous scheme.",
+      "event_ids": [
+        "RUN18_20261019_E02"
+      ],
+      "pair_id": "alex_wilder-catherine_wilder",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C03",
+      "from_id": "alex_wilder",
+      "to_id": "nico_minoru",
+      "dimension": "romance",
+      "assessment": "Alex and Nico become romantically involved.",
+      "interpretation": "Affection can coexist with concealed allegiance.",
+      "event_ids": [
+        "RUN18_20261019_E03"
+      ],
+      "pair_id": "alex_wilder-nico_minoru",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C04",
+      "from_id": "alex_wilder",
+      "to_id": "nico_minoru",
+      "dimension": "betrayal",
+      "assessment": "Alex steals Nico's staff and reveals his Pride allegiance.",
+      "interpretation": "The betrayal does not establish that his earlier affection was false.",
+      "event_ids": [
+        "RUN18_20261019_E04"
+      ],
+      "pair_id": "alex_wilder-nico_minoru",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C05",
+      "from_id": "alex_wilder",
+      "to_id": "karolina_dean",
+      "dimension": "coercion",
+      "assessment": "Alex incapacitates Karolina during the Pride confrontation.",
+      "interpretation": "An event-scoped assault.",
+      "event_ids": [
+        "RUN18_20261019_E05"
+      ],
+      "pair_id": "alex_wilder-karolina_dean",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C06",
+      "from_id": "gert_yorkes",
+      "to_id": "chase_stein",
+      "dimension": "protection",
+      "assessment": "Gert revives Chase when he nearly dies.",
+      "interpretation": "A specific protective act.",
+      "event_ids": [
+        "RUN18_20261019_E06"
+      ],
+      "pair_id": "chase_stein-gert_yorkes",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C07",
+      "from_id": "chase_stein",
+      "to_id": "gert_yorkes",
+      "dimension": "affection",
+      "assessment": "Chase offers his life in an attempt to resurrect Gert.",
+      "interpretation": "Evidence of profound grief and attachment.",
+      "event_ids": [
+        "RUN18_20261019_E07"
+      ],
+      "pair_id": "chase_stein-gert_yorkes",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C08",
+      "from_id": "geoffrey_wilder",
+      "to_id": "gert_yorkes",
+      "dimension": "conflict",
+      "assessment": "Time-displaced Geoffrey fatally wounds Gert.",
+      "interpretation": "The displaced version of Geoffrey must be distinguished chronologically.",
+      "event_ids": [
+        "RUN18_20261019_E08"
+      ],
+      "pair_id": "geoffrey_wilder-gert_yorkes",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C09",
+      "from_id": "geoffrey_wilder",
+      "to_id": "molly_hayes",
+      "dimension": "coercion",
+      "assessment": "Geoffrey's Pride abducts Molly.",
+      "interpretation": "A coercive action, not proof of personal hatred.",
+      "event_ids": [
+        "RUN18_20261019_E09"
+      ],
+      "pair_id": "geoffrey_wilder-molly_hayes",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C10",
+      "from_id": "nico_minoru",
+      "to_id": "chase_stein",
+      "dimension": "affection",
+      "assessment": "Nico and Chase kiss.",
+      "interpretation": "A kiss alone does not establish a durable romantic relationship.",
+      "event_ids": [
+        "RUN18_20261019_E10"
+      ],
+      "pair_id": "chase_stein-nico_minoru",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C11",
+      "from_id": "nico_minoru",
+      "to_id": "victor_mancha",
+      "dimension": "romance",
+      "assessment": "Nico and Victor begin a possible romance.",
+      "interpretation": "Publisher wording is tentative; exact mutuality requires review.",
+      "event_ids": [
+        "RUN18_20261019_E11"
+      ],
+      "pair_id": "nico_minoru-victor_mancha",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C12",
+      "from_id": "xavin",
+      "to_id": "karolina_dean",
+      "dimension": "romance",
+      "assessment": "Xavin and Karolina plan a wedding.",
+      "interpretation": "A planned wedding, not evidence of a completed marriage.",
+      "event_ids": [
+        "RUN18_20261019_E12"
+      ],
+      "pair_id": "karolina_dean-xavin",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C13",
+      "from_id": "ultron",
+      "to_id": "victor_mancha",
+      "dimension": "coercion",
+      "assessment": "Ultron creates and attempts to control Victor.",
+      "interpretation": "Creation and parenthood do not imply care.",
+      "event_ids": [
+        "RUN18_20261019_E13"
+      ],
+      "pair_id": "ultron-victor_mancha",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C14",
+      "from_id": "marianella_mancha",
+      "to_id": "victor_mancha",
+      "dimension": "family",
+      "assessment": "Marianella raises Victor as her son.",
+      "interpretation": "Caregiving is distinct from biological parentage.",
+      "event_ids": [
+        "RUN18_20261019_E14"
+      ],
+      "pair_id": "marianella_mancha-victor_mancha",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C15",
+      "from_id": "topher_runaways",
+      "to_id": "nico_minoru",
+      "dimension": "romance",
+      "assessment": "Topher becomes romantically involved with Nico.",
+      "interpretation": "His concealed vampire identity complicates trust.",
+      "event_ids": [
+        "RUN18_20261019_E15"
+      ],
+      "pair_id": "nico_minoru-topher_runaways",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C16",
+      "from_id": "karolina_dean",
+      "to_id": "topher_runaways",
+      "dimension": "conflict",
+      "assessment": "Karolina kills Topher during the confrontation.",
+      "interpretation": "Event-specific lethal conflict.",
+      "event_ids": [
+        "RUN18_20261019_E16"
+      ],
+      "pair_id": "karolina_dean-topher_runaways",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C17",
+      "from_id": "alex_wilder",
+      "to_id": "luke",
+      "dimension": "conflict",
+      "assessment": "Alex confronts Luke Cage in Harlem.",
+      "interpretation": "A cross-community conflict; exact issue pending.",
+      "event_ids": [
+        "RUN18_20261019_E17"
+      ],
+      "pair_id": "alex_wilder-luke",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "RUN18_20261019_C18",
+      "from_id": "nico_minoru",
+      "to_id": "alex_wilder",
+      "dimension": "affection",
+      "assessment": "Nico attempts to resurrect Alex.",
+      "interpretation": "The attempt does not establish forgiveness.",
+      "event_ids": [
+        "RUN18_20261019_E18"
+      ],
+      "pair_id": "alex_wilder-nico_minoru",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C01",
+      "from_id": "aa46_tulem",
+      "to_id": "fen",
+      "dimension": "influence",
+      "event_ids": [
+        "AT109_E01"
+      ],
+      "fact": "Tulem urges Fen to investigate surface disturbances.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "aa46_tulem-fen",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C02",
+      "from_id": "thakorr",
+      "to_id": "at109_vyrra",
+      "dimension": "authority",
+      "event_ids": [
+        "AT109_E02"
+      ],
+      "fact": "Thakorr banishes Vyrra over forbidden cloning research.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_vyrra-thakorr",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C03",
+      "from_id": "byrrah",
+      "to_id": "krang",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AT109_E03"
+      ],
+      "fact": "Byrrah and Krang conspire to depose Namor.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "byrrah-krang",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C04",
+      "from_id": "at109_betty",
+      "to_id": "namor",
+      "dimension": "influence",
+      "event_ids": [
+        "AT109_E04"
+      ],
+      "fact": "Betty persuades Namor to suspend surface attacks.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_betty-namor",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C05",
+      "from_id": "at109_betty",
+      "to_id": "namor",
+      "dimension": "influence",
+      "event_ids": [
+        "AT109_E05"
+      ],
+      "fact": "Betty appeals to Namor to return to surface affairs.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_betty-namor",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C06",
+      "from_id": "namora",
+      "to_id": "at109_betty",
+      "dimension": "protection",
+      "event_ids": [
+        "AT109_E06"
+      ],
+      "fact": "Namora searches for missing explorers including Betty.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_betty-namora",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C07",
+      "from_id": "namor",
+      "to_id": "at109_kamar",
+      "dimension": "protection",
+      "event_ids": [
+        "AT109_E07"
+      ],
+      "fact": "Namor sends infant Kamar to an Arctic settlement for safety.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_kamar-namor",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C08",
+      "from_id": "namor",
+      "to_id": "at109_kamar",
+      "dimension": "conflict",
+      "event_ids": [
+        "AT109_E08"
+      ],
+      "fact": "Namor confronts a faction led by adult Kamar.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_kamar-namor",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C09",
+      "from_id": "namor",
+      "to_id": "at109_tamara",
+      "dimension": "protection",
+      "event_ids": [
+        "AT109_E09"
+      ],
+      "fact": "Namor organizes the rescue of Tamara Rahn.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_tamara-namor",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C10",
+      "from_id": "at109_tamara",
+      "to_id": "namor",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AT109_E10"
+      ],
+      "fact": "Tamara works as Namor's covert operative.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_tamara-namor",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C11",
+      "from_id": "at109_vyrra",
+      "to_id": "at109_llyron",
+      "dimension": "influence",
+      "event_ids": [
+        "AT109_E11"
+      ],
+      "fact": "Vyrra accelerates Llyron to adulthood.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_llyron-at109_vyrra",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C12",
+      "from_id": "at109_llyron",
+      "to_id": "namor",
+      "dimension": "conflict",
+      "event_ids": [
+        "AT109_E12"
+      ],
+      "fact": "Llyron challenges Namor's throne and frames him for attacks.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_llyron-namor",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C13",
+      "from_id": "at109_stomp",
+      "to_id": "namora",
+      "dimension": "conflict",
+      "event_ids": [
+        "AT109_E13"
+      ],
+      "fact": "Stomp attacks the royal gathering; Namora fights his gang.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_stomp-namora",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C14",
+      "from_id": "at109_vashti",
+      "to_id": "attuma",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AT109_E14"
+      ],
+      "fact": "Vashti cooperates with Attuma to oppose Shakkoth.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_vashti-attuma",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C15",
+      "from_id": "at109_shakkoth",
+      "to_id": "at109_vashti",
+      "dimension": "conflict",
+      "event_ids": [
+        "AT109_E15"
+      ],
+      "fact": "Vashti opposes Shakkoth's rebellion.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_shakkoth-at109_vashti",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C16",
+      "from_id": "at109_shakkoth",
+      "to_id": "attuma",
+      "dimension": "conflict",
+      "event_ids": [
+        "AT109_E16"
+      ],
+      "fact": "Attuma's forces oppose Shakkoth.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_shakkoth-attuma",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C17",
+      "from_id": "radioactive_man",
+      "to_id": "at109_tamara",
+      "dimension": "coercion",
+      "event_ids": [
+        "AT109_E17"
+      ],
+      "fact": "Chen Lu secretly irradiates Tamara as a delivery mechanism.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_tamara-radioactive_man",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AT109_C18",
+      "from_id": "radioactive_man",
+      "to_id": "at109_llyron",
+      "dimension": "conflict",
+      "event_ids": [
+        "AT109_E18"
+      ],
+      "fact": "Chen Lu infects Llyron with radioactive plague.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional",
+      "pair_id": "at109_llyron-radioactive_man",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C01",
+      "from_id": "hardball_roger_brokeridge",
+      "to_id": "komodo_melati_kusuma",
+      "dimension": "romance",
+      "event_ids": [
+        "AI110_E01"
+      ],
+      "direct_observation": "Roger and Komodo are romantically involved.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "hardball_roger_brokeridge-komodo_melati_kusuma",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C02",
+      "from_id": "hardball_roger_brokeridge",
+      "to_id": "komodo_melati_kusuma",
+      "dimension": "trust",
+      "event_ids": [
+        "AI110_E02"
+      ],
+      "direct_observation": "Komodo discovers Roger's concealed HYDRA work; inferred breach of trust.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "hardball_roger_brokeridge-komodo_melati_kusuma",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C03",
+      "from_id": "hardball_roger_brokeridge",
+      "to_id": "ai110_paul",
+      "dimension": "protection",
+      "event_ids": [
+        "AI110_E03"
+      ],
+      "direct_observation": "Roger undertakes criminal work in response to his brother's medical costs.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "ai110_paul-hardball_roger_brokeridge",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C04",
+      "from_id": "taskmaster",
+      "to_id": "hardball_roger_brokeridge",
+      "dimension": "conflict",
+      "event_ids": [
+        "AI110_E04"
+      ],
+      "direct_observation": "Taskmaster joins an operation to apprehend Hardball.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "hardball_roger_brokeridge-taskmaster",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C05",
+      "from_id": "taskmaster",
+      "to_id": "komodo_melati_kusuma",
+      "dimension": "mentorship",
+      "event_ids": [
+        "AI110_E05"
+      ],
+      "direct_observation": "Komodo is named among Taskmaster's trainees.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "komodo_melati_kusuma-taskmaster",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C06",
+      "from_id": "taskmaster",
+      "to_id": "ai110_butterball",
+      "dimension": "protection",
+      "event_ids": [
+        "AI110_E06"
+      ],
+      "direct_observation": "Taskmaster helps stage a photo suggesting Butterball defeated him.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "ai110_butterball-taskmaster",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C07",
+      "from_id": "ai110_constrictor",
+      "to_id": "ai110_butterball",
+      "dimension": "protection",
+      "event_ids": [
+        "AI110_E07"
+      ],
+      "direct_observation": "Constrictor joins the staged victory photograph for Butterball.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "ai110_butterball-ai110_constrictor",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C08",
+      "from_id": "taskmaster",
+      "to_id": "ai110_constrictor",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AI110_E08"
+      ],
+      "direct_observation": "They cooperate in the staged photograph for Butterball.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "ai110_constrictor-taskmaster",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C09",
+      "from_id": "gauntlet_joe_green",
+      "to_id": "nw43_rage",
+      "dimension": "coercion",
+      "event_ids": [
+        "AI110_E09"
+      ],
+      "direct_observation": "Gauntlet mistreats Rage because of his New Warriors history.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "gauntlet_joe_green-nw43_rage",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C10",
+      "from_id": "norman",
+      "to_id": "taskmaster",
+      "dimension": "authority",
+      "event_ids": [
+        "AI110_E10"
+      ],
+      "direct_observation": "Osborn appoints Taskmaster to Initiative leadership.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "norman-taskmaster",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C11",
+      "from_id": "taskmaster",
+      "to_id": "hood",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AI110_E11"
+      ],
+      "direct_observation": "Taskmaster and Hood jointly train criminals posing as heroes.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "hood-taskmaster",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C12",
+      "from_id": "taskmaster",
+      "to_id": "deadpool",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AI110_E12"
+      ],
+      "direct_observation": "Taskmaster assists Deadpool against Osborn's Thunderbolts.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "deadpool-taskmaster",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C13",
+      "from_id": "taskmaster",
+      "to_id": "cloud9_abigail_boylen",
+      "dimension": "mentorship",
+      "event_ids": [
+        "AI110_E13"
+      ],
+      "direct_observation": "Cloud 9 is named among Taskmaster's trainees.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "cloud9_abigail_boylen-taskmaster",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C14",
+      "from_id": "cos71_rhodey",
+      "to_id": "gauntlet_joe_green",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AI110_E14"
+      ],
+      "direct_observation": "War Machine and Gauntlet lead recruits against HYDRA.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "cos71_rhodey-gauntlet_joe_green",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C15",
+      "from_id": "maria_hill",
+      "to_id": "taskmaster",
+      "dimension": "authority",
+      "event_ids": [
+        "AI110_E15"
+      ],
+      "direct_observation": "Hill facilitates Taskmaster's presidential pardon.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "maria_hill-taskmaster",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C16",
+      "from_id": "norman",
+      "to_id": "hood",
+      "dimension": "authority",
+      "event_ids": [
+        "AI110_E16"
+      ],
+      "direct_observation": "Osborn appoints Hood to Initiative leadership.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "hood-norman",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "AI110_C17",
+      "from_id": "deadpool",
+      "to_id": "taskmaster",
+      "dimension": "protection",
+      "event_ids": [
+        "AI110_E17"
+      ],
+      "direct_observation": "Deadpool releases Taskmaster from custody, intending a public fight.",
+      "interpretation": "Event-scoped; no permanent disposition or reciprocity inferred.",
+      "status": "provisional",
+      "pair_id": "deadpool-taskmaster",
+      "scope": "See linked event",
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not independently reviewed"
     }
   ],
   "research_backlog": [
