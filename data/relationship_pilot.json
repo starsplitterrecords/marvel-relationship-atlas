@@ -2943,12 +2943,6 @@
       "continuity": "Earth-616"
     },
     {
-      "id": "sf69_beetle",
-      "name": "Janice Lincoln",
-      "alias": "Beetle (Janice Lincoln)",
-      "continuity": "Earth-616"
-    },
-    {
       "id": "sf69_white_rabbit",
       "name": "Lorina Dodson",
       "alias": "White Rabbit",
@@ -2958,12 +2952,6 @@
       "id": "sf69_scorpia",
       "name": "Elaine Coll",
       "alias": "Scorpia",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "sw70_yoyo",
-      "name": "Elena \"Yo-Yo\" Rodriguez",
-      "alias": "Slingshot",
       "continuity": "Earth-616"
     },
     {
@@ -3195,45 +3183,9 @@
       "continuity": "Earth-616"
     },
     {
-      "id": "sa74_doyle",
-      "name": "Doyle Dormammu",
-      "alias": "Doyle Dormammu",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "sa74_iric",
-      "name": "Iric Brorson",
-      "alias": "Iric",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "sa74_alvi",
-      "name": "Alvi Brorson",
-      "alias": "Alvi",
-      "continuity": "Earth-616"
-    },
-    {
       "id": "sa74_amora",
       "name": "Amora",
       "alias": "Enchantress",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "sa74_guslaug",
-      "name": "Guslaug",
-      "alias": "Guslaug",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "sa74_zoe",
-      "name": "Zoe Laveau",
-      "alias": "Zoe Laveau",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "sa74_jericho",
-      "name": "Jericho Drumm",
-      "alias": "Doctor Voodoo",
       "continuity": "Earth-616"
     },
     {
@@ -3243,27 +3195,9 @@
       "continuity": "Earth-616"
     },
     {
-      "id": "sa74_calvin",
-      "name": "Calvin Morse",
-      "alias": "Calvin Morse",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "sa74_gaslamp",
-      "name": "Gaslamp",
-      "alias": "Gaslamp",
-      "continuity": "Earth-616"
-    },
-    {
       "id": "gov75_val",
       "name": "Valerie Cooper",
       "alias": "Val Cooper",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "gov75_forge",
-      "name": "Forge",
-      "alias": "Forge",
       "continuity": "Earth-616"
     },
     {
@@ -3276,12 +3210,6 @@
       "id": "gov75_mills",
       "name": "General Mills",
       "alias": "General Mills",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "gov75_cecilia",
-      "name": "Cecilia Reyes",
-      "alias": "Cecilia Reyes",
       "continuity": "Earth-616"
     },
     {
@@ -3306,12 +3234,6 @@
       "id": "gov75_mccloud",
       "name": "McCloud",
       "alias": "McCloud",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "gov75_angel",
-      "name": "Warren Worthington III",
-      "alias": "Angel",
       "continuity": "Earth-616"
     },
     {
@@ -3387,18 +3309,6 @@
       "continuity": "Earth-616"
     },
     {
-      "id": "lat77_kristoff",
-      "name": "Kristoff Vernard",
-      "alias": "Doctor Doom (successor)",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "lat77_victorious",
-      "name": "Victorious",
-      "alias": "Victorious",
-      "continuity": "Earth-616"
-    },
-    {
       "id": "lat77_zorba",
       "name": "Prince Zorba",
       "alias": "Prince Zorba",
@@ -3459,12 +3369,6 @@
       "continuity": "Earth-616"
     },
     {
-      "id": "ch78_amadeus",
-      "name": "Amadeus Cho",
-      "alias": "Brawn / Totally Awesome Hulk",
-      "continuity": "Earth-616"
-    },
-    {
       "id": "ch78_sam_alex",
       "name": "Sam Alexander",
       "alias": "Nova",
@@ -3480,12 +3384,6 @@
       "id": "ch78_natalie_ai",
       "name": "N.A.T.A.L.I.E.",
       "alias": "Riri Williams’s A.I. assistant",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "bug79_randy",
-      "name": "Randy Robertson",
-      "alias": "Randy Robertson",
       "continuity": "Earth-616"
     },
     {
@@ -4190,14 +4088,6 @@
       "continuity": "Earth-616"
     },
     {
-      "id": "SW64_20261021_p_yo_yo_rodriguez",
-      "name": "Elena \"Yo-Yo\" Rodriguez",
-      "alias": "Slingshot",
-      "sector": "espionage",
-      "identity_note": "Distinct from MCU incarnation",
-      "continuity": "Earth-616"
-    },
-    {
       "id": "SW64_20261021_p_jt_james",
       "name": "James Taylor James",
       "alias": "Hellfire / J.T. Slade",
@@ -4221,66 +4111,10 @@
       "continuity": "Earth-616"
     },
     {
-      "id": "doyle_dormammu",
-      "name": "Doyle Dormammu",
-      "identity_note": "Student identified as Dormammu son in 2020 publisher copy; later origin complicates biological parentage",
-      "sector": "mystical / Dark Dimension",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "calvin_morse",
-      "name": "Calvin Morse",
-      "identity_note": "Orphan; enchanted jacket and later Gaslamp wish dealings",
-      "sector": "mystical / civilian",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "iric_brorson",
-      "name": "Iric Brorson",
-      "identity_note": "Asgardian twin of Alvi; distinct person",
-      "sector": "Asgard / mystical",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "alvi_brorson",
-      "name": "Alvi Brorson",
-      "identity_note": "Asgardian twin of Iric; distinct person",
-      "sector": "Asgard / mystical",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "zoe_laveau",
-      "name": "Zoe Laveau",
-      "identity_note": "Student with New Orleans magical ancestry; former Gaslamp client",
-      "sector": "mystical / civilian",
-      "continuity": "Earth-616"
-    },
-    {
       "id": "dessy_despair",
       "name": "Dessy",
       "identity_note": "Demon from Limbo called Despair; distinct from cosmic entity Despair unless verified",
       "sector": "mystical / Limbo",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "jericho_drumm",
-      "name": "Jericho Drumm",
-      "identity_note": "Doctor Voodoo / Brother Voodoo; Strange Academy headmaster",
-      "sector": "mystical / Avengers",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "gaslamp_wishdealer",
-      "name": "Gaslamp",
-      "identity_note": "Wish-dealing antagonist of Strange Academy; civilian identity not confirmed",
-      "sector": "mystical / villain",
-      "continuity": "Earth-616"
-    },
-    {
-      "id": "guslaug_frost_giant",
-      "name": "Guslaug",
-      "identity_note": "Jotun Frost Giant student sponsored by Loki",
-      "sector": "Asgard / Jotunheim",
       "continuity": "Earth-616"
     },
     {
@@ -19768,7 +19602,7 @@
     },
     {
       "id": "SF69_E02",
-      "a": "sf69_beetle",
+      "a": "janice_lincoln",
       "b": "sf69_boomerang",
       "scope": "Amazing Spider-Man (2018) #27",
       "continuity": "Earth-616",
@@ -19864,7 +19698,7 @@
     },
     {
       "id": "SF69_E08",
-      "a": "sf69_beetle",
+      "a": "janice_lincoln",
       "b": "randy_robertson",
       "scope": "Amazing Spider-Man (2018) #63",
       "continuity": "Earth-616",
@@ -19880,7 +19714,7 @@
     {
       "id": "SF69_E09",
       "a": "tombstone_lonnie",
-      "b": "sf69_beetle",
+      "b": "janice_lincoln",
       "scope": "Amazing Spider-Man (2022) #31",
       "continuity": "Earth-616",
       "observation": "Tombstone is identified as the father of bride-to-be Janice Lincoln and is to walk her down the aisle.",
@@ -19962,7 +19796,7 @@
     {
       "id": "SW70_E01",
       "a": "sw70_gorgon_tomi",
-      "b": "sw70_yoyo",
+      "b": "yo_yo_rodriguez",
       "scope": "Secret Warriors (2009) #3, early HYDRA encounter",
       "observation": "The Gorgon gravely injures Slingshot during a confrontation with the Secret Warriors.",
       "source_ids": [
@@ -20888,7 +20722,7 @@
     },
     {
       "id": "SA74_E01",
-      "a": "sa74_doyle",
+      "a": "mys68_doyle",
       "b": "dormammu",
       "scope": "Strange Academy (2020) #1",
       "observation": "Marvel’s 2020 introduction presents Doyle as Dormammu’s son and frames Doyle’s choice of example as Strange versus Dormammu.",
@@ -20904,8 +20738,8 @@
     },
     {
       "id": "SA74_E02",
-      "a": "sa74_iric",
-      "b": "sa74_alvi",
+      "a": "mys68_iric",
+      "b": "mys68_alvi",
       "scope": "Strange Academy (2020) #1",
       "observation": "Marvel introduces Iric and Alvi as Asgardian twin brothers attending the same school.",
       "source_ids": [
@@ -20920,7 +20754,7 @@
     {
       "id": "SA74_E03",
       "a": "sa74_amora",
-      "b": "sa74_iric",
+      "b": "mys68_iric",
       "scope": "Strange Academy Presents: The Death of Doctor Strange (2021) #1",
       "observation": "Publisher synopsis identifies the Enchantress as mother of Iric and Alvi and says the brothers return home to her.",
       "source_ids": [
@@ -20934,7 +20768,7 @@
     {
       "id": "SA74_E04",
       "a": "sa74_amora",
-      "b": "sa74_alvi",
+      "b": "mys68_alvi",
       "scope": "Strange Academy Presents: The Death of Doctor Strange (2021) #1",
       "observation": "The same homecoming identifies Alvi as one of Enchantress’s sons.",
       "source_ids": [
@@ -20948,7 +20782,7 @@
     {
       "id": "SA74_E05",
       "a": "loki",
-      "b": "sa74_guslaug",
+      "b": "mys68_guslaug",
       "scope": "Strange Academy (2020) #1; post-War of the Realms",
       "observation": "Marvel says Loki takes an interest in the Frost Giant Guslaug and personally arranges his enrollment.",
       "source_ids": [
@@ -20961,7 +20795,7 @@
     },
     {
       "id": "SA74_E06",
-      "a": "sa74_zoe",
+      "a": "mys68_zoe",
       "b": "marie_laveau",
       "scope": "Strange Academy (2020) #1; publisher introduction",
       "observation": "Marvel introduces Zoe as a descendant of Marie Laveau, describing Marie as her great-great-grandmother.",
@@ -20977,7 +20811,7 @@
     {
       "id": "SA74_E07",
       "a": "marie_laveau",
-      "b": "sa74_jericho",
+      "b": "mys68_jericho",
       "scope": "Strange Academy (2020) #1, retrospective to earlier Doctor Voodoo career",
       "observation": "Marvel explicitly says Marie Laveau trained Doctor Voodoo.",
       "source_ids": [
@@ -21050,7 +20884,7 @@
     },
     {
       "id": "SA74_E12",
-      "a": "sa74_jericho",
+      "a": "mys68_jericho",
       "b": "wong",
       "scope": "Death of Doctor Strange (2021) #1 era",
       "observation": "Doctor Voodoo helps Zelma restrain Wong during his accusation against Mordo.",
@@ -21079,8 +20913,8 @@
     },
     {
       "id": "SA74_E14",
-      "a": "sa74_calvin",
-      "b": "sa74_gaslamp",
+      "a": "mys68_calvin",
+      "b": "mys68_gaslamp",
       "scope": "Strange Academy (2020) #15–17",
       "observation": "Marvel calls Gaslamp Calvin’s mysterious new friend and attributes Calvin’s new battle-class trick to him; a later solicitation says Gaslamp targets the Academy and Calvin risks losing everything.",
       "source_ids": [
@@ -21126,7 +20960,7 @@
     {
       "id": "G75_E02",
       "a": "gov75_val",
-      "b": "gov75_forge",
+      "b": "forge_mutant",
       "scope": "X-Factor (1986), post-Project: Wideawake disclosure",
       "observation": "Val transfers day-to-day team responsibilities to Forge after the team learns she concealed a Sentinel program.",
       "source_ids": [
@@ -21209,7 +21043,7 @@
     },
     {
       "id": "G75_E08",
-      "a": "gov75_forge",
+      "a": "forge_mutant",
       "b": "mystique",
       "scope": "X-Factor (1986), government detention and Japan rescue arc",
       "observation": "Forge implants a subcutaneous tracker to constrain Mystique while she accompanies X-Factor.",
@@ -21224,7 +21058,7 @@
     {
       "id": "G75_E09",
       "a": "gov75_broderick",
-      "b": "gov75_angel",
+      "b": "warren_worthington",
       "scope": "X-Factor (2024) #1",
       "observation": "Broderick selects X-Term as the first target for the government-backed team initially led by Angel; the raid causes casualties.",
       "source_ids": [
@@ -21268,7 +21102,7 @@
     },
     {
       "id": "G75_E12",
-      "a": "gov75_cecilia",
+      "a": "cecilia_reyes",
       "b": "gov75_oskar",
       "scope": "X-Factor (2024) #4-5 era",
       "observation": "Oskar joins the team as Cecilia's ex; the two reconcile and resume their romantic relationship before he is killed.",
@@ -21598,7 +21432,7 @@
     {
       "id": "LAT77_E03",
       "a": "doom",
-      "b": "lat77_kristoff",
+      "b": "kristoff_vernard",
       "scope": "Fantastic Four (1961), Doom/Kristoff succession; Doom’s apparent-death period",
       "observation": "Marvel identifies Kristoff as Doom’s adoptive heir and describes him becoming close to the Fantastic Four when Doom and Reed were believed dead.",
       "source_ids": [
@@ -21613,7 +21447,7 @@
     {
       "id": "LAT77_E04",
       "a": "doom",
-      "b": "lat77_victorious",
+      "b": "victorious",
       "scope": "Fantastic Four (2018) #32-33 (2021), Bride of Doom",
       "observation": "Doom announces an intended marriage to Victorious, identified as his devoted Latverian subject; the wedding is staged in #33.",
       "source_ids": [
@@ -21957,7 +21791,7 @@
     },
     {
       "id": "CH78_E13",
-      "a": "ch78_amadeus",
+      "a": "aa46_amadeus_cho",
       "b": "sak47_hulk",
       "scope": "Hulk (1999) #106; Totally Awesome Hulk (2015) #1",
       "continuity": "Earth-616",
@@ -22033,7 +21867,7 @@
     {
       "id": "BUG79_E02",
       "a": "robbie_robertson",
-      "b": "bug79_randy",
+      "b": "randy_robertson",
       "scope": "Amazing Spider-Man (2018) #63",
       "observation": "The 2021 synopsis identifies Robbie as Randy's father while describing the conflict over Randy's relationship with Janice.",
       "source_ids": [
@@ -22061,7 +21895,7 @@
     },
     {
       "id": "BUG79_E04",
-      "a": "bug79_randy",
+      "a": "randy_robertson",
       "b": "janice_lincoln",
       "scope": "Amazing Spider-Man (2018) #63; Amazing Spider-Man (2022) #31",
       "observation": "Randy and Janice are romantically involved and prepare a wedding despite the feud between their fathers.",
@@ -22077,7 +21911,7 @@
     },
     {
       "id": "BUG79_E05",
-      "a": "bug79_randy",
+      "a": "randy_robertson",
       "b": "peter",
       "scope": "Peter Parker: Spider-Man (1999) #23; Amazing Spider-Man (2022) #31",
       "observation": "Peter and Randy share a home in 2000; later Peter is identified as best man at Randy's planned wedding.",
@@ -26234,7 +26068,7 @@
     {
       "id": "SW64_20261021_E04",
       "a": "sw70_gorgon_tomi",
-      "b": "SW64_20261021_p_yo_yo_rodriguez",
+      "b": "yo_yo_rodriguez",
       "issue": "Secret Warriors (2009) #3",
       "publication_year": 2009,
       "continuity": "Earth-616",
@@ -26345,7 +26179,7 @@
     {
       "id": "SW64_20261021_E11",
       "a": "nick_fury_sr",
-      "b": "SW64_20261021_p_yo_yo_rodriguez",
+      "b": "yo_yo_rodriguez",
       "issue": "Mighty Avengers (2007) #13; Secret Invasion (2008) #4",
       "publication_year": 2008,
       "continuity": "Earth-616",
@@ -26440,7 +26274,7 @@
     {
       "id": "SA65_20261021_E01",
       "a": "emily_bright",
-      "b": "doyle_dormammu",
+      "b": "mys68_doyle",
       "issue_or_era": "Strange Academy (2020) #7 (2021)",
       "continuity": "Earth-616",
       "documented_observation": "Emily kisses Doyle after his apparent death and he returns to life; later the pair become romantically involved.",
@@ -26457,7 +26291,7 @@
     },
     {
       "id": "SA65_20261021_E02",
-      "a": "doyle_dormammu",
+      "a": "mys68_doyle",
       "b": "emily_bright",
       "issue_or_era": "Strange Academy (2020) #8-10 (2021)",
       "continuity": "Earth-616",
@@ -26476,7 +26310,7 @@
     {
       "id": "SA65_20261021_E03",
       "a": "emily_bright",
-      "b": "doyle_dormammu",
+      "b": "mys68_doyle",
       "issue_or_era": "Strange Academy (2020) #17-18 (2022)",
       "continuity": "Earth-616",
       "documented_observation": "Emily stays with expelled Calvin rather than attending the dance with Doyle; Doyle and Emily argue about the expulsion.",
@@ -26494,7 +26328,7 @@
     {
       "id": "SA65_20261021_E04",
       "a": "emily_bright",
-      "b": "doyle_dormammu",
+      "b": "mys68_doyle",
       "issue_or_era": "Strange Academy: Finals #5-6 (2023)",
       "continuity": "Earth-616",
       "documented_observation": "During the academy assault Emily attacks Doyle; Doyle intervenes to stop her dangerous power.",
@@ -26513,7 +26347,7 @@
     {
       "id": "SA65_20261021_E05",
       "a": "emily_bright",
-      "b": "calvin_morse",
+      "b": "mys68_calvin",
       "issue_or_era": "Strange Academy (2020) #17 (2022)",
       "continuity": "Earth-616",
       "documented_observation": "Emily comforts Calvin after his expulsion and organizes a student walkout against the school response.",
@@ -26548,7 +26382,7 @@
     {
       "id": "SA65_20261021_E07",
       "a": "emily_bright",
-      "b": "jericho_drumm",
+      "b": "mys68_jericho",
       "issue_or_era": "Strange Academy (2020) #18 (2022)",
       "continuity": "Earth-616",
       "documented_observation": "Doctor Voodoo arrives to address the student walkout; Emily attacks him and Zelma with magic.",
@@ -26583,8 +26417,8 @@
     },
     {
       "id": "SA65_20261021_E09",
-      "a": "iric_brorson",
-      "b": "doyle_dormammu",
+      "a": "mys68_iric",
+      "b": "mys68_doyle",
       "issue_or_era": "Strange Academy: Finals #6 (2023)",
       "continuity": "Earth-616",
       "documented_observation": "Iric intercepts an attack aimed at Doyle during Emily’s assault and dies.",
@@ -26602,7 +26436,7 @@
     {
       "id": "SA65_20261021_E10",
       "a": "dormammu",
-      "b": "doyle_dormammu",
+      "b": "mys68_doyle",
       "issue_or_era": "Strange Academy (2020) #1; later Finals (2022-23)",
       "continuity": "Earth-616",
       "documented_observation": "Marvel 2020 editorial identifies Doyle as Dormammu’s son; later secondary histories describe an origin in which Dormammu granted his essence to a human child.",
@@ -26619,8 +26453,8 @@
     },
     {
       "id": "SA65_20261021_E11",
-      "a": "iric_brorson",
-      "b": "alvi_brorson",
+      "a": "mys68_iric",
+      "b": "mys68_alvi",
       "issue_or_era": "Strange Academy (2020) #1 and #10 (2020-21)",
       "continuity": "Earth-616",
       "documented_observation": "Iric and Alvi are Asgardian twin brothers and their shared home background is explored on an Asgard field trip.",
@@ -26637,8 +26471,8 @@
     },
     {
       "id": "SA65_20261021_E12",
-      "a": "gaslamp_wishdealer",
-      "b": "calvin_morse",
+      "a": "mys68_gaslamp",
+      "b": "mys68_calvin",
       "issue_or_era": "Strange Academy (2020) #13-17 (2021-22)",
       "continuity": "Earth-616",
       "documented_observation": "Gaslamp grants Calvin magical wishes, then demands repayment through dealing wishes to fellow students.",
@@ -26656,8 +26490,8 @@
     },
     {
       "id": "SA65_20261021_E13",
-      "a": "jericho_drumm",
-      "b": "calvin_morse",
+      "a": "mys68_jericho",
+      "b": "mys68_calvin",
       "issue_or_era": "Strange Academy (2020) #17 (2022)",
       "continuity": "Earth-616",
       "documented_observation": "As academy headmaster, Doctor Voodoo expels Calvin after discovering his dealing of Gaslamp magic.",
@@ -26674,7 +26508,7 @@
     },
     {
       "id": "SA65_20261021_E14",
-      "a": "zoe_laveau",
+      "a": "mys68_zoe",
       "b": "dessy_despair",
       "issue_or_era": "Strange Academy: Finals #4-6 (2023)",
       "continuity": "Earth-616",
@@ -26693,8 +26527,8 @@
     },
     {
       "id": "SA65_20261021_E15",
-      "a": "gaslamp_wishdealer",
-      "b": "zoe_laveau",
+      "a": "mys68_gaslamp",
+      "b": "mys68_zoe",
       "issue_or_era": "Strange Academy (2020) #13 (2021)",
       "continuity": "Earth-616",
       "documented_observation": "Zoe recounts that she once sought magic from Gaslamp; the bargain led to dependency and catastrophic consequences.",
@@ -26712,7 +26546,7 @@
     {
       "id": "SA65_20261021_E16",
       "a": "marie_laveau",
-      "b": "jericho_drumm",
+      "b": "mys68_jericho",
       "issue_or_era": "Marvel mystic backstory before Strange Academy (exact issue unresolved)",
       "continuity": "Earth-616",
       "documented_observation": "Marvel’s student introduction states that Marie Laveau trained Doctor Voodoo.",
@@ -26728,7 +26562,7 @@
     {
       "id": "SA65_20261021_E17",
       "a": "loki",
-      "b": "guslaug_frost_giant",
+      "b": "mys68_guslaug",
       "issue_or_era": "Strange Academy enrollment, 2020 #1 era",
       "continuity": "Earth-616",
       "documented_observation": "Marvel states that Loki took an interest in Guslaug and personally arranged his attendance at Strange Academy.",
@@ -27503,7 +27337,7 @@
   "claims": [
     {
       "id": "CL001",
-      "pair_id": "matt-frank",
+      "pair_id": "frank-matt",
       "from_id": "matt",
       "to_id": "frank",
       "dimension": "ideology",
@@ -27520,7 +27354,7 @@
     },
     {
       "id": "CL002",
-      "pair_id": "matt-frank",
+      "pair_id": "frank-matt",
       "from_id": "frank",
       "to_id": "matt",
       "dimension": "ideology",
@@ -27537,7 +27371,7 @@
     },
     {
       "id": "CL003",
-      "pair_id": "matt-frank",
+      "pair_id": "frank-matt",
       "from_id": "matt",
       "to_id": "frank",
       "dimension": "conflict",
@@ -27555,7 +27389,7 @@
     },
     {
       "id": "CL004",
-      "pair_id": "matt-frank",
+      "pair_id": "frank-matt",
       "from_id": "matt",
       "to_id": "frank",
       "dimension": "cooperation",
@@ -27573,7 +27407,7 @@
     },
     {
       "id": "CL005",
-      "pair_id": "matt-frank",
+      "pair_id": "frank-matt",
       "from_id": "frank",
       "to_id": "matt",
       "dimension": "cooperation",
@@ -27590,7 +27424,7 @@
     },
     {
       "id": "CL006",
-      "pair_id": "matt-frank",
+      "pair_id": "frank-matt",
       "from_id": "frank",
       "to_id": "matt",
       "dimension": "competence_respect",
@@ -27607,7 +27441,7 @@
     },
     {
       "id": "CL007",
-      "pair_id": "matt-luke",
+      "pair_id": "luke-matt",
       "from_id": "matt",
       "to_id": "luke",
       "dimension": "cooperation",
@@ -27624,7 +27458,7 @@
     },
     {
       "id": "CL008",
-      "pair_id": "matt-luke",
+      "pair_id": "luke-matt",
       "from_id": "luke",
       "to_id": "matt",
       "dimension": "cooperation",
@@ -27641,7 +27475,7 @@
     },
     {
       "id": "CL009",
-      "pair_id": "matt-luke",
+      "pair_id": "luke-matt",
       "from_id": "luke",
       "to_id": "matt",
       "dimension": "conflict",
@@ -27658,7 +27492,7 @@
     },
     {
       "id": "CL010",
-      "pair_id": "matt-luke",
+      "pair_id": "luke-matt",
       "from_id": "luke",
       "to_id": "matt",
       "dimension": "protection",
@@ -27675,7 +27509,7 @@
     },
     {
       "id": "CL011",
-      "pair_id": "matt-luke",
+      "pair_id": "luke-matt",
       "from_id": "matt",
       "to_id": "luke",
       "dimension": "cohesion",
@@ -27692,7 +27526,7 @@
     },
     {
       "id": "CL012",
-      "pair_id": "matt-foggy",
+      "pair_id": "foggy-matt",
       "from_id": "matt",
       "to_id": "foggy",
       "dimension": "friendship",
@@ -27709,7 +27543,7 @@
     },
     {
       "id": "CL013",
-      "pair_id": "matt-foggy",
+      "pair_id": "foggy-matt",
       "from_id": "foggy",
       "to_id": "matt",
       "dimension": "friendship",
@@ -27726,7 +27560,7 @@
     },
     {
       "id": "CL014",
-      "pair_id": "matt-foggy",
+      "pair_id": "foggy-matt",
       "from_id": "matt",
       "to_id": "foggy",
       "dimension": "professional",
@@ -27743,7 +27577,7 @@
     },
     {
       "id": "CL015",
-      "pair_id": "matt-foggy",
+      "pair_id": "foggy-matt",
       "from_id": "foggy",
       "to_id": "matt",
       "dimension": "trust",
@@ -27760,7 +27594,7 @@
     },
     {
       "id": "CL016",
-      "pair_id": "matt-foggy",
+      "pair_id": "foggy-matt",
       "from_id": "matt",
       "to_id": "foggy",
       "dimension": "trust",
@@ -27777,7 +27611,7 @@
     },
     {
       "id": "CL017",
-      "pair_id": "matt-foggy",
+      "pair_id": "foggy-matt",
       "from_id": "foggy",
       "to_id": "matt",
       "dimension": "professional",
@@ -27794,7 +27628,7 @@
     },
     {
       "id": "CL018",
-      "pair_id": "matt-foggy",
+      "pair_id": "foggy-matt",
       "from_id": "matt",
       "to_id": "foggy",
       "dimension": "authority",
@@ -27811,7 +27645,7 @@
     },
     {
       "id": "CL019",
-      "pair_id": "matt-elektra",
+      "pair_id": "elektra-matt",
       "from_id": "matt",
       "to_id": "elektra",
       "dimension": "romance",
@@ -27829,7 +27663,7 @@
     },
     {
       "id": "CL020",
-      "pair_id": "matt-elektra",
+      "pair_id": "elektra-matt",
       "from_id": "elektra",
       "to_id": "matt",
       "dimension": "romance",
@@ -27847,7 +27681,7 @@
     },
     {
       "id": "CL021",
-      "pair_id": "matt-elektra",
+      "pair_id": "elektra-matt",
       "from_id": "elektra",
       "to_id": "matt",
       "dimension": "protection",
@@ -27864,7 +27698,7 @@
     },
     {
       "id": "CL022",
-      "pair_id": "matt-elektra",
+      "pair_id": "elektra-matt",
       "from_id": "elektra",
       "to_id": "matt",
       "dimension": "influence",
@@ -27881,7 +27715,7 @@
     },
     {
       "id": "CL023",
-      "pair_id": "matt-elektra",
+      "pair_id": "elektra-matt",
       "from_id": "matt",
       "to_id": "elektra",
       "dimension": "cooperation",
@@ -27898,7 +27732,7 @@
     },
     {
       "id": "CL024",
-      "pair_id": "matt-fisk",
+      "pair_id": "fisk-matt",
       "from_id": "fisk",
       "to_id": "matt",
       "dimension": "coercion",
@@ -27915,7 +27749,7 @@
     },
     {
       "id": "CL025",
-      "pair_id": "matt-fisk",
+      "pair_id": "fisk-matt",
       "from_id": "fisk",
       "to_id": "matt",
       "dimension": "conflict",
@@ -27932,7 +27766,7 @@
     },
     {
       "id": "CL026",
-      "pair_id": "matt-fisk",
+      "pair_id": "fisk-matt",
       "from_id": "fisk",
       "to_id": "matt",
       "dimension": "authority",
@@ -27949,7 +27783,7 @@
     },
     {
       "id": "CL027",
-      "pair_id": "matt-fisk",
+      "pair_id": "fisk-matt",
       "from_id": "matt",
       "to_id": "fisk",
       "dimension": "conflict",
@@ -28123,7 +27957,7 @@
     },
     {
       "id": "CL039",
-      "pair_id": "matt-karen",
+      "pair_id": "karen-matt",
       "from_id": "matt",
       "to_id": "karen",
       "dimension": "romance",
@@ -28140,7 +27974,7 @@
     },
     {
       "id": "CL040",
-      "pair_id": "matt-karen",
+      "pair_id": "karen-matt",
       "from_id": "karen",
       "to_id": "matt",
       "dimension": "betrayal",
@@ -28158,7 +27992,7 @@
     },
     {
       "id": "CL041",
-      "pair_id": "matt-karen",
+      "pair_id": "karen-matt",
       "from_id": "matt",
       "to_id": "karen",
       "dimension": "trust",
@@ -28175,7 +28009,7 @@
     },
     {
       "id": "CL043",
-      "pair_id": "matt-bullseye",
+      "pair_id": "bullseye-matt",
       "from_id": "bullseye",
       "to_id": "matt",
       "dimension": "conflict",
@@ -28193,7 +28027,7 @@
     },
     {
       "id": "CL044",
-      "pair_id": "matt-bullseye",
+      "pair_id": "bullseye-matt",
       "from_id": "bullseye",
       "to_id": "matt",
       "dimension": "coercion",
@@ -28210,7 +28044,7 @@
     },
     {
       "id": "CL045",
-      "pair_id": "matt-bullseye",
+      "pair_id": "bullseye-matt",
       "from_id": "matt",
       "to_id": "bullseye",
       "dimension": "conflict",
@@ -28227,7 +28061,7 @@
     },
     {
       "id": "CL046",
-      "pair_id": "matt-frank",
+      "pair_id": "frank-matt",
       "from_id": "frank",
       "to_id": "matt",
       "dimension": "coercion",
@@ -28244,7 +28078,7 @@
     },
     {
       "id": "CL047",
-      "pair_id": "matt-frank",
+      "pair_id": "frank-matt",
       "from_id": "frank",
       "to_id": "matt",
       "dimension": "influence",
@@ -28261,7 +28095,7 @@
     },
     {
       "id": "CL048",
-      "pair_id": "matt-frank",
+      "pair_id": "frank-matt",
       "from_id": "matt",
       "to_id": "frank",
       "dimension": "conflict",
@@ -28278,7 +28112,7 @@
     },
     {
       "id": "CL049",
-      "pair_id": "matt-frank",
+      "pair_id": "frank-matt",
       "from_id": "matt",
       "to_id": "frank",
       "dimension": "professional",
@@ -28295,7 +28129,7 @@
     },
     {
       "id": "CL050",
-      "pair_id": "matt-foggy",
+      "pair_id": "foggy-matt",
       "from_id": "matt",
       "to_id": "foggy",
       "dimension": "protection",
@@ -28312,7 +28146,7 @@
     },
     {
       "id": "CL051",
-      "pair_id": "matt-foggy",
+      "pair_id": "foggy-matt",
       "from_id": "matt",
       "to_id": "foggy",
       "dimension": "protection",
@@ -28329,7 +28163,7 @@
     },
     {
       "id": "CL052",
-      "pair_id": "matt-foggy",
+      "pair_id": "foggy-matt",
       "from_id": "foggy",
       "to_id": "matt",
       "dimension": "authority",
@@ -28346,7 +28180,7 @@
     },
     {
       "id": "CL053",
-      "pair_id": "matt-foggy",
+      "pair_id": "foggy-matt",
       "from_id": "foggy",
       "to_id": "matt",
       "dimension": "trust",
@@ -28363,7 +28197,7 @@
     },
     {
       "id": "CL054",
-      "pair_id": "matt-luke",
+      "pair_id": "luke-matt",
       "from_id": "luke",
       "to_id": "matt",
       "dimension": "conflict",
@@ -28380,7 +28214,7 @@
     },
     {
       "id": "CL055",
-      "pair_id": "matt-luke",
+      "pair_id": "luke-matt",
       "from_id": "luke",
       "to_id": "matt",
       "dimension": "cooperation",
@@ -28397,7 +28231,7 @@
     },
     {
       "id": "CL056",
-      "pair_id": "matt-luke",
+      "pair_id": "luke-matt",
       "from_id": "matt",
       "to_id": "luke",
       "dimension": "cooperation",
@@ -28414,7 +28248,7 @@
     },
     {
       "id": "CL057",
-      "pair_id": "matt-elektra",
+      "pair_id": "elektra-matt",
       "from_id": "elektra",
       "to_id": "matt",
       "dimension": "trust",
@@ -28431,7 +28265,7 @@
     },
     {
       "id": "CL058",
-      "pair_id": "matt-elektra",
+      "pair_id": "elektra-matt",
       "from_id": "elektra",
       "to_id": "matt",
       "dimension": "influence",
@@ -42246,8 +42080,8 @@
     },
     {
       "id": "SF69_C03",
-      "pair_id": "sf69_beetle-sf69_boomerang",
-      "from_id": "sf69_beetle",
+      "pair_id": "janice_lincoln-sf69_boomerang",
+      "from_id": "janice_lincoln",
       "to_id": "sf69_boomerang",
       "dimension": "conflict",
       "event_ids": [
@@ -42358,8 +42192,8 @@
     },
     {
       "id": "SF69_C10",
-      "pair_id": "randy_robertson-sf69_beetle",
-      "from_id": "sf69_beetle",
+      "pair_id": "janice_lincoln-randy_robertson",
+      "from_id": "janice_lincoln",
       "to_id": "randy_robertson",
       "dimension": "romance",
       "event_ids": [
@@ -42374,9 +42208,9 @@
     },
     {
       "id": "SF69_C11",
-      "pair_id": "randy_robertson-sf69_beetle",
+      "pair_id": "janice_lincoln-randy_robertson",
       "from_id": "randy_robertson",
-      "to_id": "sf69_beetle",
+      "to_id": "janice_lincoln",
       "dimension": "romance",
       "event_ids": [
         "SF69_E08"
@@ -42390,9 +42224,9 @@
     },
     {
       "id": "SF69_C12",
-      "pair_id": "sf69_beetle-tombstone_lonnie",
+      "pair_id": "janice_lincoln-tombstone_lonnie",
       "from_id": "tombstone_lonnie",
-      "to_id": "sf69_beetle",
+      "to_id": "janice_lincoln",
       "dimension": "family",
       "event_ids": [
         "SF69_E09"
@@ -42406,8 +42240,8 @@
     },
     {
       "id": "SF69_C13",
-      "pair_id": "sf69_beetle-tombstone_lonnie",
-      "from_id": "sf69_beetle",
+      "pair_id": "janice_lincoln-tombstone_lonnie",
+      "from_id": "janice_lincoln",
       "to_id": "tombstone_lonnie",
       "dimension": "family",
       "event_ids": [
@@ -42535,7 +42369,7 @@
     {
       "id": "SW70_C01",
       "from_id": "sw70_gorgon_tomi",
-      "to_id": "sw70_yoyo",
+      "to_id": "yo_yo_rodriguez",
       "dimension": "conflict",
       "event_ids": [
         "SW70_E01"
@@ -42544,7 +42378,7 @@
       "interpretation": "An acute violent act, not evidence of a continuous personal vendetta.",
       "scope_type": "event_or_era_scoped",
       "uncertainty": "Identity Tomi Shishido is provisional pending panel check.",
-      "pair_id": "sw70_gorgon_tomi-sw70_yoyo",
+      "pair_id": "sw70_gorgon_tomi-yo_yo_rodriguez",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
@@ -44032,8 +43866,8 @@
     },
     {
       "id": "SA74_C01",
-      "pair_id": "dormammu-sa74_doyle",
-      "from_id": "sa74_doyle",
+      "pair_id": "dormammu-mys68_doyle",
+      "from_id": "mys68_doyle",
       "to_id": "dormammu",
       "dimension": "family",
       "event_ids": [
@@ -44049,9 +43883,9 @@
     },
     {
       "id": "SA74_C02",
-      "pair_id": "sa74_alvi-sa74_iric",
-      "from_id": "sa74_iric",
-      "to_id": "sa74_alvi",
+      "pair_id": "mys68_alvi-mys68_iric",
+      "from_id": "mys68_iric",
+      "to_id": "mys68_alvi",
       "dimension": "family",
       "event_ids": [
         "SA74_E02"
@@ -44065,9 +43899,9 @@
     },
     {
       "id": "SA74_C03",
-      "pair_id": "sa74_alvi-sa74_iric",
-      "from_id": "sa74_alvi",
-      "to_id": "sa74_iric",
+      "pair_id": "mys68_alvi-mys68_iric",
+      "from_id": "mys68_alvi",
+      "to_id": "mys68_iric",
       "dimension": "family",
       "event_ids": [
         "SA74_E02"
@@ -44081,9 +43915,9 @@
     },
     {
       "id": "SA74_C04",
-      "pair_id": "sa74_amora-sa74_iric",
+      "pair_id": "mys68_iric-sa74_amora",
       "from_id": "sa74_amora",
-      "to_id": "sa74_iric",
+      "to_id": "mys68_iric",
       "dimension": "family",
       "event_ids": [
         "SA74_E03"
@@ -44097,9 +43931,9 @@
     },
     {
       "id": "SA74_C05",
-      "pair_id": "sa74_alvi-sa74_amora",
+      "pair_id": "mys68_alvi-sa74_amora",
       "from_id": "sa74_amora",
-      "to_id": "sa74_alvi",
+      "to_id": "mys68_alvi",
       "dimension": "family",
       "event_ids": [
         "SA74_E04"
@@ -44113,9 +43947,9 @@
     },
     {
       "id": "SA74_C06",
-      "pair_id": "loki-sa74_guslaug",
+      "pair_id": "loki-mys68_guslaug",
       "from_id": "loki",
-      "to_id": "sa74_guslaug",
+      "to_id": "mys68_guslaug",
       "dimension": "influence",
       "event_ids": [
         "SA74_E05"
@@ -44129,8 +43963,8 @@
     },
     {
       "id": "SA74_C07",
-      "pair_id": "marie_laveau-sa74_zoe",
-      "from_id": "sa74_zoe",
+      "pair_id": "marie_laveau-mys68_zoe",
+      "from_id": "mys68_zoe",
       "to_id": "marie_laveau",
       "dimension": "family",
       "event_ids": [
@@ -44146,9 +43980,9 @@
     },
     {
       "id": "SA74_C08",
-      "pair_id": "marie_laveau-sa74_jericho",
+      "pair_id": "marie_laveau-mys68_jericho",
       "from_id": "marie_laveau",
-      "to_id": "sa74_jericho",
+      "to_id": "mys68_jericho",
       "dimension": "mentorship",
       "event_ids": [
         "SA74_E07"
@@ -44258,8 +44092,8 @@
     },
     {
       "id": "SA74_C15",
-      "pair_id": "sa74_jericho-wong",
-      "from_id": "sa74_jericho",
+      "pair_id": "mys68_jericho-wong",
+      "from_id": "mys68_jericho",
       "to_id": "wong",
       "dimension": "protection",
       "event_ids": [
@@ -44290,9 +44124,9 @@
     },
     {
       "id": "SA74_C17",
-      "pair_id": "sa74_calvin-sa74_gaslamp",
-      "from_id": "sa74_calvin",
-      "to_id": "sa74_gaslamp",
+      "pair_id": "mys68_calvin-mys68_gaslamp",
+      "from_id": "mys68_calvin",
+      "to_id": "mys68_gaslamp",
       "dimension": "dependence",
       "event_ids": [
         "SA74_E14"
@@ -44306,9 +44140,9 @@
     },
     {
       "id": "SA74_C18",
-      "pair_id": "sa74_calvin-sa74_gaslamp",
-      "from_id": "sa74_gaslamp",
-      "to_id": "sa74_calvin",
+      "pair_id": "mys68_calvin-mys68_gaslamp",
+      "from_id": "mys68_gaslamp",
+      "to_id": "mys68_calvin",
       "dimension": "influence",
       "event_ids": [
         "SA74_E14"
@@ -44385,14 +44219,14 @@
     {
       "id": "G75_C03",
       "from_id": "gov75_val",
-      "to_id": "gov75_forge",
+      "to_id": "forge_mutant",
       "dimension": "authority",
       "event_ids": [
         "G75_E02"
       ],
       "fact": "Val hands day-to-day oversight to Forge.",
       "interpretation": "Transfer follows loss of team confidence; not proof Val leaves federal service.",
-      "pair_id": "gov75_forge-gov75_val",
+      "pair_id": "forge_mutant-gov75_val",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
@@ -44474,7 +44308,7 @@
     },
     {
       "id": "G75_C09",
-      "from_id": "gov75_forge",
+      "from_id": "forge_mutant",
       "to_id": "mystique",
       "dimension": "coercion",
       "event_ids": [
@@ -44482,7 +44316,7 @@
       ],
       "fact": "Forge implants a tracker in Mystique.",
       "interpretation": "Operational control is not equivalent to trust.",
-      "pair_id": "gov75_forge-mystique",
+      "pair_id": "forge_mutant-mystique",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
@@ -44490,14 +44324,14 @@
     {
       "id": "G75_C10",
       "from_id": "gov75_broderick",
-      "to_id": "gov75_angel",
+      "to_id": "warren_worthington",
       "dimension": "authority",
       "event_ids": [
         "G75_E09"
       ],
       "fact": "Broderick chooses the target for Angel's first X-Factor mission.",
       "interpretation": "Media-oriented oversight has real consequences for team safety.",
-      "pair_id": "gov75_angel-gov75_broderick",
+      "pair_id": "gov75_broderick-warren_worthington",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
@@ -44534,7 +44368,7 @@
     },
     {
       "id": "G75_C13",
-      "from_id": "gov75_cecilia",
+      "from_id": "cecilia_reyes",
       "to_id": "gov75_oskar",
       "dimension": "romance",
       "event_ids": [
@@ -44542,7 +44376,7 @@
       ],
       "fact": "Cecilia reconciles with her former partner Oskar and resumes their relationship.",
       "interpretation": "Relationship is historically scoped and ends in his reported death.",
-      "pair_id": "gov75_cecilia-gov75_oskar",
+      "pair_id": "cecilia_reyes-gov75_oskar",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
@@ -44550,14 +44384,14 @@
     {
       "id": "G75_C14",
       "from_id": "gov75_oskar",
-      "to_id": "gov75_cecilia",
+      "to_id": "cecilia_reyes",
       "dimension": "romance",
       "event_ids": [
         "G75_E12"
       ],
       "fact": "Oskar reconciles with Cecilia.",
       "interpretation": "Reciprocal romance is documented, not proof of unbroken compatibility.",
-      "pair_id": "gov75_cecilia-gov75_oskar",
+      "pair_id": "cecilia_reyes-gov75_oskar",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
@@ -45071,7 +44905,7 @@
     {
       "id": "LAT77_C06",
       "from_id": "doom",
-      "to_id": "lat77_kristoff",
+      "to_id": "kristoff_vernard",
       "dimension": "family",
       "event_ids": [
         "LAT77_E03"
@@ -45080,7 +44914,7 @@
       "interpretation": "The adoptive connection is documented; the exact legal ceremony and issue remain unverified.",
       "status": "provisional",
       "epistemic": "publisher_summary",
-      "pair_id": "doom-lat77_kristoff",
+      "pair_id": "doom-kristoff_vernard",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
@@ -45088,7 +44922,7 @@
     {
       "id": "LAT77_C07",
       "from_id": "doom",
-      "to_id": "lat77_victorious",
+      "to_id": "victorious",
       "dimension": "authority",
       "event_ids": [
         "LAT77_E04"
@@ -45097,14 +44931,14 @@
       "interpretation": "Royal power and marriage plans are intertwined; the wedding solicitation alone cannot prove freely chosen affection.",
       "status": "supported",
       "epistemic": "publisher_summary",
-      "pair_id": "doom-lat77_victorious",
+      "pair_id": "doom-victorious",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
     },
     {
       "id": "LAT77_C08",
-      "from_id": "lat77_victorious",
+      "from_id": "victorious",
       "to_id": "doom",
       "dimension": "romance",
       "event_ids": [
@@ -45114,7 +44948,7 @@
       "interpretation": "This records betrothal, not a consummated marriage or independently proven love.",
       "status": "provisional",
       "epistemic": "publisher_summary",
-      "pair_id": "doom-lat77_victorious",
+      "pair_id": "doom-victorious",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
@@ -45652,7 +45486,7 @@
     },
     {
       "id": "CH78_C17",
-      "from_id": "ch78_amadeus",
+      "from_id": "aa46_amadeus_cho",
       "to_id": "sak47_hulk",
       "dimension": "protection",
       "assessment": "repeated assistance",
@@ -45664,7 +45498,7 @@
       "interpretation": "Repeated aid supports a protective pattern in these eras.",
       "epistemic": "direct_observation_for_fact; analyst_inference_for_interpretation",
       "review_status": "provisional; publisher summary only",
-      "pair_id": "ch78_amadeus-sak47_hulk",
+      "pair_id": "aa46_amadeus_cho-sak47_hulk",
       "continuity": "Earth-616"
     },
     {
@@ -45752,14 +45586,14 @@
     {
       "id": "BUG79_C03",
       "from_id": "robbie_robertson",
-      "to_id": "bug79_randy",
+      "to_id": "randy_robertson",
       "dimension": "family",
       "event_ids": [
         "BUG79_E02"
       ],
       "fact": "Robbie is Randy's father.",
       "interpretation": "Family status alone does not establish his son's agreement with him.",
-      "pair_id": "bug79_randy-robbie_robertson",
+      "pair_id": "randy_robertson-robbie_robertson",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
@@ -45781,7 +45615,7 @@
     },
     {
       "id": "BUG79_C05",
-      "from_id": "bug79_randy",
+      "from_id": "randy_robertson",
       "to_id": "janice_lincoln",
       "dimension": "romance",
       "event_ids": [
@@ -45789,7 +45623,7 @@
       ],
       "fact": "Randy and Janice date and plan a wedding.",
       "interpretation": "Romance crosses a pre-existing family feud.",
-      "pair_id": "bug79_randy-janice_lincoln",
+      "pair_id": "janice_lincoln-randy_robertson",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
@@ -45797,7 +45631,7 @@
     {
       "id": "BUG79_C06",
       "from_id": "janice_lincoln",
-      "to_id": "bug79_randy",
+      "to_id": "randy_robertson",
       "dimension": "romance",
       "event_ids": [
         "BUG79_E04"
@@ -45805,7 +45639,7 @@
       "fact": "Janice and Randy are presented as an engaged couple.",
       "interpretation": "Mutual commitment is implied by planned ceremony, but its completion is unverified.",
       "status": "provisional",
-      "pair_id": "bug79_randy-janice_lincoln",
+      "pair_id": "janice_lincoln-randy_robertson",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
@@ -45813,7 +45647,7 @@
     {
       "id": "BUG79_C07",
       "from_id": "peter",
-      "to_id": "bug79_randy",
+      "to_id": "randy_robertson",
       "dimension": "friendship",
       "event_ids": [
         "BUG79_E05"
@@ -45821,7 +45655,7 @@
       "fact": "Peter is selected as Randy's best man.",
       "interpretation": "A personally significant role beyond mere co-appearance; exact friendship history needs panel review.",
       "status": "provisional",
-      "pair_id": "bug79_randy-peter",
+      "pair_id": "peter-randy_robertson",
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "Provisional; publisher-secondary evidence; no original panels verified"
@@ -50645,9 +50479,9 @@
     },
     {
       "id": "SW64_20261021_C06",
-      "pair_id": "SW64_20261021_p_yo_yo_rodriguez-sw70_gorgon_tomi",
+      "pair_id": "sw70_gorgon_tomi-yo_yo_rodriguez",
       "from_id": "sw70_gorgon_tomi",
-      "to_id": "SW64_20261021_p_yo_yo_rodriguez",
+      "to_id": "yo_yo_rodriguez",
       "dimension": "conflict",
       "assessment": "event_scoped",
       "epistemic": "direct",
@@ -50832,9 +50666,9 @@
     },
     {
       "id": "SW64_20261021_C17",
-      "pair_id": "SW64_20261021_p_yo_yo_rodriguez-nick_fury_sr",
+      "pair_id": "nick_fury_sr-yo_yo_rodriguez",
       "from_id": "nick_fury_sr",
-      "to_id": "SW64_20261021_p_yo_yo_rodriguez",
+      "to_id": "yo_yo_rodriguez",
       "dimension": "professional",
       "assessment": "event_scoped",
       "epistemic": "direct",
@@ -50934,9 +50768,9 @@
     },
     {
       "id": "SA65_20261021_C01",
-      "pair_id": "doyle_dormammu-emily_bright",
+      "pair_id": "emily_bright-mys68_doyle",
       "from_id": "emily_bright",
-      "to_id": "doyle_dormammu",
+      "to_id": "mys68_doyle",
       "dimension": "romance",
       "event_ids": [
         "SA65_20261021_E01"
@@ -50950,8 +50784,8 @@
     },
     {
       "id": "SA65_20261021_C02",
-      "pair_id": "doyle_dormammu-emily_bright",
-      "from_id": "doyle_dormammu",
+      "pair_id": "emily_bright-mys68_doyle",
+      "from_id": "mys68_doyle",
       "to_id": "emily_bright",
       "dimension": "romance",
       "event_ids": [
@@ -50966,8 +50800,8 @@
     },
     {
       "id": "SA65_20261021_C03",
-      "pair_id": "doyle_dormammu-emily_bright",
-      "from_id": "doyle_dormammu",
+      "pair_id": "emily_bright-mys68_doyle",
+      "from_id": "mys68_doyle",
       "to_id": "emily_bright",
       "dimension": "protection",
       "event_ids": [
@@ -50982,9 +50816,9 @@
     },
     {
       "id": "SA65_20261021_C04",
-      "pair_id": "doyle_dormammu-emily_bright",
+      "pair_id": "emily_bright-mys68_doyle",
       "from_id": "emily_bright",
-      "to_id": "doyle_dormammu",
+      "to_id": "mys68_doyle",
       "dimension": "conflict",
       "event_ids": [
         "SA65_20261021_E04"
@@ -50998,9 +50832,9 @@
     },
     {
       "id": "SA65_20261021_C05",
-      "pair_id": "calvin_morse-emily_bright",
+      "pair_id": "emily_bright-mys68_calvin",
       "from_id": "emily_bright",
-      "to_id": "calvin_morse",
+      "to_id": "mys68_calvin",
       "dimension": "protection",
       "event_ids": [
         "SA65_20261021_E05"
@@ -51030,9 +50864,9 @@
     },
     {
       "id": "SA65_20261021_C07",
-      "pair_id": "emily_bright-jericho_drumm",
+      "pair_id": "emily_bright-mys68_jericho",
       "from_id": "emily_bright",
-      "to_id": "jericho_drumm",
+      "to_id": "mys68_jericho",
       "dimension": "conflict",
       "event_ids": [
         "SA65_20261021_E07"
@@ -51062,9 +50896,9 @@
     },
     {
       "id": "SA65_20261021_C09",
-      "pair_id": "doyle_dormammu-iric_brorson",
-      "from_id": "iric_brorson",
-      "to_id": "doyle_dormammu",
+      "pair_id": "mys68_doyle-mys68_iric",
+      "from_id": "mys68_iric",
+      "to_id": "mys68_doyle",
       "dimension": "protection",
       "event_ids": [
         "SA65_20261021_E09"
@@ -51078,9 +50912,9 @@
     },
     {
       "id": "SA65_20261021_C10",
-      "pair_id": "dormammu-doyle_dormammu",
+      "pair_id": "dormammu-mys68_doyle",
       "from_id": "dormammu",
-      "to_id": "doyle_dormammu",
+      "to_id": "mys68_doyle",
       "dimension": "family",
       "event_ids": [
         "SA65_20261021_E10"
@@ -51094,9 +50928,9 @@
     },
     {
       "id": "SA65_20261021_C11",
-      "pair_id": "alvi_brorson-iric_brorson",
-      "from_id": "iric_brorson",
-      "to_id": "alvi_brorson",
+      "pair_id": "mys68_alvi-mys68_iric",
+      "from_id": "mys68_iric",
+      "to_id": "mys68_alvi",
       "dimension": "family",
       "event_ids": [
         "SA65_20261021_E11"
@@ -51110,9 +50944,9 @@
     },
     {
       "id": "SA65_20261021_C12",
-      "pair_id": "alvi_brorson-iric_brorson",
-      "from_id": "alvi_brorson",
-      "to_id": "iric_brorson",
+      "pair_id": "mys68_alvi-mys68_iric",
+      "from_id": "mys68_alvi",
+      "to_id": "mys68_iric",
       "dimension": "family",
       "event_ids": [
         "SA65_20261021_E11"
@@ -51126,9 +50960,9 @@
     },
     {
       "id": "SA65_20261021_C13",
-      "pair_id": "calvin_morse-gaslamp_wishdealer",
-      "from_id": "gaslamp_wishdealer",
-      "to_id": "calvin_morse",
+      "pair_id": "mys68_calvin-mys68_gaslamp",
+      "from_id": "mys68_gaslamp",
+      "to_id": "mys68_calvin",
       "dimension": "coercion",
       "event_ids": [
         "SA65_20261021_E12"
@@ -51142,9 +50976,9 @@
     },
     {
       "id": "SA65_20261021_C14",
-      "pair_id": "calvin_morse-gaslamp_wishdealer",
-      "from_id": "calvin_morse",
-      "to_id": "gaslamp_wishdealer",
+      "pair_id": "mys68_calvin-mys68_gaslamp",
+      "from_id": "mys68_calvin",
+      "to_id": "mys68_gaslamp",
       "dimension": "dependence",
       "event_ids": [
         "SA65_20261021_E12"
@@ -51158,9 +50992,9 @@
     },
     {
       "id": "SA65_20261021_C15",
-      "pair_id": "calvin_morse-jericho_drumm",
-      "from_id": "jericho_drumm",
-      "to_id": "calvin_morse",
+      "pair_id": "mys68_calvin-mys68_jericho",
+      "from_id": "mys68_jericho",
+      "to_id": "mys68_calvin",
       "dimension": "authority",
       "event_ids": [
         "SA65_20261021_E13"
@@ -51174,8 +51008,8 @@
     },
     {
       "id": "SA65_20261021_C16",
-      "pair_id": "dessy_despair-zoe_laveau",
-      "from_id": "zoe_laveau",
+      "pair_id": "dessy_despair-mys68_zoe",
+      "from_id": "mys68_zoe",
       "to_id": "dessy_despair",
       "dimension": "friendship",
       "event_ids": [
@@ -51190,8 +51024,8 @@
     },
     {
       "id": "SA65_20261021_C17",
-      "pair_id": "dessy_despair-zoe_laveau",
-      "from_id": "zoe_laveau",
+      "pair_id": "dessy_despair-mys68_zoe",
+      "from_id": "mys68_zoe",
       "to_id": "dessy_despair",
       "dimension": "conflict",
       "event_ids": [
@@ -51206,9 +51040,9 @@
     },
     {
       "id": "SA65_20261021_C18",
-      "pair_id": "gaslamp_wishdealer-zoe_laveau",
-      "from_id": "gaslamp_wishdealer",
-      "to_id": "zoe_laveau",
+      "pair_id": "mys68_gaslamp-mys68_zoe",
+      "from_id": "mys68_gaslamp",
+      "to_id": "mys68_zoe",
       "dimension": "coercion",
       "event_ids": [
         "SA65_20261021_E15"
@@ -51222,9 +51056,9 @@
     },
     {
       "id": "SA65_20261021_C19",
-      "pair_id": "jericho_drumm-marie_laveau",
+      "pair_id": "marie_laveau-mys68_jericho",
       "from_id": "marie_laveau",
-      "to_id": "jericho_drumm",
+      "to_id": "mys68_jericho",
       "dimension": "mentorship",
       "event_ids": [
         "SA65_20261021_E16"
@@ -51238,9 +51072,9 @@
     },
     {
       "id": "SA65_20261021_C20",
-      "pair_id": "guslaug_frost_giant-loki",
+      "pair_id": "loki-mys68_guslaug",
       "from_id": "loki",
-      "to_id": "guslaug_frost_giant",
+      "to_id": "mys68_guslaug",
       "dimension": "influence",
       "event_ids": [
         "SA65_20261021_E17"
@@ -52866,6 +52700,140 @@
       "observation": "Marvel describes a new Power Man separate from Luke Cage in this Shadowland tie-in.",
       "action": "Do not map all references to “Power Man” onto Luke Cage. Confirm the character identity in each issue before extraction.",
       "source_id": "R10"
+    },
+    {
+      "id": "MERGE_20261024_IDENTITY_NORMALIZATION",
+      "note": "Identical named Earth-616 identities consolidated after historical research merge; original IDs listed for audit. Nathaniel Richards Iron Lad and Kang deliberately remain distinct temporal identities.",
+      "redirects": [
+        {
+          "name": "victorious",
+          "kept": "victorious",
+          "merged": [
+            "lat77_victorious"
+          ]
+        },
+        {
+          "name": "kristoffvernard",
+          "kept": "kristoff_vernard",
+          "merged": [
+            "lat77_kristoff"
+          ]
+        },
+        {
+          "name": "elenayoyorodriguez",
+          "kept": "yo_yo_rodriguez",
+          "merged": [
+            "sw70_yoyo",
+            "SW64_20261021_p_yo_yo_rodriguez"
+          ]
+        },
+        {
+          "name": "warrenworthingtoniii",
+          "kept": "warren_worthington",
+          "merged": [
+            "gov75_angel"
+          ]
+        },
+        {
+          "name": "forge",
+          "kept": "forge_mutant",
+          "merged": [
+            "gov75_forge"
+          ]
+        },
+        {
+          "name": "ceciliareyes",
+          "kept": "cecilia_reyes",
+          "merged": [
+            "gov75_cecilia"
+          ]
+        },
+        {
+          "name": "randyrobertson",
+          "kept": "randy_robertson",
+          "merged": [
+            "bug79_randy"
+          ]
+        },
+        {
+          "name": "janicelincoln",
+          "kept": "janice_lincoln",
+          "merged": [
+            "sf69_beetle"
+          ]
+        },
+        {
+          "name": "amadeuscho",
+          "kept": "aa46_amadeus_cho",
+          "merged": [
+            "ch78_amadeus"
+          ]
+        },
+        {
+          "name": "doyledormammu",
+          "kept": "mys68_doyle",
+          "merged": [
+            "sa74_doyle",
+            "doyle_dormammu"
+          ]
+        },
+        {
+          "name": "iricbrorson",
+          "kept": "mys68_iric",
+          "merged": [
+            "sa74_iric",
+            "iric_brorson"
+          ]
+        },
+        {
+          "name": "alvibrorson",
+          "kept": "mys68_alvi",
+          "merged": [
+            "sa74_alvi",
+            "alvi_brorson"
+          ]
+        },
+        {
+          "name": "guslaug",
+          "kept": "mys68_guslaug",
+          "merged": [
+            "sa74_guslaug",
+            "guslaug_frost_giant"
+          ]
+        },
+        {
+          "name": "zoelaveau",
+          "kept": "mys68_zoe",
+          "merged": [
+            "sa74_zoe",
+            "zoe_laveau"
+          ]
+        },
+        {
+          "name": "calvinmorse",
+          "kept": "mys68_calvin",
+          "merged": [
+            "sa74_calvin",
+            "calvin_morse"
+          ]
+        },
+        {
+          "name": "gaslamp",
+          "kept": "mys68_gaslamp",
+          "merged": [
+            "sa74_gaslamp",
+            "gaslamp_wishdealer"
+          ]
+        },
+        {
+          "name": "jerichodrumm",
+          "kept": "mys68_jericho",
+          "merged": [
+            "sa74_jericho",
+            "jericho_drumm"
+          ]
+        }
+      ]
     }
   ]
 }
