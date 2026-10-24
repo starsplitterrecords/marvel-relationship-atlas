@@ -1,0 +1,156 @@
+{
+  "title": "Earth-616 Relationship Atlas — historical reconciliation ledger",
+  "audit_date": "2026-10-24",
+  "status": "PARTIAL_HISTORY_RECONCILIATION_NOT_FULLY_COMPLETE",
+  "canonical_reference": {
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "dc971d6a5c18ba4efb7916fd6a1ff73c0131182a",
+    "people": 588,
+    "sources": 542,
+    "events": 896,
+    "claims": 1091
+  },
+  "already_merged": {
+    "verified_batch_ids": [
+      "CUK21",
+      "CAM33",
+      "SW35",
+      "KR36",
+      "COS38",
+      "MOR39",
+      "WAK40",
+      "CR41",
+      "HY42",
+      "NW43",
+      "SW44",
+      "AT45",
+      "AA46",
+      "SAK47",
+      "ARA66",
+      "ACA67",
+      "MYS68",
+      "SF69",
+      "SW70",
+      "COS71",
+      "WCA72",
+      "AF73",
+      "SA74",
+      "GOV75",
+      "ASG76",
+      "LAT77",
+      "CH78",
+      "BUG79"
+    ],
+    "verification": "All 442 archived event IDs and 556 archived claim IDs occur in current canonical dataset; some endpoints were normalized in merge.",
+    "merge_commit": "4ed45b1012db413b5b1a880ab4893e1fd2712fbf",
+    "other_historically_merged": [
+      "ET13",
+      "GAL27",
+      "GENX28",
+      "RUN29",
+      "ACA30",
+      "DARK31",
+      "ATL32",
+      "NM6",
+      "SP3",
+      "SHD4",
+      "YA4",
+      "GR5"
+    ],
+    "caution": "Other historical merge batches inferred from commit history and canonical prefixes; not all individually content-diffed."
+  },
+  "preserved_but_unmerged": {
+    "individual_full_json": [
+      "CA10",
+      "FF11",
+      "VAMP12",
+      "RUN18",
+      "COS48",
+      "AV49",
+      "CR50",
+      "LAT51",
+      "INH52",
+      "XF53",
+      "SW54",
+      "DB55",
+      "COS56",
+      "MYS57",
+      "AF58",
+      "SER59",
+      "INH60",
+      "CIV61",
+      "MOR62",
+      "COS63",
+      "SW64",
+      "SA65"
+    ],
+    "abbreviated_or_reconstructed": [
+      "WAK96",
+      "NOV97",
+      "SWR98",
+      "AT109",
+      "AI110"
+    ],
+    "counts": {
+      "individual_full_json": 22,
+      "abbreviated_or_reconstructed": 5
+    },
+    "locations": [
+      "data/research_batches/",
+      "data/research_batches/WAK96_NOV97_SWR98_recovery_20261023.json"
+    ],
+    "known_overlap": [
+      "INH52 vs INH60",
+      "SW54 vs SW64",
+      "AV49 vs CIV61",
+      "COS48 vs COS56"
+    ],
+    "action": "Merge only after alias, pair, source, evidence and dimension reconciliation; do not bulk append."
+  },
+  "not_yet_verified_preserved": {
+    "known_research_ids": [
+      "HFC7",
+      "SIA8",
+      "TB9",
+      "ROY15",
+      "SPY16",
+      "AIM17",
+      "PP80",
+      "XST81",
+      "SJ82",
+      "LAT91",
+      "CIV92",
+      "IM93",
+      "MOR94",
+      "BLD95",
+      "MR102",
+      "ESP103",
+      "PP104",
+      "SJ105",
+      "SS106",
+      "WW107",
+      "NM108"
+    ],
+    "other_windows_to_recover": [
+      "research batches 14-20 excluding verified RUN18",
+      "research batches 22-26",
+      "research batches 34,37",
+      "research batches 80-110 not individually listed here"
+    ],
+    "classification": "No full GitHub research payload confirmed in this audit; chat or library recovery required. Some may overlap canonically by identity or evidence; not necessarily all net new.",
+    "action": "Recover complete chat payloads and verify GitHub path existence before marking missing. Preserve full originals as research_batches then deduplicate and merge."
+  },
+  "audit_limitations": [
+    "This is an inventory and ID-based reconciliation, not a completed merge of all batches.",
+    "Publisher citations and source URL reachability have not been reverified.",
+    "No canonical data changes made in this audit.",
+    "Some older research may exist in unexamined GitHub paths or prior conversations."
+  ],
+  "next_steps": [
+    "Recover all chat-only and abbreviated batches.",
+    "Create complete batch index from GitHub history.",
+    "Validate aliases, unique pairs and evidence per batch.",
+    "Merge verified records into canonical JSON with current SHA.",
+    "Run repository validation and record unresolved conflicts."
+  ]
+}
