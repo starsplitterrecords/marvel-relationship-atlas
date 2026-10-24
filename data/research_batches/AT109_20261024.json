@@ -1,0 +1,501 @@
+{
+  "batch_id": "AT109_20261024",
+  "status": "UNMERGED_PROVISIONAL",
+  "people": [
+    {
+      "id": "at109_betty",
+      "name": "Betty Dean",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_kamar",
+      "name": "Kamar",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_tamara",
+      "name": "Tamara Rahn",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_vyrra",
+      "name": "Vyrra",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_llyron",
+      "name": "Llyron McKenzie",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_stomp",
+      "name": "Stomp Richards",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_vashti",
+      "name": "Lord Vashti",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "at109_shakkoth",
+      "name": "Shakkoth",
+      "continuity": "Earth-616"
+    }
+  ],
+  "sources": [
+    {
+      "id": "AT109_S01",
+      "url": "https://www.marvel.com/teams-and-groups/atlanteans",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "AT109_S02",
+      "url": "https://www.marvel.com/characters/thakorr",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "AT109_S03",
+      "url": "https://www.marvel.com/amp/articles/comics/namora-explainer-namor-cousin-agents-of-atlas",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "AT109_S04",
+      "url": "https://www.marvel.com/comics/issue/24047/read",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "AT109_S05",
+      "url": "https://www.marvel.com/comics/issue/16803",
+      "evidence_tier": "publisher_secondary"
+    },
+    {
+      "id": "AT109_S07",
+      "url": "https://www.marvel.com/characters/radioactive-man-chen-lu",
+      "evidence_tier": "publisher_secondary"
+    }
+  ],
+  "events": [
+    {
+      "id": "AT109_E01",
+      "a": "aa46_tulem",
+      "b": "fen",
+      "scope": "1920 Atlantean origin",
+      "observation": "Tulem urges Fen to investigate surface disturbances.",
+      "source_ids": [
+        "AT109_S02"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E02",
+      "a": "thakorr",
+      "b": "at109_vyrra",
+      "scope": "1928 Atlantis",
+      "observation": "Thakorr banishes Vyrra over forbidden cloning research.",
+      "source_ids": [
+        "AT109_S02"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E03",
+      "a": "byrrah",
+      "b": "krang",
+      "scope": "1960s Sub-Mariner",
+      "observation": "Byrrah and Krang conspire to depose Namor.",
+      "source_ids": [
+        "AT109_S01"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E04",
+      "a": "at109_betty",
+      "b": "namor",
+      "scope": "1940 Golden Age",
+      "observation": "Betty persuades Namor to suspend surface attacks.",
+      "source_ids": [
+        "AT109_S04"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E05",
+      "a": "at109_betty",
+      "b": "namor",
+      "scope": "1953 Golden Age",
+      "observation": "Betty appeals to Namor to return to surface affairs.",
+      "source_ids": [
+        "AT109_S01"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E06",
+      "a": "namora",
+      "b": "at109_betty",
+      "scope": "Marvel Mystery Comics #90 (1949)",
+      "observation": "Namora searches for missing explorers including Betty.",
+      "source_ids": [
+        "AT109_S05"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E07",
+      "a": "namor",
+      "b": "at109_kamar",
+      "scope": "1950s backstory",
+      "observation": "Namor sends infant Kamar to an Arctic settlement for safety.",
+      "source_ids": [
+        "AT109_S01"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E08",
+      "a": "namor",
+      "b": "at109_kamar",
+      "scope": "2007 sleeper cell crisis",
+      "observation": "Namor confronts a faction led by adult Kamar.",
+      "source_ids": [
+        "AT109_S01"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E09",
+      "a": "namor",
+      "b": "at109_tamara",
+      "scope": "1970s Atlantis",
+      "observation": "Namor organizes the rescue of Tamara Rahn.",
+      "source_ids": [
+        "AT109_S01"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E10",
+      "a": "at109_tamara",
+      "b": "namor",
+      "scope": "Early 2000s Fathom Five",
+      "observation": "Tamara works as Namor's covert operative.",
+      "source_ids": [
+        "AT109_S01"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E11",
+      "a": "at109_vyrra",
+      "b": "at109_llyron",
+      "scope": "Atlantean succession crisis",
+      "observation": "Vyrra accelerates Llyron to adulthood.",
+      "source_ids": [
+        "AT109_S01"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E12",
+      "a": "at109_llyron",
+      "b": "namor",
+      "scope": "Atlantean succession crisis",
+      "observation": "Llyron challenges Namor's throne and frames him for attacks.",
+      "source_ids": [
+        "AT109_S01"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E13",
+      "a": "at109_stomp",
+      "b": "namora",
+      "scope": "Marvel Mystery Comics #82 (1947)",
+      "observation": "Stomp attacks the royal gathering; Namora fights his gang.",
+      "source_ids": [
+        "AT109_S03"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E14",
+      "a": "at109_vashti",
+      "b": "attuma",
+      "scope": "Atlantean civil war",
+      "observation": "Vashti cooperates with Attuma to oppose Shakkoth.",
+      "source_ids": [
+        "AT109_S01"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E15",
+      "a": "at109_shakkoth",
+      "b": "at109_vashti",
+      "scope": "Atlantean civil war",
+      "observation": "Vashti opposes Shakkoth's rebellion.",
+      "source_ids": [
+        "AT109_S01"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E16",
+      "a": "at109_shakkoth",
+      "b": "attuma",
+      "scope": "Atlantean civil war",
+      "observation": "Attuma's forces oppose Shakkoth.",
+      "source_ids": [
+        "AT109_S01"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E17",
+      "a": "radioactive_man",
+      "b": "at109_tamara",
+      "scope": "Early 2000s Fathom Five",
+      "observation": "Chen Lu secretly irradiates Tamara as a delivery mechanism.",
+      "source_ids": [
+        "AT109_S07"
+      ],
+      "original_panels_reviewed": false
+    },
+    {
+      "id": "AT109_E18",
+      "a": "radioactive_man",
+      "b": "at109_llyron",
+      "scope": "Early 2000s Fathom Five",
+      "observation": "Chen Lu infects Llyron with radioactive plague.",
+      "source_ids": [
+        "AT109_S07"
+      ],
+      "original_panels_reviewed": false
+    }
+  ],
+  "claims": [
+    {
+      "id": "AT109_C01",
+      "from_id": "aa46_tulem",
+      "to_id": "fen",
+      "dimension": "influence",
+      "event_ids": [
+        "AT109_E01"
+      ],
+      "fact": "Tulem urges Fen to investigate surface disturbances.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C02",
+      "from_id": "thakorr",
+      "to_id": "at109_vyrra",
+      "dimension": "authority",
+      "event_ids": [
+        "AT109_E02"
+      ],
+      "fact": "Thakorr banishes Vyrra over forbidden cloning research.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C03",
+      "from_id": "byrrah",
+      "to_id": "krang",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AT109_E03"
+      ],
+      "fact": "Byrrah and Krang conspire to depose Namor.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C04",
+      "from_id": "at109_betty",
+      "to_id": "namor",
+      "dimension": "influence",
+      "event_ids": [
+        "AT109_E04"
+      ],
+      "fact": "Betty persuades Namor to suspend surface attacks.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C05",
+      "from_id": "at109_betty",
+      "to_id": "namor",
+      "dimension": "influence",
+      "event_ids": [
+        "AT109_E05"
+      ],
+      "fact": "Betty appeals to Namor to return to surface affairs.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C06",
+      "from_id": "namora",
+      "to_id": "at109_betty",
+      "dimension": "protection",
+      "event_ids": [
+        "AT109_E06"
+      ],
+      "fact": "Namora searches for missing explorers including Betty.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C07",
+      "from_id": "namor",
+      "to_id": "at109_kamar",
+      "dimension": "protection",
+      "event_ids": [
+        "AT109_E07"
+      ],
+      "fact": "Namor sends infant Kamar to an Arctic settlement for safety.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C08",
+      "from_id": "namor",
+      "to_id": "at109_kamar",
+      "dimension": "conflict",
+      "event_ids": [
+        "AT109_E08"
+      ],
+      "fact": "Namor confronts a faction led by adult Kamar.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C09",
+      "from_id": "namor",
+      "to_id": "at109_tamara",
+      "dimension": "protection",
+      "event_ids": [
+        "AT109_E09"
+      ],
+      "fact": "Namor organizes the rescue of Tamara Rahn.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C10",
+      "from_id": "at109_tamara",
+      "to_id": "namor",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AT109_E10"
+      ],
+      "fact": "Tamara works as Namor's covert operative.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C11",
+      "from_id": "at109_vyrra",
+      "to_id": "at109_llyron",
+      "dimension": "influence",
+      "event_ids": [
+        "AT109_E11"
+      ],
+      "fact": "Vyrra accelerates Llyron to adulthood.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C12",
+      "from_id": "at109_llyron",
+      "to_id": "namor",
+      "dimension": "conflict",
+      "event_ids": [
+        "AT109_E12"
+      ],
+      "fact": "Llyron challenges Namor's throne and frames him for attacks.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C13",
+      "from_id": "at109_stomp",
+      "to_id": "namora",
+      "dimension": "conflict",
+      "event_ids": [
+        "AT109_E13"
+      ],
+      "fact": "Stomp attacks the royal gathering; Namora fights his gang.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C14",
+      "from_id": "at109_vashti",
+      "to_id": "attuma",
+      "dimension": "cooperation",
+      "event_ids": [
+        "AT109_E14"
+      ],
+      "fact": "Vashti cooperates with Attuma to oppose Shakkoth.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C15",
+      "from_id": "at109_shakkoth",
+      "to_id": "at109_vashti",
+      "dimension": "conflict",
+      "event_ids": [
+        "AT109_E15"
+      ],
+      "fact": "Vashti opposes Shakkoth's rebellion.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C16",
+      "from_id": "at109_shakkoth",
+      "to_id": "attuma",
+      "dimension": "conflict",
+      "event_ids": [
+        "AT109_E16"
+      ],
+      "fact": "Attuma's forces oppose Shakkoth.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C17",
+      "from_id": "radioactive_man",
+      "to_id": "at109_tamara",
+      "dimension": "coercion",
+      "event_ids": [
+        "AT109_E17"
+      ],
+      "fact": "Chen Lu secretly irradiates Tamara as a delivery mechanism.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    },
+    {
+      "id": "AT109_C18",
+      "from_id": "radioactive_man",
+      "to_id": "at109_llyron",
+      "dimension": "conflict",
+      "event_ids": [
+        "AT109_E18"
+      ],
+      "fact": "Chen Lu infects Llyron with radioactive plague.",
+      "interpretation": "Event-scoped observation; motive, permanence, and reciprocity not established.",
+      "status": "provisional"
+    }
+  ],
+  "review_notes": [
+    "Original panels not independently reviewed.",
+    "Publisher summaries used; issue attribution may require correction.",
+    "Deduplication against unmerged batches outstanding."
+  ]
+}
