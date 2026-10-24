@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-24",
+  "scope": "27 preserved but unmerged research batches",
+  "canonical_path": "data/relationship_pilot.json",
+  "status": "PARTIALLY_MERGED_WITH_EVIDENCE_GATES",
+  "merged_batches": [
+    "RUN18",
+    "COS48",
+    "AV49",
+    "CR50",
+    "LAT51",
+    "INH52",
+    "XF53",
+    "SW54",
+    "DB55",
+    "COS56",
+    "MYS57",
+    "AF58",
+    "SER59",
+    "INH60",
+    "CIV61",
+    "MOR62",
+    "COS63",
+    "SW64",
+    "SA65",
+    "AT109",
+    "AI110"
+  ],
+  "not_merged": [
+    "CA10",
+    "FF11",
+    "VAMP12",
+    "WAK96",
+    "NOV97",
+    "SWR98"
+  ],
+  "reasons": {
+    "CA10": "Stored events explicitly say UNVERIFIED and original story observations not recovered.",
+    "FF11": "Stored events explicitly say UNVERIFIED and original story observations not recovered.",
+    "VAMP12": "Stored events explicitly say UNVERIFIED and original story observations not recovered; some proposed dimensions are not supported by schema.",
+    "WAK96": "Abbreviated recovery has names and pair strings but not complete issue-scoped event/source mapping.",
+    "NOV97": "Abbreviated recovery has names and pair strings but not complete issue-scoped event/source mapping.",
+    "SWR98": "Abbreviated recovery has names and pair strings but not complete issue-scoped event/source mapping."
+  },
+  "deferred_claims": [
+    {
+      "batch": "COS63",
+      "id": "COS63_20261021_c11",
+      "reason": "Dimension loyalty not in canonical taxonomy; do not silently reclassify as cooperation."
+    }
+  ],
+  "quality_notes": [
+    "AT109 and AI110 were reconstructed and merged as provisional records, not verified original-panel evidence.",
+    "Canonical IDs for 17 duplicated name groups were consolidated; 26 redundant person rows removed, with redirects recorded in identity_warnings.",
+    "Iron Lad and Kang intentionally retained as separate temporal identities.",
+    "Automated checks verified unique IDs and that event, claim and source references resolve; no independent source-page or issue-panel verification was performed.",
+    "Original historical batch files remain unchanged for audit.",
+    "Canonical data file updated in four sequential commits; this report does not imply every record is publication-ready."
+  ],
+  "commits": [
+    "eae5f1d0f434405c613bea42cc26a88ba0ee25a2",
+    "211e763136fb480eb411160528c387fdb984a490",
+    "68c9fb4ff50fbf1025ae7e8e50b20837b3f07ba9",
+    "71c19031b8f3eec5c8d60a775ae94d602f07d9e1"
+  ]
+}
