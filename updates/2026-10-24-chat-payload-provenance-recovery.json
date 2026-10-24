@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-24",
+  "scope": "Previously classified as not verified preserved; search of earlier ChatGPT conversation records",
+  "status": "ORIGINAL_CHAT_MESSAGES_LOCATED_CONTENT_NOT_EXTRACTED",
+  "important": "An original full JSON payload having appeared in ChatGPT history is distinct from its complete bytes being retrievable by the current connector. Do not treat as lost or re-create from summaries.",
+  "original_messages_located": [
+    {
+      "id": "HFC7",
+      "date": "2026-10-19",
+      "time": "10:49",
+      "file": "marvel_hellfire_relationship_batch_HFC7_2026-10-19.json"
+    },
+    {
+      "id": "SIA8",
+      "date": "2026-10-19",
+      "time": "11:51",
+      "file": "marvel_shiar_succession_relationship_batch_SIA8_2026-10-19.json"
+    },
+    {
+      "id": "TB9",
+      "date": "2026-10-19",
+      "time": "13:03",
+      "file": "marvel_thunderbolts_villain_network_TB9_2026-10-19.json"
+    },
+    {
+      "id": "ROY15",
+      "date": "2026-10-19",
+      "time": "18:49"
+    },
+    {
+      "id": "SPY16",
+      "date": "2026-10-19",
+      "time": "19:43"
+    },
+    {
+      "id": "AIM17",
+      "date": "2026-10-19",
+      "time": "19:43",
+      "note": "Same conversation as SPY16"
+    },
+    {
+      "id": "PP80",
+      "date": "2026-10-23",
+      "time": "03:51"
+    },
+    {
+      "id": "XST81",
+      "date": "2026-10-23",
+      "time": "04:42"
+    },
+    {
+      "id": "SJ82",
+      "date": "2026-10-23",
+      "time": "05:51"
+    },
+    {
+      "id": "ESP103",
+      "date": "2026-10-24",
+      "time": "02:42"
+    },
+    {
+      "id": "PP104",
+      "date": "2026-10-24",
+      "time": "03:47"
+    },
+    {
+      "id": "SJ105",
+      "date": "2026-10-24",
+      "time": "04:43"
+    },
+    {
+      "id": "SS106",
+      "date": "2026-10-24",
+      "time": "05:44"
+    },
+    {
+      "id": "WW107",
+      "date": "2026-10-24",
+      "time": "06:43"
+    },
+    {
+      "id": "NM108",
+      "date": "2026-10-24",
+      "time": "07:50"
+    }
+  ],
+  "still_needs_message_locator": [
+    "LAT91",
+    "CIV92",
+    "IM93",
+    "MOR94",
+    "BLD95",
+    "MR102"
+  ],
+  "retrieval_limit": "The personal conversation index identifies original assistant messages but did not return the complete machine-readable JSON bodies. Library search for three exact early filenames returned no relevant files.",
+  "action": "Use original assistant message copy/export or source file retrieval to obtain full JSON; then reconcile against canonical data and merge only validated records.",
+  "canonical_unchanged": true
+}
