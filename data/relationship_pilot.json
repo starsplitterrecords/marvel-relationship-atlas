@@ -4180,6 +4180,174 @@
       "name": "Frank Payne",
       "alias": "Constrictor",
       "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_P01",
+      "name": "Ko-Rel",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "COS98_P02",
+      "name": "Xandarian Worldmind",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "COS98_P03",
+      "name": "Zam",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "COS98_P04",
+      "name": "Blastaar",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "COS98_P05",
+      "name": "Jack Flag (Jack Harrison)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "COS98_P06",
+      "name": "Bug (Guardians)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "COS98_P07",
+      "name": "Cosmo the Spacedog",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "COS98_P08",
+      "name": "Gabriel Vargas",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "GLA100_P01",
+      "name": "Craig Hollis (Mister Immortal)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "GLA100_P02",
+      "name": "Dinah Soar",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "GLA100_P03",
+      "name": "DeMarr Davis (Doorman)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "GLA100_P04",
+      "name": "Ashley Crawford (Big Bertha)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "GLA100_P05",
+      "name": "Doctor Nod",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "GLA100_P06",
+      "name": "Val Ventura (Flatman)",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "GLA100_P07",
+      "name": "Terminus",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "GLA100_P08",
+      "name": "Monkey Joe",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "WBN99_P01",
+      "name": "Gregory Russoff",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "WBN99_P02",
+      "name": "Laura Russoff Russell",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "WBN99_P03",
+      "name": "Philip Russell",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "WBN99_P04",
+      "name": "Lissa Russell",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "WBN99_P05",
+      "name": "Max Grant",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "WBN99_P06",
+      "name": "Buck Cowan",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "WBN99_P07",
+      "name": "Miles Blackgar",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "WBN99_P08",
+      "name": "Marlene Blackgar",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "WBN99_P09",
+      "name": "Taboo",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "WBN99_P10",
+      "name": "Algon",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "WBN99_P11",
+      "name": "Raymond Coker",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
+    },
+    {
+      "id": "WBN99_P12",
+      "name": "Glitternight",
+      "continuity": "Earth-616",
+      "review_status": "provisional; reconstructed research batch"
     }
   ],
   "dimensions": [
@@ -9690,6 +9858,62 @@
       "url": "https://www.marvel.com/comics/issue/17293/avengers_the_initiative_annual_2007_1",
       "evidence_tier": "publisher_secondary_or_issue_description",
       "kind": "publisher_secondary"
+    },
+    {
+      "id": "COS98_S01",
+      "title": "Marvel Ko-Rel",
+      "url": "https://www.marvel.com/characters/ko-rel",
+      "evidence_tier": "publisher_secondary_unverified",
+      "kind": "publisher_secondary",
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_S02",
+      "title": "Marvel Guardians highlights",
+      "url": "https://www.marvel.com/articles/comics/major-highlights-guardians-of-the-galaxy-2008-infinity-comics-adaptation",
+      "evidence_tier": "publisher_secondary_unverified",
+      "kind": "publisher_secondary",
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_S01",
+      "title": "Marvel Mister Immortal deaths",
+      "url": "https://www.marvel.com/amp/articles/comics/great-lakes-avengers-the-many-deaths-of-mr-immortal",
+      "evidence_tier": "publisher_secondary_unverified",
+      "kind": "publisher_secondary",
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_S02",
+      "title": "Marvel Oblivion",
+      "url": "https://www.marvel.com/characters/Oblivion",
+      "evidence_tier": "publisher_secondary_unverified",
+      "kind": "publisher_secondary",
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_S03",
+      "title": "Marvel GLA #6",
+      "url": "https://www.marvel.com/comics/issue/61502/great_lakes_avengers_2016_6",
+      "evidence_tier": "publisher_secondary_unverified",
+      "kind": "publisher_secondary",
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_S04",
+      "title": "Marvel GLA #7",
+      "url": "https://www.marvel.com/comics/issue/61503/great_lakes_avengers_2016_7",
+      "evidence_tier": "publisher_secondary_unverified",
+      "kind": "publisher_secondary",
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_S02",
+      "title": "Marvel Darkhold guide",
+      "url": "https://share.marvel.com/comics/discover/593/the-darkhold",
+      "evidence_tier": "publisher_secondary_unverified",
+      "kind": "publisher_secondary",
+      "review_status": "provisional"
     }
   ],
   "events": [
@@ -27332,6 +27556,580 @@
       "source_id": "HY42_20261022_S04",
       "continuity": "Earth-616",
       "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "COS98_E21",
+      "a": "COS98_P02",
+      "b": "COS98_P01",
+      "issue": "Nova (2007) #4-7",
+      "observation": "Guides transfer of Nova power to Ko-Rel",
+      "source_id": "COS98_S01",
+      "source_ids": [
+        "COS98_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E22",
+      "a": "COS98_P01",
+      "b": "richard",
+      "issue": "Nova (2007) #4-7",
+      "observation": "Attempts to rescue Richard from Phalanx control",
+      "source_id": "COS98_S01",
+      "source_ids": [
+        "COS98_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E23",
+      "a": "gamora",
+      "b": "COS98_P01",
+      "issue": "Nova (2007) #4-7",
+      "observation": "Kills Ko-Rel while under Phalanx influence",
+      "source_id": "COS98_S01",
+      "source_ids": [
+        "COS98_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E24",
+      "a": "COS98_P01",
+      "b": "COS98_P03",
+      "issue": "Nova (2007) #4-7",
+      "observation": "Ko-Rel is Zam's mother and retains his holographic image",
+      "source_id": "COS98_S01",
+      "source_ids": [
+        "COS98_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E25",
+      "a": "COS98_P02",
+      "b": "richard",
+      "issue": "Nova (2007) #4-7",
+      "observation": "Guides Richard in preservation of Nova legacy",
+      "source_id": "COS98_S01",
+      "source_ids": [
+        "COS98_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E26",
+      "a": "COS98_P07",
+      "b": "richard",
+      "issue": "Nova (2007) #8-10",
+      "observation": "Provides navigation toward Phalanx homeworld",
+      "source_id": "COS98_S01",
+      "source_ids": [
+        "COS98_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E10",
+      "a": "rocket",
+      "b": "COS98_P05",
+      "issue": "Guardians of the Galaxy (2008) #10",
+      "observation": "Rocket's Guardians extract Jack Flag from Prison 42",
+      "source_id": "COS98_S02",
+      "source_ids": [
+        "COS98_S02"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E11",
+      "a": "rocket",
+      "b": "COS98_P06",
+      "issue": "Guardians of the Galaxy (2008) #7-8",
+      "observation": "Recruits Bug into reorganized Guardians",
+      "source_id": "COS98_S02",
+      "source_ids": [
+        "COS98_S02"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E13",
+      "a": "COS98_P08",
+      "b": "COS63_20261021_p_deathcry",
+      "issue": "Annihilation: Conquest - Starlord #1-4",
+      "observation": "Kills Deathcry responding to her attack; intent unverified",
+      "source_id": "COS63_20261021_s07",
+      "source_ids": [
+        "COS63_20261021_s07"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E14",
+      "a": "COS63_20261021_p_deathcry",
+      "b": "COS98_P08",
+      "issue": "Annihilation: Conquest - Starlord #1-4",
+      "observation": "Attacks Vargas after he kills an opponent she was fighting",
+      "source_id": "COS63_20261021_s07",
+      "source_ids": [
+        "COS63_20261021_s07"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E15",
+      "a": "rocket",
+      "b": "COS98_P04",
+      "issue": "Guardians of the Galaxy (2008) #10",
+      "observation": "Rocket's team fights Blastaar's invading forces",
+      "source_id": "COS98_S02",
+      "source_ids": [
+        "COS98_S02"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E21",
+      "a": "GLA100_P01",
+      "b": "GLA100_P02",
+      "issue": "G.L.A.: Misassembled (2005) #1-4",
+      "observation": "Craig and Dinah are romantically involved",
+      "source_id": "GLA100_S01",
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E22",
+      "a": "GLA100_P02",
+      "b": "GLA100_P01",
+      "issue": "G.L.A.: Misassembled (2005) #1-4",
+      "observation": "Dinah calms Craig after resurrections",
+      "source_id": "GLA100_S01",
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E23",
+      "a": "maelstrom",
+      "b": "GLA100_P02",
+      "issue": "G.L.A.: Misassembled (2005) #1-4",
+      "observation": "Maelstrom kills Dinah with energy blast",
+      "source_id": "GLA100_S01",
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E24",
+      "a": "GLA100_P01",
+      "b": "maelstrom",
+      "issue": "G.L.A.: Misassembled (2005) #1-4",
+      "observation": "Craig induces mutual suicide and later disables machine",
+      "source_id": "GLA100_S01",
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E25",
+      "a": "deathurge",
+      "b": "GLA100_P01",
+      "issue": "Craig's childhood; recounted 2005",
+      "observation": "Deathurge guides Craig at his mother's request",
+      "source_id": "GLA100_S01",
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E26",
+      "a": "GLA100_P01",
+      "b": "deathurge",
+      "issue": "G.L.A.: Misassembled (2005) #1-4",
+      "observation": "Craig traps Deathurge when he arrives for Monkey Joe",
+      "source_id": "GLA100_S01",
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E27",
+      "a": "deadpool",
+      "b": "GLA100_P01",
+      "issue": "Pre-2016 encounters",
+      "observation": "Deadpool kills Craig repeatedly; exact issues pending",
+      "source_id": "GLA100_S01",
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E28",
+      "a": "GLA100_P07",
+      "b": "GLA100_P01",
+      "issue": "GLA encounter",
+      "observation": "Terminus crushes Craig during battle; issue pending",
+      "source_id": "GLA100_S01",
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E29",
+      "a": "oblivion",
+      "b": "GLA100_P03",
+      "issue": "Doorman cosmic appointment",
+      "observation": "Oblivion replaces Deathurge with Doorman; issue pending",
+      "source_id": "GLA100_S02",
+      "source_ids": [
+        "GLA100_S02"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E10",
+      "a": "GLA100_P05",
+      "b": "GLA100_P04",
+      "issue": "Great Lakes Avengers (2016) #5-7",
+      "observation": "Doctor Nod seeks to exploit Bertha's powers commercially",
+      "source_id": "GLA100_S03",
+      "source_ids": [
+        "GLA100_S03"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E11",
+      "a": "GLA100_P04",
+      "b": "GLA100_P05",
+      "issue": "Great Lakes Avengers (2016) #6-7",
+      "observation": "Bertha fights Nod's operation",
+      "source_id": "GLA100_S04",
+      "source_ids": [
+        "GLA100_S04"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E12",
+      "a": "GLA100_P06",
+      "b": "GLA100_P01",
+      "issue": "Great Lakes Avengers (2016) #2-3",
+      "observation": "Reported leadership disagreement; not verified by official issue evidence",
+      "source_id": "GLA100_S01",
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "GLA100_E13",
+      "a": "deathurge",
+      "b": "GLA100_P08",
+      "issue": "G.L.A.: Misassembled (2005)",
+      "observation": "Deathurge comes to escort Monkey Joe to afterlife",
+      "source_id": "GLA100_S01",
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E21",
+      "a": "WBN99_P01",
+      "b": "WBN99_P02",
+      "issue": "Russoff family origin",
+      "observation": "Married and had children",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E22",
+      "a": "WBN99_P02",
+      "b": "WBN99_P03",
+      "issue": "Russoff family origin",
+      "observation": "Formerly dated Philip, later married him after Gregory's death",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E23",
+      "a": "WBN99_P02",
+      "b": "jack_russell",
+      "issue": "Marvel Spotlight origin era",
+      "observation": "Asks Jack not to harm Philip before dying",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E24",
+      "a": "WBN99_P05",
+      "b": "WBN99_P02",
+      "issue": "Marvel Spotlight origin era",
+      "observation": "Sent to kill Laura after blackmail payments cease",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E25",
+      "a": "jack_russell",
+      "b": "WBN99_P05",
+      "issue": "Marvel Spotlight origin era",
+      "observation": "Kills Grant following Laura's fatal injuries",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E26",
+      "a": "jack_russell",
+      "b": "WBN99_P06",
+      "issue": "Werewolf by Night (1972) #1",
+      "observation": "Jack befriends Buck Cowan",
+      "source_id": "WBN99_S02",
+      "source_ids": [
+        "WBN99_S02"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E27",
+      "a": "WBN99_P08",
+      "b": "WBN99_P06",
+      "issue": "Werewolf by Night (1972) #1",
+      "observation": "Petrifying powers endanger Buck",
+      "source_id": "WBN99_S02",
+      "source_ids": [
+        "WBN99_S02"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E28",
+      "a": "WBN99_P07",
+      "b": "WBN99_P08",
+      "issue": "Werewolf by Night (1972) #1",
+      "observation": "Miles is Marlene's father",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E29",
+      "a": "WBN99_P08",
+      "b": "WBN99_P07",
+      "issue": "Werewolf by Night (1972) #1",
+      "observation": "Her petrifying powers kill Miles; intent unestablished",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E10",
+      "a": "WBN99_P09",
+      "b": "WBN99_P10",
+      "issue": "Early Werewolf by Night",
+      "observation": "Incomplete golden-touch spell leaves his son incapacitated",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E11",
+      "a": "WBN99_P09",
+      "b": "WBN99_P03",
+      "issue": "Early Werewolf by Night",
+      "observation": "Transfers Philip's mind into Algon's body",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E12",
+      "a": "WBN99_P09",
+      "b": "topaz_empath",
+      "issue": "Early Werewolf by Night",
+      "observation": "Topaz serves as Taboo's familiar",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E13",
+      "a": "WBN99_P12",
+      "b": "WBN99_P04",
+      "issue": "Glitternight storyline",
+      "observation": "Transforms Lissa into a were-demon",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E14",
+      "a": "topaz_empath",
+      "b": "WBN99_P12",
+      "issue": "Glitternight storyline",
+      "observation": "Opposes Glitternight in battle",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E15",
+      "a": "WBN99_P11",
+      "b": "jack_russell",
+      "issue": "Raymond Coker stories",
+      "observation": "Assists Jack against Ma Mayhem and Lou Hackett",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E16",
+      "a": "jack_russell",
+      "b": "WBN99_P04",
+      "issue": "Early Werewolf by Night",
+      "observation": "Protects Lissa from supernatural threats",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "WBN99_E17",
+      "a": "jack_russell",
+      "b": "WBN99_P06",
+      "issue": "Later ski-trip story",
+      "observation": "Nearly kills Buck during an uncontrolled transformation",
+      "source_id": "DARK31_20261020_S05",
+      "source_ids": [
+        "DARK31_20261020_S05"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
     }
   ],
   "claims": [
@@ -52522,6 +53320,662 @@
       "scope": "See linked event",
       "continuity": "Earth-616",
       "review_status": "provisional; original panels not independently reviewed"
+    },
+    {
+      "id": "COS98_C01",
+      "from_id": "COS98_P02",
+      "to_id": "COS98_P01",
+      "pair_id": "COS98_P01-COS98_P02",
+      "dimension": "influence",
+      "event_ids": [
+        "COS98_E21"
+      ],
+      "scope": "Nova (2007) #4-7",
+      "direct_observation": "Guides transfer of Nova power to Ko-Rel",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C02",
+      "from_id": "COS98_P01",
+      "to_id": "richard",
+      "pair_id": "COS98_P01-richard",
+      "dimension": "protection",
+      "event_ids": [
+        "COS98_E22"
+      ],
+      "scope": "Nova (2007) #4-7",
+      "direct_observation": "Attempts to rescue Richard from Phalanx control",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C03",
+      "from_id": "gamora",
+      "to_id": "COS98_P01",
+      "pair_id": "COS98_P01-gamora",
+      "dimension": "conflict",
+      "event_ids": [
+        "COS98_E23"
+      ],
+      "scope": "Nova (2007) #4-7",
+      "direct_observation": "Kills Ko-Rel while under Phalanx influence",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C04",
+      "from_id": "COS98_P01",
+      "to_id": "COS98_P03",
+      "pair_id": "COS98_P01-COS98_P03",
+      "dimension": "family",
+      "event_ids": [
+        "COS98_E24"
+      ],
+      "scope": "Nova (2007) #4-7",
+      "direct_observation": "Ko-Rel is Zam's mother and retains his holographic image",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C05",
+      "from_id": "COS98_P02",
+      "to_id": "richard",
+      "pair_id": "COS98_P02-richard",
+      "dimension": "authority",
+      "event_ids": [
+        "COS98_E25"
+      ],
+      "scope": "Nova (2007) #4-7",
+      "direct_observation": "Guides Richard in preservation of Nova legacy",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C06",
+      "from_id": "COS98_P07",
+      "to_id": "richard",
+      "pair_id": "COS98_P07-richard",
+      "dimension": "cooperation",
+      "event_ids": [
+        "COS98_E26"
+      ],
+      "scope": "Nova (2007) #8-10",
+      "direct_observation": "Provides navigation toward Phalanx homeworld",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C10",
+      "from_id": "rocket",
+      "to_id": "COS98_P05",
+      "pair_id": "COS98_P05-rocket",
+      "dimension": "protection",
+      "event_ids": [
+        "COS98_E10"
+      ],
+      "scope": "Guardians of the Galaxy (2008) #10",
+      "direct_observation": "Rocket's Guardians extract Jack Flag from Prison 42",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C11",
+      "from_id": "rocket",
+      "to_id": "COS98_P06",
+      "pair_id": "COS98_P06-rocket",
+      "dimension": "influence",
+      "event_ids": [
+        "COS98_E11"
+      ],
+      "scope": "Guardians of the Galaxy (2008) #7-8",
+      "direct_observation": "Recruits Bug into reorganized Guardians",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C13",
+      "from_id": "COS98_P08",
+      "to_id": "COS63_20261021_p_deathcry",
+      "pair_id": "COS63_20261021_p_deathcry-COS98_P08",
+      "dimension": "conflict",
+      "event_ids": [
+        "COS98_E13"
+      ],
+      "scope": "Annihilation: Conquest - Starlord #1-4",
+      "direct_observation": "Kills Deathcry responding to her attack; intent unverified",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C14",
+      "from_id": "COS63_20261021_p_deathcry",
+      "to_id": "COS98_P08",
+      "pair_id": "COS63_20261021_p_deathcry-COS98_P08",
+      "dimension": "conflict",
+      "event_ids": [
+        "COS98_E14"
+      ],
+      "scope": "Annihilation: Conquest - Starlord #1-4",
+      "direct_observation": "Attacks Vargas after he kills an opponent she was fighting",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C15",
+      "from_id": "rocket",
+      "to_id": "COS98_P04",
+      "pair_id": "COS98_P04-rocket",
+      "dimension": "conflict",
+      "event_ids": [
+        "COS98_E15"
+      ],
+      "scope": "Guardians of the Galaxy (2008) #10",
+      "direct_observation": "Rocket's team fights Blastaar's invading forces",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C01",
+      "from_id": "GLA100_P01",
+      "to_id": "GLA100_P02",
+      "pair_id": "GLA100_P01-GLA100_P02",
+      "dimension": "romance",
+      "event_ids": [
+        "GLA100_E21"
+      ],
+      "scope": "G.L.A.: Misassembled (2005) #1-4",
+      "direct_observation": "Craig and Dinah are romantically involved",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C02",
+      "from_id": "GLA100_P02",
+      "to_id": "GLA100_P01",
+      "pair_id": "GLA100_P01-GLA100_P02",
+      "dimension": "protection",
+      "event_ids": [
+        "GLA100_E22"
+      ],
+      "scope": "G.L.A.: Misassembled (2005) #1-4",
+      "direct_observation": "Dinah calms Craig after resurrections",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C03",
+      "from_id": "maelstrom",
+      "to_id": "GLA100_P02",
+      "pair_id": "GLA100_P02-maelstrom",
+      "dimension": "conflict",
+      "event_ids": [
+        "GLA100_E23"
+      ],
+      "scope": "G.L.A.: Misassembled (2005) #1-4",
+      "direct_observation": "Maelstrom kills Dinah with energy blast",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C04",
+      "from_id": "GLA100_P01",
+      "to_id": "maelstrom",
+      "pair_id": "GLA100_P01-maelstrom",
+      "dimension": "conflict",
+      "event_ids": [
+        "GLA100_E24"
+      ],
+      "scope": "G.L.A.: Misassembled (2005) #1-4",
+      "direct_observation": "Craig induces mutual suicide and later disables machine",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C05",
+      "from_id": "deathurge",
+      "to_id": "GLA100_P01",
+      "pair_id": "GLA100_P01-deathurge",
+      "dimension": "influence",
+      "event_ids": [
+        "GLA100_E25"
+      ],
+      "scope": "Craig's childhood; recounted 2005",
+      "direct_observation": "Deathurge guides Craig at his mother's request",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C06",
+      "from_id": "GLA100_P01",
+      "to_id": "deathurge",
+      "pair_id": "GLA100_P01-deathurge",
+      "dimension": "conflict",
+      "event_ids": [
+        "GLA100_E26"
+      ],
+      "scope": "G.L.A.: Misassembled (2005) #1-4",
+      "direct_observation": "Craig traps Deathurge when he arrives for Monkey Joe",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C07",
+      "from_id": "deadpool",
+      "to_id": "GLA100_P01",
+      "pair_id": "GLA100_P01-deadpool",
+      "dimension": "conflict",
+      "event_ids": [
+        "GLA100_E27"
+      ],
+      "scope": "Pre-2016 encounters",
+      "direct_observation": "Deadpool kills Craig repeatedly; exact issues pending",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C08",
+      "from_id": "GLA100_P07",
+      "to_id": "GLA100_P01",
+      "pair_id": "GLA100_P01-GLA100_P07",
+      "dimension": "conflict",
+      "event_ids": [
+        "GLA100_E28"
+      ],
+      "scope": "GLA encounter",
+      "direct_observation": "Terminus crushes Craig during battle; issue pending",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C09",
+      "from_id": "oblivion",
+      "to_id": "GLA100_P03",
+      "pair_id": "GLA100_P03-oblivion",
+      "dimension": "authority",
+      "event_ids": [
+        "GLA100_E29"
+      ],
+      "scope": "Doorman cosmic appointment",
+      "direct_observation": "Oblivion replaces Deathurge with Doorman; issue pending",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C10",
+      "from_id": "GLA100_P05",
+      "to_id": "GLA100_P04",
+      "pair_id": "GLA100_P04-GLA100_P05",
+      "dimension": "coercion",
+      "event_ids": [
+        "GLA100_E10"
+      ],
+      "scope": "Great Lakes Avengers (2016) #5-7",
+      "direct_observation": "Doctor Nod seeks to exploit Bertha's powers commercially",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C11",
+      "from_id": "GLA100_P04",
+      "to_id": "GLA100_P05",
+      "pair_id": "GLA100_P04-GLA100_P05",
+      "dimension": "conflict",
+      "event_ids": [
+        "GLA100_E11"
+      ],
+      "scope": "Great Lakes Avengers (2016) #6-7",
+      "direct_observation": "Bertha fights Nod's operation",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C12",
+      "from_id": "GLA100_P06",
+      "to_id": "GLA100_P01",
+      "pair_id": "GLA100_P01-GLA100_P06",
+      "dimension": "conflict",
+      "event_ids": [
+        "GLA100_E12"
+      ],
+      "scope": "Great Lakes Avengers (2016) #2-3",
+      "direct_observation": "Reported leadership disagreement; not verified by official issue evidence",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "GLA100_C13",
+      "from_id": "deathurge",
+      "to_id": "GLA100_P08",
+      "pair_id": "GLA100_P08-deathurge",
+      "dimension": "professional",
+      "event_ids": [
+        "GLA100_E13"
+      ],
+      "scope": "G.L.A.: Misassembled (2005)",
+      "direct_observation": "Deathurge comes to escort Monkey Joe to afterlife",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C01",
+      "from_id": "WBN99_P01",
+      "to_id": "WBN99_P02",
+      "pair_id": "WBN99_P01-WBN99_P02",
+      "dimension": "romance",
+      "event_ids": [
+        "WBN99_E21"
+      ],
+      "scope": "Russoff family origin",
+      "direct_observation": "Married and had children",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C02",
+      "from_id": "WBN99_P02",
+      "to_id": "WBN99_P03",
+      "pair_id": "WBN99_P02-WBN99_P03",
+      "dimension": "romance",
+      "event_ids": [
+        "WBN99_E22"
+      ],
+      "scope": "Russoff family origin",
+      "direct_observation": "Formerly dated Philip, later married him after Gregory's death",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C03",
+      "from_id": "WBN99_P02",
+      "to_id": "jack_russell",
+      "pair_id": "WBN99_P02-jack_russell",
+      "dimension": "protection",
+      "event_ids": [
+        "WBN99_E23"
+      ],
+      "scope": "Marvel Spotlight origin era",
+      "direct_observation": "Asks Jack not to harm Philip before dying",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C04",
+      "from_id": "WBN99_P05",
+      "to_id": "WBN99_P02",
+      "pair_id": "WBN99_P02-WBN99_P05",
+      "dimension": "conflict",
+      "event_ids": [
+        "WBN99_E24"
+      ],
+      "scope": "Marvel Spotlight origin era",
+      "direct_observation": "Sent to kill Laura after blackmail payments cease",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C05",
+      "from_id": "jack_russell",
+      "to_id": "WBN99_P05",
+      "pair_id": "WBN99_P05-jack_russell",
+      "dimension": "conflict",
+      "event_ids": [
+        "WBN99_E25"
+      ],
+      "scope": "Marvel Spotlight origin era",
+      "direct_observation": "Kills Grant following Laura's fatal injuries",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C06",
+      "from_id": "jack_russell",
+      "to_id": "WBN99_P06",
+      "pair_id": "WBN99_P06-jack_russell",
+      "dimension": "friendship",
+      "event_ids": [
+        "WBN99_E26"
+      ],
+      "scope": "Werewolf by Night (1972) #1",
+      "direct_observation": "Jack befriends Buck Cowan",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C07",
+      "from_id": "WBN99_P08",
+      "to_id": "WBN99_P06",
+      "pair_id": "WBN99_P06-WBN99_P08",
+      "dimension": "conflict",
+      "event_ids": [
+        "WBN99_E27"
+      ],
+      "scope": "Werewolf by Night (1972) #1",
+      "direct_observation": "Petrifying powers endanger Buck",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C08",
+      "from_id": "WBN99_P07",
+      "to_id": "WBN99_P08",
+      "pair_id": "WBN99_P07-WBN99_P08",
+      "dimension": "family",
+      "event_ids": [
+        "WBN99_E28"
+      ],
+      "scope": "Werewolf by Night (1972) #1",
+      "direct_observation": "Miles is Marlene's father",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C09",
+      "from_id": "WBN99_P08",
+      "to_id": "WBN99_P07",
+      "pair_id": "WBN99_P07-WBN99_P08",
+      "dimension": "conflict",
+      "event_ids": [
+        "WBN99_E29"
+      ],
+      "scope": "Werewolf by Night (1972) #1",
+      "direct_observation": "Her petrifying powers kill Miles; intent unestablished",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C10",
+      "from_id": "WBN99_P09",
+      "to_id": "WBN99_P10",
+      "pair_id": "WBN99_P09-WBN99_P10",
+      "dimension": "influence",
+      "event_ids": [
+        "WBN99_E10"
+      ],
+      "scope": "Early Werewolf by Night",
+      "direct_observation": "Incomplete golden-touch spell leaves his son incapacitated",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C11",
+      "from_id": "WBN99_P09",
+      "to_id": "WBN99_P03",
+      "pair_id": "WBN99_P03-WBN99_P09",
+      "dimension": "coercion",
+      "event_ids": [
+        "WBN99_E11"
+      ],
+      "scope": "Early Werewolf by Night",
+      "direct_observation": "Transfers Philip's mind into Algon's body",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C12",
+      "from_id": "WBN99_P09",
+      "to_id": "topaz_empath",
+      "pair_id": "WBN99_P09-topaz_empath",
+      "dimension": "authority",
+      "event_ids": [
+        "WBN99_E12"
+      ],
+      "scope": "Early Werewolf by Night",
+      "direct_observation": "Topaz serves as Taboo's familiar",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C13",
+      "from_id": "WBN99_P12",
+      "to_id": "WBN99_P04",
+      "pair_id": "WBN99_P04-WBN99_P12",
+      "dimension": "coercion",
+      "event_ids": [
+        "WBN99_E13"
+      ],
+      "scope": "Glitternight storyline",
+      "direct_observation": "Transforms Lissa into a were-demon",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C14",
+      "from_id": "topaz_empath",
+      "to_id": "WBN99_P12",
+      "pair_id": "WBN99_P12-topaz_empath",
+      "dimension": "conflict",
+      "event_ids": [
+        "WBN99_E14"
+      ],
+      "scope": "Glitternight storyline",
+      "direct_observation": "Opposes Glitternight in battle",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C15",
+      "from_id": "WBN99_P11",
+      "to_id": "jack_russell",
+      "pair_id": "WBN99_P11-jack_russell",
+      "dimension": "cooperation",
+      "event_ids": [
+        "WBN99_E15"
+      ],
+      "scope": "Raymond Coker stories",
+      "direct_observation": "Assists Jack against Ma Mayhem and Lou Hackett",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C16",
+      "from_id": "jack_russell",
+      "to_id": "WBN99_P04",
+      "pair_id": "WBN99_P04-jack_russell",
+      "dimension": "protection",
+      "event_ids": [
+        "WBN99_E16"
+      ],
+      "scope": "Early Werewolf by Night",
+      "direct_observation": "Protects Lissa from supernatural threats",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "WBN99_C17",
+      "from_id": "jack_russell",
+      "to_id": "WBN99_P06",
+      "pair_id": "WBN99_P06-jack_russell",
+      "dimension": "conflict",
+      "event_ids": [
+        "WBN99_E17"
+      ],
+      "scope": "Later ski-trip story",
+      "direct_observation": "Nearly kills Buck during an uncontrolled transformation",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
     }
   ],
   "research_backlog": [
