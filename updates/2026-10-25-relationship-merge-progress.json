@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-25",
+  "status": "PARTIAL_CANONICAL_MERGE_REMAINING_RECOVERY_OPEN",
+  "canonical_sha": "f3eb6c78297e67e4738bbbf14df775d327d76a1d",
+  "canonical_counts": {
+    "people": 719,
+    "sources": 735,
+    "events": 1280,
+    "claims": 1553
+  },
+  "merged_this_session": [
+    "COS98_20261025",
+    "GLA100_20261025",
+    "WBN99_20261025"
+  ],
+  "merged_records": {
+    "people": 28,
+    "sources": 7,
+    "events": 45,
+    "claims": 45
+  },
+  "commits": [
+    "a8ce492fed5f7c202fa290972bd942c4fe28c5b0",
+    "60fc65b32ee176b22832376e2982de8a0a2abb87"
+  ],
+  "still_deferred": [
+    "CA10",
+    "FF11",
+    "VAMP12",
+    "WAK96",
+    "NOV97",
+    "SWR98"
+  ],
+  "recent_chat_payloads_not_retrieved_as_bytes": [
+    "WAK113",
+    "COS114",
+    "MYS115"
+  ],
+  "earlier_chat_messages_located_full_payload_unretrieved": [
+    "HFC7",
+    "SIA8",
+    "TB9",
+    "ROY15",
+    "SPY16",
+    "AIM17",
+    "PP80",
+    "XST81",
+    "SJ82",
+    "ESP103",
+    "PP104",
+    "SJ105",
+    "SS106",
+    "WW107",
+    "NM108"
+  ],
+  "message_locators_missing": [
+    "LAT91",
+    "CIV92",
+    "IM93",
+    "MOR94",
+    "BLD95",
+    "MR102"
+  ],
+  "warning": "Do not infer complete machine-readable JSON from conversation summaries. Do not merge invented data. These remain recovery tasks.",
+  "validation": "Merged claims have valid person and event endpoints; original comic panels not reviewed; further full repository validation still required."
+}
