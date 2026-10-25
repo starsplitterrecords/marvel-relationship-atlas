@@ -1,0 +1,472 @@
+{
+  "meta": {
+    "batch_id": "COS98_20261025",
+    "title": "Cosmic reconstruction and Guardians",
+    "status": "PRESERVED_UNMERGED",
+    "origin": "ChatGPT research messages 2026-10-25",
+    "canonical_reference_sha": "287368f6cca981aaf14e5d1a8dc0fa9a864c5faf",
+    "warning": "Reconstructed normalized preservation of the chat research; original issue panels not verified. Candidate people and claim endpoints require canonical crosswalk before insertion. Not canonical merged."
+  },
+  "people": [
+    {
+      "id": "COS98_P01",
+      "name": "Ko-Rel",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "COS98_P02",
+      "name": "Xandarian Worldmind",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "COS98_P03",
+      "name": "Zam",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "COS98_P04",
+      "name": "Blastaar",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "COS98_P05",
+      "name": "Jack Flag (Jack Harrison)",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "COS98_P06",
+      "name": "Bug (Guardians)",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "COS98_P07",
+      "name": "Cosmo the Spacedog",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "COS98_P08",
+      "name": "Gabriel Vargas",
+      "identity_status": "candidate_not_yet_crosswalked"
+    }
+  ],
+  "sources": [
+    {
+      "id": "COS98_S01",
+      "title": "Marvel Ko-Rel",
+      "url": "https://www.marvel.com/characters/ko-rel",
+      "tier": "official_marvel_secondary"
+    },
+    {
+      "id": "COS98_S02",
+      "title": "Marvel Guardians highlights",
+      "url": "https://www.marvel.com/articles/comics/major-highlights-guardians-of-the-galaxy-2008-infinity-comics-adaptation",
+      "tier": "official_marvel_secondary"
+    },
+    {
+      "id": "COS98_S03",
+      "title": "Marvel Guardians team divided",
+      "url": "https://www.marvel.com/articles/comics/guarding-the-galaxy-a-team-divided",
+      "tier": "official_marvel_secondary"
+    },
+    {
+      "id": "COS98_S04",
+      "title": "Marvel Deathcry",
+      "url": "https://www.marvel.com/characters/Deathcry",
+      "tier": "official_marvel_secondary"
+    }
+  ],
+  "events": [
+    {
+      "id": "COS98_E21",
+      "a": "Xandarian Worldmind",
+      "c": "Ko-Rel",
+      "issue": "Nova (2007) #4-7",
+      "observation": "Guides transfer of Nova power to Ko-Rel",
+      "source_id": "COS98_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E22",
+      "a": "Ko-Rel",
+      "c": "Richard Rider",
+      "issue": "Nova (2007) #4-7",
+      "observation": "Attempts to rescue Richard from Phalanx control",
+      "source_id": "COS98_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E23",
+      "a": "Gamora",
+      "c": "Ko-Rel",
+      "issue": "Nova (2007) #4-7",
+      "observation": "Kills Ko-Rel while under Phalanx influence",
+      "source_id": "COS98_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E24",
+      "a": "Ko-Rel",
+      "c": "Zam",
+      "issue": "Nova (2007) #4-7",
+      "observation": "Ko-Rel is Zam's mother and retains his holographic image",
+      "source_id": "COS98_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E25",
+      "a": "Xandarian Worldmind",
+      "c": "Richard Rider",
+      "issue": "Nova (2007) #4-7",
+      "observation": "Guides Richard in preservation of Nova legacy",
+      "source_id": "COS98_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E26",
+      "a": "Cosmo the Spacedog",
+      "c": "Richard Rider",
+      "issue": "Nova (2007) #8-10",
+      "observation": "Provides navigation toward Phalanx homeworld",
+      "source_id": "COS98_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E27",
+      "a": "Blastaar",
+      "c": "Peter Quill",
+      "issue": "Guardians of the Galaxy (2008) #8-10",
+      "observation": "Captures Quill and attempts to use him to enter Prison 42",
+      "source_id": "COS98_S02",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E28",
+      "a": "Peter Quill",
+      "c": "Jack Flag (Jack Harrison)",
+      "issue": "Guardians of the Galaxy (2008) #9-10",
+      "observation": "Works with Jack Flag against Blastaar",
+      "source_id": "COS98_S03",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E29",
+      "a": "Jack Flag (Jack Harrison)",
+      "c": "Peter Quill",
+      "issue": "Guardians of the Galaxy (2008) #9-10",
+      "observation": "Cooperates with Quill inside Prison 42",
+      "source_id": "COS98_S03",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E10",
+      "a": "Rocket Raccoon",
+      "c": "Jack Flag (Jack Harrison)",
+      "issue": "Guardians of the Galaxy (2008) #10",
+      "observation": "Rocket's Guardians extract Jack Flag from Prison 42",
+      "source_id": "COS98_S02",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E11",
+      "a": "Rocket Raccoon",
+      "c": "Bug (Guardians)",
+      "issue": "Guardians of the Galaxy (2008) #7-8",
+      "observation": "Recruits Bug into reorganized Guardians",
+      "source_id": "COS98_S02",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E12",
+      "a": "Bug (Guardians)",
+      "c": "Peter Quill",
+      "issue": "Guardians of the Galaxy (2008) #7-8",
+      "observation": "Resents omission from Quill's original Guardians lineup",
+      "source_id": "COS98_S02",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E13",
+      "a": "Gabriel Vargas",
+      "c": "Deathcry",
+      "issue": "Annihilation: Conquest - Starlord #1-4",
+      "observation": "Kills Deathcry responding to her attack; intent unverified",
+      "source_id": "COS98_S04",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E14",
+      "a": "Deathcry",
+      "c": "Gabriel Vargas",
+      "issue": "Annihilation: Conquest - Starlord #1-4",
+      "observation": "Attacks Vargas after he kills an opponent she was fighting",
+      "source_id": "COS98_S04",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "COS98_E15",
+      "a": "Rocket Raccoon",
+      "c": "Blastaar",
+      "issue": "Guardians of the Galaxy (2008) #10",
+      "observation": "Rocket's team fights Blastaar's invading forces",
+      "source_id": "COS98_S02",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    }
+  ],
+  "claims": [
+    {
+      "id": "COS98_C01",
+      "from": "Xandarian Worldmind",
+      "to": "Ko-Rel",
+      "dimension": "influence",
+      "scope": "Nova (2007) #4-7",
+      "documented_fact": "Guides transfer of Nova power to Ko-Rel",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E21"
+      ],
+      "source_ids": [
+        "COS98_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C02",
+      "from": "Ko-Rel",
+      "to": "Richard Rider",
+      "dimension": "protection",
+      "scope": "Nova (2007) #4-7",
+      "documented_fact": "Attempts to rescue Richard from Phalanx control",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E22"
+      ],
+      "source_ids": [
+        "COS98_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C03",
+      "from": "Gamora",
+      "to": "Ko-Rel",
+      "dimension": "conflict",
+      "scope": "Nova (2007) #4-7",
+      "documented_fact": "Kills Ko-Rel while under Phalanx influence",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E23"
+      ],
+      "source_ids": [
+        "COS98_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C04",
+      "from": "Ko-Rel",
+      "to": "Zam",
+      "dimension": "family",
+      "scope": "Nova (2007) #4-7",
+      "documented_fact": "Ko-Rel is Zam's mother and retains his holographic image",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E24"
+      ],
+      "source_ids": [
+        "COS98_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C05",
+      "from": "Xandarian Worldmind",
+      "to": "Richard Rider",
+      "dimension": "authority",
+      "scope": "Nova (2007) #4-7",
+      "documented_fact": "Guides Richard in preservation of Nova legacy",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E25"
+      ],
+      "source_ids": [
+        "COS98_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C06",
+      "from": "Cosmo the Spacedog",
+      "to": "Richard Rider",
+      "dimension": "cooperation",
+      "scope": "Nova (2007) #8-10",
+      "documented_fact": "Provides navigation toward Phalanx homeworld",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E26"
+      ],
+      "source_ids": [
+        "COS98_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C07",
+      "from": "Blastaar",
+      "to": "Peter Quill",
+      "dimension": "coercion",
+      "scope": "Guardians of the Galaxy (2008) #8-10",
+      "documented_fact": "Captures Quill and attempts to use him to enter Prison 42",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E27"
+      ],
+      "source_ids": [
+        "COS98_S02"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C08",
+      "from": "Peter Quill",
+      "to": "Jack Flag (Jack Harrison)",
+      "dimension": "cooperation",
+      "scope": "Guardians of the Galaxy (2008) #9-10",
+      "documented_fact": "Works with Jack Flag against Blastaar",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E28"
+      ],
+      "source_ids": [
+        "COS98_S03"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C09",
+      "from": "Jack Flag (Jack Harrison)",
+      "to": "Peter Quill",
+      "dimension": "cooperation",
+      "scope": "Guardians of the Galaxy (2008) #9-10",
+      "documented_fact": "Cooperates with Quill inside Prison 42",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E29"
+      ],
+      "source_ids": [
+        "COS98_S03"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C10",
+      "from": "Rocket Raccoon",
+      "to": "Jack Flag (Jack Harrison)",
+      "dimension": "protection",
+      "scope": "Guardians of the Galaxy (2008) #10",
+      "documented_fact": "Rocket's Guardians extract Jack Flag from Prison 42",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E10"
+      ],
+      "source_ids": [
+        "COS98_S02"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C11",
+      "from": "Rocket Raccoon",
+      "to": "Bug (Guardians)",
+      "dimension": "influence",
+      "scope": "Guardians of the Galaxy (2008) #7-8",
+      "documented_fact": "Recruits Bug into reorganized Guardians",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E11"
+      ],
+      "source_ids": [
+        "COS98_S02"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C12",
+      "from": "Bug (Guardians)",
+      "to": "Peter Quill",
+      "dimension": "conflict",
+      "scope": "Guardians of the Galaxy (2008) #7-8",
+      "documented_fact": "Resents omission from Quill's original Guardians lineup",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E12"
+      ],
+      "source_ids": [
+        "COS98_S02"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C13",
+      "from": "Gabriel Vargas",
+      "to": "Deathcry",
+      "dimension": "conflict",
+      "scope": "Annihilation: Conquest - Starlord #1-4",
+      "documented_fact": "Kills Deathcry responding to her attack; intent unverified",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E13"
+      ],
+      "source_ids": [
+        "COS98_S04"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C14",
+      "from": "Deathcry",
+      "to": "Gabriel Vargas",
+      "dimension": "conflict",
+      "scope": "Annihilation: Conquest - Starlord #1-4",
+      "documented_fact": "Attacks Vargas after he kills an opponent she was fighting",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E14"
+      ],
+      "source_ids": [
+        "COS98_S04"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "COS98_C15",
+      "from": "Rocket Raccoon",
+      "to": "Blastaar",
+      "dimension": "conflict",
+      "scope": "Guardians of the Galaxy (2008) #10",
+      "documented_fact": "Rocket's team fights Blastaar's invading forces",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "COS98_E15"
+      ],
+      "source_ids": [
+        "COS98_S02"
+      ],
+      "review_status": "provisional"
+    }
+  ]
+}
