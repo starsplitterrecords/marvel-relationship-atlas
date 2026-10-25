@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "batch_id": "GLA100_20261025",
+    "title": "Great Lakes Avengers grief and cosmic authority",
+    "status": "PRESERVED_UNMERGED",
+    "origin": "ChatGPT research messages 2026-10-25",
+    "canonical_reference_sha": "287368f6cca981aaf14e5d1a8dc0fa9a864c5faf",
+    "warning": "Reconstructed normalized preservation of the chat research; original issue panels not verified. Candidate people and claim endpoints require canonical crosswalk before insertion. Not canonical merged."
+  },
+  "people": [
+    {
+      "id": "GLA100_P01",
+      "name": "Craig Hollis (Mister Immortal)",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "GLA100_P02",
+      "name": "Dinah Soar",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "GLA100_P03",
+      "name": "DeMarr Davis (Doorman)",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "GLA100_P04",
+      "name": "Ashley Crawford (Big Bertha)",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "GLA100_P05",
+      "name": "Doctor Nod",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "GLA100_P06",
+      "name": "Val Ventura (Flatman)",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "GLA100_P07",
+      "name": "Terminus",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "GLA100_P08",
+      "name": "Monkey Joe",
+      "identity_status": "candidate_not_yet_crosswalked"
+    }
+  ],
+  "sources": [
+    {
+      "id": "GLA100_S01",
+      "title": "Marvel Mister Immortal deaths",
+      "url": "https://www.marvel.com/amp/articles/comics/great-lakes-avengers-the-many-deaths-of-mr-immortal",
+      "tier": "official_marvel_secondary"
+    },
+    {
+      "id": "GLA100_S02",
+      "title": "Marvel Oblivion",
+      "url": "https://www.marvel.com/characters/Oblivion",
+      "tier": "official_marvel_secondary"
+    },
+    {
+      "id": "GLA100_S03",
+      "title": "Marvel GLA #6",
+      "url": "https://www.marvel.com/comics/issue/61502/great_lakes_avengers_2016_6",
+      "tier": "official_marvel_secondary"
+    },
+    {
+      "id": "GLA100_S04",
+      "title": "Marvel GLA #7",
+      "url": "https://www.marvel.com/comics/issue/61503/great_lakes_avengers_2016_7",
+      "tier": "official_marvel_secondary"
+    }
+  ],
+  "events": [
+    {
+      "id": "GLA100_E21",
+      "a": "Craig Hollis (Mister Immortal)",
+      "c": "Dinah Soar",
+      "issue": "G.L.A.: Misassembled (2005) #1-4",
+      "observation": "Craig and Dinah are romantically involved",
+      "source_id": "GLA100_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GLA100_E22",
+      "a": "Dinah Soar",
+      "c": "Craig Hollis (Mister Immortal)",
+      "issue": "G.L.A.: Misassembled (2005) #1-4",
+      "observation": "Dinah calms Craig after resurrections",
+      "source_id": "GLA100_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GLA100_E23",
+      "a": "Maelstrom",
+      "c": "Dinah Soar",
+      "issue": "G.L.A.: Misassembled (2005) #1-4",
+      "observation": "Maelstrom kills Dinah with energy blast",
+      "source_id": "GLA100_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GLA100_E24",
+      "a": "Craig Hollis (Mister Immortal)",
+      "c": "Maelstrom",
+      "issue": "G.L.A.: Misassembled (2005) #1-4",
+      "observation": "Craig induces mutual suicide and later disables machine",
+      "source_id": "GLA100_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GLA100_E25",
+      "a": "Deathurge",
+      "c": "Craig Hollis (Mister Immortal)",
+      "issue": "Craig's childhood; recounted 2005",
+      "observation": "Deathurge guides Craig at his mother's request",
+      "source_id": "GLA100_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GLA100_E26",
+      "a": "Craig Hollis (Mister Immortal)",
+      "c": "Deathurge",
+      "issue": "G.L.A.: Misassembled (2005) #1-4",
+      "observation": "Craig traps Deathurge when he arrives for Monkey Joe",
+      "source_id": "GLA100_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GLA100_E27",
+      "a": "Deadpool",
+      "c": "Craig Hollis (Mister Immortal)",
+      "issue": "Pre-2016 encounters",
+      "observation": "Deadpool kills Craig repeatedly; exact issues pending",
+      "source_id": "GLA100_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GLA100_E28",
+      "a": "Terminus",
+      "c": "Craig Hollis (Mister Immortal)",
+      "issue": "GLA encounter",
+      "observation": "Terminus crushes Craig during battle; issue pending",
+      "source_id": "GLA100_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GLA100_E29",
+      "a": "Oblivion",
+      "c": "DeMarr Davis (Doorman)",
+      "issue": "Doorman cosmic appointment",
+      "observation": "Oblivion replaces Deathurge with Doorman; issue pending",
+      "source_id": "GLA100_S02",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GLA100_E10",
+      "a": "Doctor Nod",
+      "c": "Ashley Crawford (Big Bertha)",
+      "issue": "Great Lakes Avengers (2016) #5-7",
+      "observation": "Doctor Nod seeks to exploit Bertha's powers commercially",
+      "source_id": "GLA100_S03",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GLA100_E11",
+      "a": "Ashley Crawford (Big Bertha)",
+      "c": "Doctor Nod",
+      "issue": "Great Lakes Avengers (2016) #6-7",
+      "observation": "Bertha fights Nod's operation",
+      "source_id": "GLA100_S04",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GLA100_E12",
+      "a": "Val Ventura (Flatman)",
+      "c": "Craig Hollis (Mister Immortal)",
+      "issue": "Great Lakes Avengers (2016) #2-3",
+      "observation": "Reported leadership disagreement; not verified by official issue evidence",
+      "source_id": "GLA100_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "GLA100_E13",
+      "a": "Deathurge",
+      "c": "Monkey Joe",
+      "issue": "G.L.A.: Misassembled (2005)",
+      "observation": "Deathurge comes to escort Monkey Joe to afterlife",
+      "source_id": "GLA100_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    }
+  ],
+  "claims": [
+    {
+      "id": "GLA100_C01",
+      "from": "Craig Hollis (Mister Immortal)",
+      "to": "Dinah Soar",
+      "dimension": "romance",
+      "scope": "G.L.A.: Misassembled (2005) #1-4",
+      "documented_fact": "Craig and Dinah are romantically involved",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E21"
+      ],
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_C02",
+      "from": "Dinah Soar",
+      "to": "Craig Hollis (Mister Immortal)",
+      "dimension": "protection",
+      "scope": "G.L.A.: Misassembled (2005) #1-4",
+      "documented_fact": "Dinah calms Craig after resurrections",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E22"
+      ],
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_C03",
+      "from": "Maelstrom",
+      "to": "Dinah Soar",
+      "dimension": "conflict",
+      "scope": "G.L.A.: Misassembled (2005) #1-4",
+      "documented_fact": "Maelstrom kills Dinah with energy blast",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E23"
+      ],
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_C04",
+      "from": "Craig Hollis (Mister Immortal)",
+      "to": "Maelstrom",
+      "dimension": "conflict",
+      "scope": "G.L.A.: Misassembled (2005) #1-4",
+      "documented_fact": "Craig induces mutual suicide and later disables machine",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E24"
+      ],
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_C05",
+      "from": "Deathurge",
+      "to": "Craig Hollis (Mister Immortal)",
+      "dimension": "influence",
+      "scope": "Craig's childhood; recounted 2005",
+      "documented_fact": "Deathurge guides Craig at his mother's request",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E25"
+      ],
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_C06",
+      "from": "Craig Hollis (Mister Immortal)",
+      "to": "Deathurge",
+      "dimension": "conflict",
+      "scope": "G.L.A.: Misassembled (2005) #1-4",
+      "documented_fact": "Craig traps Deathurge when he arrives for Monkey Joe",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E26"
+      ],
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_C07",
+      "from": "Deadpool",
+      "to": "Craig Hollis (Mister Immortal)",
+      "dimension": "conflict",
+      "scope": "Pre-2016 encounters",
+      "documented_fact": "Deadpool kills Craig repeatedly; exact issues pending",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E27"
+      ],
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_C08",
+      "from": "Terminus",
+      "to": "Craig Hollis (Mister Immortal)",
+      "dimension": "conflict",
+      "scope": "GLA encounter",
+      "documented_fact": "Terminus crushes Craig during battle; issue pending",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E28"
+      ],
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_C09",
+      "from": "Oblivion",
+      "to": "DeMarr Davis (Doorman)",
+      "dimension": "authority",
+      "scope": "Doorman cosmic appointment",
+      "documented_fact": "Oblivion replaces Deathurge with Doorman; issue pending",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E29"
+      ],
+      "source_ids": [
+        "GLA100_S02"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_C10",
+      "from": "Doctor Nod",
+      "to": "Ashley Crawford (Big Bertha)",
+      "dimension": "coercion",
+      "scope": "Great Lakes Avengers (2016) #5-7",
+      "documented_fact": "Doctor Nod seeks to exploit Bertha's powers commercially",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E10"
+      ],
+      "source_ids": [
+        "GLA100_S03"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_C11",
+      "from": "Ashley Crawford (Big Bertha)",
+      "to": "Doctor Nod",
+      "dimension": "conflict",
+      "scope": "Great Lakes Avengers (2016) #6-7",
+      "documented_fact": "Bertha fights Nod's operation",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E11"
+      ],
+      "source_ids": [
+        "GLA100_S04"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "GLA100_C12",
+      "from": "Val Ventura (Flatman)",
+      "to": "Craig Hollis (Mister Immortal)",
+      "dimension": "conflict",
+      "scope": "Great Lakes Avengers (2016) #2-3",
+      "documented_fact": "Reported leadership disagreement; not verified by official issue evidence",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E12"
+      ],
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "review_status": "tentative"
+    },
+    {
+      "id": "GLA100_C13",
+      "from": "Deathurge",
+      "to": "Monkey Joe",
+      "dimension": "professional",
+      "scope": "G.L.A.: Misassembled (2005)",
+      "documented_fact": "Deathurge comes to escort Monkey Joe to afterlife",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "GLA100_E13"
+      ],
+      "source_ids": [
+        "GLA100_S01"
+      ],
+      "review_status": "provisional"
+    }
+  ]
+}
