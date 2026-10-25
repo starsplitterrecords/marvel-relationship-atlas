@@ -28130,6 +28130,62 @@
       "continuity": "Earth-616",
       "review_status": "provisional; original panels not reviewed",
       "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E27",
+      "a": "COS98_P04",
+      "b": "quill",
+      "issue": "Guardians of the Galaxy (2008) #8-10",
+      "observation": "Captures Quill and attempts to use him to enter Prison 42",
+      "source_id": "COS98_S02",
+      "source_ids": [
+        "COS98_S02"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E28",
+      "a": "quill",
+      "b": "COS98_P05",
+      "issue": "Guardians of the Galaxy (2008) #9-10",
+      "observation": "Works with Jack Flag against Blastaar",
+      "source_id": "COS01",
+      "source_ids": [
+        "COS01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E29",
+      "a": "COS98_P05",
+      "b": "quill",
+      "issue": "Guardians of the Galaxy (2008) #9-10",
+      "observation": "Cooperates with Quill inside Prison 42",
+      "source_id": "COS01",
+      "source_ids": [
+        "COS01"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
+    },
+    {
+      "id": "COS98_E12",
+      "a": "COS98_P06",
+      "b": "quill",
+      "issue": "Guardians of the Galaxy (2008) #7-8",
+      "observation": "Resents omission from Quill's original Guardians lineup",
+      "source_id": "COS98_S02",
+      "source_ids": [
+        "COS98_S02"
+      ],
+      "continuity": "Earth-616",
+      "review_status": "provisional; original panels not reviewed",
+      "evidence_tier": "publisher_secondary_unverified"
     }
   ],
   "claims": [
@@ -53972,6 +54028,70 @@
       ],
       "scope": "Later ski-trip story",
       "direct_observation": "Nearly kills Buck during an uncontrolled transformation",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C07",
+      "from_id": "COS98_P04",
+      "to_id": "quill",
+      "pair_id": "COS98_P04-quill",
+      "dimension": "coercion",
+      "event_ids": [
+        "COS98_E27"
+      ],
+      "scope": "Guardians of the Galaxy (2008) #8-10",
+      "direct_observation": "Captures Quill and attempts to use him to enter Prison 42",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C08",
+      "from_id": "quill",
+      "to_id": "COS98_P05",
+      "pair_id": "COS98_P05-quill",
+      "dimension": "cooperation",
+      "event_ids": [
+        "COS98_E28"
+      ],
+      "scope": "Guardians of the Galaxy (2008) #9-10",
+      "direct_observation": "Works with Jack Flag against Blastaar",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C09",
+      "from_id": "COS98_P05",
+      "to_id": "quill",
+      "pair_id": "COS98_P05-quill",
+      "dimension": "cooperation",
+      "event_ids": [
+        "COS98_E29"
+      ],
+      "scope": "Guardians of the Galaxy (2008) #9-10",
+      "direct_observation": "Cooperates with Quill inside Prison 42",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "status": "provisional",
+      "continuity": "Earth-616",
+      "review_status": "reconstructed batch; publisher secondary; original panels not reviewed"
+    },
+    {
+      "id": "COS98_C12",
+      "from_id": "COS98_P06",
+      "to_id": "quill",
+      "pair_id": "COS98_P06-quill",
+      "dimension": "conflict",
+      "event_ids": [
+        "COS98_E12"
+      ],
+      "scope": "Guardians of the Galaxy (2008) #7-8",
+      "direct_observation": "Resents omission from Quill's original Guardians lineup",
       "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
       "status": "provisional",
       "continuity": "Earth-616",
