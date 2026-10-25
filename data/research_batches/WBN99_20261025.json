@@ -1,0 +1,532 @@
+{
+  "meta": {
+    "batch_id": "WBN99_20261025",
+    "title": "Werewolf by Night family and mystical coercion",
+    "status": "PRESERVED_UNMERGED",
+    "origin": "ChatGPT research messages 2026-10-25",
+    "canonical_reference_sha": "287368f6cca981aaf14e5d1a8dc0fa9a864c5faf",
+    "warning": "Reconstructed normalized preservation of the chat research; original issue panels not verified. Candidate people and claim endpoints require canonical crosswalk before insertion. Not canonical merged."
+  },
+  "people": [
+    {
+      "id": "WBN99_P01",
+      "name": "Gregory Russoff",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "WBN99_P02",
+      "name": "Laura Russoff Russell",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "WBN99_P03",
+      "name": "Philip Russell",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "WBN99_P04",
+      "name": "Lissa Russell",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "WBN99_P05",
+      "name": "Max Grant",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "WBN99_P06",
+      "name": "Buck Cowan",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "WBN99_P07",
+      "name": "Miles Blackgar",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "WBN99_P08",
+      "name": "Marlene Blackgar",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "WBN99_P09",
+      "name": "Taboo",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "WBN99_P10",
+      "name": "Algon",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "WBN99_P11",
+      "name": "Raymond Coker",
+      "identity_status": "candidate_not_yet_crosswalked"
+    },
+    {
+      "id": "WBN99_P12",
+      "name": "Glitternight",
+      "identity_status": "candidate_not_yet_crosswalked"
+    }
+  ],
+  "sources": [
+    {
+      "id": "WBN99_S01",
+      "title": "Marvel Werewolf by Night",
+      "url": "https://www.marvel.com/characters/werewolf-by-night",
+      "tier": "official_marvel_secondary"
+    },
+    {
+      "id": "WBN99_S02",
+      "title": "Marvel Darkhold guide",
+      "url": "https://share.marvel.com/comics/discover/593/the-darkhold",
+      "tier": "official_marvel_secondary"
+    }
+  ],
+  "events": [
+    {
+      "id": "WBN99_E21",
+      "a": "Gregory Russoff",
+      "c": "Laura Russoff Russell",
+      "issue": "Russoff family origin",
+      "observation": "Married and had children",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E22",
+      "a": "Laura Russoff Russell",
+      "c": "Philip Russell",
+      "issue": "Russoff family origin",
+      "observation": "Formerly dated Philip, later married him after Gregory's death",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E23",
+      "a": "Laura Russoff Russell",
+      "c": "Jack Russell",
+      "issue": "Marvel Spotlight origin era",
+      "observation": "Asks Jack not to harm Philip before dying",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E24",
+      "a": "Max Grant",
+      "c": "Laura Russoff Russell",
+      "issue": "Marvel Spotlight origin era",
+      "observation": "Sent to kill Laura after blackmail payments cease",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E25",
+      "a": "Jack Russell",
+      "c": "Max Grant",
+      "issue": "Marvel Spotlight origin era",
+      "observation": "Kills Grant following Laura's fatal injuries",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E26",
+      "a": "Jack Russell",
+      "c": "Buck Cowan",
+      "issue": "Werewolf by Night (1972) #1",
+      "observation": "Jack befriends Buck Cowan",
+      "source_id": "WBN99_S02",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E27",
+      "a": "Marlene Blackgar",
+      "c": "Buck Cowan",
+      "issue": "Werewolf by Night (1972) #1",
+      "observation": "Petrifying powers endanger Buck",
+      "source_id": "WBN99_S02",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E28",
+      "a": "Miles Blackgar",
+      "c": "Marlene Blackgar",
+      "issue": "Werewolf by Night (1972) #1",
+      "observation": "Miles is Marlene's father",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E29",
+      "a": "Marlene Blackgar",
+      "c": "Miles Blackgar",
+      "issue": "Werewolf by Night (1972) #1",
+      "observation": "Her petrifying powers kill Miles; intent unestablished",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E10",
+      "a": "Taboo",
+      "c": "Algon",
+      "issue": "Early Werewolf by Night",
+      "observation": "Incomplete golden-touch spell leaves his son incapacitated",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E11",
+      "a": "Taboo",
+      "c": "Philip Russell",
+      "issue": "Early Werewolf by Night",
+      "observation": "Transfers Philip's mind into Algon's body",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E12",
+      "a": "Taboo",
+      "c": "Topaz",
+      "issue": "Early Werewolf by Night",
+      "observation": "Topaz serves as Taboo's familiar",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E13",
+      "a": "Glitternight",
+      "c": "Lissa Russell",
+      "issue": "Glitternight storyline",
+      "observation": "Transforms Lissa into a were-demon",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E14",
+      "a": "Topaz",
+      "c": "Glitternight",
+      "issue": "Glitternight storyline",
+      "observation": "Opposes Glitternight in battle",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E15",
+      "a": "Raymond Coker",
+      "c": "Jack Russell",
+      "issue": "Raymond Coker stories",
+      "observation": "Assists Jack against Ma Mayhem and Lou Hackett",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E16",
+      "a": "Jack Russell",
+      "c": "Lissa Russell",
+      "issue": "Early Werewolf by Night",
+      "observation": "Protects Lissa from supernatural threats",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    },
+    {
+      "id": "WBN99_E17",
+      "a": "Jack Russell",
+      "c": "Buck Cowan",
+      "issue": "Later ski-trip story",
+      "observation": "Nearly kills Buck during an uncontrolled transformation",
+      "source_id": "WBN99_S01",
+      "review_status": "provisional; original panels not reviewed",
+      "continuity": "Earth-616"
+    }
+  ],
+  "claims": [
+    {
+      "id": "WBN99_C01",
+      "from": "Gregory Russoff",
+      "to": "Laura Russoff Russell",
+      "dimension": "romance",
+      "scope": "Russoff family origin",
+      "documented_fact": "Married and had children",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E21"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C02",
+      "from": "Laura Russoff Russell",
+      "to": "Philip Russell",
+      "dimension": "romance",
+      "scope": "Russoff family origin",
+      "documented_fact": "Formerly dated Philip, later married him after Gregory's death",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E22"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C03",
+      "from": "Laura Russoff Russell",
+      "to": "Jack Russell",
+      "dimension": "protection",
+      "scope": "Marvel Spotlight origin era",
+      "documented_fact": "Asks Jack not to harm Philip before dying",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E23"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C04",
+      "from": "Max Grant",
+      "to": "Laura Russoff Russell",
+      "dimension": "conflict",
+      "scope": "Marvel Spotlight origin era",
+      "documented_fact": "Sent to kill Laura after blackmail payments cease",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E24"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C05",
+      "from": "Jack Russell",
+      "to": "Max Grant",
+      "dimension": "conflict",
+      "scope": "Marvel Spotlight origin era",
+      "documented_fact": "Kills Grant following Laura's fatal injuries",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E25"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C06",
+      "from": "Jack Russell",
+      "to": "Buck Cowan",
+      "dimension": "friendship",
+      "scope": "Werewolf by Night (1972) #1",
+      "documented_fact": "Jack befriends Buck Cowan",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E26"
+      ],
+      "source_ids": [
+        "WBN99_S02"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C07",
+      "from": "Marlene Blackgar",
+      "to": "Buck Cowan",
+      "dimension": "conflict",
+      "scope": "Werewolf by Night (1972) #1",
+      "documented_fact": "Petrifying powers endanger Buck",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E27"
+      ],
+      "source_ids": [
+        "WBN99_S02"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C08",
+      "from": "Miles Blackgar",
+      "to": "Marlene Blackgar",
+      "dimension": "family",
+      "scope": "Werewolf by Night (1972) #1",
+      "documented_fact": "Miles is Marlene's father",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E28"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C09",
+      "from": "Marlene Blackgar",
+      "to": "Miles Blackgar",
+      "dimension": "conflict",
+      "scope": "Werewolf by Night (1972) #1",
+      "documented_fact": "Her petrifying powers kill Miles; intent unestablished",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E29"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C10",
+      "from": "Taboo",
+      "to": "Algon",
+      "dimension": "influence",
+      "scope": "Early Werewolf by Night",
+      "documented_fact": "Incomplete golden-touch spell leaves his son incapacitated",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E10"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C11",
+      "from": "Taboo",
+      "to": "Philip Russell",
+      "dimension": "coercion",
+      "scope": "Early Werewolf by Night",
+      "documented_fact": "Transfers Philip's mind into Algon's body",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E11"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C12",
+      "from": "Taboo",
+      "to": "Topaz",
+      "dimension": "authority",
+      "scope": "Early Werewolf by Night",
+      "documented_fact": "Topaz serves as Taboo's familiar",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E12"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C13",
+      "from": "Glitternight",
+      "to": "Lissa Russell",
+      "dimension": "coercion",
+      "scope": "Glitternight storyline",
+      "documented_fact": "Transforms Lissa into a were-demon",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E13"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C14",
+      "from": "Topaz",
+      "to": "Glitternight",
+      "dimension": "conflict",
+      "scope": "Glitternight storyline",
+      "documented_fact": "Opposes Glitternight in battle",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E14"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C15",
+      "from": "Raymond Coker",
+      "to": "Jack Russell",
+      "dimension": "cooperation",
+      "scope": "Raymond Coker stories",
+      "documented_fact": "Assists Jack against Ma Mayhem and Lou Hackett",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E15"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C16",
+      "from": "Jack Russell",
+      "to": "Lissa Russell",
+      "dimension": "protection",
+      "scope": "Early Werewolf by Night",
+      "documented_fact": "Protects Lissa from supernatural threats",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E16"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    },
+    {
+      "id": "WBN99_C17",
+      "from": "Jack Russell",
+      "to": "Buck Cowan",
+      "dimension": "conflict",
+      "scope": "Later ski-trip story",
+      "documented_fact": "Nearly kills Buck during an uncontrolled transformation",
+      "interpretation": "Event-scoped assessment only; enduring relationship not inferred",
+      "event_ids": [
+        "WBN99_E17"
+      ],
+      "source_ids": [
+        "WBN99_S01"
+      ],
+      "review_status": "provisional"
+    }
+  ]
+}
