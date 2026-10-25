@@ -1,0 +1,112 @@
+{
+  "audit_date": "2026-10-25",
+  "status": "RECOVERY_AUDIT_NOT_CANONICAL_MERGE",
+  "canonical": {
+    "path": "data/relationship_pilot.json",
+    "blob_sha": "287368f6cca981aaf14e5d1a8dc0fa9a864c5faf",
+    "last_confirmed_counts": {
+      "people": 691,
+      "sources": 728,
+      "events": 1235,
+      "claims": 1508
+    }
+  },
+  "previous_reconciliation": {
+    "merged": [
+      "RUN18",
+      "COS48",
+      "AV49",
+      "CR50",
+      "LAT51",
+      "INH52",
+      "XF53",
+      "SW54",
+      "DB55",
+      "COS56",
+      "MYS57",
+      "AF58",
+      "SER59",
+      "INH60",
+      "CIV61",
+      "MOR62",
+      "COS63",
+      "SW64",
+      "SA65",
+      "AT109",
+      "AI110"
+    ],
+    "deferred": [
+      "CA10",
+      "FF11",
+      "VAMP12",
+      "WAK96",
+      "NOV97",
+      "SWR98"
+    ],
+    "reason": "Unverified observations or incomplete issue-scoped source/event mappings"
+  },
+  "chat_payloads_available_in_current_conversation": [
+    {
+      "id": "WAK113",
+      "people": 8,
+      "pairs": 15,
+      "assessments": 15,
+      "events": 12
+    },
+    {
+      "id": "COS114",
+      "people": 9,
+      "pairs": 15,
+      "assessments": 17,
+      "events": 11
+    },
+    {
+      "id": "MYS115",
+      "people": 9,
+      "pairs": 14,
+      "assessments": 15,
+      "events": 7
+    }
+  ],
+  "chat_originals_located_but_full_json_not_retrieved": [
+    "HFC7",
+    "SIA8",
+    "TB9",
+    "ROY15",
+    "SPY16",
+    "AIM17",
+    "PP80",
+    "XST81",
+    "SJ82",
+    "ESP103",
+    "PP104",
+    "SJ105",
+    "SS106",
+    "WW107",
+    "NM108"
+  ],
+  "missing_original_message_locators": [
+    "LAT91",
+    "CIV92",
+    "IM93",
+    "MOR94",
+    "BLD95",
+    "MR102"
+  ],
+  "additional_repository_batches_to_reconcile": [
+    "COS98",
+    "GLA100",
+    "WBN99"
+  ],
+  "limitations": [
+    "Prior chat payloads have not been materialized as complete bytes in the GitHub connector",
+    "No source verification or identity-level canonical merge performed during this audit",
+    "Recent three batch totals are gross proposals and cannot be counted as canonical additions"
+  ],
+  "next_actions": [
+    "Recover full original payloads rather than fabricate records",
+    "Validate source URLs, issue scopes, person aliases, endpoints, and dimension taxonomy",
+    "Merge only validated unique records into canonical JSON",
+    "Recheck canonical Git blob SHA and run validators"
+  ]
+}
